@@ -9,7 +9,7 @@ Last night I became an audio engineer.
 
 I don't have any training in audio engineering. I've never taken a course, read a book, or spent time learning the fundamentals. And yet by the end of the evening I was discussing preamps, gain staging, and noise floors - and more importantly, I was *doing* something about them.
 
-Here's the thing: I'm not even the kind of person you'd expect to become an audio engineer. I've watched product reviews on YouTube when choosing headphones, and I always felt slightly out of place - like the professional audio engineers speaking weren't quite my tribe, intellectually or socially. It wasn't a world I would have given myself permission to enter. There's always opportunity cost. I'm always too busy for important things, let alone something tangential.
+Here's the thing: I'm not even the kind of person you'd expect to become an audio engineer. I've watched product reviews on YouTube when choosing headphones, and I always felt slightly out of place - like the professional audio engineers speaking weren't quite my tribe, intellectually. I find what they have to say genuinely interesting, but I don't see myself in them right away. It wasn't a world I would have given myself permission to enter. There's always opportunity cost. I'm always too busy for important things, let alone something tangential.
 
 And yet here I was, diving into their domain quite happily. Because I wasn't trying to learn audio engineering. I was trying to record bedtime stories for my daughter.
 
