@@ -5,11 +5,11 @@ date: 2026-01-02 12:00:00 +0000
 tags: [ai, software, llm, productivity]
 ---
 
-I haven't opened Audacity in weeks. I use it more than ever.
+I installed Audacity yesterday. An LLM suggested it might give me better recording quality than QuickTime.
 
-That sounds like a contradiction, but it isn't. The capabilities I used to access through Audacity - noise reduction, normalisation, format conversion, silence trimming - I now access through ffmpeg commands that I never write and immediately forget.
+I've barely opened it. Not because I lost interest - I've been doing more audio work than ever. Normalising levels, reducing noise, trimming silence, converting formats. I just haven't needed the application.
 
-An LLM writes them for me. I describe what I want. The command runs. The code goes in the bin.
+An LLM writes ffmpeg commands for me instead. I describe what I want. The command runs. The code goes in the bin. The GUI sits there, unused.
 
 ## The Hidden Tax
 
