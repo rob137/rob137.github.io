@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Something Happened"
-date: 2026-01-02 18:00:00 +0000
+date: 2026-01-02 13:00:00 +0000
 tags: [ai, llm, observations, inflection]
 ---
 
