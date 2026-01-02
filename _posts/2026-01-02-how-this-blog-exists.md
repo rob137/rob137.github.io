@@ -65,7 +65,7 @@ I'm not carving out time to blog. I'm narrating what I'm already doing.
 
 ## The Ambient Content Pipeline
 
-It gets weirder. As I write this, I have a Zoom H2 recorder perched on the side, capturing ambient audio - me dictating prompts into my phone, conversations with my wife (who is patiently and explicitly consenting to this experiment), the kids playing in the background.
+It gets weirder. As I write this, I have a Zoom H2 recorder perched on the side, capturing ambient audio - me dictating prompts into my phone, conversations with my wife (who is - I should stress - patiently and explicitly consenting to this experiment), the kids playing in the background.
 
 Later, I'll plug that recorder into my laptop, and Claude will transcribe the whole thing. Then I'll ask it to extract blog post ideas from the transcript - things I said, half-formed thoughts, interesting tangents that emerged from conversation.
 
