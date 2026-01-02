@@ -9,7 +9,6 @@ Ideas extracted from ambient recordings and conversations.
 ### Voice-First: The Future of Talking to Machines
 **Published:** 2026-01-02
 **Core idea:** Speech as input is the future. Just-in-time learning through conversation. "I can do audio engineering now - it's like the Matrix."
-**Incorporated:** Audio engineering anecdote, JIT learning, not being "the type" to enter that domain
 
 ### How This Blog Exists
 **Published:** 2026-01-02
@@ -18,33 +17,26 @@ Ideas extracted from ambient recordings and conversations.
 ### The GUI Was a Detour
 **Published:** 2026-01-02
 **Core idea:** Software makes you think about two things: your problem AND its mental model. LLMs let you think only about your problem. The barrier is scoping, not coding.
-**Incorporated:** Desktop software obsolescence thesis, JIT code, throwaway code economy
 
 ### Respecting the Fence
 **Published:** 2026-01-02
-**Core idea:** Chesterton's fence - LLMs let you respect bureaucratic processes without being crushed by them. The vicar/church story. Intelligence corps background. 2026 is the year everyone finds out.
+**Core idea:** Chesterton's fence - LLMs let you respect bureaucratic processes without being crushed by them. The vicar/church story. Intelligence corps background.
+
+### Books as Compressed Prompts
+**Published:** 2026-01-02
+**Core idea:** Book titles are pointers to compressed mental models LLMs already know. Reading leverage is higher than ever - people reading less, payoff greater.
+
+### Something Happened
+**Published:** 2026-01-02
+**Core idea:** A step change in model capability that went unrecognized for weeks. The practitioner's view - "I don't understand transformers but I know when the instrument changes." Teacher marking homework, colleague using terminal, broader implications.
+
+### The Music Stopped
+**Published:** 2026-01-02
+**Core idea:** IDE vs terminal debate is becoming irrelevant - not because one won, but because the underlying activity changed. Edit (maybe), chat, review. The desire lines are clear. Includes Yegge quote, Ousterhout naming styles, personality attractors.
 
 ---
 
 ## Ideas to Develop
-
-### Book Titles as Compressed Prompts
-**Source:** Conversation
-**Core idea:** Book and blog post titles are pointers to compressed mental models that LLMs already know. Say "Refactoring by Fowler" or "The Goal" and you've invoked an entire framework of thinking. The title is the prompt; the LLM has the payload.
-
-**Examples:**
-- "The Day You Became a Better Writer" (Scott Adams) - compressed writing advice
-- "Refactoring" (Fowler) - compressed code improvement philosophy
-- "The Goal" - compressed thinking about bottlenecks and constraints
-
-**Key angles:**
-- Leverage from reading is now enormous - you get mental models you can invoke later
-- People reading less than ever, but payoff greater than ever - not priced in
-- You can prompt about a book to get the gist, but knowing the book deeply lets you use it as shorthand
-- These compress ideas about how to think and behave, not just writing style
-- The names are pointers to compressions LLMs already have in training data
-
----
 
 ### Domain-Hopping Musings (working title)
 **Source:** Transcript + conversation
@@ -57,6 +49,33 @@ Ideas extracted from ambient recordings and conversations.
 - LLMs lower the curiosity barrier - you can ask *why* things work
 
 **Note:** Don't make the lesson too overt. Let the musings speak for themselves.
+
+---
+
+### Industrial Revolution Parallel (possible future post)
+**Source:** Conversation about "Something Happened"
+**Core idea:** The industrial revolution was profoundly good for humanity (child mortality down, literacy up, MRI machines, vaccines, foreign holidays, Ben & Jerry's) but also expensive in the intermediary times (world wars, cold war). Disruption can cause death even while bringing greater good. The social contract question. Not sure if accelerationist or doomer - eye of the beholder.
+
+**Note:** User explicitly said this might be for another time, not the current post. Handle with care.
+
+---
+
+### Who to Follow (compiling)
+**Source:** Conversation
+**Core idea:** A list of people worth following in the AI/LLM space. Not ready to write yet, just collecting names.
+
+**People to include:**
+- swyx (Latent Space, coined "AI engineer")
+- Simon Willison
+- Andrej Karpathy
+- Boris Cherny
+- Steve Yegge
+- (add more as they come up)
+
+**Notes:**
+- Could discuss what makes someone worth following vs just noisy
+- The groupthink on X.com - prolific accounts playing to the crowd
+- Who actually has signal
 
 ---
 
