@@ -31,6 +31,22 @@ I was channeling the AI toward the art of the possible - but I didn't know what 
 
 This is what I mean by **just-in-time software engineering**. Instead of spending hours learning audio engineering fundamentals before doing anything, I learned exactly what I needed, exactly when I needed it, in the context of a real task I cared about.
 
+## Just-in-Time Code
+
+But it goes further than learning. Claude Code wasn't just teaching me - it was writing disposable code on the fly to solve my problems.
+
+When I asked about the audio files, it generated ffmpeg commands to convert formats, normalize levels, strip silence. When I wanted to transcribe recordings, it wrote shell scripts to batch-process files through Whisper. None of this code was meant to last. It was JIT code - just-in-time, use-once, throw-away.
+
+This changes the economics of tooling in a profound way.
+
+I have Audacity installed. I could learn to use it. But why would I? The payoff for learning a GUI application is that you can then do things with it. But if an LLM can generate the equivalent CLI commands instantly, the activation energy for the "professional" tool becomes a liability rather than an asset.
+
+The capabilities were always there. ffmpeg has been able to do audio processing for decades. The bottleneck was never the tools - it was the friction of learning arcane command-line syntax, remembering flags, debugging errors. That friction made GUI applications worthwhile despite their limitations.
+
+An LLM middle layer collapses that friction. Suddenly the full power of CLI tools is accessible to anyone who can describe what they want. The GUI becomes a detour rather than a shortcut.
+
+I think a lot of software is about to become obsolete - not because it stops working, but because the activation energy it was designed to lower is no longer the bottleneck.
+
 ## A Transcript from Last Night
 
 To make this concrete, here's what actually happened. I plugged in my H2, which had recordings from the afternoon - me reading stories to my kids while testing the recorder's speech-to-text potential.
