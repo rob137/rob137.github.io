@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The GUI Was a Detour"
-date: 2026-01-02 12:00:00 +0000
+date: 2026-01-02 09:00:00 +0000
 tags: [ai, software, llm, productivity]
 ---
 

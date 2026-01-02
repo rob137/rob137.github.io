@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Books as Compressed Prompts"
-date: 2026-01-02 16:00:00 +0000
+date: 2026-01-02 12:00:00 +0000
 tags: [ai, llm, reading, productivity, leverage]
 ---
 

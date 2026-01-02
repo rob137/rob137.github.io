@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Respecting the Fence"
-date: 2026-01-02 14:00:00 +0000
+date: 2026-01-02 11:00:00 +0000
 tags: [ai, bureaucracy, llm, government, productivity]
 ---
 
