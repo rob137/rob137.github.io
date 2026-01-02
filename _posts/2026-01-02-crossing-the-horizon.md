@@ -17,7 +17,7 @@ But here's the thing: I don't think anyone on Jools Holland could give you a rig
 
 ## The Practitioner's View
 
-[swyx](https://www.latent.space/) coined the term "AI engineer" and I identify with it. I'm not building models. I'm wielding them. I've been doing this since the summer before ChatGPT launched, when I was using early Copilot and realising that block comments could be prompts.
+[swyx](https://x.com/swyx) coined the term "[AI engineer](https://www.latent.space/p/ai-engineer)" and I identify with it. I'm not building models. I'm wielding them. I've been doing this since the summer before ChatGPT launched, when I was using early Copilot and realising that block comments could be prompts.
 
 Since then I've lived through what feel like distinct phases:
 
