@@ -17,7 +17,7 @@ Today it exists. I didn't sit down to make it happen.
 
 It's a day off. I'm doing domestic things around the house. My phone is in my pocket.
 
-I've been experimenting with voice-first workflows lately - using speech-to-text to interact with AI, orchestrating things remotely. I have Tailscale set up so I can SSH to my laptop from anywhere. Claude Code is running on the laptop.
+I've been experimenting with voice-first workflows lately - using speech-to-text to interact with AI, orchestrating things remotely. I have [Tailscale](https://tailscale.com/) set up so I can SSH to my laptop from anywhere. [Claude Code](https://docs.anthropic.com/en/docs/claude-code) is running on the laptop.
 
 I pulled out my phone, opened a terminal, and typed (well, dictated):
 
@@ -25,7 +25,7 @@ I pulled out my phone, opened a terminal, and typed (well, dictated):
 
 That's it. That was the prompt.
 
-Claude Code figured out my GitHub username from my dotfiles, asked what platform I wanted (Jekyll, Hugo, or plain HTML), and when I said I preferred simplicity but was open to frameworks if they genuinely reduced friction, it recommended Jekyll - specifically because GitHub Pages builds it automatically, meaning I'd never need to run build commands locally.
+Claude Code figured out my GitHub username from my dotfiles, asked what platform I wanted ([Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/), or plain HTML), and when I said I preferred simplicity but was open to frameworks if they genuinely reduced friction, it recommended Jekyll - specifically because [GitHub Pages](https://pages.github.com/) builds it automatically, meaning I'd never need to run build commands locally.
 
 A few minutes later I had a complete blog scaffold: layouts, styling, a sample post, an RSS feed, a README explaining how to add new posts. It initialized a git repo, and when it tried to push to GitHub, it discovered the `gh` CLI wasn't installed. So it installed it. Then it needed authentication, which required a personal access token - a brief detour to GitHub's settings page on my phone.
 
@@ -93,7 +93,7 @@ It's not just that writing became easier. It's that the entire *project manageme
 
 I have to shake myself by the shoulders about how strange this is.
 
-Right now, as I write this, I'm dictating into my phone using the Gboard keyboard's speech-to-text. The audio is being transcribed on my phone, sent as text over SSH to my laptop via Tailscale, where Claude Code is receiving it and turning my rambling speech into structured prose.
+Right now, as I write this, I'm dictating into my phone using [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)'s speech-to-text. The audio is being transcribed on my phone, sent as text over SSH to my laptop via Tailscale, where Claude Code is receiving it and turning my rambling speech into structured prose.
 
 I'm pacing around my house. The laptop is in another room. I haven't touched it.
 

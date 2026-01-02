@@ -5,11 +5,11 @@ date: 2026-01-02 12:00:00 +0000
 tags: [ai, software, llm, productivity]
 ---
 
-I installed Audacity yesterday. An LLM suggested it might give me better recording quality than QuickTime.
+I installed [Audacity](https://www.audacityteam.org/) yesterday. An LLM suggested it might give me better recording quality than QuickTime.
 
 I've barely opened it. Not because I lost interest - I've been doing more audio work than ever. Normalising levels, reducing noise, trimming silence, converting formats. I just haven't needed the application.
 
-An LLM writes ffmpeg commands for me instead. I describe what I want. The command runs. The code goes in the bin. The GUI sits there, unused.
+An LLM writes [ffmpeg](https://ffmpeg.org/) commands for me instead. I describe what I want. The command runs. The code goes in the bin. The GUI sits there, unused.
 
 ## The Hidden Tax
 
@@ -29,7 +29,7 @@ Non-ephemeral software accumulates these models. The code persists, so the abstr
 
 LLM-first workflows change this in a subtle but profound way.
 
-When I approach Claude Code with a problem, I'm not thinking about ffmpeg flags or Audacity menus. I'm not trying to map my intent onto a tool's interface. I'm just... describing what I want. Often quite vaguely. Often not knowing what's actually possible.
+When I approach [Claude Code](https://docs.anthropic.com/en/docs/claude-code) with a problem, I'm not thinking about ffmpeg flags or Audacity menus. I'm not trying to map my intent onto a tool's interface. I'm just... describing what I want. Often quite vaguely. Often not knowing what's actually possible.
 
 "I have these audio files. The quality isn't great. What can I do?"
 

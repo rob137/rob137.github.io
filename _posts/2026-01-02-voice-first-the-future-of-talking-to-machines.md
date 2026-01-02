@@ -17,9 +17,9 @@ And yet here I was, diving into their domain quite happily. Because I wasn't try
 
 I've assembled a simple voice-first toolkit:
 
-- **Zoom H2 Essential** - A portable recorder that doubles as a dictaphone for meetings. The beauty is it's unobtrusive. People don't tense up when you're not pointing a phone at them or asking them to install an app.
-- **Samson Q2U** on a boom arm - Plugged straight into my laptop via USB for desk work. Solid audio quality without fuss.
-- **SuperWhisper** with Parakeet - For real-time speech-to-text on my Mac.
+- **[Zoom H2 Essential](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h2essential/)** - A portable recorder that doubles as a dictaphone for meetings. The beauty is it's unobtrusive. People don't tense up when you're not pointing a phone at them or asking them to install an app.
+- **[Samson Q2U](https://samsontech.com/samson/products/microphones/usb-microphones/q2u/)** on a boom arm - Plugged straight into my laptop via USB for desk work. Solid audio quality without fuss.
+- **[SuperWhisper](https://superwhisper.com/)** with Parakeet - For real-time speech-to-text on my Mac.
 
 I've been using the H2 for everything. Recording piano practice. Reading stories to my kids. Testing how well speech-to-text handles a chaotic living room with three small children talking over each other.
 
@@ -27,7 +27,7 @@ I've been using the H2 for everything. Recording piano practice. Reading stories
 
 Here's the thing that feels genuinely revolutionary to me: I have no background as an audio engineer, but last night I found myself doing audio engineering.
 
-I wanted to record bedtime stories for my daughter Joan to put on Yoto cards. I fired up Audacity, recorded a few stories, and then realized the audio quality wasn't quite right. Too much background noise. Levels were inconsistent. I didn't know the first thing about fixing this.
+I wanted to record bedtime stories for my daughter Joan to put on [Yoto](https://yotoplay.com/) cards. I fired up [Audacity](https://www.audacityteam.org/), recorded a few stories, and then realized the audio quality wasn't quite right. Too much background noise. Levels were inconsistent. I didn't know the first thing about fixing this.
 
 So I asked Claude.
 
@@ -39,9 +39,9 @@ This is what I mean by **just-in-time software engineering**. Instead of spendin
 
 ## Just-in-Time Code
 
-But it goes further than learning. Claude Code wasn't just teaching me - it was writing disposable code on the fly to solve my problems.
+But it goes further than learning. [Claude Code](https://docs.anthropic.com/en/docs/claude-code) wasn't just teaching me - it was writing disposable code on the fly to solve my problems.
 
-When I asked about the audio files, it generated ffmpeg commands to convert formats, normalize levels, strip silence. When I wanted to transcribe recordings, it wrote shell scripts to batch-process files through Whisper. None of this code was meant to last. It was JIT code - just-in-time, use-once, throw-away.
+When I asked about the audio files, it generated [ffmpeg](https://ffmpeg.org/) commands to convert formats, normalize levels, strip silence. When I wanted to transcribe recordings, it wrote shell scripts to batch-process files through [Whisper](https://github.com/openai/whisper). None of this code was meant to last. It was JIT code - just-in-time, use-once, throw-away.
 
 This changes the economics of tooling in a profound way.
 
@@ -85,7 +85,7 @@ The transcription picked up everything - the story, the kids interrupting, my wi
 
 ## The Meta-Layer
 
-Here's what strikes me: I'm writing this blog post by talking to Claude Code via SSH from my phone, over Tailscale, while not sitting at my laptop. I'm dictating. The model is turning my rambling speech into structured prose, finding the relevant conversation history from last night, and assembling it into something coherent.
+Here's what strikes me: I'm writing this blog post by talking to Claude Code via SSH from my phone, over [Tailscale](https://tailscale.com/), while not sitting at my laptop. I'm dictating. The model is turning my rambling speech into structured prose, finding the relevant conversation history from last night, and assembling it into something coherent.
 
 The workflow is:
 
