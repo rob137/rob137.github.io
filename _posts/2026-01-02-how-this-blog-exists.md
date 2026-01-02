@@ -1,0 +1,92 @@
+---
+layout: post
+title: "How This Blog Exists"
+date: 2026-01-02 14:00:00
+tags: [meta, ai, friction, productivity]
+---
+
+For years I've known I should have a blog.
+
+The benefits are obvious. Writing clarifies thinking. A public body of work helps when applying for roles. It's a way to contribute to the communities you're part of. Everyone says you should do it. I've said I should do it. Repeatedly. For years.
+
+And yet I never did.
+
+Not because I lacked ideas. Not because I couldn't write. Because there was always something with a better effort-to-payoff ratio. Learning a new technology. Building something. Spending time with my kids. Resting. A blog post always felt like a worthy-but-deferrable thing - the kind of task that lives permanently on a "someday" list.
+
+Today I have a blog with multiple posts. I didn't sit down at my laptop to make it happen.
+
+## What Actually Happened
+
+It's a day off. I'm doing domestic things around the house. My phone is in my pocket.
+
+I've been experimenting with voice-first workflows lately - using speech-to-text to interact with AI, orchestrating things remotely. I have Tailscale set up so I can SSH to my laptop from anywhere. Claude Code is running on the laptop.
+
+I pulled out my phone, opened a terminal, and typed (well, dictated):
+
+> I want to start a blog using the personal GitHub account I use in my dotfiles repository.
+
+That's it. That was the prompt.
+
+Claude Code figured out my GitHub username from my dotfiles, asked what platform I wanted (Jekyll, Hugo, or plain HTML), and when I said I preferred simplicity but was open to frameworks if they genuinely reduced friction, it recommended Jekyll - specifically because GitHub Pages builds it automatically, meaning I'd never need to run build commands locally.
+
+A few minutes later I had a complete blog scaffold: layouts, styling, a sample post, an RSS feed, a README explaining how to add new posts. It initialized a git repo, and when it tried to push to GitHub, it discovered the `gh` CLI wasn't installed. So it installed it. Then it needed authentication, which required a personal access token - a brief detour to GitHub's settings page on my phone.
+
+Then it created the repository, pushed, and waited for GitHub Pages to build.
+
+The blog was live.
+
+I was still standing in my kitchen.
+
+## The Friction Collapse
+
+Here's what I want to emphasize: the thing that prevented me from blogging for years wasn't motivation. It wasn't time, exactly. It was that the activation energy was too high relative to other uses of that time.
+
+Setting up a blog means choosing a platform. Configuring it. Designing it (or choosing a theme and tweaking it). Deploying it. Each step is individually small but collectively they add up to an afternoon. And then you still have to write the post.
+
+When you have limited free time, "spend an afternoon setting up a blog" competes poorly against "learn something new" or "build something" or "play with your kids." The payoff is too diffuse, too distant.
+
+What's changed isn't that blogging became more valuable. It's that the activation energy dropped to nearly zero.
+
+I didn't set up a blog. I *described wanting a blog*, and the blog appeared.
+
+## The Content Problem Dissolves Too
+
+But here's the second shift, and it's the more interesting one.
+
+I used to think of blogging as something that required dedicated content-creation time. Sit down, think of something worth saying, write it up, edit it, publish. That's a real time investment for each post.
+
+Now? My day-to-day experimentation *is* the content.
+
+Everything has become weird since LLMs changed the landscape. The utility is so multi-dimensional that it's hard to find an area they don't touch. Every day I encounter something worth writing about, because every day I'm doing something that would have been impossible or impractical a year ago.
+
+The first post on this blog is about voice-first interaction with AI and "just-in-time software engineering" - learning exactly what I need, when I need it, by talking to an AI about what I'm trying to achieve. That post exists because I was recording bedtime stories for my daughter and asked Claude to help me improve the audio quality. I didn't set out to write a blog post. The blog post emerged from something I was already doing.
+
+This post exists because setting up the blog was itself interesting enough to write about.
+
+I'm not carving out time to blog. I'm narrating what I'm already doing.
+
+## The Meta-Weirdness
+
+I have to shake myself by the shoulders about how strange this is.
+
+Right now, as I write this, I'm dictating into my phone using the Gboard keyboard's speech-to-text. The audio is being transcribed on my phone, sent as text over SSH to my laptop via Tailscale, where Claude Code is receiving it and turning my rambling speech into structured prose.
+
+I'm pacing around my house. The laptop is in another room. I haven't touched it.
+
+When I'm done talking, I'll tell Claude to commit and push, and this post will be live. The whole thing - from "I should write about how we made this blog" to published post - will have taken maybe twenty minutes, interleaved with making lunch and tidying up.
+
+I've gone from being someone who felt like they probably should blog someday to someone with multiple posts online, without ever sitting down to make it happen.
+
+## Why This Matters
+
+I don't think this is just about me being lazy (though I am). I think there's something important here about how AI changes the economics of doing things.
+
+Lots of valuable activities have high activation energy. Writing documentation. Maintaining a changelog. Sending updates to stakeholders. Cleaning up technical debt. We know we should do them, but in the moment, there's always something more pressing.
+
+When AI can handle the mechanical parts - the scaffolding, the formatting, the boilerplate, the deployment - the activation energy drops. Things that were perpetually deferred become things you just... do.
+
+The blog exists because making a blog became almost free. The posts exist because writing them became almost free. Not free of thought - I still have to have something to say - but free of friction.
+
+That's the shift. That's what's different now.
+
+And I think we're just at the beginning of understanding what becomes possible when friction collapses across enough domains at once.
