@@ -35,7 +35,7 @@ The latency on prompt completion these days is usually several minutes for a mea
 
 ## Multiple work streams
 
-Of course, you might want to keep things for later. Maybe you're using Git in a way that doesn't permit multiple agents running on the same codebase. Or maybe the idea of [multiple worktrees](https://docs.anthropic.com/en/docs/claude-code/tutorials) doesn't appeal to you for whatever reason.
+Of course, you might want to keep things for later. Maybe you're using Git in a way that doesn't permit multiple agents running on the same codebase. Or maybe the idea of [multiple worktrees](https://code.claude.com/docs/en/common-workflows) doesn't appeal to you for whatever reason.
 
 That's fine. Keep your prompts.
 
