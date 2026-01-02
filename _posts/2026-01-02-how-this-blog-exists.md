@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How This Blog Exists"
-date: 2026-01-03
+date: 2026-01-02
 tags: [meta, ai, friction, productivity]
 ---
 
