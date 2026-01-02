@@ -61,16 +61,6 @@ I wrote [a post earlier today](/2026/01/02/respecting-the-fence/) about helping 
 
 Scale these examples across white-collar work and you start to see the shape of something.
 
-## The Social Contract Question
-
-I've never really worried about my job. I'm temperamentally optimistic about the unlocks happening. The minor background trepidation that everyone in tech probably feels - "will this eventually come for me?" - has never bloomed into real concern.
-
-For the first time, I've noticed myself worrying less about my job and more about the social contract.
-
-A lot of assumptions about what constitutes good, hard, valuable work are about to be stress-tested. I think the adjustment will take about a year to really land - for the collective realisation to catch up with what's already possible. But the train may have already left the station.
-
-I don't know what to do with this observation except to name it.
-
 ## The Musician's View
 
 Here's how it feels from the practitioner's seat:
