@@ -43,7 +43,7 @@ Anonymity was central to the original conception. You could say anything to a fa
 
 Safeguarding laws have eroded this somewhat. There are now circumstances where volunteers are legally required to pass on identifying information if a caller provides it. The promise of anonymity comes with caveats it didn't used to have. I understand why, and I'm not criticising the change - but it has altered the social contract.
 
-LLMs, by contrast, are inherently anonymous. There's no human on the other end to judge you, no information being passed anywhere, no social performance required. For someone who wants to process something privately, an LLM offers a kind of anonymity that human services can no longer fully guarantee.
+LLMs, by contrast, are faceless. There's no human on the other end to judge you, no social performance required. Not truly anonymous - data may be retained, accounts exist - but the experience is one of talking to something that isn't a person. For someone who wants to process something without being witnessed, that facelessness offers something human services can't.
 
 ## I'm not proposing anything
 
