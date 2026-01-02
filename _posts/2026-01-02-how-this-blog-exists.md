@@ -77,6 +77,20 @@ This inverts the traditional relationship between living and writing. Usually yo
 
 The ideas I'll write about next week are probably already on that recorder. I just don't know which ones yet.
 
+## Cognitive Offload
+
+There's something else happening here that's easy to miss.
+
+In a traditional workflow, I'd scribble an idea on paper, then try to remember to retrieve it later, then decide when to act on it, then actually do the work. Every handoff between "think of thing" and "do thing" is a potential drop. The mental overhead of maintaining that queue is real - it's why GTD systems exist, why people have elaborate productivity setups, why we forget half the good ideas we have.
+
+Right now, Claude has a todo list open. It says: copy audio files, transcribe, extract blog ideas. When I plug the recorder back in, Claude will notice and continue. I don't have to remember. I don't have to context-switch back into "what was I doing with that?"
+
+The task persists without occupying my mental RAM.
+
+This means I can just be generative. I can throw out ideas, half-formed observations, "we should write about X" - and the system catches them. The pressure to act doesn't come from my own memory; it comes from a managed queue held by something that won't forget.
+
+It's not just that writing became easier. It's that the entire *project management* of writing became someone else's job.
+
 ## The Meta-Weirdness
 
 I have to shake myself by the shoulders about how strange this is.
