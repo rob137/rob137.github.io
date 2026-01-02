@@ -66,7 +66,7 @@ I think something similar is happening with IDEs right now.
 
 ## The Pivot Is Already Happening
 
-Go look at the landing pages for VS Code, Cursor, Windsurf, or any of the major editors. They're leading with AI. Not as one feature among many - as the primary value proposition. "AI editor." "The AI-first code editor."
+Go look at the incumbents. Microsoft now positions VS Code as "[the open source AI editor](https://visualstudiomagazine.com/articles/2025/07/14/vs-code-v1-102-doubles-down-on-github-copilot-and-ai-enhanced-development.aspx)," with Copilot front and center. JetBrains has merged AI Assistant and their coding agent Junie [under a single subscription](https://www.jetbrains.com/idea/whatsnew/), marketing AI as core to the experience rather than an add-on. These aren't AI-native startups - they're the established players, pivoting.
 
 This isn't marketing getting ahead of reality. The products genuinely are reorienting around a different workflow. The question is whether users have caught up.
 
