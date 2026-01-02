@@ -46,6 +46,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-02
 **Core idea:** The helpful assistant persona is a "radio on TV" transitional form. The ideal employee isn't a helpful assistant - true for humans, and once models reach competence, wrong for them too. Staff engineer comparison. This is fixable.
 
+### To-Do Lists as Prompts
+**Published:** 2026-01-02
+**Core idea:** Writing detailed to-do items is actually writing prompts. Speech-to-text makes this easier than typing laconic notes. Rather than keeping prompts, you might just send them. Fire and forget with worktrees. Bake in success criteria and validation.
+
 ---
 
 *Last updated: 2026-01-02*
