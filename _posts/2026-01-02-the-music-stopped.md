@@ -13,7 +13,7 @@ What I've noticed is that brilliant engineers exist across the entire spectrum. 
 
 [Steve Yegge](https://en.wikipedia.org/wiki/Steve_Yegge) recently put it more provocatively in a [Latent Space interview](https://open.spotify.com/episode/20iTChEyuXaXryZOVAJoSi): "If you're still using an IDE to develop code by January 1st, 2026, you're a bad engineer." He said it tongue-in-cheek, but there's a real position underneath it. And there are equally sharp engineers who'd push back hard on that.
 
-(Yegge had a series of tech talks on YouTube years ago - now seemingly vanished from the internet - that completely changed my relationship with my career. They unlocked something that had been holding me back from truly committing to software as a path. So I take his opinions seriously, even when I'm not sure I agree.)
+(Yegge had a YouTube series called *Stevie's Tech Talks* - now seemingly vanished from the internet - that completely changed my relationship with my career. They unlocked something that had been holding me back from truly committing to software as a path. So I take his opinions seriously, even when I'm not sure I agree.)
 
 I'm not here to adjudicate. In fact, I think there's something deeper going on than just preference.
 
