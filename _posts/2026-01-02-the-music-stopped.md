@@ -11,7 +11,9 @@ I've collected opinions on this from software engineers for years. People feel s
 
 What I've noticed is that brilliant engineers exist across the entire spectrum. Some of the best I know are IDE devotees. Some live in Vim. Some use Emacs with magit and would insist that's a different thing entirely to a TUI. The tools matter to them, and I take that seriously.
 
-But I've been watching something shift lately - not in which tools are "right," but in what we're actually doing inside them.
+[Steve Yegge](https://en.wikipedia.org/wiki/Steve_Yegge) - someone whose writing I've admired for years - recently put it more provocatively in a [Latent Space interview](https://open.spotify.com/episode/20iTChEyuXaXryZOVAJoSi): "If you're still using an IDE to develop code by January 1st, 2025, you're a bad engineer." He said it tongue-in-cheek, but there's a real position underneath it. And there are equally sharp engineers who'd push back hard on that.
+
+I'm not here to adjudicate. But I've been watching something shift lately - not in which tools are "right," but in what we're actually doing inside them.
 
 ## A Dead Paradigm We Inherited
 
