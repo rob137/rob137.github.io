@@ -15,7 +15,44 @@ What I've noticed is that brilliant engineers exist across the entire spectrum. 
 
 (Yegge had a series of tech talks on YouTube years ago - now seemingly vanished from the internet - that completely changed my relationship with my career. They unlocked something that had been holding me back from truly committing to software as a path. So I take his opinions seriously, even when I'm not sure I agree.)
 
-I'm not here to adjudicate. But I've been watching something shift lately - not in which tools are "right," but in what we're actually doing inside them.
+I'm not here to adjudicate. In fact, I think there's something deeper going on than just preference.
+
+[John Ousterhout's](https://en.wikipedia.org/wiki/John_Ousterhout) book *[A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)* has a fascinating section on naming conventions. He contrasts the verbose style common in enterprise Java - long, descriptive names, everything spelled out - with the terse style you find in C or Go, where single-letter variables are considered good form in the right contexts.
+
+Here's the same logic in both styles:
+
+```java
+// Verbose style (enterprise Java)
+public void processUserAccountNotificationPreferences(
+    UserAccountNotificationPreferenceCollection preferences,
+    NotificationDeliveryService deliveryService
+) {
+    for (UserAccountNotificationPreference preference : preferences) {
+        if (preference.getIsEnabled()) {
+            deliveryService.scheduleNotificationDelivery(preference);
+        }
+    }
+}
+```
+
+```go
+// Terse style (Go/C)
+func notify(prefs []Pref, svc Svc) {
+    for _, p := range prefs {
+        if p.On {
+            svc.Send(p)
+        }
+    }
+}
+```
+
+Ousterhout prefers the verbose style but doesn't dismiss the terse one - he presents it as "a different opinion" and quotes the Go community's reasoning. And here's the thing: both communities produce excellent software. Both have internal consistency. Both work.
+
+I've wondered whether these aren't just arbitrary style choices but something closer to personality attractors - systems programmers drawn to terse expression, enterprise developers to explicit naming, and each community reinforcing its own norms over time. A great downhill skier might make a terrible chess player, and that's fine. Why would we expect one style to be universally correct?
+
+You can be highly prescriptive *within* a bounded context - a team agreeing on conventions, a codebase maintaining consistency. But it doesn't follow that one style is better in some unqualified sense.
+
+Which brings me back to tools. I've been watching something shift lately - not in which tools are "right," but in what we're actually doing inside them.
 
 ## A Dead Paradigm We Inherited
 
