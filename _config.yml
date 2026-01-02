@@ -1,0 +1,34 @@
+# Site settings
+title: Robert Kirby's Blog
+description: Thoughts on software, technology, and other musings.
+author: Robert Kirby
+email: rob137@users.noreply.github.com
+
+# URL settings - update 'baseurl' if hosting in a subdirectory
+url: "https://rob137.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Pagination (optional, requires jekyll-paginate plugin)
+# paginate: 5
+# paginate_path: "/page:num/"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Robert Kirby"
