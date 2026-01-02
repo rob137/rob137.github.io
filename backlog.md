@@ -50,6 +50,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-02
 **Core idea:** Writing detailed to-do items is actually writing prompts. Speech-to-text makes this easier than typing laconic notes. Rather than keeping prompts, you might just send them. Fire and forget with worktrees. Bake in success criteria and validation.
 
+### The Last Bastion
+**Published:** 2026-01-02
+**Core idea:** Samaritans as pure human-touch work. LLMs can already do active listening well. The service filters for people comfortable calling strangers - what about those who aren't? Not proposing anything, just observing what seems inevitable. If even this isn't safe, what is?
+
 ---
 
 *Last updated: 2026-01-02*
