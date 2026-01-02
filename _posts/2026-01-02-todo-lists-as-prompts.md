@@ -3,6 +3,7 @@ layout: post
 title: "To-Do Lists as Prompts"
 date: 2026-01-02 15:30:00 +0000
 tags: [ai, llm, productivity, workflow, prompts]
+excerpt: "I keep writing to-do items that are actually prompts. Detailed enough that I could hand them to an agent and walk away."
 ---
 
 I keep finding to-do items in my notes that look like this:

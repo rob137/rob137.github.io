@@ -3,6 +3,7 @@ layout: post
 title: "The GUI Was a Detour"
 date: 2026-01-02 09:00:00 +0000
 tags: [ai, software, llm, productivity]
+excerpt: "I installed Audacity yesterday. I've barely opened it - not because I lost interest, but because LLMs write ffmpeg commands for me instead."
 ---
 
 I installed [Audacity](https://www.audacityteam.org/) yesterday. An LLM suggested it might give me better recording quality than QuickTime.
