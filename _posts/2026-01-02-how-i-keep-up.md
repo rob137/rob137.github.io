@@ -3,6 +3,7 @@ layout: post
 title: "How I Keep Up"
 date: 2026-01-02 14:30:00 +0000
 tags: [ai, llm, resources, x, twitter]
+excerpt: "X.com is unreasonably good - if you follow the right people and resist the dopaminergic pull."
 ---
 
 A caveat: my days are spent experimenting with this stuff professionally, and my spare time is spent musing, experimenting more, and following the kinds of people listed below. Your mileage may vary.
