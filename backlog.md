@@ -65,11 +65,16 @@ Ideas extracted from ambient recordings and conversations.
 **Core idea:** A list of people worth following in the AI/LLM space. Not ready to write yet, just collecting names.
 
 **People to include:**
-- swyx (Latent Space, coined "AI engineer")
 - Simon Willison
-- Andrej Karpathy
-- Boris Cherny
 - Steve Yegge
+- Beyang Liu (Sourcegraph)
+- Quinn Slack (Sourcegraph)
+- Thorsten Ball (Sourcegraph)
+- swyx (Latent Space, coined "AI engineer")
+- Andrej Karpathy
+- Dwarkesh Patel (Dwarkesh Podcast)
+- Yacine / kache (@yacineMTB)
+- Boris Cherny
 - (add more as they come up)
 
 **Notes:**
