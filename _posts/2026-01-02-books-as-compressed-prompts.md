@@ -5,9 +5,13 @@ date: 2026-01-02 16:00:00 +0000
 tags: [ai, llm, reading, productivity, leverage]
 ---
 
-I recently asked an LLM to help me think through a bottleneck in a project. Instead of explaining the problem in detail, I just said: "Think about this like The Goal."
+Last week I needed to refactor some database migrations. Instead of explaining the problem from first principles, I just said: "Apply the patterns from [Refactoring Databases](https://en.wikipedia.org/wiki/Refactoring_Databases) to this."
 
-It immediately started talking about constraints, throughput, and identifying the weakest link in a chain of dependencies. I didn't have to explain Goldratt's theory of constraints. The model already knew it. The book title was enough.
+The LLM immediately started talking about expand-contract migrations, deprecation periods, and how to evolve schemas without breaking existing code. I didn't have to explain any of this. The book title was enough.
+
+Another time, I was stuck on a project bottleneck. Instead of describing the problem in detail, I said: "Think about this like The Goal."
+
+It started talking about constraints, throughput, and identifying the weakest link in a chain of dependencies. I didn't have to explain Goldratt's theory of constraints. The model already knew it.
 
 ## Pointers to Compressed Knowledge
 
