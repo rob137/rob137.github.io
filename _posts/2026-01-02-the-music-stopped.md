@@ -88,7 +88,7 @@ For now, chat is the primary interface. Text input, or speech-to-text if you pre
 
 **3. Reviewing the output** - You still need to build mental models of the code. You still need to review diffs. You're going to find yourself using some form of version control interface - `git diff` on the command line, magit in Emacs, VS Code's diff view, whatever.
 
-[Simon Willison](https://simonwillison.net/2025/Dec/18/code-proven-to-work/) put it well recently: your job is to deliver code you have proven to work. The code still needs to be understood, tested, validated. That means reviewing it.
+[Simon Willison](https://simonwillison.net/) [put it well recently](https://simonwillison.net/2025/Dec/18/code-proven-to-work/): your job is to deliver code you have proven to work. The code still needs to be understood, tested, validated. That means reviewing it.
 
 ## The Desire Lines
 
