@@ -54,6 +54,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-02
 **Core idea:** Samaritans as pure human-touch work. LLMs can already do active listening well. The service filters for people comfortable calling strangers - what about those who aren't? Not proposing anything, just observing what seems inevitable. If even this isn't safe, what is?
 
+### Show, Don't Tell
+**Published:** 2026-01-02
+**Core idea:** Prosumer decision-making. Spent 2 hours finding a product via LLM iteration - then realized showing past purchases (without explanation) got the right answer immediately. LLMs drawing parallels, associative thinking, category hopping. Links to golden retriever problem. Open-ended musings.
+
 ---
 
 *Last updated: 2026-01-02*
