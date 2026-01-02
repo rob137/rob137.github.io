@@ -79,4 +79,4 @@ We are no longer playing the same instruments. Whole new genres are suddenly ava
 
 2026 is obviously going to be the strangest year yet. And the biggest GPU superclusters have barely come online.
 
-I don't know how transformers work. But I know the sound has changed.
+Locally, everything feels fine. But I think we've crossed the horizon.
