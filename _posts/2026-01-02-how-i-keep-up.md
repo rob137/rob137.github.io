@@ -17,7 +17,7 @@ The catch is that it only works if you follow the right people. Which is what th
 
 Before I list accounts, let me save you some time. If you want to keep up with what's happening in AI with minimal effort, these two sources will get you most of the way:
 
-- **[Simon Willison's blog](https://simonwillison.net/)** - Unusually prolific, curious, and gentle in tone all at once. Extremely early to most topics while maintaining an impressive level of carefulness. Highly engaged yet actually quite measured. If you read one thing, read this.
+- **[Simon Willison's blog](https://simonwillison.net/)** - Prolific, curious, gentle, early to most topics, yet careful. If you read one thing, read this.
 - **[swyx's newsletter](https://www.swyx.io/subscribe)** - Comprehensive coverage, good interviews, consistently high signal.
 
 This might seem counterintuitive after raving about X above. X is absolutely the best primary source *if* you follow the right people - which is kind of the point of this post. But Simon and swyx utterly get this. They already follow the right accounts, read the papers, catch the discourse. Their blogs are the best regurgitations of X and similarly high-signal sources. You get the curation without having to do the curation yourself.
@@ -28,7 +28,7 @@ You could probably stop there and have the bulk of the payoff.
 
 That said, if you do want to go to the source:
 
-- **Simon Willison** - [@simonw](https://x.com/simonw) - Unusually prolific, curious, and gentle in tone all at once. Extremely early to most topics while maintaining an impressive level of carefulness. Highly engaged yet actually quite measured. His X presence is as good as his blog.
+- **Simon Willison** - [@simonw](https://x.com/simonw) - See above. His X is as good as his blog.
 
 - **Steve Yegge** - [@steve_yegge](https://x.com/steve_yegge) - Prolific and insightful. Famous for the [Platforms Rant](https://gist.github.com/chitchcock/1281611), but he never actually stopped writing. His LLM stuff is equally excellent.
 
