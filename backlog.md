@@ -28,6 +28,24 @@ Ideas extracted from ambient recordings and conversations.
 
 ## Ideas to Develop
 
+### Book Titles as Compressed Prompts
+**Source:** Conversation
+**Core idea:** Book and blog post titles are pointers to compressed mental models that LLMs already know. Say "Refactoring by Fowler" or "The Goal" and you've invoked an entire framework of thinking. The title is the prompt; the LLM has the payload.
+
+**Examples:**
+- "The Day You Became a Better Writer" (Scott Adams) - compressed writing advice
+- "Refactoring" (Fowler) - compressed code improvement philosophy
+- "The Goal" - compressed thinking about bottlenecks and constraints
+
+**Key angles:**
+- Leverage from reading is now enormous - you get mental models you can invoke later
+- People reading less than ever, but payoff greater than ever - not priced in
+- You can prompt about a book to get the gist, but knowing the book deeply lets you use it as shorthand
+- These compress ideas about how to think and behave, not just writing style
+- The names are pointers to compressions LLMs already have in training data
+
+---
+
 ### Domain-Hopping Musings (working title)
 **Source:** Transcript + conversation
 **Core idea:** Possibly combine audio engineering / electrical engineering into a "musings" post. The point isn't the specific domain - it's the gleeful traversal across domains. Intellectual signalling without being explicit about it.
