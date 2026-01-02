@@ -37,6 +37,14 @@ I worked in a call centre when I was young. Within a day I was comfortable on th
 
 The Samaritans already filters for people who've either overcome this aversion or never had it. How do you measure the ones who didn't ring?
 
+## The anonymity question
+
+Anonymity was central to the original conception. You could say anything to a faceless stranger with no fear of backlash or rejection.
+
+Safeguarding laws have eroded this somewhat. There are now circumstances where volunteers are legally required to pass on identifying information if a caller provides it. The promise of anonymity comes with caveats it didn't used to have. I understand why, and I'm not criticising the change - but it has altered the social contract.
+
+LLMs, by contrast, are inherently anonymous. There's no human on the other end to judge you, no information being passed anywhere, no social performance required. For someone who wants to process something privately, an LLM offers a kind of anonymity that human services can no longer fully guarantee.
+
 ## I'm not proposing anything
 
 I want to be clear about what I'm doing here. I'm not suggesting the Samaritans should change. I'm not saying LLMs should replace human listeners. I'm not even saying this would be a good thing.
