@@ -33,7 +33,7 @@ I'm a software engineer and father of three. I have no background in social care
 
 We got permission to use an LLM - being explicit about the privacy implications, making clear that we couldn't guarantee data wouldn't end up in training sets, letting the person decide if they were comfortable proceeding. They were.
 
-Then I did something very simple. I put the documentation in a directory, pointed Claude Code at it, and said: "This is a well-known government form. Based on these materials, fill out sections X, Y, and Z with appropriate detail."
+Then I did something very simple. I put the documentation in a directory, pointed [Claude Code](https://docs.anthropic.com/en/docs/claude-code) at it, and said: "This is a well-known government form. Based on these materials, fill out sections X, Y, and Z with appropriate detail."
 
 It worked.
 
