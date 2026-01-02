@@ -58,6 +58,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-02
 **Core idea:** Prosumer decision-making. Spent 2 hours finding a product via LLM iteration - then realized showing past purchases (without explanation) got the right answer immediately. LLMs drawing parallels, associative thinking, category hopping. Links to golden retriever problem. Open-ended musings.
 
+### YOLO Mode
+**Published:** 2026-01-02
+**Core idea:** Every abstraction leap has a liminal period where the new thing is dismissed. What's "YOLO" becomes normal - web devs never read assembly output anymore. Current debates about line-level vs commit-level vs PR-level review may all become quaint. Yegge's "Gas Town" as evidence of where things are heading.
+
 ---
 
 *Last updated: 2026-01-02*
