@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Something Happened"
+title: "Crossing the Horizon"
 date: 2026-01-02 13:00:00 +0000
 tags: [ai, llm, observations, inflection]
 ---
+
+> "There is nothing special physically at the horizon. Locally there is nothing special - an observer would not feel some special force, everything is fine for her. However, there is something special: crossing the horizon means that there is no way to return. But this is not visible locally, only globally."
+>
+> — [Physics Forums](https://www.physicsforums.com/threads/is-crossing-a-black-holes-event-horizon-possible.1059967/)
 
 I've never trained a model from scratch.
 
