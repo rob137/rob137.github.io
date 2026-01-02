@@ -5,7 +5,13 @@ date: 2026-01-02 08:00:00 +0000
 tags: [ai, voice, llm, productivity, sdlc]
 ---
 
-I'm a software engineer at Volaris Group, working on a skunkworks team exploring how AI and large language models might reshape the software development lifecycle, product features, and working practices. But this post isn't about enterprise strategy. It's about something I've become deeply convinced of through personal experimentation: **speech as input is the future**, and you can already get enormous productivity benefits by doubling down on it.
+Last night I became an audio engineer.
+
+I don't have any training in audio engineering. I've never taken a course, read a book, or spent time learning the fundamentals. And yet by the end of the evening I was discussing preamps, gain staging, and noise floors - and more importantly, I was *doing* something about them.
+
+Here's the thing: I'm not even the kind of person you'd expect to become an audio engineer. I've watched product reviews on YouTube when choosing headphones, and I always felt slightly out of place - like the professional audio engineers speaking weren't quite my tribe, intellectually or socially. It wasn't a world I would have given myself permission to enter. There's always opportunity cost. I'm always too busy for important things, let alone something tangential.
+
+And yet here I was, diving into their domain quite happily. Because I wasn't trying to learn audio engineering. I was trying to record bedtime stories for my daughter.
 
 ## The Setup
 
@@ -91,7 +97,7 @@ This is different from typing. When I type, I self-edit as I go. I constrain my 
 
 ## What This Means for Software Development
 
-I think we're at the beginning of something significant. The traditional SDLC assumes developers work primarily through keyboards and IDEs. But voice-first interaction with AI changes the economics of communication:
+I think we're at the beginning of something significant. In my day job at Volaris Group, I'm on a skunkworks team exploring how LLMs might reshape the software development lifecycle - and this is the kind of thing we talk about. The traditional SDLC assumes developers work primarily through keyboards and IDEs. But voice-first interaction with AI changes the economics of communication:
 
 - **Meetings become data** - A recorded meeting isn't just minutes anymore. It's raw material for an AI to extract action items, summarize decisions, identify risks.
 - **Documentation happens automatically** - Explain what you're building out loud, and you've written the design doc.
