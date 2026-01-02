@@ -97,7 +97,7 @@ This is different from typing. When I type, I self-edit as I go. I constrain my 
 
 ## What This Means for Software Development
 
-I think we're at the beginning of something significant. In my day job at Volaris Group, I'm on a skunkworks team exploring how LLMs might reshape the software development lifecycle - and this is the kind of thing we talk about. The traditional SDLC assumes developers work primarily through keyboards and IDEs. But voice-first interaction with AI changes the economics of communication:
+I think we're at the beginning of something significant. In my day job at [Volaris Group](https://volarisgroup.com/), I'm on a skunkworks team exploring how LLMs might reshape the software development lifecycle - and this is the kind of thing we talk about. (We're hiring, by the way. If this resonates, reach out.) The traditional SDLC assumes developers work primarily through keyboards and IDEs. But voice-first interaction with AI changes the economics of communication:
 
 - **Meetings become data** - A recorded meeting isn't just minutes anymore. It's raw material for an AI to extract action items, summarize decisions, identify risks.
 - **Documentation happens automatically** - Explain what you're building out loud, and you've written the design doc.
