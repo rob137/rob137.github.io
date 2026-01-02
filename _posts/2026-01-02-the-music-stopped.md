@@ -1,0 +1,74 @@
+---
+layout: post
+title: "The Music Stopped"
+date: 2026-01-02 13:30:00 +0000
+tags: [ai, llm, coding, tools, ide, terminal]
+---
+
+There's a debate that flares up periodically: terminal versus IDE. Vim versus VS Code. Text-based interfaces versus graphical ones.
+
+I've collected opinions on this from software engineers for years. People feel strongly about their tools, and I think that's legitimate - the environment you work in shapes how you think, and the investment in mastering a tool is real. These aren't trivial preferences.
+
+What I've noticed is that brilliant engineers exist across the entire spectrum. Some of the best I know are IDE devotees. Some live in Vim. Some use Emacs with magit and would insist that's a different thing entirely to a TUI. The tools matter to them, and I take that seriously.
+
+But I've been watching something shift lately - not in which tools are "right," but in what we're actually doing inside them.
+
+## A Dead Paradigm We Inherited
+
+The word "terminal" is downstream of time-sharing. You used to have a mainframe, and you'd connect to it from a terminal - a dumb input/output device that talked to the real computer somewhere else. The whole concept of a terminal being fundamental to computing is an artifact of that era.
+
+The paradigm died. The music stopped. And here we are, still sitting in these chairs.
+
+I think something similar is happening with IDEs right now.
+
+## The Pivot Is Already Happening
+
+Go look at the landing pages for VS Code, Cursor, Windsurf, or any of the major editors. They're leading with AI. Not as one feature among many - as the primary value proposition. "AI editor." "The AI-first code editor."
+
+This isn't marketing getting ahead of reality. The products genuinely are reorienting around a different workflow. The question is whether users have caught up.
+
+## What Are People Actually Doing?
+
+Here's what I think matters more than the terminal-versus-IDE debate: what are people actually *doing* in these tools now?
+
+I see three activities:
+
+**1. Editing text** - This is becoming optional.
+
+[Boris Cherny](https://x.com/bcherny) of Anthropic mentioned recently that he wrote 100% of his code last month using Claude Code. Not as a challenge - he just found himself doing it. For him, it's kind of over.
+
+That's not everyone. It depends on your working style, your comfort with the frontier models, the kind of code you're writing. But the point is: manual text editing is no longer a given. It's a choice.
+
+**2. Talking to the agent** - Whether it's [Claude Code](https://docs.anthropic.com/en/docs/claude-code), Cursor's chat panel, Copilot, or the Gemini CLI - these are all variations on the same thing. You're not talking to a language model exactly. You're talking to a *system*: the model plus the harness, with all its context and capabilities.
+
+For now, chat is the primary interface. Text input, or speech-to-text if you prefer. The input field for telling the system what you want.
+
+**3. Reviewing the output** - You still need to build mental models of the code. You still need to review diffs. You're going to find yourself using some form of version control interface - `git diff` on the command line, magit in Emacs, VS Code's diff view, whatever.
+
+[Simon Willison](https://simonwillison.net/2025/Dec/18/code-proven-to-work/) put it well recently: your job is to deliver code you have proven to work. The code still needs to be understood, tested, validated. That means reviewing it.
+
+## The Desire Lines
+
+Here's my actual point: wherever you look - Vim, Emacs, VS Code, IntelliJ, terminal-only workflows - the same three activities are emerging. Edit (maybe). Chat. Review.
+
+The tools are adapting. VS Code added Copilot. Emacs users are integrating Claude Code. Terminal workflows have aider and Claude Code and Codex CLI. The specific environment matters less than it used to because the *workflow* has converged.
+
+I wrote [a post earlier](/2026/01/02/the-gui-was-a-detour/) about how GUIs impose cognitive overhead - you have to learn the software's mental model on top of your actual problem. That's still true. But the reality is: wherever you go, you're going to end up with something that looks like an interface. A chat window. A diff viewer. A way to see what changed.
+
+The question isn't "terminal or GUI?" anymore. The question is: "What are you actually doing with your time?"
+
+## The Music Stopped
+
+Superficially, a developer's screen in 2026 looks a lot like it did in 2017. Text editor. File tree. Maybe a terminal pane. The aesthetics haven't changed much.
+
+But the activity has changed completely.
+
+Code isn't being written by people in the same way anymore. It's being reviewed by people. The same tools have adjusted - sometimes elegantly, sometimes awkwardly - to fit a workflow that would have been unrecognisable a few years ago.
+
+The music stopped. We found ourselves in these chairs - Vim, Emacs, VS Code, whatever. And with some adjustment, the old tools are being pressed into service for an entirely new game.
+
+What I find interesting is that people who care deeply about their tools - who have spent years mastering Vim or customising their IDE - are finding that their investment still pays off. The tools are adapting. The muscle memory transfers. The preferences still matter for how the work *feels*.
+
+But the work itself has shifted underneath us. The desire lines are clear: agents, chat, review. These patterns are emerging everywhere, regardless of which editor you open in the morning.
+
+The music stopped. We found ourselves in different chairs. And perhaps that's fine - the chairs still matter for comfort and flow. But the game we're playing in them has quietly changed.
