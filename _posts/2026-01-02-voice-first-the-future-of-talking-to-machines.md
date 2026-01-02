@@ -11,11 +11,11 @@ I'm a software engineer at Volaris Group, working on a skunkworks team exploring
 
 I've assembled a simple voice-first toolkit:
 
-- **Zoom H2 Essential** - A portable recorder I expensed as a dictaphone for meetings. The beauty is it's unobtrusive. People don't tense up when you're not pointing a phone at them or asking them to install an app.
+- **Zoom H2 Essential** - A portable recorder that doubles as a dictaphone for meetings. The beauty is it's unobtrusive. People don't tense up when you're not pointing a phone at them or asking them to install an app.
 - **Samson Q2U** on a boom arm - Plugged straight into my laptop via USB for desk work. Solid audio quality without fuss.
 - **SuperWhisper** with Parakeet - For real-time speech-to-text on my Mac.
 
-The H2 was ostensibly for work meetings, but I've been using it for everything. Recording piano practice. Reading stories to my kids. Testing how well speech-to-text handles a chaotic living room with three small children talking over each other.
+I've been using the H2 for everything. Recording piano practice. Reading stories to my kids. Testing how well speech-to-text handles a chaotic living room with three small children talking over each other.
 
 ## Just-in-Time Software Engineering
 
@@ -41,10 +41,7 @@ I asked Claude Code to transcribe the recordings. It discovered I didn't have Wh
 [00:00:00.000 --> 00:00:07.000]   I'll just hit record on the device because
    I want to see how well the microphone works in a busy room.
 
-[00:00:25.000 --> 00:00:33.000]   Basically I've realised that with my camera lessons
-   I can probably expense a recorder with a line in on it.
-
-[00:01:00.000 --> 00:01:07.000]   And the key thing is because I'm not like recording a podcast,
+[00:01:00.000 --> 00:01:07.000]   The key thing is I'm not recording a podcast -
    I just want it to be natural enough that I can do speech to text.
 ```
 
