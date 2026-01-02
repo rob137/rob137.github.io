@@ -7,7 +7,7 @@ tags: [ai, llm, observations, inflection]
 
 I've never trained a model from scratch.
 
-I could explain reasonably well how transformers work - attention mechanisms, context windows, the broad strokes of what's happening. But I've never been hands-on with the training side. I could probably fumble through a conversation about mixture of experts, though I suspect my mental model is subtly wrong in ways I can't identify. I'm a user of these systems, not a builder of them.
+I could explain reasonably well how transformers work - attention mechanisms, context windows, the broad strokes of what's happening. But I've never trained a model. I could probably fumble through a conversation about mixture of experts, though I suspect my mental model is subtly wrong in ways I can't identify. I'm a software engineer, not an ML person.
 
 But here's the thing: I don't think anyone on Jools Holland could give you a rigorous definition of a decibel. That doesn't mean they can't play.
 
