@@ -50,6 +50,8 @@ Ousterhout prefers the verbose style but doesn't dismiss the terse one - he pres
 
 I've wondered whether these aren't just arbitrary style choices but something closer to personality attractors - systems programmers drawn to terse expression, enterprise developers to explicit naming, and each community reinforcing its own norms over time. A great downhill skier might make a terrible chess player, and that's fine. Why would we expect one style to be universally correct?
 
+There's also something ludicrous about "software professional" as a category. It's almost as broad as "white collar." [Software is eating the world](https://a16z.com/why-software-is-eating-the-world/), as Marc Andreessen put it - which means you find software people in finance, medicine, games, embedded systems, web apps, scientific computing, defence, and a hundred other domains. Expecting one tribe, one set of norms, one correct way to work seems odd given how sprawling the territory has become.
+
 You can be highly prescriptive *within* a bounded context - a team agreeing on conventions, a codebase maintaining consistency. But it doesn't follow that one style is better in some unqualified sense.
 
 Which brings me back to tools. I've been watching something shift lately - not in which tools are "right," but in what we're actually doing inside them.
