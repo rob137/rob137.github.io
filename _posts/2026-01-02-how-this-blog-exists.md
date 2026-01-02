@@ -5,15 +5,13 @@ date: 2026-01-02 10:00:00 +0000
 tags: [meta, ai, friction, productivity]
 ---
 
-For years I've known I should have a blog.
+I'm standing in my kitchen. The laptop is in another room. I haven't touched it all morning.
 
-The benefits are obvious. Writing clarifies thinking. A public body of work helps when applying for roles. It's a way to contribute to the communities you're part of. Everyone says you should do it. I've said I should do it. Repeatedly. For years.
+And yet somehow, in the last hour, I've set up a blog, configured hosting, and started writing my second post.
 
-And yet I never did.
+For years I knew I should have a blog. The benefits are obvious - writing clarifies thinking, a public body of work helps when applying for roles, everyone says you should do it. I said I should do it. Repeatedly. For years. And yet I never did. There was always something with a better effort-to-payoff ratio: learning a new technology, building something, spending time with my kids. A blog lived permanently on my "someday" list.
 
-Not because I lacked ideas. Not because I couldn't write. Because there was always something with a better effort-to-payoff ratio. Learning a new technology. Building something. Spending time with my kids. Resting. A blog post always felt like a worthy-but-deferrable thing - the kind of task that lives permanently on a "someday" list.
-
-Today I have a blog with multiple posts. I didn't sit down at my laptop to make it happen.
+Today it exists. I didn't sit down to make it happen.
 
 ## What Actually Happened
 
