@@ -64,17 +64,19 @@ Ideas extracted from ambient recordings and conversations.
 **Source:** Conversation
 **Core idea:** A list of people worth following in the AI/LLM space. Not ready to write yet, just collecting names.
 
+**Preamble idea:** X.com is unreasonably good. Regardless of how seriously you take it given the politicisation and the image problems - it just turns out the best minds in this space are very active and engaged there. It's the best place to keep track of what's happening, by a country mile.
+
 **People to include:**
-- Simon Willison
-- Steve Yegge
-- Beyang Liu (Sourcegraph)
-- Quinn Slack (Sourcegraph)
-- Thorsten Ball (Sourcegraph)
-- swyx (Latent Space, coined "AI engineer")
-- Andrej Karpathy
-- Dwarkesh Patel (Dwarkesh Podcast)
-- Yacine / kache (@yacineMTB)
-- Boris Cherny
+- Simon Willison - [@simonw](https://x.com/simonw)
+- Steve Yegge - [@steve_yegge](https://x.com/steve_yegge)
+- Beyang Liu (Sourcegraph) - [@beyang](https://x.com/beyang)
+- Quinn Slack (Sourcegraph) - [@sqs](https://x.com/sqs)
+- Thorsten Ball (Sourcegraph) - [@thorstenball](https://x.com/thorstenball)
+- swyx - [@swyx](https://x.com/swyx)
+- Andrej Karpathy - [@karpathy](https://x.com/karpathy)
+- Dwarkesh Patel - [@dwarkesh_sp](https://x.com/dwarkesh_sp)
+- Yacine / kache - [@yacineMTB](https://x.com/yacineMTB)
+- Boris Cherny - [@bcherny](https://x.com/bcherny)
 - (add more as they come up)
 
 **Notes:**
