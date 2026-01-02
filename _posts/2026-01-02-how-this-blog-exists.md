@@ -17,7 +17,7 @@ Today it exists. I didn't sit down to make it happen.
 
 It's a day off. I'm doing domestic things around the house. My phone is in my pocket.
 
-I've been experimenting with voice-first workflows lately - using speech-to-text to interact with AI, orchestrating things remotely. I have [Tailscale](https://tailscale.com/) set up so I can SSH to my laptop from anywhere. [Claude Code](https://docs.anthropic.com/en/docs/claude-code) is running on the laptop.
+I've been experimenting with voice-first workflows lately - using speech-to-text to interact with AI, orchestrating things remotely. I have [Tailscale](https://tailscale.com/) set up so I can SSH to my laptop from anywhere. Claude Code runs in a dedicated [tmux](https://github.com/tmux/tmux) session, so the session persists across disconnections - leaving WiFi, losing signal, whatever. When I get back to my desk, I can pick up exactly where I left off.
 
 I pulled out my phone, opened a terminal, and typed (well, dictated):
 
