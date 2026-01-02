@@ -5,9 +5,9 @@ date: 2026-01-02 13:00:00 +0000
 tags: [ai, llm, observations, inflection]
 ---
 
-I don't understand how transformers work.
+I've never trained a model from scratch.
 
-I mean, I'm familiar with the nomenclature. Attention mechanisms. Context windows. I could probably fumble through a conversation about mixture of experts, though I suspect my mental model is subtly wrong in ways I can't identify. I'm at the recognition end of the comprehension spectrum, not the recall end.
+I could explain reasonably well how transformers work - attention mechanisms, context windows, the broad strokes of what's happening. But I've never been hands-on with the training side. I could probably fumble through a conversation about mixture of experts, though I suspect my mental model is subtly wrong in ways I can't identify. I'm a user of these systems, not a builder of them.
 
 But here's the thing: I don't think anyone on Jools Holland could give you a rigorous definition of a decibel. That doesn't mean they can't play.
 
