@@ -9,7 +9,7 @@ I'm Rob Kirby. Software engineer at a portfolio software company, currently focu
 
 Before software I was an Intelligence Corps officer in the British Army. Before that I studied philosophy. The through-line is probably something about information and how to make sense of it.
 
-Father of three. Two dogs. Brown belt in BJJ. Volunteer Samaritan. Currently teaching myself piano again after a long break.
+Father of three. Two dogs. Volunteer Samaritan. Currently teaching myself piano again after a long break.
 
 This blog is where I write about things I'm noticing.
 
