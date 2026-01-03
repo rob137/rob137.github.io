@@ -23,8 +23,4 @@ Brown belt. Trying to patch gaps in my leg locks game this year. Luckily I have 
 
 ## Family
 
-Insanely busy with young kids. Enjoying family life, but there isn't really time for DIY or the sorts of things that kept me out of trouble before.
-
-## Stable interests
-
-AI and technology are probably the exception - a stable interest where I'm curious year-round, particularly around AI and software. Hence this blog.
+Insanely busy with young kids. Enjoying family life, but there isn't really time for DIY or the sorts of things that kept me out of trouble before. The one exception is AI and technology - curious about that year-round. Hence this blog.
