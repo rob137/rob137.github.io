@@ -64,6 +64,6 @@ The connection is expertise. The feeling of things being just what you expect.
 
 In BJJ, you spend years building up an intuition for where bodies go, what positions lead where, when to exert and when to relax. Eventually it stops feeling like calculation and starts feeling like the obvious thing.
 
-Working with AI agents rewards the same instinct. Build projects with things exactly where you'd expect. Position before submission. Make the architecture so obvious that when a model joins your project, it just... knows. No explanation needed. No minutes wasted.
+Working with AI agents rewards the same instinct. Build projects with things exactly where you'd expect. Position before submission. Make the architecture so obvious that when a model joins your project, it just... knows. No explanation needed. It's a transaction cost - and the number of transactions is about to rocket.
 
 Get the position right, and the submission is easy.
