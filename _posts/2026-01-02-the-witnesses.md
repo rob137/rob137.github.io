@@ -14,9 +14,7 @@ He's earned that position through decades of building things that work. I respec
 
 But I keep noticing something: builders I also respect - people known for shipping, with track records that predate the current moment - expressing genuine surprise. The moment when expectations collide with experience.
 
-This is that list.
-
-## The quotes
+---
 
 **[Jaana Dogan](https://en.wikipedia.org/wiki/Jaana_Dogan)** - Senior Google engineer, known for her work on Go and distributed systems:
 
