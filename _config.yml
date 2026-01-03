@@ -8,6 +8,11 @@ email: rob137@users.noreply.github.com
 url: "https://rob137.github.io"
 baseurl: ""
 
+# Navigation
+header_pages:
+  - about.md
+  - now.md
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
