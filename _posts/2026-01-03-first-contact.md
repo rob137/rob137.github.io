@@ -6,7 +6,7 @@ tags: [ai, llm, military, management, agency]
 excerpt: "Three ideas from military doctrine that apply surprisingly well to working with AI agents: mission command, the orders process, and inkblot strategy."
 ---
 
-We're making first contact with a different kind of intelligence. It bears some resemblance to things we know - it can write, it can reason, it can code - but it's alien enough that our existing playbooks don't quite fit.
+We're making first contact with a different kind of intelligence - one that bears some resemblance to things we know, but is alien enough that our existing playbooks don't quite fit.
 
 There's another meaning of "first contact" I keep thinking about. In military doctrine, there's an adage: the plan never survives first contact with the enemy. First contact with reality. The moment when preparation meets the world.
 
