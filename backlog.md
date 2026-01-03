@@ -92,15 +92,13 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-03
 **Core idea:** BJJ parallel. Early exhaustion vs efficient black belts. "Spending surprise" as the new debt - stay in the training distribution. Principle of least surprise (162 mentions in chat history). Position before submission = make architecture obvious so models just know.
 
+### The Interview Question
+**Published:** 2026-01-03
+**Core idea:** Calculator app task that's now one-shottable. "Yeah, whatever you like" soundboard. Looking for product ownership over technical depth. "Calculator" used to be a job title - software engineer heading somewhere similar.
+
 ---
 
 ## Backlog
-
-### The Interview Question
-**Status:** Idea - waiting for exact question text
-**Core idea:** An interview question that felt revolutionary a year ago and is now fully redundant. Filter for AI engineering roles (swyx's definition - musicians rather than audio engineers or guitar builders). Task: write a calculator app, leave open how it should be "special". Almost had a soundboard for "yeah, whatever you like" - use any tool, AI, vibe code, ChatGPT, whatever. We want to see how they work with tools and think about product. Not off the hook for responsibility - need to demonstrate they know what's up. Bounded scenario, build for that rather than imaginary enterprise situations.
-
-**Placeholder:** [Exact interview question text to be added]
 
 ### How Hiring Has Changed
 **Status:** Idea - reading Joel Spolsky's book
