@@ -60,7 +60,9 @@ Find these people before you try to change the organisation. Let agency spread f
 
 I'm not suggesting the military is the best model for everything. There's plenty I wouldn't generalise from that world - it can seem like a myopic subculture in many ways.
 
-But there's a [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)) aspect worth noting. During operational periods - and the West has had an intense one since 9/11 - there's a forcing function. Command and control practices that don't work get people killed. The selection pressure is real. Whatever emerges from that process has been tested in ways that most organisational theory hasn't.
+As an officer - I spent most of my career as a captain - you're essentially junior clergy for the doctrine of the institution. There's a spectrum of how indoctrinated you become. I was borderline heretical; I never really got institutionalised. But the ideas above stayed with me in spite of that.
+
+There's a [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)) aspect worth noting. During operational periods - and the West has had an intense one since 9/11 - there's a forcing function. Command and control practices that don't work get people killed. The selection pressure is real. Whatever emerges from that process has been tested in ways that most organisational theory hasn't.
 
 It is a hierarchical structure with practices at each level that have been worn smooth by use. Practices that reflect different levels of delegation, different spans of control, different relationships between planning and execution.
 
