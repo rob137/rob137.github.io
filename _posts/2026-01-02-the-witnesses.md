@@ -32,7 +32,7 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
-**[Steve Yegge](https://en.wikipedia.org/wiki/Steve_Yegge)** - Amazon, Google, Sourcegraph. Famous for the [Platforms Rant](https://gist.github.com/chitchcock/1281611):
+**[Steve Yegge](https://en.wikipedia.org/wiki/Steve_Yegge)** - Created *[Wyvern](https://en.wikipedia.org/wiki/Wyvern_(video_game))*, built Grok at Google, wrote the [Platforms Rant](https://gist.github.com/chitchcock/1281611):
 
 > "We're moving from where you have to write the code to where the LLM will write the code and you're just having a conversation with it about the code."
 
