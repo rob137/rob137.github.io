@@ -40,7 +40,7 @@ The idea: stay in the middle of the training distribution for the models. Only l
 
 Directory structures don't matter - except they do, if they hurt LLM performance. Because LLM performance is progress now.
 
-Architectural decisions either boost the models or act as headwinds, depending on how surprising they are. You can waste minutes in every conversation explaining that actually the tests live over here, or that you have a library that does X so don't re-roll it yourself. `agents.md` is a hack intended to ameliorate this. It has varying degrees of success and can't really be relied on - especially if we [scale the abstraction ladder](/2026/01/03/first-contact.html) and aren't at a low enough level to catch the models as they work.
+Architectural decisions either boost the models or act as headwinds, depending on how surprising they are. You can waste minutes in every conversation explaining that actually the tests live over here, or that you have a library that does X so don't re-roll it yourself. `AGENTS.md` is a hack intended to ameliorate this. It has varying degrees of success and can't really be relied on - especially if we [scale the abstraction ladder](/2026/01/03/first-contact.html) and aren't at a low enough level to catch the models as they work.
 
 It's all about bottlenecks now. Anticipating where they'll be in a few months, when everything else gets sanded down by scaling laws.
 
