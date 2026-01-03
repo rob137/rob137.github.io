@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Baffled Builders"
+title: "The Witnesses"
 date: 2026-01-02 18:00:00 +0000
 tags: [ai, llm, coding, evidence]
 excerpt: "A running list of respected programmers - people with Wikipedia pages for actually building things - expressing genuine surprise at AI coding tools."
 ---
 
-I've started collecting quotes from builders - people known for shipping things, with track records that predate the current moment.
+[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) - creator of *Braid* and *The Witness* - [thinks current AI can't code](https://x.com/Jonathan_Blow/status/2006479911750611333):
 
-The pattern I'm looking for: genuine surprise. The moment when expectations collide with experience.
+> "Current AIs can't code. It's clear by now that everyone who thinks they can are not good programmers themselves, and/or only ever do trivial problems."
 
-## The list
+He's earned that position through decades of building things that work. I respect it.
+
+But I keep noticing something: builders I also respect - people known for shipping, with track records that predate the current moment - expressing genuine surprise. The moment when expectations collide with experience.
+
+This is that list.
+
+## The quotes
 
 **[Jaana Dogan](https://en.wikipedia.org/wiki/Jaana_Dogan)** - Senior Google engineer, known for her work on Go and distributed systems:
 
@@ -50,12 +56,4 @@ These aren't impressionable newcomers. They're people who've been sceptical of h
 
 I'm not trying to convince anyone. If you've tried these tools and found them lacking, fair enough. But if you haven't tried them - or tried them a year ago and wrote them off - the landscape has shifted.
 
-## A note on sceptics
-
-[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) - creator of *Braid* and *The Witness* - [disagrees](https://x.com/Jonathan_Blow/status/2006479911750611333):
-
-> "Current AIs can't code. It's clear by now that everyone who thinks they can are not good programmers themselves, and/or only ever do trivial problems."
-
-He's earned that scepticism through decades of building things that work. I respect the position.
-
-This list will keep growing until his standards are met.
+This list will keep growing.

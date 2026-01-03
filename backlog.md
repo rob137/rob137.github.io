@@ -64,9 +64,9 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
-### Baffled Builders
+### The Witnesses
 **Published:** 2026-01-02
-**Core idea:** Genuine bafflement from well-known, respected programmers - people with Wikipedia pages for actually building things. Jaana Dogan, Eric S. Raymond, Steve Yegge, Gene Kim. Nod to John Blow as a respected sceptic. List will grow.
+**Core idea:** Opens with John Blow's skepticism as the bar to meet. Then presents quotes from respected programmers expressing genuine surprise - Jaana Dogan, Eric S. Raymond, Steve Yegge, Gene Kim. List will grow.
 
 **Still collecting:** Mitchell Hashimoto quote/screenshot.
 
