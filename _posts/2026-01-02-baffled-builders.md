@@ -30,13 +30,17 @@ The pattern I'm looking for: genuine surprise. The moment when expectations coll
 
 **[Steve Yegge](https://en.wikipedia.org/wiki/Steve_Yegge)** - Amazon, Google, Sourcegraph. Famous for the [Platforms Rant](https://gist.github.com/chitchcock/1281611):
 
-> "We all knew this was coming, but nobody knew it would be here now."
+> "It can power through shockingly impressive tasks, using nothing but chat... It might look antiquated but it makes Cursor, Windsurf, Augment and the rest of the lot FEEL antiquated."
+
+[Source](https://x.com/Steve_Yegge/status/1898674257808515242) (March 2025)
 
 ---
 
 **[Gene Kim](https://en.wikipedia.org/wiki/Gene_Kim_(author))** - Author of *The Phoenix Project* and *The DevOps Handbook*:
 
-> He told Claude Code to run cURL itself. 45 seconds later, it said "I tried six different iterations and got it working." For Gene, that was "life changing."
+> "It just felt like I was building the capabilities I needed at a magical pace. And code flowed like water."
+
+[Source](https://itrevolution.com/articles/the-last-80-hours-of-editing-the-vibe-coding-book/)
 
 ---
 
