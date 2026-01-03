@@ -40,8 +40,24 @@ I've spent years building up a mental toolkit of coding paradigms, patterns, fra
 
 The problem is: the tools I picked up in the last year are already arguably obsolete. The paradigms I learned over my career are being abstracted away. The hand I augmented so carefully is becoming less relevant.
 
+## The migrations
+
+This isn't new, of course. Software has always involved periodic migrations - reluctant, gradual shifts from one set of tools and practices to another.
+
+Assembly to higher-level languages. Waterfall to Agile. Monoliths to microservices. jQuery to React. Manual deployments to CI/CD. Each transition had its holdouts, its advocates, its people who'd built their identity around the old way. Each time, the industry eventually moved on.
+
+But the cadence is speeding up. The gap between React feeling revolutionary and React feeling like legacy is shorter than the gap between jQuery and React. The frameworks I learned three years ago already have that slightly dated quality - not obsolete exactly, but no longer the obvious choice.
+
+And now we're not just swapping one tool for another. We're abstracting away the activity that made the tools meaningful. It's not "learn this framework instead of that one." It's "maybe stop thinking in terms of frameworks at all."
+
+## The question
+
 Maybe I should be learning something else entirely. Maybe attachment to tools is a liability when the tools are changing this fast.
 
 Or maybe there's something valuable in the attachment itself - a grounding, a connection to craft, a reason to care about the details even when the details are shifting beneath you.
+
+There's a stranger possibility too. If the tools are increasingly chosen by AI - if I'm describing what I want rather than deciding how to build it - does attachment even develop? Or does it migrate somewhere else: to the prompts we refine, the workflows we establish, the taste we bring to evaluating outputs?
+
+Maybe attachment itself gets automated away. Maybe that's fine. Maybe it isn't.
 
 I don't know yet. But I'm keeping the pliers.
