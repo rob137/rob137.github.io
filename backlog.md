@@ -108,6 +108,16 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
 
+### The Expanding Universe
+**Status:** Idea - collecting quotes
+**Core idea:** Models are good for X but not for Y. Systems programming, low-level optimization, novel physics - AI harnesses hinder more than help. But in web dev, people ship without reading code. There's a spectrum of how much you can get away with. Working practices are diverging across domains - like the universe expanding, distances growing. Practices that feel sensible in one domain may be extremely domain-specific. People anchor to what worked yesterday.
+
+**Quotes to collect:**
+- [ ] Jonathan Blow - [placeholder]
+- [ ] ThePrimeagen - [placeholder]
+- [ ] George Hotz - [placeholder]
+- [ ] Andrej Karpathy - [placeholder]
+
 ---
 
 *Last updated: 2026-01-03*
