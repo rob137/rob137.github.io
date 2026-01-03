@@ -48,6 +48,14 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
+**[Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)** - Lead programmer on *Theme Park* at 17, founder of DeepMind, Nobel Prize winner:
+
+> "Honestly, anybody who's a computer scientist should not be retired right now. There's just never been a greater, sort of, problem and opportunity — greater cusp of technology."
+
+[Source](https://www.businesstoday.in/technology/news/story/sergey-brin-returns-to-google-calls-on-retired-computer-scientists-to-join-the-ai-revolution-477452-2025-05-23) (May 2025)
+
+---
+
 ## Why this matters
 
 These aren't impressionable newcomers. They're people who've been sceptical of hype before - often correctly. When someone who wrote foundational texts on open source development says their workflow has permanently changed, it's worth paying attention.
