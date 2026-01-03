@@ -42,7 +42,7 @@ Which means interpersonal communication, situational awareness, coordination - t
 
 I'm noticing something hard now: whenever I take on a feature, the worst thing anyone could say is that someone else is going to work on it with me.
 
-I used to love collaboration. Now it means enormous mental overhead I otherwise wouldn't have. The models are chopping through tasks at a crazy rate. It's the coordination with other engineers that becomes the focal point for slowdowns and surprises. The bump in the road.
+I still love high-level collaboration - ideas, direction, strategy - and do more of it than ever. But low-level collaboration on the same feature? That's become enormous mental overhead. The models are chopping through tasks at a crazy rate. It's the coordination with other engineers that becomes the focal point for slowdowns and surprises. The bump in the road.
 
 Where collaboration used to be how you got things done faster, now it's often the opposite.
 
