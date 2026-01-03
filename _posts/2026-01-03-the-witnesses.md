@@ -10,7 +10,7 @@ excerpt: "A running list of respected programmers - people with Wikipedia pages 
 
 > "Current AIs can't code. It's clear by now that everyone who thinks they can are not good programmers themselves, and/or only ever do trivial problems."
 
-He's earned that position through decades of building things that work. I respect it.
+He's earned that position through decades of building things that work. I've been following his [coding livestreams](https://www.youtube.com/@jblow888) for years - they're fantastic. I respect the position.
 
 But I keep noticing something: builders I also respect - people known for shipping, with track records that predate the current moment - expressing genuine surprise. The moment when expectations collide with experience. I've been keeping track.
 
