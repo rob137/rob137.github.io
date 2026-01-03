@@ -10,8 +10,8 @@ Here's an interview task I came up with about a year ago:
 
 > **Interview Task**
 >
-> Time: 45 minutes
-> Tools: Any language, stack, or AI tooling you like.
+> **Time:** 45 minutes<br>
+> **Tools:** Any language, stack, or AI tooling you like.
 >
 > Your startup is trying to disrupt the stale world of calculator web apps with something more collaborative, more modern, and more memorable.
 >
