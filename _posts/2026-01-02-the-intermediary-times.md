@@ -12,7 +12,7 @@ That's not complacency - I'm aware of what's happening. I've been using LLMs for
 
 The minor background trepidation that probably every knowledge worker feels - "will this eventually come for me?" - never bloomed into real concern. I adjusted. I learned to work with the tools. The tools got better. I got more productive. It felt like surfing, not drowning.
 
-But lately something has shifted. I've stopped worrying about my job and started worrying about the social contract.
+But lately something has shifted. The question isn't whether my job is safe anymore. It's whether the social contract can hold.
 
 ## The Industrial Revolution Was Good
 
