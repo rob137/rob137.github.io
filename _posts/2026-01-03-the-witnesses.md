@@ -72,6 +72,22 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
+**[David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)** - Created Ruby on Rails, founder of Basecamp and HEY:
+
+> "AI allows me to have all the best of [pair programming]! I'm an introvert - in the past I've only been able to do pair programming for about five minutes before I want to jump off a bridge... I feel highly confident now that I could sit down with AI and have something in the App Store by the end of the week."
+
+[Source](https://lexfridman.com/dhh-david-heinemeier-hansson-transcript/) (Lex Fridman Podcast #474, 2025)
+
+---
+
+**[Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)** - Creator of Python:
+
+> "I use [Copilot] every day... The creative work of deciding what you want the code to do is totally yours. But it's a great assistant for the boring stuff."
+
+[Source](https://lexfridman.com/guido-van-rossum-2-transcript/) (Lex Fridman Podcast #341, 2022)
+
+---
+
 ## Why this matters
 
 These aren't impressionable newcomers. They're people who've been sceptical of hype before - often correctly. When someone who wrote foundational texts on open source development says their workflow has permanently changed, it's worth paying attention.
