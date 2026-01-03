@@ -112,11 +112,13 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - collecting quotes
 **Core idea:** Models are good for X but not for Y. Systems programming, low-level optimization, novel physics - AI harnesses hinder more than help. But in web dev, people ship without reading code. There's a spectrum of how much you can get away with. Working practices are diverging across domains - like the universe expanding, distances growing. Practices that feel sensible in one domain may be extremely domain-specific. People anchor to what worked yesterday.
 
-**Quotes to collect:**
-- [ ] Jonathan Blow - [placeholder]
-- [ ] ThePrimeagen - [placeholder]
-- [ ] George Hotz - [placeholder]
-- [ ] Andrej Karpathy - [placeholder]
+**Quotes collected:**
+- [ ] Jonathan Blow - [need tweets]
+- [x] ThePrimeagen (Lex Fridman #461): AI "often gets it wrong, especially with larger, more complex codes... lacks deep understanding for problem-solving and design"
+- [x] George Hotz (Lex Fridman #387): "GPT is great for quick generic scripts, but not for complex tasks"
+- [x] Andrej Karpathy - PERFECT CONTRAST:
+  - Dwarkesh (Oct 2025): nanochat was "intellectually intense code... everything has to be very precisely arranged" - AI "net unhelpful", called code "slop"
+  - X post (Dec 26, 2025): "I've never felt this much behind as a programmer. The profession is being dramatically refactored." Said AI can make devs "10X more powerful"
 
 ---
 
