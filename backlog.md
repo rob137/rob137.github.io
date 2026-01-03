@@ -84,6 +84,12 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
+### Is It Cheating?
+**Published:** 2026-01-03
+**Core idea:** Warfare analogy - technology arrives, gets called dishonorable, rules shift. Meta description of the dictation workflow. Copywriter parallel (CEO articles aren't written by CEOs). The filter of writing vs speech. Orders of magnitude more output.
+
+---
+
 ## Backlog
 
 *Nothing currently in backlog.*
