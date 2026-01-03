@@ -96,6 +96,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-03
 **Core idea:** Calculator app task that's now one-shottable. "Yeah, whatever you like" soundboard. Looking for product ownership over technical depth. "Calculator" used to be a job title - software engineer heading somewhere similar.
 
+### Brooks' Law Redux
+**Published:** 2026-01-03
+**Core idea:** Human friction becoming the bottleneck. "The Goal" theory - as AI speeds everything up, interpersonal coordination sticks out. "The worst thing anyone could say is that someone else is going to work on it with me." Optimal engineers approaching zero. Jevons Paradox on project count. Metal Gear Solid exclamation mark ending.
+
 ---
 
 ## Backlog
@@ -103,10 +107,6 @@ Ideas extracted from ambient recordings and conversations.
 ### How Hiring Has Changed
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
-
-### Brooks' Law Redux
-**Status:** Idea
-**Core idea:** Human friction is becoming the one thing we can't optimise. Communication overhead, coordination costs - all the stuff Brooks identified. As AI handles more of the actual work, the bottleneck shifts entirely to the human side. We'll want as few people on projects as we can get away with. Ideally less than one in the long view.
 
 ---
 
