@@ -62,8 +62,8 @@ This doesn't necessarily mean fewer jobs. [Jevons Paradox](https://en.wikipedia.
 
 But when someone says they're bringing in people to help, I notice a [Metal Gear Solid exclamation mark](https://www.youtube.com/watch?v=2P5qbcRAXVk) popping up above my head.
 
-At that moment I realise: now we have two problems.
+At that moment I realise I now have two problems.
 
 The worrying thing: the LLMs could be caricatured as feeling the same way about me.
 
-Dan again: "This is of course the control problem. Not new - I just can't believe we're already here."
+Dan again - "This is of course the control problem. Not new - I just can't believe we're already here."
