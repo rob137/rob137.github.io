@@ -44,9 +44,11 @@ We're already in the middle of an Overton window shift on this. We semi-accept g
 
 I mentioned in [an earlier post](/2026/01/02/the-last-bastion.html) that the Samaritans service filters for people comfortable calling strangers on the phone. If you're not that person, you're less likely to reach out - even if you need help.
 
-Writing has a similar filter. You need time, inclination, comfort with the medium. The people who write are the people who clear those hurdles. Everyone else stays quiet.
+Writing has a similar filter. You need time, inclination, comfort with the medium. You need to be able to turn messy thoughts into coherent prose. The people who write are the people who clear those hurdles. Everyone else stays quiet.
 
-Dictation changes that. Speech is more natural than typing for most people. The friction drops. More thoughts make it out into the world.
+This changes that. Not just dictation - dictation alone would still require you to speak in publishable sentences. What changes things is rough, messy speech being transformed by AI into the post those thoughts imply. Claude Code running Opus 4.5, in my case - though it'll probably be something else in a month. The friction isn't just reduced; a whole stage of the process is handled by something else.
+
+More thoughts make it out into the world. Including ones from people who could never have written them down.
 
 ## The question
 
