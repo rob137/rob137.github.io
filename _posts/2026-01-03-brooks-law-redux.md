@@ -6,7 +6,15 @@ tags: [ai, software, teams, bottlenecks]
 excerpt: "The optimal number of engineers on a project is falling fast. It might be approaching zero."
 ---
 
-I think I'm making a trivial point, but the implications feel big and not fully understood.
+[Dan B on X](https://x.com/irl_danB/status/2007168224400683038), playing with Steve Yegge's new agent IDE:
+
+> Mental model drift is now the main problem. How do you keep your head around a system that does days of work while you went for lunch?
+
+And later:
+
+> Your intent-setting and self-verifying will be the biggest bottlenecks in the system by a long shot.
+
+I think he's making a trivial point, but the implications feel big and not fully understood.
 
 Each premise is simple. The inference between each premise is simple. But when you view them together, things are radically different.
 
