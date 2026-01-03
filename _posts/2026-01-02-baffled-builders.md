@@ -6,7 +6,7 @@ tags: [ai, llm, coding, evidence]
 excerpt: "A running list of respected programmers - people with Wikipedia pages for actually building things - expressing genuine surprise at AI coding tools."
 ---
 
-I've started collecting quotes. Not from AI startup founders or people who've pivoted into the space. From builders - people known for shipping things, with track records that predate the current moment.
+I've started collecting quotes from builders - people known for shipping things, with track records that predate the current moment. No AI startup founders. No one who's pivoted into the space.
 
 The pattern I'm looking for: genuine surprise. The moment when expectations collide with experience.
 
