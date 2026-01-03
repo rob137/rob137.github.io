@@ -54,11 +54,7 @@ And to be honest, nothing has really changed. Surprising a human will slow them 
 
 We're in that world now. It's different if you want to get things done fast.
 
-## The compound interest
-
-This means you have to seem a bit weird to anyone who hasn't gotten the joke yet. It looks like over-fussing minor details. But it's the compound interest that makes you rich. Small amounts, saved consistently. As soon as someone understands compound interest, they immediately understand saving.
-
-Maybe payday loans are a better analogy for the alternative. You decide.
+This means you have to seem a bit weird to anyone who hasn't gotten the joke yet. It looks like over-fussing minor details. But it's the compound interest that makes you rich - small amounts, saved consistently. As soon as someone understands compound interest, they immediately understand saving. Maybe payday loans are a better analogy for the alternative.
 
 ## Back to BJJ
 
