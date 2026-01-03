@@ -65,11 +65,27 @@ Ideas extracted from ambient recordings and conversations.
 ---
 
 ### The Witnesses
-**Published:** 2026-01-02
-**Core idea:** Opens with John Blow's skepticism as the bar to meet. Then presents quotes from respected programmers expressing genuine surprise - Jaana Dogan, Eric S. Raymond, Steve Yegge, Gene Kim. List will grow.
+**Published:** 2026-01-03
+**Core idea:** Opens with John Blow's skepticism as the bar to meet. Then presents quotes from respected programmers expressing genuine surprise - Jaana Dogan, ESR, Yegge, Gene Kim, Karpathy, Hassabis, Brin. List will grow.
 
 **Still collecting:** Mitchell Hashimoto quote/screenshot.
 
+### Too Comfortable
+**Published:** 2026-01-03
+**Core idea:** Terminal agents stable for a year (Aider → Claude Code). Jeff Tang satire captures the churn. Huang's law, Leopold Aschenbrenner/Sutskever on scaling. If 4x every 18 months continues, current comfort should feel suspicious.
+
 ---
 
-*Last updated: 2026-01-02*
+## Backlog
+
+### Attachment to Tools
+**Status:** Idea
+**Core idea:** Photo of my pliers - they do things better than a human hand, and there's a fondness despite not being skilled enough to justify owning them. Parallels to coding paradigms learned over career, and the ones picked up in the last year already being obviated. Should we be learning something else entirely?
+
+### Mission Command and Change Management
+**Status:** Idea
+**Core idea:** Military orders process - careful planning up front without attachment to the plan. Ink strategy used in Afghanistan by the Parachute Regiment. About changing minds around AI adoption, finding [champions/advocates - placeholder]. Change management angle.
+
+---
+
+*Last updated: 2026-01-03*
