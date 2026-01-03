@@ -5,14 +5,18 @@ permalink: /about/
 ---
 # About
 
-I'm Rob Kirby. Software engineer at a portfolio software company, currently focused on AI and LLMs.
+I'm Rob Kirby. I live near Oxford. Software engineer at a portfolio software company, currently focused on AI and LLMs.
 
 Before software I was an Intelligence Corps officer in the British Army. Before that I studied philosophy. The through-line is probably something about information and how to make sense of it.
 
-Father of three. Two dogs. Volunteer Samaritan. Currently teaching myself piano again after a long break.
+Father of three. Two dogs. BJJ brown belt. Volunteer Samaritan.
 
-This blog is where I write about things I'm noticing.
+This blog is where I write about things I'm noticing. See also: [what I'm doing now](/now/).
 
 ## Contact
 
-You can find me on [GitHub](https://github.com/rob137).
+Feel free to reach out.
+
+- [LinkedIn](https://www.linkedin.com/in/robertaxelkirby)
+- [X/Twitter](https://x.com/robkirby)
+- [GitHub](https://github.com/rob137)
