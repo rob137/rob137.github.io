@@ -92,7 +92,11 @@ Ideas extracted from ambient recordings and conversations.
 
 ## Backlog
 
-*Nothing currently in backlog.*
+### The Interview Question
+**Status:** Idea - waiting for exact question text
+**Core idea:** An interview question that felt revolutionary a year ago and is now fully redundant. Filter for AI engineering roles (swyx's definition - musicians rather than audio engineers or guitar builders). Task: write a calculator app, leave open how it should be "special". Almost had a soundboard for "yeah, whatever you like" - use any tool, AI, vibe code, ChatGPT, whatever. We want to see how they work with tools and think about product. Not off the hook for responsibility - need to demonstrate they know what's up. Bounded scenario, build for that rather than imaginary enterprise situations.
+
+**Placeholder:** [Exact interview question text to be added]
 
 ---
 
