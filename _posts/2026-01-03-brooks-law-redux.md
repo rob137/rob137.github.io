@@ -64,4 +64,4 @@ But when someone says they're bringing in people to help, I notice a [Metal Gear
 
 At that moment I realise: now we have two problems.
 
-The LLMs could be caricatured as feeling the same way about me.
+The worrying thing: the LLMs could be caricatured as feeling the same way about me.
