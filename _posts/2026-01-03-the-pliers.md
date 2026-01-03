@@ -56,8 +56,8 @@ Maybe I should be learning something else entirely. Maybe attachment to tools is
 
 Or maybe there's something valuable in the attachment itself - a grounding, a connection to craft, a reason to care about the details even when the details are shifting beneath you.
 
-There's a stranger possibility too. If the tools are increasingly chosen by AI - if I'm describing what I want rather than deciding how to build it - does attachment even develop? Or does it migrate somewhere else: to the prompts we refine, the workflows we establish, the taste we bring to evaluating outputs?
+There's a stranger possibility too. Every migration involves a decision point: when do I cut my losses on the old way and pay the tax of learning the new one? Sunk costs versus opportunity costs. That calculation has always been ours to make - and we've often made it badly, clinging too long or jumping too early.
 
-Maybe attachment itself gets automated away. Maybe that's fine. Maybe it isn't.
+If the tools are increasingly chosen by AI, maybe that decision gets delegated too. Not the attachment - that stays with us. But the moment of reckoning, the choice about when to let go. That might not be ours to agonise over for much longer.
 
 I don't know yet. But I'm keeping the pliers.
