@@ -57,6 +57,8 @@ Every so often, you'd get someone who understood immediately. Get a minimum viab
 
 ## Why it doesn't work anymore
 
+In March 2025, this felt almost cavalier as a task. Now it feels trivial.
+
 This task no longer works as an interview question. Not because it was bad - but because you can now one-shot it with any modern coding harness.
 
 Maybe that's fine for some roles. For a product manager, it might still be useful - because we're testing product ownership, not technical stretch. But for our team, it wouldn't give anyone a stretch of technical ability anymore.
