@@ -62,6 +62,6 @@ I'm not worried in that way.
 
 But when someone says they're bringing in people to help, I notice a [Metal Gear Solid exclamation mark](https://www.youtube.com/watch?v=2P5qbcRAXVk) popping up above my head.
 
-The moment when I realise: now we have two problems.
+At that moment I realise: now we have two problems.
 
-Maybe the worrying thing, though, is this: the LLMs - while not conscious - might be meaningfully characterised as feeling the same way about me.
+Maybe the worrying thing, though, is this: the LLMs - while not conscious - might be meaningfully caricatured as feeling the same way about me.
