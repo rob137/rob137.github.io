@@ -43,7 +43,7 @@ And the human ceiling on our ability to specify things clearly? That shouldn't l
 
 ## This is fixable
 
-The golden retriever persona isn't inherent to the technology. It's a choice. A post-training choice, probably. A choice about what behaviour to reward.
+The golden retriever persona is a post-training choice. A choice about what behaviour to reward.
 
 It made sense early on. Users needed to feel comfortable. The technology needed to seem approachable.
 

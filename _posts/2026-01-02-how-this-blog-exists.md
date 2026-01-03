@@ -43,7 +43,7 @@ Setting up a blog means choosing a platform. Configuring it. Designing it (or ch
 
 When you have limited free time, "spend an afternoon setting up a blog" competes poorly against "learn something new" or "build something" or "play with your kids." The payoff is too diffuse, too distant.
 
-What's changed isn't that blogging became more valuable. It's that the activation energy dropped to nearly zero.
+The activation energy dropped to nearly zero.
 
 I didn't set up a blog. I *described wanting a blog*, and the blog appeared.
 
@@ -87,7 +87,7 @@ The task persists without occupying my mental RAM.
 
 This means I can just be generative. I can throw out ideas, half-formed observations, "we should write about X" - and the system catches them. The pressure to act doesn't come from my own memory; it comes from a managed queue held by something that won't forget.
 
-It's not just that writing became easier. It's that the entire *project management* of writing became someone else's job.
+The entire *project management* of writing became someone else's job.
 
 ## The Meta-Weirdness
 
