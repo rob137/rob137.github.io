@@ -8,7 +8,13 @@ excerpt: "Terminal agents have been the stable pattern for a year now. If scalin
 
 [Jeff Tang](https://x.com/jefftangx/status/2007230663553151281) captured something real under the satire:
 
-> "oh you're still on Claude Code? we're orchestrating agents with Beads now... we ssh'd into Ralph's sandbox from Termius with Tailscale and Tmux so i could code while pooping... if you're not hyperengineering and burning 4 quadrillion tokens a microsecond for 92 peta-hours uninterrupted, you're cooked."
+> "oh you're still on Claude Code? we're orchestrating agents with Beads now. wait, Steve Yegge just shipped Gas Town, it's like Kubernetes for Coding Agents. just kidding, we put Ralph Wiggums in a for loop. we gave him a phone number and bank account and asked him to autonomously make a million dollars, so he setup a daycare center in Minneapolis
+>
+> we ssh'd into Ralph's sandbox from Termius with Tailscale and Tmux so i could code while pooping, but we hit our limit on our 10th claude code max plan. so we forked Droid's structured compaction, then stole Amp's hand-off, rewrote it in Rust, then rewrote it again in Zig in 150LOC
+>
+> but we needed a GUI for browser-use so we added opencode with playwrighter clicks, and reverse-engineered Claude Chrome over Christmas so it would work with remote browsers, and now it deterministically solves CAPTCHA from a TUI, so now Ralph is sending Hinge messages for me
+>
+> if you're not hyperengineering and burning 4 quadrillion tokens a microsecond for 92 peta-hours uninterrupted, you're cooked. 2026 is about to be wild."
 
 The joke works because the churn is real. Every week brings a new framework, a new orchestration pattern, a new way to arrange the same underlying capabilities.
 
