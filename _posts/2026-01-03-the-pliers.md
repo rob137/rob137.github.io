@@ -6,7 +6,7 @@ tags: [tools, software, identity, change]
 excerpt: "Software engineers fantasise about blue-collar work. I've been thinking about why, and what my collection of pliers has to do with it."
 ---
 
-[IMAGE PLACEHOLDER: Photo of pliers collection]
+[IMAGE PLACEHOLDER: Photo of most of the pliers collection]
 
 Almost every software engineer I know harbours some fantasy about blue-collar work.
 
