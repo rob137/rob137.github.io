@@ -74,17 +74,19 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-03
 **Core idea:** Terminal agents stable for a year (Aider → Claude Code). Jeff Tang satire captures the churn. Huang's law, Leopold Aschenbrenner/Sutskever on scaling. If 4x every 18 months continues, current comfort should feel suspicious.
 
+### First Contact
+**Published:** 2026-01-03
+**Core idea:** Three military concepts for AI agents: mission command (what not how), orders process (plan thoroughly, hold loosely), inkblot strategy (agency spreads organically). Intelligence Corps background, Sandhurst, Para Reg.
+
+### The Pliers
+**Published:** 2026-01-03
+**Core idea:** Software engineers' blue-collar fantasies. Attachment to physical tools (pliers) paralleling attachment to coding paradigms that are becoming obsolete. What to do with attachment when tools change this fast?
+
 ---
 
 ## Backlog
 
-### Attachment to Tools
-**Status:** Idea
-**Core idea:** Photo of my pliers - they do things better than a human hand, and there's a fondness despite not being skilled enough to justify owning them. Parallels to coding paradigms learned over career, and the ones picked up in the last year already being obviated. Should we be learning something else entirely?
-
-### First Contact
-**Published:** 2026-01-03
-**Core idea:** Three military concepts for AI agents: mission command (what not how), orders process (plan thoroughly, hold loosely), inkblot strategy (agency spreads organically). Intelligence Corps background, Sandhurst, Para Reg.
+*Nothing currently in backlog.*
 
 ---
 

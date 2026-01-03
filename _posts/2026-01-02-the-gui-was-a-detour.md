@@ -62,7 +62,7 @@ The GUI version requires me to know where everything is. The LLM version require
 
 A lot of software exists to be a learnable interface to underlying capabilities. If the interface becomes unnecessary, what happens to the software?
 
-I don't think Audacity disappears. There are workflows where a visual waveform genuinely helps - precise editing, seeing what you're doing, real-time feedback. The GUI isn't worthless.
+I don't think Audacity disappears. There are workflows where a visual waveform genuinely helps - precise editing, seeing what you're doing, real-time feedback. The same is true of Excel's grid for exploring data, Photoshop's canvas for iterative visual work, or ArcGIS for spatial reasoning. These tools aren't just translation layers - the visual interface itself is doing real cognitive work.
 
 But a surprising amount of what I used Audacity for turns out to be batch operations that don't need visualisation at all. I was using a visual tool for non-visual work, because that was the only accessible option.
 
