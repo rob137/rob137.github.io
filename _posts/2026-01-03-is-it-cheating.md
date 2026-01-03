@@ -18,7 +18,7 @@ The rituals persist. The practical reality moves on.
 
 Here's how I'm writing this post.
 
-I'm walking the dogs and pushing my eighteen-month-old daughter in the pram while she sleeps. I have a Bluetooth headset on - a Jabra BH71 that picks up voice well against background noise. My Android phone is in my pocket with the recorder running.
+I'm walking the dogs and pushing my eighteen-month-old daughter in the pram while she sleeps. I have a Bluetooth headset on - a Yealink BH71 that picks up voice well against background noise. My Android phone is in my pocket with the recorder running.
 
 When I'm done, I'll open the recorder app, tap share, and Tailscale will appear in the list. One tap sends the file to my laptop. I'll switch to Termux, which already has a tmux session connected via Tailscale, and tell Claude Code: "There's an audio file. Transcribe it and write the post."
 
