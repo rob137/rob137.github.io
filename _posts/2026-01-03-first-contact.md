@@ -58,9 +58,11 @@ Find these people before you try to change the organisation. Let agency spread f
 
 ## Why this matters
 
-I'm not suggesting the military is the best model for everything. There's plenty I wouldn't generalise from that world.
+I'm not suggesting the military is the best model for everything. There's plenty I wouldn't generalise from that world - it can seem like a myopic subculture in many ways.
 
-But it is a hierarchical structure with practices at each level that have been worn smooth by use. Practices that reflect different levels of delegation, different spans of control, different relationships between planning and execution.
+But there's a [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)) aspect worth noting. During operational periods - and the West has had an intense one since 9/11 - there's a forcing function. Command and control practices that don't work get people killed. The selection pressure is real. Whatever emerges from that process has been tested in ways that most organisational theory hasn't.
+
+It is a hierarchical structure with practices at each level that have been worn smooth by use. Practices that reflect different levels of delegation, different spans of control, different relationships between planning and execution.
 
 As AI agents scale the abstraction ladder - as we find ourselves delegating more, managing more autonomous systems, trusting more black boxes - these ideas become more relevant, not less.
 
