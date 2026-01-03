@@ -38,7 +38,7 @@ The pattern I'm looking for: genuine surprise. The moment when expectations coll
 
 **[Gene Kim](https://en.wikipedia.org/wiki/Gene_Kim_(author))** - Author of *The Phoenix Project* and *The DevOps Handbook*:
 
-> "It just felt like I was building the capabilities I needed at a magical pace. And code flowed like water."
+> When asked if it felt like writing 4,000 lines of code, Gene said he didn't even count until writing about it afterwards. "It just felt like I was building the capabilities I needed at a magical pace. And code flowed like water."
 
 [Source](https://itrevolution.com/articles/the-last-80-hours-of-editing-the-vibe-coding-book/)
 
