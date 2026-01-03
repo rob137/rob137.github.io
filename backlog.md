@@ -88,6 +88,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-03
 **Core idea:** Warfare analogy - technology arrives, gets called dishonorable, rules shift. Meta description of the dictation workflow. Copywriter parallel (CEO articles aren't written by CEOs). The filter of writing vs speech. Orders of magnitude more output.
 
+### Position Before Submission
+**Published:** 2026-01-03
+**Core idea:** BJJ parallel. Early exhaustion vs efficient black belts. "Spending surprise" as the new debt - stay in the training distribution. Principle of least surprise (162 mentions in chat history). Position before submission = make architecture obvious so models just know.
+
 ---
 
 ## Backlog
@@ -97,10 +101,6 @@ Ideas extracted from ambient recordings and conversations.
 **Core idea:** An interview question that felt revolutionary a year ago and is now fully redundant. Filter for AI engineering roles (swyx's definition - musicians rather than audio engineers or guitar builders). Task: write a calculator app, leave open how it should be "special". Almost had a soundboard for "yeah, whatever you like" - use any tool, AI, vibe code, ChatGPT, whatever. We want to see how they work with tools and think about product. Not off the hook for responsibility - need to demonstrate they know what's up. Bounded scenario, build for that rather than imaginary enterprise situations.
 
 **Placeholder:** [Exact interview question text to be added]
-
-### Position Before Submission
-**Status:** Idea
-**Core idea:** BJJ parallel. Early phase is exhausting because you don't know when to relax vs exert energy. Brown and black belts are often a bit overweight - they've reached the point where they barely need to exert themselves against juniors. The realisation ~5 years in: position before submission. Set things up so you don't have to work as hard. Dovetails into making codebases and technical decisions that are obvious and intuitive to LLMs - positioning yourself so the AI can do the heavy lifting.
 
 ### How Hiring Has Changed
 **Status:** Idea - reading Joel Spolsky's book
