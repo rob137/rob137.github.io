@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mission Command"
+title: "Worn Smooth by Use"
 date: 2026-01-03 08:30:00 +0000
 tags: [ai, llm, military, management, agency]
 excerpt: "Three ideas from military doctrine that apply surprisingly well to working with AI agents: mission command, the orders process, and inkblot strategy."
@@ -42,13 +42,13 @@ Plan thoroughly. Hold the plan loosely.
 
 The [inkblot strategy](https://en.wikipedia.org/wiki/Inkspot_Strategy) is a counterinsurgency approach: establish small safe areas, then let them spread and merge. It was used in Malaya, Vietnam, and more recently in Afghanistan.
 
-The relevance to AI adoption is about change management.
+The relevance to AI adoption is about how agency spreads.
 
 In any organisation, there'll be a small number of people who intuitively grasp the significance of AI early. They start tinkering, become local experts, and because AI applications are so domain-specific, they become genuine experts fast - just by spending their days working on problems in their area with these tools.
 
-These are your inkblots. Find them before you try to change the organisation. Let things spread from there.
+These are your inkblots. They're exercising agency - choosing to adopt, choosing to learn, choosing to change how they work. You can't mandate that. Trying to force adoption is like trying to force mission command: it defeats the purpose.
 
-Top-down AI mandates tend to produce compliance theatre. Organic adoption from enthusiastic early users produces actual change. The inkblots merge; the territory shifts.
+Find these people before you try to change the organisation. Let agency spread from there. The inkblots merge; the territory shifts.
 
 ## Why this matters
 
