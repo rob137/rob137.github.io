@@ -48,7 +48,7 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
-**[Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy)** - Built Tesla Autopilot, founding member of OpenAI:
+**[Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy)** - Built Tesla Autopilot, created [nanoGPT](https://github.com/karpathy/nanoGPT) and Stanford's cs231n:
 
 > "I've never felt this much behind as a programmer. The profession is being dramatically refactored... Clearly some powerful alien tool was handed around except it comes with no manual and everyone has to figure out how to hold it and operate it, while the resulting magnitude 9 earthquake is rocking the profession."
 
