@@ -102,6 +102,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea
 **Core idea:** BJJ parallel. Early phase is exhausting because you don't know when to relax vs exert energy. Brown and black belts are often a bit overweight - they've reached the point where they barely need to exert themselves against juniors. The realisation ~5 years in: position before submission. Set things up so you don't have to work as hard. Dovetails into making codebases and technical decisions that are obvious and intuitive to LLMs - positioning yourself so the AI can do the heavy lifting.
 
+### How Hiring Has Changed
+**Status:** Idea - reading Joel Spolsky's book
+**Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
+
 ---
 
 *Last updated: 2026-01-03*
