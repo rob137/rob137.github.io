@@ -18,5 +18,5 @@ This blog is where I write about things I'm noticing. See also: [what I'm doing 
 Feel free to reach out.
 
 - [LinkedIn](https://www.linkedin.com/in/robertaxelkirby)
-- [X/Twitter](https://x.com/robkirby)
+- [X/Twitter](https://x.com/probkirby)
 - [GitHub](https://github.com/rob137)
