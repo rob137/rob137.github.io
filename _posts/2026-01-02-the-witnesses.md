@@ -12,7 +12,7 @@ excerpt: "A running list of respected programmers - people with Wikipedia pages 
 
 He's earned that position through decades of building things that work. I respect it.
 
-But I keep noticing something: builders I also respect - people known for shipping, with track records that predate the current moment - expressing genuine surprise. The moment when expectations collide with experience. This is that list.
+But I keep noticing something: builders I also respect - people known for shipping, with track records that predate the current moment - expressing genuine surprise. The moment when expectations collide with experience. I've been keeping track.
 
 ---
 
