@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # About
 
-I'm Rob Kirby. I live near Oxford. Software engineer at a portfolio software company, currently focused on AI and LLMs.
+I'm Rob Kirby. I live near Oxford and work as a software engineer at a portfolio software company, currently focused on AI and LLMs.
 
 Before software I was an Intelligence Corps officer in the British Army. Before that I studied philosophy. The through-line is probably something about information and how to make sense of it.
 
