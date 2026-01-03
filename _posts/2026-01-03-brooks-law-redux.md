@@ -36,7 +36,7 @@ Communication between individuals on a team hasn't changed pace anywhere near as
 
 The AI isn't bounded in this way.
 
-Which means interpersonal communication, situational awareness, coordination - these are becoming the bottleneck. Not least because the decisions still sit with humans.
+Which means interpersonal communication, situational awareness, coordination - these are becoming the bottleneck. Dan's "mental model drift" is the single-player version: even without a team, just keeping your grip on what the system did while you were at lunch. Add other people and it compounds. Either way, the decisions still sit with humans.
 
 ## The inversion
 
