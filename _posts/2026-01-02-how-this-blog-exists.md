@@ -23,7 +23,7 @@ I pulled out my phone, opened a terminal, and typed (well, dictated):
 
 > I want to start a blog using the personal GitHub account I use in my dotfiles repository.
 
-That's it. That was the prompt.
+That was the whole prompt.
 
 Claude Code figured out my GitHub username from my dotfiles, asked what platform I wanted ([Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/), or plain HTML), and when I said I preferred simplicity but was open to frameworks if they genuinely reduced friction, it recommended Jekyll - specifically because [GitHub Pages](https://pages.github.com/) builds it automatically, meaning I'd never need to run build commands locally.
 
@@ -110,7 +110,5 @@ Lots of valuable activities have high activation energy. Writing documentation. 
 When AI can handle the mechanical parts - the scaffolding, the formatting, the boilerplate, the deployment - the activation energy drops. Things that were perpetually deferred become things you just... do.
 
 The blog exists because making a blog became almost free. The posts exist because writing them became almost free. Not free of thought - I still have to have something to say - but free of friction.
-
-That's the shift. That's what's different now.
 
 And I think we're just at the beginning of understanding what becomes possible when friction collapses across enough domains at once.

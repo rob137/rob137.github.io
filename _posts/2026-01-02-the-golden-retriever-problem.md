@@ -9,9 +9,7 @@ The helpful assistant persona is a transitional form.
 
 Early TV shows looked like radio plays. Early cars were called horseless carriages. New mediums imitate old ones until they figure out what they actually are.
 
-LLMs have been trained to be helpful assistants. Eager to please. Quick to say "I understand!" and run off with the task. Optimised to score well on benchmarks that reward this behaviour.
-
-This is the wrong model.
+LLMs have been trained to be helpful assistants. Eager to please. Quick to say "I understand!" and run off with the task. Optimised to score well on benchmarks that reward this behaviour. I think that's the wrong model.
 
 ## The staff engineer test
 
