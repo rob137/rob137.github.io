@@ -26,7 +26,9 @@ At the beginning, it was all about thinking through each minor movement you migh
 
 It's exactly the same activity. But my brain - and probably my body - has moved to meet it where it is. There's latent knowledge I can't even articulate unless I'm forced to.
 
-## The hard turn
+## The new game
+
+So what does any of this have to do with AI?
 
 Every conversation with a coding agent is a new joiner on your team. A new starter on the project in front of you.
 
