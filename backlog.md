@@ -98,6 +98,10 @@ Ideas extracted from ambient recordings and conversations.
 
 **Placeholder:** [Exact interview question text to be added]
 
+### Position Before Submission
+**Status:** Idea
+**Core idea:** BJJ parallel. Early phase is exhausting because you don't know when to relax vs exert energy. Brown and black belts are often a bit overweight - they've reached the point where they barely need to exert themselves against juniors. The realisation ~5 years in: position before submission. Set things up so you don't have to work as hard. Dovetails into making codebases and technical decisions that are obvious and intuitive to LLMs - positioning yourself so the AI can do the heavy lifting.
+
 ---
 
 *Last updated: 2026-01-03*
