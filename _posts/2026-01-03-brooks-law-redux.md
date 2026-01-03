@@ -6,7 +6,7 @@ tags: [ai, software, teams, bottlenecks]
 excerpt: "The optimal number of engineers on a project is falling fast. It might be approaching zero."
 ---
 
-[Dan B on X](https://x.com/irl_danB/status/2007168224400683038), playing with Steve Yegge's new agent IDE:
+[Dan B on X](https://x.com/irl_danB/status/2007168224400683038), playing with Steve Yegge's new agent orchestrator [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04):
 
 > Mental model drift is now the main problem. How do you keep your head around a system that does days of work while you went for lunch?
 
