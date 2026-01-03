@@ -82,7 +82,7 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea
 **Core idea:** Photo of my pliers - they do things better than a human hand, and there's a fondness despite not being skilled enough to justify owning them. Parallels to coding paradigms learned over career, and the ones picked up in the last year already being obviated. Should we be learning something else entirely?
 
-### Worn Smooth by Use
+### First Contact
 **Published:** 2026-01-03
 **Core idea:** Three military concepts for AI agents: mission command (what not how), orders process (plan thoroughly, hold loosely), inkblot strategy (agency spreads organically). Intelligence Corps background, Sandhurst, Para Reg.
 
