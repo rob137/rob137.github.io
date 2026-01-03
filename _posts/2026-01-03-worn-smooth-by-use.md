@@ -16,7 +16,7 @@ The core principle: tell subordinates *what* you want, not *how* to do it. State
 
 This is a NATO-wide doctrine, and it exists because micromanagement doesn't scale. A commander spinning cycles on how every subordinate executes their tasks will bottleneck the entire operation. Devolving agency to lower levels brings risk - you might have underperformers making bad calls. But it also brings unexpected successes from people who'd have been constrained by rigid instructions.
 
-Decades of operational experience show the gamble overwhelmingly pays off.
+The doctrine has been refined over decades. The gamble overwhelmingly pays off.
 
 The parallel to AI agents is direct. Telling a model exactly which framework to use, how to structure its code, what patterns to follow - this probably won't get better results than stating what you want and how you'll verify it works.
 
@@ -36,7 +36,9 @@ Second, the plan never survives first contact with the enemy. You go in with a s
 
 This maps well to software. You need some idea where you're going, especially in enterprise settings. But once you get moving, the usual agile instincts kick in. Estimates have always been fraught because writing the code is the only way to find out how long writing the code will take.
 
-Plan thoroughly. Hold the plan loosely.
+What's changed: implementation is becoming extremely cheap. Agents can churn through code at a pace that makes direction the scarce resource. Maintaining a clear mental model of what you're building - being able to hold the plan even as you adapt it - is now the difference between staying in control and letting things run amok.
+
+Plan thoroughly. Hold the plan loosely. But hold it.
 
 ## Inkblot strategy
 
