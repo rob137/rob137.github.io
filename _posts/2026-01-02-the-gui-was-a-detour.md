@@ -34,7 +34,7 @@ When I approach [Claude Code](https://docs.anthropic.com/en/docs/claude-code) wi
 
 "I have these audio files. The quality isn't great. What can I do?"
 
-That's not a command. It's not even a well-specified request. It's an invitation to explore the problem space together.
+That's an invitation to explore the problem space together.
 
 And here's the thing: the LLM knows what's possible. It knows ffmpeg can normalise audio, reduce noise, trim silence, convert formats. It knows what a few hundred lines of Python can accomplish. I don't need to know this. I just need to be open to discovering it.
 
