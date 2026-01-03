@@ -64,6 +64,14 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
+**[Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin)** - Co-created Google and PageRank, came out of retirement to work on Gemini:
+
+> "I was just kind of stewing and felt myself spiraling, not being sharp... To be able to have that technical creative outlet, I think that's very rewarding. If I'd stayed retired, I think that would've been a big mistake."
+
+[Source](https://fortune.com/2025/12/15/sergey-brin-spiraling-before-returning-to-google-gemini-retirement/) (December 2025)
+
+---
+
 ## Why this matters
 
 These aren't impressionable newcomers. They're people who've been sceptical of hype before - often correctly. When someone who wrote foundational texts on open source development says their workflow has permanently changed, it's worth paying attention.
