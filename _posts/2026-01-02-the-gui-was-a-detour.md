@@ -46,11 +46,13 @@ You're not wrestling with a tool. You're having a conversation about what you're
 
 ## The GUI Was a Detour
 
-Here's the realisation that's been creeping up on me: the graphical interface wasn't the destination. It was a waypoint.
+Here's the realisation that's been creeping up on me: for a certain class of tasks, the graphical interface wasn't the destination. It was a waypoint.
 
-GUIs existed because humans couldn't reliably produce the correct incantations for command-line tools. The activation energy was too high. So we built translation layers - visual interfaces that turned clicks into commands.
+I'm not talking about visual tools for genuinely visual work - Photoshop for iterative image editing, Excel for exploring data spatially, ArcGIS for reasoning about geography. Those interfaces aren't just making something accessible. They're the right way to think about the problem.
 
-But the underlying power was always in the CLI. The GUI was just making it accessible.
+But a lot of GUI software exists to wrap CLI tools. Audacity, for many use cases, is a visual interface to operations that don't require visualisation. GUIs existed because humans couldn't reliably produce the correct incantations for command-line tools. The activation energy was too high. So we built translation layers - visual interfaces that turned clicks into commands.
+
+For that class of software, the underlying power was always in the CLI. The GUI was just making it accessible.
 
 Now LLMs make the CLI accessible directly. You can skip the GUI entirely. And when you do, you get *more* power, not less - because you're no longer constrained by what some product designer decided to expose through menus and buttons.
 
@@ -62,7 +64,7 @@ The GUI version requires me to know where everything is. The LLM version require
 
 A lot of software exists to be a learnable interface to underlying capabilities. If the interface becomes unnecessary, what happens to the software?
 
-I don't think Audacity disappears. There are workflows where a visual waveform genuinely helps - precise editing, seeing what you're doing, real-time feedback. The same is true of Excel's grid for exploring data, Photoshop's canvas for iterative visual work, or ArcGIS for spatial reasoning. These tools aren't just translation layers - the visual interface itself is doing real cognitive work.
+I don't think Audacity disappears. There are workflows where a visual waveform genuinely helps - precise editing, seeing what you're doing, real-time feedback.
 
 But a surprising amount of what I used Audacity for turns out to be batch operations that don't need visualisation at all. I was using a visual tool for non-visual work, because that was the only accessible option.
 
