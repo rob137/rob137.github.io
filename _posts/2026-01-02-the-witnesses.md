@@ -56,7 +56,7 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
-**[Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)** - Lead programmer on *Theme Park* at 17, founder of DeepMind, Nobel Prize winner:
+**[Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)** - Sole programmer on *Theme Park* (in assembly, at 17), founder of DeepMind, Nobel Prize winner:
 
 > "Honestly, anybody who's a computer scientist should not be retired right now. There's just never been a greater, sort of, problem and opportunity — greater cusp of technology."
 
