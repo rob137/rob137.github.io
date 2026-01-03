@@ -56,13 +56,7 @@ What I can see is that the threshold has come right down. It might be approachin
 
 The scary thing: the optimal number of engineers on a project might be less than one, in the broadest view of time.
 
-## Jevons Paradox
-
-For now, organisations will think in terms of cost gains on a per-project basis. But the usual adages about [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox) do apply. Given the ability to do more with less, any company that can see a profit will simply want to do more. And if they can't mobilise, someone else will come along and eat their lunch.
-
-I'm not worried about the socioeconomic implications of supposedly needing fewer workers on projects. The number of projects is dynamically influenced by the amount a person can get done. Whether something is worth starting determines whether you ever bother. There's survivor bias already, and that will only continue.
-
-I'm not worried in that way.
+This doesn't necessarily mean fewer jobs. [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox) applies: do more with less, and you just do more. The number of projects worth starting changes when the cost of starting them drops.
 
 ## The exclamation mark
 
