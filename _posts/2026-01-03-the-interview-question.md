@@ -69,7 +69,7 @@ The half-life of interview questions is getting shorter.
 
 There's a big difference between someone who knows how to code and someone who knows how to create a great product. You could argue the latter is a superset of the former - especially when you [shrink team sizes](/2026/01/03/position-before-submission.html) sufficiently.
 
-Hiring is becoming a major concern as tools and workflows shift. The ideal candidate profile is morphing under our feet. We're becoming less specialised as a field. The boundaries are fuzzing up.
+Hiring is becoming a major concern as tools and workflows shift. What we're looking for keeps changing. The field is becoming less specialised. The boundaries are fuzzing up.
 
 "Calculator" used to be a job title. It's now absolutely still a skill - but it isn't rarefied in quite the same way. It isn't set apart from everything else.
 
