@@ -22,7 +22,9 @@ That stability should feel suspicious.
 
 Call it a rough 4x every 18 months if you want a round number. That would mean 16x in three years.
 
-[Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) put it this way on the Dwarkesh Podcast: "2020 to 2025 was the age of scaling... scaling sucked out all the air in the room." The implication being that we've been riding a wave, and the wave isn't done.
+[Leopold Aschenbrenner](https://www.dwarkesh.com/p/leopold-aschenbrenner) put it concretely: "GPT-2 was kind of like a preschooler. GPT-4 could write code and do hard math, like a smart high schooler." That's two years of scaling. Two more iterations at the same rate gets you somewhere else entirely.
+
+[Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) framed it differently on the same podcast: "2020 to 2025 was the age of scaling... scaling sucked out all the air in the room." The wave isn't done.
 
 ## The lurch
 
