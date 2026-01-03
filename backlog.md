@@ -71,7 +71,7 @@ Ideas extracted from ambient recordings and conversations.
 **Core idea:** Genuine bafflement from well-known, respected programmers - people with Wikipedia pages for actually building things. Not AI startup people, not people who've shifted into AI work. Real names, real credentials, real surprise.
 
 **Collected so far:**
-- **Jaana Dogan (@rakyll)** - Senior Google engineer. "I gave Claude Code a description of the problem, it generated what we built last year in an hour." (Jan 2026)
+- **Jaana Dogan (@rakyll)** - Senior Google engineer. "I gave Claude Code a description of the problem, it generated what we built last year in an hour." (Jan 2026) https://x.com/rakyll/status/2007239758158975130
 - **Eric S. Raymond** - The Cathedral and the Bazaar, fetchmail, gpsd. "My life has changed this week. There's finally an AI coding tool that's good enough to keep up with me... Going back to coding without AI would be plain stupid." (April 2025, on Aider) https://x.com/esrtweet/status/1910809356381413593
 - **Mitchell Hashimoto** - HashiCorp founder (Vagrant, Terraform). (Find quote)
 - **Steve Yegge** - Amazon, Google, Sourcegraph. "We all knew this was coming, but nobody knew it would be here now."
