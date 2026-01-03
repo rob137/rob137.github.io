@@ -34,9 +34,9 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 **[Steve Yegge](https://en.wikipedia.org/wiki/Steve_Yegge)** - Amazon, Google, Sourcegraph. Famous for the [Platforms Rant](https://gist.github.com/chitchcock/1281611):
 
-> "It can power through shockingly impressive tasks, using nothing but chat... It might look antiquated but it makes Cursor, Windsurf, Augment and the rest of the lot FEEL antiquated."
+> "We're moving from where you have to write the code to where the LLM will write the code and you're just having a conversation with it about the code."
 
-[Source](https://x.com/Steve_Yegge/status/1898674257808515242) (March 2025)
+[Source](https://sourceforge.net/articles/the-evolution-and-future-of-ai-coding-sourcegraph-sourceforge-podcast-episode-24/) (2024)
 
 ---
 
