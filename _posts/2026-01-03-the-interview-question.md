@@ -53,7 +53,7 @@ The whole idea: you want them to look you in the eye and explain that they're co
 
 The pattern we typically saw: candidates would scrape around trying to do things "properly" - the old way - before realising they had 10-15 minutes left. Then they'd bang it into a coding harness and optimise for the minimal number of bugs.
 
-Every so often, you'd get someone who understood immediately. Get a minimum viable working version first, so you can collect your thoughts and start brainstorming with LLMs for how to improve it. Those were the people we were looking for.
+Every so often, you'd get someone who understood immediately. Get a minimum viable working version first, so you can collect your thoughts - and then brainstorm with LLMs for how to make it *special*. Real panache around questions of user experience and delight. Not just meeting a basic spec, but showing they genuinely care about what it feels like to use. Those were the people we were looking for.
 
 ## Why it doesn't work anymore
 
