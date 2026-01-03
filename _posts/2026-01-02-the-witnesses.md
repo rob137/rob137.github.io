@@ -48,6 +48,14 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
+**[Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy)** - Built Tesla Autopilot, founding member of OpenAI:
+
+> "I've never felt this much behind as a programmer. The profession is being dramatically refactored... Clearly some powerful alien tool was handed around except it comes with no manual and everyone has to figure out how to hold it and operate it, while the resulting magnitude 9 earthquake is rocking the profession."
+
+[Source](https://x.com/karpathy/status/2004607146781278521) (December 2025)
+
+---
+
 **[Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)** - Lead programmer on *Theme Park* at 17, founder of DeepMind, Nobel Prize winner:
 
 > "Honestly, anybody who's a computer scientist should not be retired right now. There's just never been a greater, sort of, problem and opportunity — greater cusp of technology."
