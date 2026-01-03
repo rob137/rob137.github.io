@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Too Comfortable"
-date: 2026-01-03 09:00:00 +0000
+date: 2026-01-03 07:00:00 +0000
 tags: [ai, llm, coding, scaling, tools]
 excerpt: "Terminal agents have been the stable pattern for a year now. If scaling laws hold, that stability should feel suspicious."
 ---
