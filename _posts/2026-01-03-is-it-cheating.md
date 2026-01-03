@@ -26,6 +26,8 @@ The model will transcribe the audio, write it up, commit it, push to GitHub, whe
 
 I'm dictating ideas, not text. The AI is absolutely part of the process - it turns my rambling, my half-formed thoughts, my mid-sentence course corrections into written form. I wrote no code and no copy. And yet it's all mine.
 
+I review the posts in a web browser on my phone - easier to read than diffs in Termux. Testing in production. If I spot something I'd change, I tell the model; it makes the edit and publishes in under twenty seconds. The iteration loop is tighter than anything I've experienced before.
+
 That's the thing I keep coming back to. It's more faithful to my ideas than if I sat down and typed. I'm prone to distraction when writing. Less so when talking. The thoughts come out closer to what I actually mean.
 
 ## The copywriter
