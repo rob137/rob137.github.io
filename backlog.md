@@ -74,8 +74,9 @@ Ideas extracted from ambient recordings and conversations.
 - **Jaana Dogan (@rakyll)** - Senior Google engineer. "I gave Claude Code a description of the problem, it generated what we built last year in an hour." (Jan 2026)
 - **Eric S. Raymond** - Similar reactions to aider, early 2025. (Find exact quote)
 - **Mitchell Hashimoto** - HashiCorp founder (Vagrant, Terraform). (Find quote)
+- **Steve Yegge** - Amazon, Google, Sourcegraph. Gas Town post, Latent Space interview. (Already cited elsewhere)
 
-**Need:** 1-2 more examples of similar weight.
+**Need:** 1 more example of similar weight.
 
 ---
 
