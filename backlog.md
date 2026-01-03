@@ -74,8 +74,8 @@ Ideas extracted from ambient recordings and conversations.
 - **Jaana Dogan (@rakyll)** - Senior Google engineer. "I gave Claude Code a description of the problem, it generated what we built last year in an hour." (Jan 2026)
 - **Eric S. Raymond** - Similar reactions to aider, early 2025. (Find exact quote)
 - **Mitchell Hashimoto** - HashiCorp founder (Vagrant, Terraform). (Find quote)
-- **Steve Yegge** - Amazon, Google, Sourcegraph. Gas Town post, Latent Space interview. (Already cited elsewhere)
-- **Gene Kim** - The Phoenix Project, DevOps Handbook. (Find quote)
+- **Steve Yegge** - Amazon, Google, Sourcegraph. "We all knew this was coming, but nobody knew it would be here now."
+- **Gene Kim** - The Phoenix Project, DevOps Handbook. Told Claude Code to run cURL itself, 45 seconds later it said "I tried six different iterations and got it working." For Gene, that was "life changing."
 
 **Need:** Have 5, could add more if spotted.
 
