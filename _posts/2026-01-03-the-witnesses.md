@@ -72,7 +72,7 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
-**[David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)** - Created Ruby on Rails, founder of Basecamp and HEY:
+**[David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)** - Built [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails), [Basecamp](https://en.wikipedia.org/wiki/Basecamp_(company)), and [HEY](https://en.wikipedia.org/wiki/HEY_(email_service)):
 
 > "AI allows me to have all the best of [pair programming]! I'm an introvert - in the past I've only been able to do pair programming for about five minutes before I want to jump off a bridge... I feel highly confident now that I could sit down with AI and have something in the App Store by the end of the week."
 
@@ -80,7 +80,7 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
-**[Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)** - Creator of Python:
+**[Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)** - Built [Python](https://en.wikipedia.org/wiki/Python_(programming_language)):
 
 > "I use [Copilot] every day... The creative work of deciding what you want the code to do is totally yours. But it's a great assistant for the boring stuff."
 
