@@ -56,6 +56,8 @@ We're in that world now. It's different if you want to get things done fast.
 
 This means you have to seem a bit weird to anyone who hasn't gotten the joke yet. It looks like over-fussing minor details. But it's the compound interest that makes you rich - small amounts, saved consistently. As soon as someone understands compound interest, they immediately understand saving. Maybe payday loans are a better analogy for the alternative.
 
+For existing projects, it might even be worth worrying less about this week's Jira tickets and more about how to make the project more boring. Dan McKinley's [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) made the case for conservative technology choices. But it's not just about technologies - it's about structures, use of libraries, directory layouts, naming conventions. All of it. The less surprising, the faster the models move.
+
 ## Back to BJJ
 
 The connection is expertise. The feeling of things being just what you expect.
