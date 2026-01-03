@@ -64,4 +64,19 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
+## Collecting
+
+### Baffled Builders
+**Status:** Collecting examples (need 3-5)
+**Core idea:** Genuine bafflement from well-known, respected programmers - people with Wikipedia pages for actually building things. Not AI startup people, not people who've shifted into AI work. Real names, real credentials, real surprise.
+
+**Collected so far:**
+- **Jaana Dogan (@rakyll)** - Senior Google engineer. "I gave Claude Code a description of the problem, it generated what we built last year in an hour." (Jan 2026)
+- **Eric S. Raymond** - Similar reactions to aider, early 2025. (Find exact quote)
+- **Mitchell Hashimoto** - HashiCorp founder (Vagrant, Terraform). (Find quote)
+
+**Need:** 1-2 more examples of similar weight.
+
+---
+
 *Last updated: 2026-01-02*
