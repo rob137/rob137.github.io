@@ -15,11 +15,11 @@ I'm on a music arc at the minute. I tend to cycle through interests a couple of 
 
 Teaching myself piano again. Learning by rote, mostly - just repeating pieces until the hard bits become natural, then picking up another when I get bored. Currently working through the Outset Island theme from Zelda: The Wind Waker, quite slowly. A lot of video game nostalgia from the early 2000s. Also Eric Satie - Gymnopédie No. 1 and that sort of thing.
 
-Playing entirely for pleasure. It's been kind of life-changing. The kids are really enjoying it with me.
+Playing entirely for pleasure. It's been kind of life-changing. My eldest daughter is learning piano at the moment, so we're learning together to some degree - I figured it would help to show an interest as she's getting started herself. The kids are really enjoying it.
 
 ## BJJ
 
-Brown belt. Trying to patch gaps in my leg locks game this year. Luckily I have good training partners and friends at my current gym.
+Brown belt. Trying to patch gaps in my leg locks game this year. Luckily I have good friends and training partners at my current and previous gyms.
 
 ## Family
 
