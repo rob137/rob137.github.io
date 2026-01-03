@@ -8,7 +8,9 @@ excerpt: "Technology arrives and changes the game. There's usually a period wher
 
 A recurring pattern in the history of warfare: technology arrives and changes the game. The crossbow. Plate armour. The musket. Each time, there's a period where the new approach is considered dishonorable - a violation of chivalric code, an affront to martial culture.
 
-Regiments that built their identity around a particular way of fighting either adapt or maintain their traditions at great cost. Eventually the rules shift. There are still armoured regiments in the British Army known as cavalry, but there are no horses. The Parachute Regiment still conducts static-line jumps as part of training and regimental routine, but it's not something any of them do in combat these days.
+Regiments that built their identity around a particular way of fighting either adapt or maintain their traditions at great cost. The cost being: they lose. The force with no answer to the new technology gets run down. Honour is expensive when the other side isn't playing by the same rules.
+
+Eventually the rules shift. There are still armoured regiments in the British Army known as cavalry, but there are no horses. The Parachute Regiment still conducts static-line jumps as part of training and regimental routine, but it's not something any of them do in combat these days.
 
 The rituals persist. The practical reality moves on.
 
@@ -36,6 +38,8 @@ Is that cheating?
 
 I suppose in some sense it is, if you're putting a name on something you didn't write. Except it's done everywhere, has been for decades, to the point where getting shrill about it would feel naive.
 
+We're already in the middle of an Overton window shift on this. We semi-accept ghostwriting even if we don't fully acknowledge the implications. The rules changed; we just didn't update the discourse.
+
 ## The filter
 
 I mentioned in [an earlier post](/2026/01/02/the-last-bastion.html) that the Samaritans service filters for people comfortable calling strangers on the phone. If you're not that person, you're less likely to reach out - even if you need help.
@@ -49,5 +53,9 @@ Dictation changes that. Speech is more natural than typing for most people. The 
 I could write this myself. I can type, and I have in the past. But I'm producing more now - orders of magnitude more - than I ever did when writing was the bottleneck.
 
 Is it cheating? Or is it just how things work now?
+
+The same question applies to software, and to plenty of other work besides. Code I would have written by hand now gets generated from descriptions. Designs I would have sketched get roughed out by models. The person is still there - directing, evaluating, iterating - but the mechanical production has shifted.
+
+We're mid-shift on this too. Semi-accepting, not fully acknowledged. The opportunity cost of refusing to engage is already real, even if the discourse hasn't caught up.
 
 I think the rules are shifting. They usually do.
