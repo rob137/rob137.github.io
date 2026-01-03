@@ -18,15 +18,15 @@ The rituals persist. The practical reality moves on.
 
 Here's how I'm writing this post.
 
-I'm walking the dogs and pushing my eighteen-month-old daughter in the pram while she sleeps. I have a Bluetooth headset on - a Jabra that picks up voice well against background noise. My Android phone is in my pocket with the recorder running.
+I'm walking the dogs and pushing my eighteen-month-old daughter in the pram while she sleeps. I have a Bluetooth headset on - a Jabra BH71 that picks up voice well against background noise. My Android phone is in my pocket with the recorder running.
 
-When I'm done, I'll open the recorder app, tap share, and Tailscale will appear in the list. One tap sends the file to my laptop. I'll switch to Termux, which is already connected to an active tmux session running Claude Code, and say: "There's an audio file. Transcribe it and write the post."
+When I'm done, I'll open the recorder app, tap share, and Tailscale will appear in the list. One tap sends the file to my laptop. I'll switch to Termux, which already has a tmux session connected via Tailscale, and tell Claude Code: "There's an audio file. Transcribe it and write the post."
 
 The model will transcribe the audio, write it up, commit it, push to GitHub, where a pipeline - also set up entirely by the model - publishes it to the blog.
 
-I haven't written a line of code for any of this. More than that: I haven't sat down at a keyboard and typed any of the posts. I dictate ideas - sometimes quite rough, full of bobbing and weaving, changing my mind mid-sentence. The model turns it into written form.
+I'm dictating ideas, not text. The AI is absolutely part of the process - it turns my rambling, my half-formed thoughts, my mid-sentence course corrections into written form. I wrote no code and no copy. And yet it's all mine.
 
-So far it's working better than I could do myself. Not just faster - more faithful to my ideas. I'm prone to distraction when writing. Less so when talking.
+That's the thing I keep coming back to. It's more faithful to my ideas than if I sat down and typed. I'm prone to distraction when writing. Less so when talking. The thoughts come out closer to what I actually mean.
 
 ## The copywriter
 
