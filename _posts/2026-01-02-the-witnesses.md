@@ -6,7 +6,7 @@ tags: [ai, llm, coding, evidence]
 excerpt: "A running list of respected programmers - people with Wikipedia pages for actually building things - expressing genuine surprise at AI coding tools."
 ---
 
-[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) - creator of *Braid* and *The Witness* - [thinks current AI can't code](https://x.com/Jonathan_Blow/status/2006479911750611333):
+[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) - creator of *Braid* and *The Witness* - [recently](https://x.com/Jonathan_Blow/status/2006479911750611333):
 
 > "Current AIs can't code. It's clear by now that everyone who thinks they can are not good programmers themselves, and/or only ever do trivial problems."
 
