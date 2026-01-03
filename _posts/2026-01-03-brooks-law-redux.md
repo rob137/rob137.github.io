@@ -54,7 +54,7 @@ It's funny: in every job I've had, managers have only a fuzzy idea of what this 
 
 What I can see is that the threshold has come right down. It might be approaching zero.
 
-The scary thing: the optimal number of engineers on a project might be less than one, in the broadest view of time.
+The optimal number of engineers on a project might be less than one, in the broadest view of time.
 
 This doesn't necessarily mean fewer jobs. [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox) applies: do more with less, and you just do more. The number of projects worth starting changes when the cost of starting them drops.
 
