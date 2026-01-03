@@ -14,7 +14,7 @@ I keep finding to-do items in my notes that look like this:
 >
 > No Azure subscription is required yet; we use Azurite, SQLite and local Azure Functions Core Tools to emulate the cloud.
 
-That's a prompt.
+It's a prompt, really.
 
 ## Writing vs Speaking
 

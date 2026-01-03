@@ -93,4 +93,4 @@ All of these are text ingestion problems. All of them have friction that exists 
 
 The processes remain. The protection remains. The anguish disappears.
 
-That's the revolution. Not subverting bureaucracy. Respecting it - without being crushed by it.
+Respecting the fence - without being crushed by it.
