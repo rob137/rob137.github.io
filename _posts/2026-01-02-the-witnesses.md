@@ -54,4 +54,8 @@ These aren't impressionable newcomers. They're people who've been sceptical of h
 
 I'm not trying to convince anyone. If you've tried these tools and found them lacking, fair enough. But if you haven't tried them - or tried them a year ago and wrote them off - the landscape has shifted.
 
+One more thing: Blow might have a point about problem classes. There's probably still a gap between what these tools can do with enterprise code, distributed systems, and web services versus highly optimised game engines or low-level systems programming. The witnesses above are mostly in the former camp.
+
+But the economic utility of that camp is vast. If Blow is right that the models only help with "trivial" problems, and those problems happen to represent most of the software industry's output, then he and the witnesses might just be talking past each other.
+
 This list will keep growing.
