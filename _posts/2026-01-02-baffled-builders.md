@@ -48,6 +48,10 @@ I'm not trying to convince anyone. If you've tried these tools and found them la
 
 ## A note on sceptics
 
-[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) remains unconvinced. He's earned that scepticism through decades of building things that work. I respect the position.
+[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) - creator of *Braid* and *The Witness* - [disagrees](https://x.com/Jonathan_Blow/status/2006479911750611333):
+
+> "Current AIs can't code. It's clear by now that everyone who thinks they can are not good programmers themselves, and/or only ever do trivial problems."
+
+He's earned that scepticism through decades of building things that work. I respect the position.
 
 This list will keep growing until his standards are met.
