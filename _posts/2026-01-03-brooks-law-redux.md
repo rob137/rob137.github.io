@@ -14,9 +14,7 @@ And later:
 
 > Your intent-setting and self-verifying will be the biggest bottlenecks in the system by a long shot.
 
-I think he's making a trivial point, but the implications feel big and not fully understood.
-
-Each premise is simple. The inference between each premise is simple. But when you view them together, things are radically different.
+He's onto something. Each premise is simple. The inference between each premise is simple. But when you view them together, things are radically different.
 
 ## The premises
 
