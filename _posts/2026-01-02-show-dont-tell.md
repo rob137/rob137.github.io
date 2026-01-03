@@ -9,7 +9,11 @@ LLMs are unreasonably good at associative thinking. Almost nobody is talking abo
 
 ## The discovery
 
-I needed to buy something. Important category - the kind where I let myself go deep rather than satisficing with the first good-enough option.
+I'm a particular kind of frugal. Happy to spend money where there's a payoff, but I frame cost efficiency on a decades level rather than skimping on purchases. Prosumer territory - the products respected but not favoured by professionals, because professionals are paid to worry about the final 5% which I never want to care about.
+
+This can become pathological. There's a risk of getting caught in an optimization loop, hunting for failure modes and trade-offs, moving in circles because no product is perfect. So I'm mindful of when I let myself go deep. Most categories, I satisfice with the first good-enough option. But when the category matters - something professional, something that affects quality of life - I double down.
+
+Recently I needed something in that second category.
 
 My process: talk to an LLM, present the problem, get suggestions, chase the question about each suggestion until I find a caveat, pose the caveat back, repeat. Two hours later I'd convinced myself three separate products were correct before finding the failure mode in each. The fourth stuck.
 
