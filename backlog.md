@@ -75,8 +75,9 @@ Ideas extracted from ambient recordings and conversations.
 - **Eric S. Raymond** - Similar reactions to aider, early 2025. (Find exact quote)
 - **Mitchell Hashimoto** - HashiCorp founder (Vagrant, Terraform). (Find quote)
 - **Steve Yegge** - Amazon, Google, Sourcegraph. Gas Town post, Latent Space interview. (Already cited elsewhere)
+- **Gene Kim** - The Phoenix Project, DevOps Handbook. (Find quote)
 
-**Need:** 1 more example of similar weight.
+**Need:** Have 5, could add more if spotted.
 
 ---
 
