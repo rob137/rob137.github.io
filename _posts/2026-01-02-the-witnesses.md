@@ -64,11 +64,11 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
-**[Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin)** - Co-created Google and PageRank, came out of retirement to work on Gemini:
+**[Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin)** - Co-created Google and PageRank, came out of retirement and started submitting code again:
 
-> "I was just kind of stewing and felt myself spiraling, not being sharp... To be able to have that technical creative outlet, I think that's very rewarding. If I'd stayed retired, I think that would've been a big mistake."
+> "The Gemini team has to be the most efficient coders and A.I. scientists in the world by using our own A.I."
 
-[Source](https://fortune.com/2025/12/15/sergey-brin-spiraling-before-returning-to-google-gemini-retirement/) (December 2025)
+[Source](https://9to5google.com/2025/02/27/sergey-brin-google-agi/) (February 2025, internal memo)
 
 ---
 
