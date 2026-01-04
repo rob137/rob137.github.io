@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Last Bastion"
+title: "Last Bastion"
 date: 2026-01-02 16:00:00 +0000
 tags: [ai, llm, society, samaritans, human]
 excerpt: "If you were looking for work that's fundamentally about human connection, the Samaritans would be it. Surely AI has to flow around this, not through it. And yet."

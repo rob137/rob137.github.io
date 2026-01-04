@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Expanding Universe"
+title: "Expanding Universe"
 date: 2026-01-04 14:00:00 +0000
 tags: [ai, coding, domains, spectrum]
 excerpt: "The spectrum of viable workflows is widening. Some domains will be fully automated. Others might never accommodate AI at all."
@@ -52,7 +52,7 @@ His work on [tinygrad](https://github.com/tinygrad/tinygrad) is low-level, perfo
 
 He sees some utility. Not transformative.
 
-[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow), [January 2026](/2026/01/03/the-witnesses/):
+[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow), [January 2026](/2026/01/03/witnesses/):
 
 > "Current AIs can't code. It's clear by now that everyone who thinks they can are not good programmers themselves, and/or only ever do trivial problems."
 
@@ -62,7 +62,7 @@ Game engines. Low-level optimisation. The stubborn end of the spectrum.
 
 I wrote a few days ago about [crossing a threshold](/2026/01/02/crossing-the-horizon/). For some domains, that threshold has been crossed - outer-loop coding works. For others, it hasn't. Maybe it will eventually. Maybe it won't.
 
-We're also still in what I've called the [horseless carriage phase](/2026/01/02/the-golden-retriever-problem/) - new mediums imitating old ones until they figure out what they actually are. We haven't had decades to stabilise on the right workflows. New practices are appearing at the fringes and in between, faster than anyone can keep track of. The temperature is moving so quickly that viable approaches multiply while we're still learning the previous ones.
+We're also still in what I've called the [horseless carriage phase](/2026/01/02/golden-retriever-problem/) - new mediums imitating old ones until they figure out what they actually are. We haven't had decades to stabilise on the right workflows. New practices are appearing at the fringes and in between, faster than anyone can keep track of. The temperature is moving so quickly that viable approaches multiply while we're still learning the previous ones.
 
 I look at scaling laws and feel fairly confident the tide will rise to cover every domain. But maybe I'm wrong. Maybe some work is genuinely stubborn. The skeptics might be seeing real limits rather than temporary gaps.
 

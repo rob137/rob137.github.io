@@ -32,7 +32,7 @@ Dogs have co-evolved with humans. The ones around today are descended from wolve
 
 But bits of their biology aren't what you'd expect from the surface. Dogs aren't fundamentally alien - throwing them in with genuinely foreign creatures would be throwing the baby out with the bathwater. They're just different in ways you don't get from looking at them.
 
-AI is similar. The transformer architecture gives us something a bit unfamiliar underneath, wrapped in the most human interface imaginable - language. Bits of the mask are more human than most humans. I've [written before](/2026/01/02/the-last-bastion/) about how well the models handle emotional conversations. But other things don't seem quite right. I can tell when I've slipped from a reasoning model to a standard one - something isn't there, like when the Terminator's face gets damaged and you glimpse the metal underneath.
+AI is similar. The transformer architecture gives us something a bit unfamiliar underneath, wrapped in the most human interface imaginable - language. Bits of the mask are more human than most humans. I've [written before](/2026/01/02/last-bastion/) about how well the models handle emotional conversations. But other things don't seem quite right. I can tell when I've slipped from a reasoning model to a standard one - something isn't there, like when the Terminator's face gets damaged and you glimpse the metal underneath.
 
 ## The higher bar
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Blank Page"
+title: "Blank Page"
 date: 2026-01-04 20:00:00 +0000
 tags: [ai, adhd, work, personality, dopamine]
 excerpt: "The 2am essay paralysis. The physical excruciation of getting started. For certain personality types, LLMs have made it disappear."
@@ -46,7 +46,7 @@ The idea that you can flick on dictation, or Super Whisper, and the problem of s
 
 ## The personality question
 
-I've [written before](/2026/01/02/the-golden-retriever-problem/) about how it takes potentially a decade or two to catch up with a big technological change. There's an overhang in terms of form factor and metaphor.
+I've [written before](/2026/01/02/golden-retriever-problem/) about how it takes potentially a decade or two to catch up with a big technological change. There's an overhang in terms of form factor and metaphor.
 
 I suspect there are implications for personality types that will have decades of overhang too.
 

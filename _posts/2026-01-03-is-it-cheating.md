@@ -46,7 +46,7 @@ Academic papers handle this differently. Multi-author attribution is explicit - 
 
 ## The filter
 
-I mentioned in [an earlier post](/2026/01/02/the-last-bastion.html) that the Samaritans service filters for people comfortable calling strangers on the phone. If you're not that person, you're less likely to reach out - even if you need help.
+I mentioned in [an earlier post](/2026/01/02/last-bastion/) that the Samaritans service filters for people comfortable calling strangers on the phone. If you're not that person, you're less likely to reach out - even if you need help.
 
 Writing has a similar filter. You need time, inclination, comfort with the medium. You need to be able to turn messy thoughts into coherent prose. The people who write are the people who clear those hurdles. Everyone else stays quiet.
 
