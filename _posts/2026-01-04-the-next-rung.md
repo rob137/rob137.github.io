@@ -14,7 +14,7 @@ Paul Gauthier, Aider's creator, was early. He set things up for everyone else. T
 
 ## The next question
 
-Running multiple agents at once - orchestrating them rather than managing one at a time - is becoming a topic lately. Chris Laidler, one of the best people I know at staying current with this stuff, has been thinking about it: "I don't believe agents running agents is ready yet."
+Running multiple agents at once - orchestrating them rather than managing one at a time - is becoming a topic lately. [Chris Laidler](https://x.com/ChrisLaidl67565), one of the best people I know at staying current with this stuff, has been thinking about it: "I don't believe agents running agents is ready yet."
 
 Steve Yegge just released [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04), an orchestrator for Claude Code. Even he includes this warning:
 
