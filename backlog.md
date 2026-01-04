@@ -132,6 +132,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea
 **Core idea:** Built an Emacs tool called Corsair (top project on GitHub). Already obsolete. The workflow it supported is no longer relevant following terminal-based agents and IDE-integrated tools. Personal example of how fast things are moving.
 
+### Gateway Drug
+**Status:** Idea
+**Core idea:** GitHub Copilot as weird gateway drug into neurology and philosophy of intelligence. All roads lead to the brain - the only existence proof of what people call AGI. Suspicion that AGI is in the eye of the beholder, deeply anthropocentric definition. Beff Jezos on Lex Fridman: extended quote about many other forms of intelligence and the term AGI being anthropocentric. Find the quote.
+
 ---
 
 *Last updated: 2026-01-04*
