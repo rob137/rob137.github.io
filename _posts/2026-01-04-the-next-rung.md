@@ -30,4 +30,4 @@ The [abstraction ladder](/2026/01/03/first-contact/) keeps extending. Each rung 
 
 There's a more general lesson here about managing exploratory tool usage. Wait until things are mature and you'll be late. But you can also burn a lot of time and energy checking whether things are almost ready.
 
-I don't have a good answer to this. But if you're a skunk works team within your organisation - or if you're trying to [be the inkblot yourself](/2026/01/03/first-contact/) - it makes sense to be continually asking these questions. Somebody has to stay close enough to know when the tipping point arrives.
+I don't have a good answer to this. But if you're a skunk works team within your organisation - or if you're trying to [be the inkblot yourself](/2026/01/03/first-contact/#inkblot-strategy) - it makes sense to be continually asking these questions. Somebody has to stay close enough to know when the tipping point arrives.
