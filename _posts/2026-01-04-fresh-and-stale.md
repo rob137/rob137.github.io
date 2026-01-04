@@ -6,7 +6,7 @@ tags: [ai, writing, workflow, dictation]
 excerpt: "Ideas captured immediately feel effortless. Ideas saved for later feel like work. The difference is infrastructure."
 ---
 
-A friend asked where he'd find time to do what I'm doing with this blog. My answer: prompt your daily routine and ask it to find cracks.
+A friend, [James Welland](https://jameswelland.co.uk/), asked where he'd find time to do what I'm doing with this blog. My answer: prompt your daily routine and ask it to find cracks.
 
 That's not quite right though. The cracks were always there. What changed is what you can do with them.
 

@@ -150,6 +150,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
 
+### Field Recording as Meditation
+**Status:** Idea
+**Core idea:** Every video about field recording has a detour about 3/4 of the way in comparing it to meditation. Always presented as something they've realised themselves rather than common wisdom. The pattern of independent rediscovery. Conversation with James (who does field recording for gigs). Follow-up to Fresh and Stale.
+
 ---
 
 *Last updated: 2026-01-04*
