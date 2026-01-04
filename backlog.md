@@ -92,7 +92,7 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-03
 **Core idea:** BJJ parallel. Early exhaustion vs efficient black belts. "Spending surprise" as the new debt - stay in the training distribution. Principle of least surprise (162 mentions in chat history). Position before submission = make architecture obvious so models just know.
 
-### The Interview Question
+### Interview Question
 **Published:** 2026-01-03
 **Core idea:** Calculator app task that's now one-shottable. "Yeah, whatever you like" soundboard. Looking for product ownership over technical depth. "Calculator" used to be a job title - software engineer heading somewhere similar.
 
