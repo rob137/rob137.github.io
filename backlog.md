@@ -124,7 +124,7 @@ Ideas extracted from ambient recordings and conversations.
 
 ### Fresh and Stale
 **Published:** 2026-01-04
-**Core idea:** Ideas captured immediately feel effortless, saved for later feel like work. The infrastructure: speech to text + Tailscale + frontier models. Volume compounds - generating ideas causes more ideas. Productizing the group chat. From WhatsApp conversation with James.
+**Core idea:** Ideas captured immediately vs saved for later. About half the posts have been from backlog out of necessity, but the flow is lower if you don't grab the iron while it's hot. The infrastructure: speech to text + Tailscale + frontier models + copywriter on phone. Volume compounds. From WhatsApp conversation with James.
 
 ### Field Recording
 **Published:** 2026-01-04
