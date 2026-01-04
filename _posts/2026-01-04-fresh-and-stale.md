@@ -39,6 +39,6 @@ Remove any one of these and the whole thing breaks down. Speech without remote a
 
 Here's the unexpected part: generating a large volume of ideas causes me to have more ideas. The act of flushing things out makes space for new things to arrive.
 
-I was originally planning to cluster posts and spread out the dates. Make it look more measured. But I'm wondering now if I should just keep going. See what happens when you don't throttle the output.
+I was originally planning to cluster posts and spread out the dates. But I'm wondering now if I should just keep going. See what happens when you don't throttle the output.
 
 This conversation itself could be a post. So here it is.
