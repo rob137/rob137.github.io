@@ -24,7 +24,7 @@ The ladder gets you somewhere. Then you kick it away.
 
 I spent much of 2025 talking to software companies about AI. Back in March, the pitch was that these tools are actually usable right now. By autumn, that was obvious. The conversations changed.
 
-But one question came up constantly, from people who'd started to get it: will using AI to code lead to skipping learning?
+But one question came up constantly, from people who'd started to get it: will developers ever [learn to code the hard way](https://learncodethehardway.com/) again?
 
 ## The parallel
 
