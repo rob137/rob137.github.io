@@ -138,6 +138,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea
 **Core idea:** GitHub Copilot as weird gateway drug into neurology and philosophy of intelligence. All roads lead to the brain - the only existence proof of what people call AGI. Suspicion that AGI is in the eye of the beholder, deeply anthropocentric definition. Beff Jezos on Lex Fridman: extended quote about many other forms of intelligence and the term AGI being anthropocentric. Find the quote.
 
+### The Intermediary Times (Part Two)
+**Status:** Idea - needs research
+**Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
+
 ---
 
 *Last updated: 2026-01-04*
