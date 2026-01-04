@@ -10,9 +10,7 @@ excerpt: "Something happened in the last few weeks. A step change that went unre
 >
 > — [Physics Forums](https://www.physicsforums.com/threads/is-crossing-a-black-holes-event-horizon-possible.1059967/)
 
-I wield models. [swyx](https://x.com/swyx) calls this being an "[AI engineer](https://www.latent.space/p/ai-engineer)". I've been doing it since the summer before ChatGPT launched, when early Copilot made me realise that block comments could be prompts.
-
-Since then I've lived through what feel like distinct phases:
+I've been using these tools since the summer before ChatGPT launched, when early Copilot made me realise that block comments could be prompts. Since then I've lived through distinct phases:
 
 - **Copilot era** - autocomplete on steroids, occasionally magical
 - **ChatGPT / GPT-3.5** - suddenly everyone could see what I'd been playing with
