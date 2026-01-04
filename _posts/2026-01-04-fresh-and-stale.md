@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fresh and Stale"
-date: 2026-01-04 21:00:00 +0000
+date: 2026-01-04 20:30:00 +0000
 tags: [ai, writing, workflow, dictation]
 excerpt: "Ideas captured immediately feel effortless. Ideas saved for later feel like work. The difference is infrastructure."
 ---
