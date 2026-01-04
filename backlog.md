@@ -116,6 +116,8 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-04
 **Core idea:** Spectrum of AI coding experiences. Flippers (Karpathy, DHH) vs holdouts (Hotz, Primeagen, Blow). Domain matters (web/enterprise vs systems/game engines), but so does when you last looked. Links back to Crossing the Horizon.
 
+**To do:** Use Grok queries on X to find more recent statements from holdouts (Hotz, Primeagen, Blow) - Claude can't access the API.
+
 ---
 
 ## Backlog
