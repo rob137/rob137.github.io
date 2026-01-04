@@ -120,10 +120,6 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea
 **Core idea:** Buddhist raft metaphor (use it to cross the river, don't carry it with you). Wittgenstein's ladder (climb it, then throw it away). Relationship with rapidly obsoleting skills and the abstraction/orchestration ladder. Key question: does climbing the ladder take you somewhere better, or does it leave you worse off in some ways - less comfortable with how things actually work, further from the ground? Is expertise a ladder (you climb but can still see below) or a raft (you cross and leave the other shore behind)?
 
-### The Role of Testimony
-**Status:** Idea
-**Core idea:** Most knowledge is testimonial - I don't know how penicillin works, why brushing twice beats once but six is overkill, how a light switch actually works. We trust experts constantly. Trust is a big topic around AI, especially when you can find failure examples. But humans fail too. Autonomous driving is machines catching up to and exceeding human error rates - we'll watch the same in coding. Because machines don't follow human quirks, our trust heuristics will be miscalibrated. We might struggle to trust them well after the point where we should have.
-
 ### The Expanding Universe
 **Status:** Idea - collecting quotes
 **Core idea:** Models are good for X but not for Y. Systems programming, low-level optimization, novel physics - AI harnesses hinder more than help. But in web dev, people ship without reading code. There's a spectrum of how much you can get away with. Working practices are diverging across domains - like the universe expanding, distances growing. Practices that feel sensible in one domain may be extremely domain-specific. People anchor to what worked yesterday.
