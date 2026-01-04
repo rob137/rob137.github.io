@@ -66,4 +66,4 @@ Dogs earned their place through millennia of co-evolution. The models are doing 
 
 The question is whether we'll update our heuristics in time, or keep applying mammalian instincts to something that isn't a mammal.
 
-[Photo placeholder: Frieda]
+![Frieda](/assets/images/frieda.jpg)
