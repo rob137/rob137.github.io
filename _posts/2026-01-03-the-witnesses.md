@@ -80,6 +80,14 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
+**[David Holz](https://en.wikipedia.org/wiki/David_Holz)** - Founded [Midjourney](https://en.wikipedia.org/wiki/Midjourney), previously Leap Motion and NASA's Langley Research Center:
+
+> "I've done more personal coding projects over Christmas break than I have in the last 10 years. It's crazy. I can sense the limitations, but I *know* nothing is going to be the same anymore."
+
+[Source](https://x.com/DavidSHolz/status/2007650184680092158) (January 2026)
+
+---
+
 **[Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)** - Built [Python](https://en.wikipedia.org/wiki/Python_(programming_language)):
 
 > "I use [Copilot] every day... The creative work of deciding what you want the code to do is totally yours. But it's a great assistant for the boring stuff."
