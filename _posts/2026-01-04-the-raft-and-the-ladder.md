@@ -34,9 +34,9 @@ Most people worked in agriculture at the start of the last century. Now almost n
 
 But to mechanise agriculture, we had to master it first. You didn't just need the calories to sustain civilisation through to the Industrial Revolution. You needed an intimate understanding of the craft in order to build machines that could do it.
 
-## The expertise problem
+## The amateurization
 
-Software engineering already has an expertise problem.
+Software engineering already has an expertise problem. Or rather: the industry has been filling up with people who were never really professionals in the deep sense.
 
 [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay), in a [2004 ACM Queue interview](https://queue.acm.org/detail.cfm?id=1039523):
 
@@ -46,9 +46,11 @@ Software engineering already has an expertise problem.
 
 > The first generation works on thing X. After X is done and becomes popular, time passes and the next generation of programmers comes and works on Y, based on X. They do not need to know, exactly, how X is built, why it was built that way, or how to write an alternative X from scratch... The biggest a-ha moment was that if you are working on Y and Y is based on X, that does not imply automatically that you would know X also.
 
-Think of the equivalent of the Beatles in the historic lineup of programmers and computer scientists. Von Neumann, Dijkstra, Grace Hopper, Licklider. How many names would ring a bell for your average team of web developers? Have they seen the [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)?
+Think of the equivalent of the Beatles in the historic lineup of programmers and computer scientists. Von Neumann, Dijkstra, Grace Hopper, Licklider. How many names would ring a bell for your average team of web developers? Have they heard of the [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)?
 
 The industry has been doubling every five years for the longest time. That means fewer people joined out of love for the craft. The rungs of the ladder were always just stepping stones for a lot of the workforce.
+
+For professionals, the metaphors apply. They've crossed something, climbed something. For amateurs, there's nothing to let go of.
 
 ## The difference
 
@@ -56,7 +58,7 @@ Software is different from cutting down corn. At its core, we're producing coher
 
 Someone driving a combine harvester might have no idea about the reasons why crops grow. What matters is knowing the machinery. The foundational craft has been mechanised away.
 
-I don't think this is true yet for software. I'm sympathetic to people like [Robert Martin](https://en.wikipedia.org/wiki/Robert_C._Martin), who imply it might never be something you can abrogate responsibility for. Although I'm not confident I agree with them either.
+I don't think this is true yet for software. I'm sympathetic to people like [Robert Martin](https://en.wikipedia.org/wiki/Robert_C._Martin), who argue that software is fundamentally about managing details, and since you can't delegate responsibility for details, you'll always have to worry about them. Although I'm not confident I agree.
 
 ## The temptation
 
@@ -72,6 +74,8 @@ There's a principle I've heard in hiring: look for people who go one level of ab
 
 I think one of the traps with AI, because we're all lazy beings, is to think: at last. At last a raft we can discard. At last a ladder we can kick away.
 
+But for most of the industry, this is backwards. You can't discard a raft you never built. You can't kick away a ladder you never climbed.
+
 And there are natural questions that follow about how juniors will ever truly learn anything.
 
 I think the truth is more complicated. The juniors of today will be far more adept at the current level of abstraction. But the less diligent among them will always feel that something's wrong. They'll feel like imposters. This is something you can explain to people, and some fraction will take up the challenge and learn deeper.
@@ -82,6 +86,6 @@ The last seventy years of software industry history suggest it will only be a fr
 
 AI is fantastic as a tutor, and only getting better. But the horse has to want to drink.
 
-Maybe I'm rejecting both metaphors. The raft implies you've crossed to somewhere better. The ladder implies you've climbed to somewhere higher. But if you never understood what you were crossing from, or what's beneath you, have you actually arrived?
+For professionals, there's a real question here. When do you let go of hard-won knowledge that's becoming obsolete? That's the raft. That's the ladder. The metaphors apply.
 
-The question isn't whether to let go. It's whether you've grasped it in the first place.
+For everyone else, the question is different. You can't let go of something you never held. The work isn't discarding expertise. It's acquiring it in the first place.
