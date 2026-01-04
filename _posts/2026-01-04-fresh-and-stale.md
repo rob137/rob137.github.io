@@ -41,6 +41,4 @@ Here's the unexpected part: generating a large volume of ideas causes me to have
 
 I was originally planning to cluster posts and spread out the dates. Make it look more measured. But I'm wondering now if I should just keep going. See what happens when you don't throttle the output.
 
-Most of these posts should probably be tweets. But tweets don't make you stand out in job interviews. A blog is credentializing. Productizing the group chat.
-
 This conversation itself could be a post. So here it is.
