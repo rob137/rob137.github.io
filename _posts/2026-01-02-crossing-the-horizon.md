@@ -36,11 +36,7 @@ The workflows kept shifting. Change became the new normal. But it also became *r
 
 I'm making a claim that I'm not sure how to prove: the current generation of frontier models - from OpenAI, Anthropic, and Google - has not stuck to this pattern.
 
-Something happened in the last few weeks. A step change that went unrecognised for a while and is only now starting to surface as common knowledge. [Andrej Karpathy](https://x.com/karpathy) has been talking about it. So has [Boris Cherny](https://x.com/bcherny). [Simon Willison](https://x.com/simonw/status/2007904766756880848) put it this way:
-
-> "It genuinely feels to me like GPT-5.2 and Opus 4.5 in November represent an inflection point - one of those moments where the models get incrementally better in a way that tips across an invisible capability line where suddenly a whole bunch of much harder coding problems open up."
-
-The LLM-obsessed corners of X have noticed. But I don't think it's widely appreciated yet.
+Something happened in the last few weeks. A step change that went unrecognised for a while and is only now starting to surface as common knowledge. [Andrej Karpathy](https://x.com/karpathy) has been talking about it. So has [Boris Cherny](https://x.com/bcherny). The LLM-obsessed corners of X have noticed. But I don't think it's widely appreciated yet.
 
 I'm genuinely unsure whether this is just thresholds being crossed - business as usual in terms of gradual improvement, but a sudden unlock as capabilities hit some critical level - or whether the models are just plain smarter now in some discontinuous way.
 
