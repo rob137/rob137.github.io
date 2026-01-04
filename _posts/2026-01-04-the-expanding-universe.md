@@ -28,19 +28,19 @@ Two months apart.
 
 ## The holdouts
 
-[George Hotz](https://en.wikipedia.org/wiki/George_Hotz), on the Lex Fridman podcast:
+[George Hotz](https://en.wikipedia.org/wiki/George_Hotz), June 2023:
 
 > "GPT is great for quick generic scripts, but not for complex tasks."
 
 He's noted that AI may help with "typing-speed-limited" work, but that's not where his bottleneck is. His work on [tinygrad](https://github.com/tinygrad/tinygrad) is low-level, performance-critical, novel.
 
-[ThePrimeagen](https://en.wikipedia.org/wiki/ThePrimeagen), also on Lex Fridman:
+[ThePrimeagen](https://en.wikipedia.org/wiki/ThePrimeagen), March 2025:
 
 > AI "often gets it wrong, especially with larger, more complex codes... lacks deep understanding for problem-solving and design."
 
 He sees some utility. Not transformative.
 
-[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow), [consistently](/2026/01/03/the-witnesses/):
+[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow), [January 2026](/2026/01/03/the-witnesses/):
 
 > "Current AIs can't code. It's clear by now that everyone who thinks they can are not good programmers themselves, and/or only ever do trivial problems."
 
