@@ -126,6 +126,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-04
 **Core idea:** Ideas captured immediately feel effortless, saved for later feel like work. The infrastructure: speech to text + Tailscale + frontier models. Volume compounds - generating ideas causes more ideas. Productizing the group chat. From WhatsApp conversation with James.
 
+### Field Recording
+**Published:** 2026-01-04
+**Core idea:** Every video about field recording has a meditation detour 3/4 in, always presented as personal discovery not common wisdom. The pattern of independent rediscovery - some insights resist transmission. Follow-up to Fresh and Stale.
+
 ---
 
 ## Backlog
@@ -149,10 +153,6 @@ Ideas extracted from ambient recordings and conversations.
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
-
-### Field Recording as Meditation
-**Status:** Idea
-**Core idea:** Every video about field recording has a detour about 3/4 of the way in comparing it to meditation. Always presented as something they've realised themselves rather than common wisdom. The pattern of independent rediscovery. Conversation with James (who does field recording for gigs). Follow-up to Fresh and Stale.
 
 ---
 
