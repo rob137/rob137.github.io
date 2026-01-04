@@ -34,7 +34,7 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-02
 **Core idea:** IDE vs terminal debate is becoming irrelevant - not because one won, but because the underlying activity changed. Edit (maybe), chat, review. The desire lines are clear. Includes Yegge quote, Ousterhout naming styles, personality attractors.
 
-### The Intermediary Times
+### Intermediary Times
 **Published:** 2026-01-02
 **Core idea:** Industrial Revolution parallel - net positive but expensive in the intermediary times. Social contract concerns. Not accelerationist or doomer - eye of the beholder.
 
@@ -42,7 +42,7 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-02
 **Core idea:** X.com is unreasonably good if you follow the right people. 80/20 sources: Simon Willison's blog and Latent Space. Health warning about dopaminergic loops and context switching costs.
 
-### The Golden Retriever Problem
+### Golden Retriever Problem
 **Published:** 2026-01-02
 **Core idea:** The helpful assistant persona is a "radio on TV" transitional form. The ideal employee isn't a helpful assistant - true for humans, and once models reach competence, wrong for them too. Staff engineer comparison. This is fixable.
 
@@ -50,7 +50,7 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-02
 **Core idea:** Writing detailed to-do items is actually writing prompts. Speech-to-text makes this easier than typing laconic notes. Rather than keeping prompts, you might just send them. Fire and forget with worktrees. Bake in success criteria and validation.
 
-### The Last Bastion
+### Last Bastion
 **Published:** 2026-01-02
 **Core idea:** Samaritans as pure human-touch work. LLMs can already do active listening well. The service filters for people comfortable calling strangers - what about those who aren't? Not proposing anything, just observing what seems inevitable. If even this isn't safe, what is?
 
@@ -64,7 +64,7 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
-### The Witnesses
+### Witnesses
 **Published:** 2026-01-03
 **Core idea:** Opens with John Blow's skepticism as the bar to meet. Then presents quotes from respected programmers expressing genuine surprise - Jaana Dogan, ESR, Yegge, Gene Kim, Karpathy, Hassabis, Brin. List will grow.
 
@@ -78,7 +78,7 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-03
 **Core idea:** Three military concepts for AI agents: mission command (what not how), orders process (plan thoroughly, hold loosely), inkblot strategy (agency spreads organically). Intelligence Corps background, Sandhurst, Para Reg.
 
-### The Pliers
+### Pliers
 **Published:** 2026-01-03
 **Core idea:** Software engineers' blue-collar fantasies. Attachment to physical tools (pliers) paralleling attachment to coding paradigms that are becoming obsolete. What to do with attachment when tools change this fast?
 
@@ -112,13 +112,13 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-04
 **Core idea:** Buddhist raft and Wittgenstein's ladder as metaphors for letting go. Enterprise context: will AI lead to skipping learning? Industrial Revolution parallel. Alan Kay and Jonathan Blow on the existing expertise problem. The temptation of task completion dopamine. Ends by rejecting both metaphors: the question isn't whether to let go, it's whether you've grasped it in the first place.
 
-### The Expanding Universe
+### Expanding Universe
 **Published:** 2026-01-04
 **Core idea:** Spectrum of AI coding experiences. Flippers (Karpathy, DHH) vs holdouts (Hotz, Primeagen, Blow). Domain matters (web/enterprise vs systems/game engines), but so does when you last looked. Links back to Crossing the Horizon.
 
 **To do:** Use Grok queries on X to find more recent statements from holdouts (Hotz, Primeagen, Blow) - Claude can't access the API.
 
-### The Blank Page
+### Blank Page
 **Published:** 2026-01-04
 **Core idea:** ADHD-like symptoms (2am essay paralysis, excruciation at starting) have disappeared with LLMs. Work became like playing Nintendo - dopaminergic, compounding. Burnout assumptions may be wrong when work is fun. Certain personality types were failure modes but now thrive. Open question: would different personalities dominate software engineering if tools froze?
 

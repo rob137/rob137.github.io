@@ -43,7 +43,7 @@ But I think that's thinking too small.
 
 What if a model proactively chased questions that aren't being asked? What if it suggested to an aging martial artist with joint issues that they consider cycling - even though it seems like a category error - because the concerns they've raised are actually addressed well by that unexplored territory?
 
-This connects to [the golden retriever problem](/2026/01/02/the-golden-retriever-problem/). You don't necessarily want a model that accommodates you. You might want one that's a little obstructive - like friends who shake you by the shoulders when you're missing the point.
+This connects to [the golden retriever problem](/2026/01/02/golden-retriever-problem/). You don't necessarily want a model that accommodates you. You might want one that's a little obstructive - like friends who shake you by the shoulders when you're missing the point.
 
 The diva with the entourage. The dictator surrounded by yes-men. I wonder if there's a shade of this in what's been called "LLM psychosis" - people drifting into strange places when they only talk to systems designed to agree with them.
 

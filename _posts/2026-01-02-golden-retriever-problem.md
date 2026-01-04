@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Golden Retriever Problem"
+title: "Golden Retriever Problem"
 date: 2026-01-02 15:00:00 +0000
 tags: [ai, llm, ux, persona, sdlc]
 ---

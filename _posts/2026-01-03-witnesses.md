@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Witnesses"
+title: "Witnesses"
 date: 2026-01-03 08:00:00 +0000
 tags: [ai, llm, coding, evidence]
 excerpt: "A running list of respected programmers - people with Wikipedia pages for actually building things - expressing genuine surprise at AI coding tools."
