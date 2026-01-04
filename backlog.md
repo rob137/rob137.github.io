@@ -118,6 +118,10 @@ Ideas extracted from ambient recordings and conversations.
 
 **To do:** Use Grok queries on X to find more recent statements from holdouts (Hotz, Primeagen, Blow) - Claude can't access the API.
 
+### The Blank Page
+**Published:** 2026-01-04
+**Core idea:** ADHD-like symptoms (2am essay paralysis, excruciation at starting) have disappeared with LLMs. Work became like playing Nintendo - dopaminergic, compounding. Burnout assumptions may be wrong when work is fun. Certain personality types were failure modes but now thrive. Open question: would different personalities dominate software engineering if tools froze?
+
 ---
 
 ## Backlog
