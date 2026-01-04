@@ -3,12 +3,16 @@ layout: post
 title: "The Expanding Universe"
 date: 2026-01-04 14:00:00 +0000
 tags: [ai, coding, domains, spectrum]
-excerpt: "Some builders have flipped. Others haven't. The pattern tells you something about where they work - and when they last looked."
+excerpt: "More forms of working are viable now than before. The conversation is fragmenting because the experiences are genuinely different."
 ---
 
-I wrote a few days ago about [crossing a threshold](/2026/01/02/crossing-the-horizon/) - something changing in late 2025 that wasn't fully recognised yet. Since then I've been watching who's flipped and who hasn't.
+A year ago, there was roughly one way to be a professional software developer. You wrote code. The tools varied, the languages varied, but the core activity was the same.
 
-## The flippers
+Now there's a spectrum. Some developers ship entire applications without writing code by hand. Others find AI tools net-negative for their work. Both approaches are viable. Both produce working software.
+
+The universe is expanding.
+
+## The converts
 
 [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy), October 2025, on his nanochat project. He described it as "intellectually intense code" where "everything has to be very precisely arranged." AI was "net unhelpful." He called the output "slop."
 
@@ -26,7 +30,7 @@ Two months apart.
 
 > "Half the resistance was simply that the models weren't good enough yet... That has now flipped. Working with opencode has been a blast. Watching the thinking models nail a difficult bug is a revelation."
 
-## The holdouts
+## The skeptics
 
 [George Hotz](https://en.wikipedia.org/wiki/George_Hotz), June 2023:
 
@@ -46,18 +50,18 @@ He sees some utility. Not transformative.
 
 ## The pattern
 
-The flippers are in web, enterprise, applications. The holdouts are in systems programming, game engines, low-level optimisation.
+The converts are in web, enterprise, applications. The skeptics are in systems programming, game engines, low-level optimisation.
 
 Both can be right. The experiences are genuinely different depending on what you build.
 
-But there's another variable: when did you last look?
+I look at scaling laws and feel fairly confident the tide will rise to cover every domain eventually. But maybe I'm wrong. Maybe some kinds of work are genuinely stubborn. Maybe the skeptics aren't waiting for the models to catch up - maybe they're seeing something real about the limits of this approach.
 
-Karpathy explicitly crossed a threshold between October and December. DHH says the models "weren't good enough yet" and "that has now flipped." They circled back.
+## The expanding universe
 
-I don't know if Hotz, Primeagen, or Blow have tried the latest thinking models on their hardest problems. Maybe they have and the answer is still no. Maybe they haven't. The universe is expanding either way - practices are diverging, and so is the conversation.
+What's new isn't that one side is winning. It's that more ways of working are viable now than before.
 
-## The question
+A web developer shipping features with Claude Code and a game engine developer writing everything by hand are both being reasonable. A year ago, only one of those approaches existed. Now both do.
 
-If you're in a domain where AI hasn't clicked yet, it's worth asking: is that because of the domain, or because of when you last tried?
+The conversation is fragmenting because the experiences are genuinely different. What feels obviously true in one domain can sound naive in another. The universe is expanding - not everyone moving in the same direction at different speeds, but different communities pulling further apart.
 
-The threshold is real. Some people crossed it recently. Others might not have reached it yet.
+I wrote a few days ago about [crossing a threshold](/2026/01/02/crossing-the-horizon/). Some people have crossed it. Others haven't, and might never need to. Both can be right.
