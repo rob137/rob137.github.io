@@ -110,7 +110,7 @@ Ideas extracted from ambient recordings and conversations.
 
 ### The Raft and the Ladder
 **Status:** Idea
-**Core idea:** Buddhist raft metaphor (use it to cross the river, don't carry it with you). Wittgenstein's ladder (climb it, then throw it away). Relationship with rapidly obsoleting skills. The skills that got you here may not be the ones that take you forward - and holding onto them might slow you down.
+**Core idea:** Buddhist raft metaphor (use it to cross the river, don't carry it with you). Wittgenstein's ladder (climb it, then throw it away). Relationship with rapidly obsoleting skills and the abstraction/orchestration ladder. Key question: does climbing the ladder take you somewhere better, or does it leave you worse off in some ways - less comfortable with how things actually work, further from the ground? Is expertise a ladder (you climb but can still see below) or a raft (you cross and leave the other shore behind)?
 
 ### The Role of Testimony
 **Status:** Idea
