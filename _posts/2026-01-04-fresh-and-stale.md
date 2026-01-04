@@ -31,6 +31,8 @@ This only works because of three things:
 
 **Frontier models.** The dictation gets distilled into a post. Twenty minutes of verbal rambling becomes a thousand words of prose. The model handles the cleanup, the structure, the transitions. I stay in the loop, but the friction is gone.
 
+Nothing in the posts is content I haven't dictated. They're tight distillations of much longer ramblings. I've yet to see one that doesn't stick to the spirit of what I said.
+
 Remove any one of these and the whole thing breaks down. Speech without remote access means waiting until I'm home. Remote access without models means doing the cleanup myself. Models without speech means typing, which means a desk, which means no cracks.
 
 ## Volume compounds
