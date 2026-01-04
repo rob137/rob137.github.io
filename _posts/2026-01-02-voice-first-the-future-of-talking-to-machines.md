@@ -7,7 +7,7 @@ tags: [ai, voice, llm, productivity, sdlc]
 
 Last night I became an audio engineer.
 
-I don't have any training in audio engineering. I've never taken a course, read a book, or spent time learning the fundamentals. And yet by the end of the evening I was discussing preamps, gain staging, and noise floors - and more importantly, I was *doing* something about them.
+I don't have any training in audio engineering. I've never taken a course, read a book, or spent time learning the fundamentals. And yet by the end of the evening I was discussing preamps, gain staging, and noise floors. More importantly, I was *doing* something about them.
 
 Here's the thing: I'm not even the kind of person you'd expect to become an audio engineer. I've watched product reviews on YouTube when choosing headphones, and I always felt slightly out of place - like the professional audio engineers speaking weren't quite my tribe, intellectually. I find what they have to say genuinely interesting, but I don't see myself in them right away. It wasn't a world I would have given myself permission to enter. There's always opportunity cost. I'm always too busy for important things, let alone something tangential.
 
@@ -41,21 +41,21 @@ This is what I mean by **just-in-time software engineering**. Instead of spendin
 
 But it goes further than learning. [Claude Code](https://docs.anthropic.com/en/docs/claude-code) wasn't just teaching me - it was writing disposable code on the fly to solve my problems.
 
-When I asked about the audio files, it generated [ffmpeg](https://ffmpeg.org/) commands to convert formats, normalize levels, strip silence. When I wanted to transcribe recordings, it wrote shell scripts to batch-process files through [Whisper](https://github.com/openai/whisper). None of this code was meant to last. It was JIT code - just-in-time, use-once, throw-away.
+When I asked about the audio files, it generated [ffmpeg](https://ffmpeg.org/) commands to convert formats, normalize levels, strip silence. When I wanted to transcribe recordings, it wrote shell scripts to batch-process files through [Whisper](https://github.com/openai/whisper). None of this code was meant to last. It was JIT code: just-in-time, use-once, throw-away.
 
 This changes the economics of tooling in a profound way.
 
 I have Audacity installed. I could learn to use it. But why would I? The payoff for learning a GUI application is that you can then do things with it. But if an LLM can generate the equivalent CLI commands instantly, the activation energy for the "professional" tool becomes a liability rather than an asset.
 
-The capabilities were always there. ffmpeg has been able to do audio processing for decades. The bottleneck was never the tools - it was the friction of learning arcane command-line syntax, remembering flags, debugging errors. That friction made GUI applications worthwhile despite their limitations.
+The capabilities were always there. ffmpeg has been able to do audio processing for decades. The bottleneck was never the tools; it was the friction of learning arcane command-line syntax, remembering flags, debugging errors. That friction made GUI applications worthwhile despite their limitations.
 
 An LLM middle layer collapses that friction. Suddenly the full power of CLI tools is accessible to anyone who can describe what they want. The GUI becomes a detour rather than a shortcut.
 
-I think a lot of software is about to become obsolete - not because it stops working, but because the activation energy it was designed to lower is no longer the bottleneck.
+I think a lot of software is about to become obsolete. Not because it stops working, but because the activation energy it was designed to lower is no longer the bottleneck.
 
 ## A Transcript from Last Night
 
-To make this concrete, here's what actually happened. I plugged in my H2, which had recordings from the afternoon - me reading stories to my kids while testing the recorder's speech-to-text potential.
+To make this concrete, here's what actually happened. I plugged in my H2, which had recordings from the afternoon, me reading stories to my kids while testing the recorder's speech-to-text potential.
 
 I asked Claude Code to transcribe the recordings. It discovered I didn't have Whisper installed, so it installed `whisper-cpp` via Homebrew, downloaded the medium model, and started transcribing. Here's a snippet of what came back:
 
@@ -97,7 +97,7 @@ This is different from typing. When I type, I self-edit as I go. I constrain my 
 
 ## What This Means for Software Development
 
-I think we're at the beginning of something significant. In my day job at [Volaris Group](https://volarisgroup.com/), I'm on a skunkworks team exploring how LLMs might reshape the software development lifecycle - and this is the kind of thing we talk about. (We're hiring, by the way. If this resonates, reach out.) The traditional SDLC assumes developers work primarily through keyboards and IDEs. But voice-first interaction with AI changes the economics of communication:
+I think we're at the beginning of something significant. In my day job at [Volaris Group](https://volarisgroup.com/), I'm on a skunkworks team exploring how LLMs might reshape the software development lifecycle, and this is the kind of thing we talk about. (We're hiring, by the way. If this resonates, reach out.) The traditional SDLC assumes developers work primarily through keyboards and IDEs. But voice-first interaction with AI changes the economics of communication:
 
 - **Meetings become data** - A recorded meeting isn't just minutes anymore. It's raw material for an AI to extract action items, summarize decisions, identify risks.
 - **Documentation happens automatically** - Explain what you're building out loud, and you've written the design doc.

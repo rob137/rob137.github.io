@@ -13,7 +13,7 @@ What I've noticed is that brilliant engineers exist across the entire spectrum. 
 
 [Steve Yegge](https://en.wikipedia.org/wiki/Steve_Yegge) recently put it more provocatively in a [Latent Space interview](https://open.spotify.com/episode/20iTChEyuXaXryZOVAJoSi): "If you're still using an IDE to develop code by January 1st, 2026, you're a bad engineer." He said it tongue-in-cheek, but there's a real position underneath it. And there are equally sharp engineers who'd push back hard on that.
 
-(Yegge had a YouTube series called *Stevie's Tech Talks* - now seemingly vanished from the internet - that completely changed my relationship with my career. They unlocked something that had been holding me back from truly committing to software as a path. So I take his opinions seriously, even when I'm not sure I agree.)
+(Yegge had a YouTube series called *Stevie's Tech Talks* - now seemingly vanished from the internet, that completely changed my relationship with my career. They unlocked something that had been holding me back from truly committing to software as a path. So I take his opinions seriously, even when I'm not sure I agree.)
 
 I'm not here to adjudicate. In fact, I think there's something deeper going on than just preference.
 
@@ -46,15 +46,15 @@ func notify(prefs []Pref, svc Svc) {
 }
 ```
 
-Ousterhout prefers the verbose style but doesn't dismiss the terse one - he presents it as "a different opinion" and quotes the Go community's reasoning. And here's the thing: both communities produce excellent software. Both have internal consistency. Both work.
+Ousterhout prefers the verbose style but doesn't dismiss the terse one. He presents it as "a different opinion" and quotes the Go community's reasoning. And here's the thing: both communities produce excellent software. Both have internal consistency. Both work.
 
 I've wondered whether these aren't just arbitrary style choices but something closer to personality attractors - systems programmers drawn to terse expression, enterprise developers to explicit naming, and each community reinforcing its own norms over time. A great downhill skier might make a terrible chess player, and that's fine. Why would we expect one style to be universally correct?
 
-There's also something ludicrous about "software professional" as a category. It's almost as broad as "white collar." [Software is eating the world](https://a16z.com/why-software-is-eating-the-world/), as Marc Andreessen put it - which means you find software people in finance, medicine, games, embedded systems, web apps, scientific computing, defence, and a hundred other domains. Expecting one tribe, one set of norms, one correct way to work seems odd given how sprawling the territory has become.
+There's also something ludicrous about "software professional" as a category. It's almost as broad as "white collar." [Software is eating the world](https://a16z.com/why-software-is-eating-the-world/), as Marc Andreessen put it, which means you find software people in finance, medicine, games, embedded systems, web apps, scientific computing, defence, and a hundred other domains. Expecting one tribe, one set of norms, one correct way to work seems odd given how sprawling the territory has become.
 
 You can be highly prescriptive *within* a bounded context - a team agreeing on conventions, a codebase maintaining consistency. But it doesn't follow that one style is better in some unqualified sense.
 
-Which brings me back to tools. I've been watching something shift lately - not in which tools are "right," but in what we're actually doing inside them.
+Which brings me back to tools. I've been watching something shift lately. Not in which tools are "right," but in what we're actually doing inside them.
 
 ## A Dead Paradigm We Inherited
 
@@ -78,7 +78,7 @@ I see three activities:
 
 **1. Editing text** - This is becoming optional.
 
-[Boris Cherny](https://x.com/bcherny) of Anthropic mentioned recently that he wrote 100% of his code last month using Claude Code. Not as a challenge - he just found himself doing it. For him, it's kind of over.
+[Boris Cherny](https://x.com/bcherny) of Anthropic mentioned recently that he wrote 100% of his code last month using Claude Code. Not as a challenge; he just found himself doing it. For him, it's kind of over.
 
 That's not everyone. It depends on your working style, your comfort with the frontier models, the kind of code you're writing. But the point is: manual text editing is no longer a given. It's a choice.
 
@@ -106,7 +106,7 @@ Superficially, a developer's screen in 2026 looks a lot like it did in 2017. Tex
 
 But the activity has changed completely.
 
-Code isn't being written by people in the same way anymore. It's being reviewed by people. The same tools have adjusted - sometimes elegantly, sometimes awkwardly - to fit a workflow that would have been unrecognisable a few years ago.
+Code isn't being written by people in the same way anymore. It's being reviewed by people. The same tools have adjusted, sometimes elegantly, sometimes awkwardly, to fit a workflow that would have been unrecognisable a few years ago.
 
 The music stopped. We found ourselves in these chairs - Vim, Emacs, VS Code, whatever. And with some adjustment, the old tools are being pressed into service for an entirely new game.
 

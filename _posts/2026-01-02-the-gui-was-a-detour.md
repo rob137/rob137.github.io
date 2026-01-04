@@ -3,12 +3,12 @@ layout: post
 title: "The GUI Was a Detour"
 date: 2026-01-02 09:00:00 +0000
 tags: [ai, software, llm, productivity]
-excerpt: "I installed Audacity yesterday. I've barely opened it - not because I lost interest, but because LLMs write ffmpeg commands for me instead."
+excerpt: "I installed Audacity yesterday. I've barely opened it. Not because I lost interest, but because LLMs write ffmpeg commands for me instead."
 ---
 
 I installed [Audacity](https://www.audacityteam.org/) yesterday. An LLM suggested it might give me better recording quality than QuickTime.
 
-I've barely opened it. Not because I lost interest - I've been doing more audio work than ever. Normalising levels, reducing noise, trimming silence, converting formats. I just haven't needed the application.
+I've barely opened it. Not because I lost interest. I've been doing more audio work than ever. Normalising levels, reducing noise, trimming silence, converting formats. I just haven't needed the application.
 
 An LLM writes [ffmpeg](https://ffmpeg.org/) commands for me instead. I describe what I want. The command runs. The code goes in the bin. The GUI sits there, unused.
 
@@ -24,7 +24,7 @@ Every piece of software imposes a cognitive tax. You're not just conceptualising
 
 This is true of command-line tools with their arcane flags. It's true of GUIs with their menus and modes. It's even true of "intuitive" software - intuitive just means the mental model is closer to what you'd guess, not that there's no model to learn.
 
-Non-ephemeral software accumulates these models. The code persists, so the abstractions persist, so the cognitive overhead persists. You carry it around. You maintain it - not just technically, but mentally.
+Non-ephemeral software accumulates these models. The code persists, so the abstractions persist, so the cognitive overhead persists. You carry it around. You maintain it, not just technically but mentally.
 
 ## The Art of the Possible
 
