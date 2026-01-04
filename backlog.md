@@ -124,6 +124,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
 
+### The Great Attractor
+**Status:** Idea
+**Core idea:** Certain general-purpose, convenient devices/apps attract all functionality. Story: got a Hanklight after much deliberation (link to frugality post), but ended up just using phone light. Barely open laptop now - phone browser does 90%, happy to slam it for the rest. This is coming for AI. Terminal-based coding tools are already general-purpose computing interfaces - command line can do all knowledge work, but most knowledge workers are scared of it. Reference colleague James: non-technical, hasn't written code, but now uses terminal-based tools as primary interface for his role. Reference Audacity being sidelined (GUI Was a Detour). Note: check if too many "The X" titles, and whether cosmological references are getting hammy after Expanding Universe.
+
 ---
 
 *Last updated: 2026-01-04*
