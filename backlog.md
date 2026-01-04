@@ -112,6 +112,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-04
 **Core idea:** Buddhist raft and Wittgenstein's ladder as metaphors for letting go. Enterprise context: will AI lead to skipping learning? Industrial Revolution parallel. Alan Kay and Jonathan Blow on the existing expertise problem. The temptation of task completion dopamine. Ends by rejecting both metaphors: the question isn't whether to let go, it's whether you've grasped it in the first place.
 
+### The Expanding Universe
+**Published:** 2026-01-04
+**Core idea:** Spectrum of AI coding experiences. Flippers (Karpathy, DHH) vs holdouts (Hotz, Primeagen, Blow). Domain matters (web/enterprise vs systems/game engines), but so does when you last looked. Links back to Crossing the Horizon.
+
 ---
 
 ## Backlog
@@ -119,25 +123,6 @@ Ideas extracted from ambient recordings and conversations.
 ### How Hiring Has Changed
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
-
-### The Expanding Universe
-**Status:** Idea - collecting quotes
-**Core idea:** Models are good for X but not for Y. Systems programming, low-level optimization, novel physics - AI harnesses hinder more than help. But in web dev, people ship without reading code. There's a spectrum of how much you can get away with. Working practices are diverging across domains - like the universe expanding, distances growing. Practices that feel sensible in one domain may be extremely domain-specific. People anchor to what worked yesterday.
-
-**Quotes collected:**
-- [ ] Jonathan Blow - [need tweets]
-- [x] ThePrimeagen (Lex Fridman #461): AI "often gets it wrong, especially with larger, more complex codes... lacks deep understanding for problem-solving and design"
-- [x] George Hotz (Lex Fridman #387): "GPT is great for quick generic scripts, but not for complex tasks"
-- [x] Andrej Karpathy - CONTRAST:
-  - Dwarkesh (Oct 2025): nanochat was "intellectually intense code... everything has to be very precisely arranged" - AI "net unhelpful", called code "slop"
-  - X post (Dec 26, 2025): "I've never felt this much behind as a programmer. The profession is being dramatically refactored." Said AI can make devs "10X more powerful"
-- [x] DHH - CONTRAST:
-  - Lex Fridman (summer 2025): "not letting AI write any code directly"
-  - X post (Jan 3, 2026): "half the resistance was simply that the models weren't good enough yet... That has now flipped." Working with opencode "has been a blast. Watching the thinking models nail a difficult bug is a revelation."
-- [?] Robert C. Martin (Uncle Bob) - CONSISTENT SKEPTIC (may not fit the narrative):
-  - May 2025: "efficiency boost... nowhere near 8X. I would put it at about 10%. That's because all of the code presented by the AI requires scrutiny, and a large fraction is crap."
-  - Dec 2025: "AI was a help. I got farther than I would have without it. But not that much farther." Still using hybrid approach, AI for "boring repetitive work"
-  - Hasn't flipped like Karpathy/DHH - remains measured. Could show the spectrum includes holdouts?
 
 ---
 
