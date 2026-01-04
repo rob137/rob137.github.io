@@ -54,4 +54,4 @@ If you froze the current tools long enough for people to actually adapt, would t
 
 It feels like a very open question. The fact that it's unexplored makes me think we're in for a surprise.
 
-The student who's never stuck with a blank word document at 2am. That experience might be fading. Other problems will replace it. But this isn't Kansas anymore.
+The student who's never stuck with a blank word document at 2am. That experience might be fading. Other problems will replace it.
