@@ -30,9 +30,9 @@ I'm watching my dogs eat chicken thighs as I think about this. It's pretty disco
 
 Dogs have co-evolved with humans. The ones around today are descended from wolves that didn't attack children, that showed restraint around food and aggression. They've developed human-oriented traits - the face, the eyebrows, the eye contact, the visible excitement about the ball. To quote Rory Sutherland: a flower is a weed with a marketing department.
 
-But bits of their biology just aren't anything like us. The human-facing stuff makes them seem normal. The eating reminds you they're not.
+But bits of their biology aren't what you'd expect from the surface. Dogs aren't fundamentally alien - throwing them in with genuinely foreign creatures would be throwing the baby out with the bathwater. They're just different in ways you don't get from looking at them.
 
-AI is similar. The transformer architecture gives us something a bit alien, wrapped in the most human interface imaginable - language. Bits of the mask are more human than most humans. I've [written before](/2026/01/02/the-last-bastion/) about how well the models handle emotional conversations. But other things don't seem quite right. I can tell when I've slipped from a reasoning model to a base model - something isn't there, like when the Terminator's face gets damaged and you glimpse the metal underneath.
+AI is similar. The transformer architecture gives us something a bit unfamiliar underneath, wrapped in the most human interface imaginable - language. Bits of the mask are more human than most humans. I've [written before](/2026/01/02/the-last-bastion/) about how well the models handle emotional conversations. But other things don't seem quite right. I can tell when I've slipped from a reasoning model to a base model - something isn't there, like when the Terminator's face gets damaged and you glimpse the metal underneath.
 
 ## The higher bar
 
@@ -62,7 +62,7 @@ There's an interesting edge case here. If a JavaScript compiler had a bug, you w
 
 Von Neumann's point about mathematics might apply here. Maybe the question isn't whether AI will earn our trust through better metrics or more familiar form factors. Maybe we just need to get used to it.
 
-Dogs earned their place through millennia of co-evolution. The models are doing it in years. The human-facing traits are already good - better than good. The alien bits will keep showing through. But the gap between what the models can do and what we're comfortable trusting them with will close, probably faster than our intuitions suggest.
+Dogs earned their place through millennia of co-evolution. The models are doing it in years. The human-facing traits are already good - better than good. The unexpected bits will keep showing through. But the gap between what the models can do and what we're comfortable trusting them with will close, probably faster than our intuitions suggest.
 
 The question is whether we'll update our heuristics in time, or keep applying mammalian instincts to something that isn't a mammal.
 
