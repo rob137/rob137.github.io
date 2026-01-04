@@ -2,54 +2,86 @@
 layout: post
 title: "The Raft and the Ladder"
 date: 2026-01-04 11:30:00 +0000
-tags: [ai, expertise, skills, philosophy]
-excerpt: "The skills that got you here may slow you down now. But you needed them to get here."
+tags: [ai, expertise, skills, philosophy, history]
+excerpt: "The skills that got you here may slow you down now. But you needed them to get here. Didn't you?"
 ---
 
 Two metaphors for letting go of what you've learned.
 
-The Buddha, in the [Alagaddupama Sutta](https://tricycle.org/trikedaily/buddhist-parable-of-the-raft/), describes a man who builds a raft to cross a river:
+The Buddha, in the [Alagaddupama Sutta](https://tricycle.org/trikedaily/buddhist-parable-of-the-raft/):
 
 > This raft has been very helpful to me... Why don't I beach it on dry land or set it adrift on the water and go wherever I want?
 
-The teaching is a raft. It's for crossing over, not for holding on. Once you've reached the other shore, carrying it with you only slows you down.
+The teaching is a raft. It's for crossing over, not for holding on.
 
 Wittgenstein, at the end of the [Tractatus](https://en.wikipedia.org/wiki/Wittgenstein%27s_ladder):
 
 > My propositions serve as elucidations in the following way: anyone who understands me eventually recognizes them as nonsensical, when he has used them – as steps – to climb up beyond them. (He must, so to speak, throw away the ladder after he has climbed up it.)
 
-The ladder gets you somewhere. Then you don't need it anymore.
+The ladder gets you somewhere. Then you kick it away.
 
-## The question
+## The question I kept hearing
 
-Both metaphors point the same direction: what got you here isn't necessarily what takes you forward. But there's a difference between them.
+I spent much of 2025 talking to software companies about AI. Back in March, the pitch was that these tools are actually usable right now. By autumn, that was obvious. The conversations changed.
 
-With a raft, you leave the shore behind entirely. You can't go back. The river is crossed.
+But one question came up constantly, from people who'd started to get it: will using AI to code lead to skipping learning?
 
-With a ladder, you've climbed somewhere - but you can still look down. The rungs are still there, even if you've stopped standing on them.
+## The parallel
 
-I don't know which is the better model for rapidly obsoleting skills. Maybe it depends where you are in the stack.
+We're mechanising coding. It's worth thinking about what happened when we mechanised farming.
 
-## The stack
+Most people worked in agriculture at the start of the last century. Now almost no one does. Growing your own food is a hobby, something you do for reasons other than necessity.
 
-Some layers feel more like rafts. The [attachment to physical tools](/2026/01/03/the-pliers/) - the sense that real work involves tangible things - might be something you simply leave behind. You cross over into a different relationship with work, and the old shore fades.
+But to mechanise agriculture, we had to master it first. You didn't just need the calories to sustain civilisation through to the Industrial Revolution. You needed an intimate understanding of the craft in order to build machines that could do it.
 
-Other layers feel more like ladders. Understanding how things work underneath still helps, even if you're not directly using that knowledge. Abstraction doesn't erase what came before - it builds on it. You can still look down.
+## The expertise problem
 
-And some areas might be stubborn. The whole stack won't shift at once. There'll be places where the old skills stay relevant for years, while everything around them changes. The [expanding universe](/2026/01/02/yolo-mode/) of practice - different domains diverging at different rates.
+Software engineering already has an expertise problem.
 
-## The loss
+[Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay), in a [2004 ACM Queue interview](https://queue.acm.org/detail.cfm?id=1039523):
 
-Either way, there's something lost. Skills you worked hard to acquire becoming vestigial. Knowledge that used to matter, mattering less.
+> I fear — as far as I can tell — that most undergraduate degrees in computer science these days are basically Java vocational training.
 
-It's like learning to drive. At first, every action is conscious - mirror, signal, manoeuvre. Eventually it becomes automatic. You stop thinking about it. The explicit knowledge fades into something implicit, something you can't even articulate anymore.
+[Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow), on [generational knowledge loss](https://news.ycombinator.com/item?id=39241077):
 
-Maybe that's not loss. Maybe it's just what expertise looks like from the other side.
+> The first generation works on thing X. After X is done and becomes popular, time passes and the next generation of programmers comes and works on Y, based on X. They do not need to know, exactly, how X is built, why it was built that way, or how to write an alternative X from scratch... The biggest a-ha moment was that if you are working on Y and Y is based on X, that does not imply automatically that you would know X also.
 
-But it feels like loss, sometimes. And I think that's worth acknowledging rather than pretending it's pure gain.
+Think of the equivalent of the Beatles in the historic lineup of programmers and computer scientists. Von Neumann, Dijkstra, Grace Hopper, Licklider. How many names would ring a bell for your average team of web developers? Have they seen the [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)?
 
-## The paradox
+The industry has been doubling every five years for the longest time. That means fewer people joined out of love for the craft. The rungs of the ladder were always just stepping stones for a lot of the workforce.
 
-The skills that got you here may slow you down now. But you couldn't have skipped them. You needed the raft to cross the river. You needed the ladder to climb.
+## The difference
 
-The question isn't whether to let go. It's whether you're on the other shore yet - or still mid-crossing, holding tight.
+Software is different from cutting down corn. At its core, we're producing coherent, complex systems in spite of the obstacles that reality throws at us. The craft isn't just executing tasks. It's managing complexity, holding structure in your head, making trade-offs that compound.
+
+Someone driving a combine harvester might have no idea about the reasons why crops grow. What matters is knowing the machinery. The foundational craft has been mechanised away.
+
+I don't think this is true yet for software. I'm sympathetic to people like [Robert Martin](https://en.wikipedia.org/wiki/Robert_C._Martin), who imply it might never be something you can abrogate responsibility for. Although I'm not confident I agree with them either.
+
+## The temptation
+
+The biggest temptation is to just ask the AI to complete your ticket.
+
+You've arrived in your software job, there's a Jira board, your name is on a task. The dopamine hit from completion, the clout from your non-technical product manager, is roughly proportionate to how quickly you get things done.
+
+But that's only the short-term payoff. The longer-term payoffs are the health of the codebase and your professional development, your abilities as a craftsperson. Those are affected by what worthy detours you choose to make along the way. How much you actually build a grip on how things work and why.
+
+There's a principle I've heard in hiring: look for people who go one level of abstraction lower than the thing they're asked to do. These are often the most useful people. I wouldn't expect a web developer to dive into electrical engineering. But a passing interest in how we got from machine code to [talking about React components](/2026/01/03/the-interview-question/) seems valuable.
+
+## The trap
+
+I think one of the traps with AI, because we're all lazy beings, is to think: at last. At last a raft we can discard. At last a ladder we can kick away.
+
+And there are natural questions that follow about how juniors will ever truly learn anything.
+
+I think the truth is more complicated. The juniors of today will be far more adept at the current level of abstraction. But the less diligent among them will always feel that something's wrong. They'll feel like imposters. This is something you can explain to people, and some fraction will take up the challenge and learn deeper.
+
+The last seventy years of software industry history suggest it will only be a fraction.
+
+## The tutor
+
+AI is fantastic as a tutor, and only getting better. But the horse has to want to drink.
+
+Maybe I'm rejecting both metaphors. The raft implies you've crossed to somewhere better. The ladder implies you've climbed to somewhere higher. But if you never understood what you were crossing from, or what's beneath you, have you actually arrived?
+
+The question isn't whether to let go. It's whether you've grasped it in the first place.
