@@ -54,4 +54,6 @@ If you froze the current tools long enough for people to actually adapt, would t
 
 It feels like a very open question. The fact that it's unexplored makes me think we're in for a surprise.
 
-The student who's never stuck with a blank word document at 2am. That experience might be fading. Other problems will replace it.
+I'm not claiming the world is getting better. No free lunch. But for a minority, things have quietly turned upside down in ways that probably aren't obvious to anyone else. The student who's never stuck with a blank word document at 2am.
+
+I wonder if this is the only such group. And if not, whether the implications will fan out from here. This is bigger than a butterfly flapping its wings.
