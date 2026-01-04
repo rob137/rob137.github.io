@@ -108,6 +108,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
 
+### The Raft and the Ladder
+**Status:** Idea
+**Core idea:** Buddhist raft metaphor (use it to cross the river, don't carry it with you). Wittgenstein's ladder (climb it, then throw it away). Relationship with rapidly obsoleting skills. The skills that got you here may not be the ones that take you forward - and holding onto them might slow you down.
+
 ### The Role of Testimony
 **Status:** Idea
 **Core idea:** Most knowledge is testimonial - I don't know how penicillin works, why brushing twice beats once but six is overkill, how a light switch actually works. We trust experts constantly. Trust is a big topic around AI, especially when you can find failure examples. But humans fail too. Autonomous driving is machines catching up to and exceeding human error rates - we'll watch the same in coding. Because machines don't follow human quirks, our trust heuristics will be miscalibrated. We might struggle to trust them well after the point where we should have.
