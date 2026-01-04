@@ -104,6 +104,15 @@ Ideas extracted from ambient recordings and conversations.
 
 ## Backlog
 
+### The Next Rung
+**Status:** Idea
+**Core idea:** Conversation with Chris (friend/colleague). One year ago: agents were a speculative feature in Cursor, Aider was jagged and tricky to use. Now: agents ubiquitous. Agent orchestration (Gas Town, etc.) is in that same early phase now - people speculatively trying things out. Chris notes the big wrapper companies haven't even ventured into orchestration yet, though they're probably experimenting internally. Pattern: the next rung of the abstraction ladder seems less than serious until suddenly it's ubiquitous. Link back to prior post on abstraction ladder.
+
+**Quotes from Chris (Jan 3-4, 2026):**
+- "I don't believe agents running agents is ready yet. I feel like it's much easier to carelessly try and run very fast, than to use caution because caution is less exciting and feels less rewarding"
+- "Even Steve Yegge calls them superhuman chimps. In the article for Gas Town he says 'if you're crazy enough to use it'"
+- "Cursor etc will almost definitely have been experimenting with this a long time before Steve Yegge's pet project and nothing has been released yet"
+
 ### How Hiring Has Changed
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
