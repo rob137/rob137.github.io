@@ -62,8 +62,10 @@ Game engines. Low-level optimisation. The stubborn end of the spectrum.
 
 I wrote a few days ago about [crossing a threshold](/2026/01/02/crossing-the-horizon/). For some domains, that threshold has been crossed - outer-loop coding works. For others, it hasn't. Maybe it will eventually. Maybe it won't.
 
-I look at scaling laws and feel fairly confident the tide will rise to cover every domain. But maybe I'm wrong. Maybe some work is genuinely stubborn.
+We're also still in what I've called the [horseless carriage phase](/2026/01/02/the-golden-retriever-problem/) - new mediums imitating old ones until they figure out what they actually are. We haven't had decades to stabilise on the right workflows. New practices are appearing at the fringes and in between, faster than anyone can keep track of. The temperature is moving so quickly that viable approaches multiply while we're still learning the previous ones.
+
+I look at scaling laws and feel fairly confident the tide will rise to cover every domain. But maybe I'm wrong. Maybe some work is genuinely stubborn. The skeptics might be seeing real limits rather than temporary gaps.
 
 Either way, the spectrum is widening. A year from now, the gap between fully vibe-coded web development and manually-written game engine code will be larger than it is today. The conversation will fragment further. Practices that seem obviously correct in one domain will seem naive or irrelevant in another.
 
-That's the expanding universe. Not everyone converging on the same tools, but viable practices pulling further apart.
+That's the expanding universe. Not everyone converging on the same tools, but the number of viable practices growing - pulled apart at the fringes while new ones appear in the spaces between.
