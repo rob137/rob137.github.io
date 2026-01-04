@@ -108,6 +108,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-04
 **Core idea:** Aider felt premature a year ago, now everyone's on Claude Code. Agent orchestration (Gas Town) in the same early phase. The pattern: each rung of the abstraction ladder seems less than serious until suddenly ubiquitous.
 
+### The Raft and the Ladder
+**Published:** 2026-01-04
+**Core idea:** Buddhist raft metaphor (use it to cross the river, don't carry it with you). Wittgenstein's ladder (climb it, then throw it away). Some obsoleting skills are rafts (leave the old shore behind), some are ladders (can still see below). The paradox: you needed the raft to cross, but now it slows you down.
+
 ---
 
 ## Backlog
@@ -115,10 +119,6 @@ Ideas extracted from ambient recordings and conversations.
 ### How Hiring Has Changed
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
-
-### The Raft and the Ladder
-**Status:** Idea
-**Core idea:** Buddhist raft metaphor (use it to cross the river, don't carry it with you). Wittgenstein's ladder (climb it, then throw it away). Relationship with rapidly obsoleting skills and the abstraction/orchestration ladder. Key question: does climbing the ladder take you somewhere better, or does it leave you worse off in some ways - less comfortable with how things actually work, further from the ground? Is expertise a ladder (you climb but can still see below) or a raft (you cross and leave the other shore behind)?
 
 ### The Expanding Universe
 **Status:** Idea - collecting quotes
@@ -141,4 +141,4 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
-*Last updated: 2026-01-03*
+*Last updated: 2026-01-04*
