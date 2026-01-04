@@ -18,6 +18,8 @@ Agent orchestration is in that same early phase now. Steve Yegge just released [
 
 > Do not use Gas Town if you do not juggle at least five Claude Codes at once, daily. Do not use Gas Town if you care about money. Do not use Gas Town if you are more than 4 feet tall. I want to tower impressively at meet-ups, like Sauron. Do not use Gas Town.
 
+(This is almost the most Yegge quote imaginable.)
+
 Chris Laidler put it well: "I don't believe agents running agents is ready yet."
 
 Chris is one of the best people I know at staying current with this stuff. If he thinks it's not ready, that's information about how far we have to go. The big wrapper companies - Cursor, Windsurf, the rest - have almost certainly been experimenting with orchestration longer than Yegge's pet project. Nothing shipped yet. That silence says something.
