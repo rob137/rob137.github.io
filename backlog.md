@@ -124,9 +124,12 @@ Ideas extracted from ambient recordings and conversations.
 - [ ] Jonathan Blow - [need tweets]
 - [x] ThePrimeagen (Lex Fridman #461): AI "often gets it wrong, especially with larger, more complex codes... lacks deep understanding for problem-solving and design"
 - [x] George Hotz (Lex Fridman #387): "GPT is great for quick generic scripts, but not for complex tasks"
-- [x] Andrej Karpathy - PERFECT CONTRAST:
+- [x] Andrej Karpathy - CONTRAST:
   - Dwarkesh (Oct 2025): nanochat was "intellectually intense code... everything has to be very precisely arranged" - AI "net unhelpful", called code "slop"
   - X post (Dec 26, 2025): "I've never felt this much behind as a programmer. The profession is being dramatically refactored." Said AI can make devs "10X more powerful"
+- [x] DHH - CONTRAST:
+  - Lex Fridman (summer 2025): "not letting AI write any code directly"
+  - X post (Jan 3, 2026): "half the resistance was simply that the models weren't good enough yet... That has now flipped." Working with opencode "has been a blast. Watching the thinking models nail a difficult bug is a revelation."
 
 ---
 
