@@ -8,7 +8,7 @@ excerpt: "Ideas captured immediately feel effortless. Ideas saved for later feel
 
 A friend, [James Welland](https://jameswelland.co.uk/), asked where he'd find time to do what I'm doing with this blog. His idea: prompt your daily routine and ask it to find cracks.
 
-That's not quite the point though. I have three kids, two dogs, four chickens, and a bunch of hobbies. The cracks were always there. The change is that I don't write anything. I have a copywriter on my phone.
+That's not quite the point though. The cracks were always there. The change is that I don't write anything. I have a copywriter on my phone.
 
 ## Fresh vs stale
 
