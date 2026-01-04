@@ -68,7 +68,7 @@ You've arrived in your software job, there's a Jira board, your name is on a tas
 
 But that's only the short-term payoff. The longer-term payoffs are the health of the codebase and your professional development, your abilities as a craftsperson. Those are affected by what worthy detours you choose to make along the way. How much you actually build a grip on how things work and why.
 
-There's a principle I've heard in hiring: look for people who go one level of abstraction lower than the thing they're asked to do. These are often the most useful people. I wouldn't expect a web developer to dive into electrical engineering. But a passing interest in how we got from machine code to [talking about React components](/2026/01/03/the-interview-question/) seems valuable.
+There's a principle I've heard in hiring: look for people who go one level of abstraction lower than the thing they're asked to do. These are often the most useful people. I wouldn't expect a web developer to dive into electrical engineering. But a passing interest in how we got from machine code to [talking about React components](/2026/01/03/interview-question/) seems valuable.
 
 ## The trap
 
