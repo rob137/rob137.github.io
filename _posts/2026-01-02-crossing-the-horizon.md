@@ -10,7 +10,7 @@ excerpt: "Something happened in the last few weeks. A step change that went unre
 >
 > — [Physics Forums](https://www.physicsforums.com/threads/is-crossing-a-black-holes-event-horizon-possible.1059967/)
 
-I'm not building models. I'm wielding them. [swyx](https://x.com/swyx) calls this being an "[AI engineer](https://www.latent.space/p/ai-engineer)" - someone who uses these systems rather than trains them. I've been doing this since the summer before ChatGPT launched, when early Copilot made me realise that block comments could be prompts.
+I wield models. [swyx](https://x.com/swyx) calls this being an "[AI engineer](https://www.latent.space/p/ai-engineer)". I've been doing it since the summer before ChatGPT launched, when early Copilot made me realise that block comments could be prompts.
 
 Since then I've lived through what feel like distinct phases:
 
