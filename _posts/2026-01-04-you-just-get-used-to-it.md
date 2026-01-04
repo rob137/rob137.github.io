@@ -26,7 +26,7 @@ The joke lands because the person proposing an opaque tool takes on responsibili
 
 ## Dogs
 
-I'm watching my dogs eat chicken thighs as I think about this. It's pretty disconcerting. They crack the bones with their molars and swallow chunks whole. You realise: oh, that isn't one of us.
+Frieda is my Australian shepherd. I've watched her eat chicken thighs - it's pretty disconcerting. She cracks the bones with her molars and swallows chunks whole. You realise: oh, that isn't one of us.
 
 Dogs have co-evolved with humans. The ones around today are descended from wolves that didn't attack children, that showed restraint around food and aggression. They've developed human-oriented traits - the face, the eyebrows, the eye contact, the visible excitement about the ball. To quote Rory Sutherland: a flower is a weed with a marketing department.
 
