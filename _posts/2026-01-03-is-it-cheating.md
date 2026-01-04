@@ -58,7 +58,7 @@ More thoughts make it out into the world. Including ones from people who could n
 
 I could write this myself. I can type, and I have in the past. But I'm producing more now - orders of magnitude more - than I ever did when writing was the bottleneck.
 
-Is it cheating? Or is it just how things work now?
+Is it cheating?
 
 The same question applies to software, and to plenty of other work besides. Code I would have written by hand now gets generated from descriptions. Designs I would have sketched get roughed out by models. The person is still there - directing, evaluating, iterating - but the mechanical production has shifted.
 
