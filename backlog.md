@@ -108,6 +108,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
 
+### The Role of Testimony
+**Status:** Idea
+**Core idea:** Most knowledge is testimonial - I don't know how penicillin works, why brushing twice beats once but six is overkill, how a light switch actually works. We trust experts constantly. Trust is a big topic around AI, especially when you can find failure examples. But humans fail too. Autonomous driving is machines catching up to and exceeding human error rates - we'll watch the same in coding. Because machines don't follow human quirks, our trust heuristics will be miscalibrated. We might struggle to trust them well after the point where we should have.
+
 ### The Expanding Universe
 **Status:** Idea - collecting quotes
 **Core idea:** Models are good for X but not for Y. Systems programming, low-level optimization, novel physics - AI harnesses hinder more than help. But in web dev, people ship without reading code. There's a spectrum of how much you can get away with. Working practices are diverging across domains - like the universe expanding, distances growing. Practices that feel sensible in one domain may be extremely domain-specific. People anchor to what worked yesterday.
