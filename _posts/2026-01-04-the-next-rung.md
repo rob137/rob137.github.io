@@ -28,7 +28,7 @@ Chris is one of the best people I know at staying current with this stuff. If he
 
 This feels like March 2024 for agents - but one rung up. The timelines are accelerating, so I don't have a strong feeling about when the tipping point comes. I can just sense that smart people are starting to ask the natural next questions.
 
-The [abstraction ladder](/2026/01/03/first-contact/) keeps extending. Each rung seems less than serious until suddenly it's ubiquitous.
+The [abstraction ladder](/2026/01/02/yolo-mode/) keeps extending. Each rung seems less than serious until suddenly it's ubiquitous.
 
 ## The timing problem
 
