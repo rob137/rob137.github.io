@@ -128,6 +128,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea
 **Core idea:** Certain general-purpose, convenient devices/apps attract all functionality. Story: got a Hanklight after much deliberation (link to frugality post), but ended up just using phone light. Barely open laptop now - phone browser does 90%, happy to slam it for the rest. This is coming for AI. Terminal-based coding tools are already general-purpose computing interfaces - command line can do all knowledge work, but most knowledge workers are scared of it. Reference colleague James: non-technical, hasn't written code, but now uses terminal-based tools as primary interface for his role. Reference Audacity being sidelined (GUI Was a Detour). Note: check if too many "The X" titles, and whether cosmological references are getting hammy after Expanding Universe.
 
+### Corsair
+**Status:** Idea
+**Core idea:** Built an Emacs tool called Corsair (top project on GitHub). Already obsolete. The workflow it supported is no longer relevant following terminal-based agents and IDE-integrated tools. Personal example of how fast things are moving.
+
 ---
 
 *Last updated: 2026-01-04*
