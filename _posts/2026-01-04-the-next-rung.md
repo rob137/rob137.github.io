@@ -24,7 +24,9 @@ Steve Yegge just released [Gas Town](https://steve-yegge.medium.com/welcome-to-g
 
 If Chris thinks it's not ready, that's information about how far we have to go. The big wrapper companies - Cursor, Windsurf, the rest - have almost certainly been experimenting with orchestration longer than Yegge's pet project. Nothing shipped yet. That silence says something.
 
-## But
+Chris Dixon's line comes to mind: "What the smartest people do on the weekends is what everyone else will do during the week in ten years." Gas Town is a weekend project. That's worth paying attention to.
+
+## The feeling
 
 This feels like March 2024 for agents - but one rung up. The timelines are accelerating, so I don't have a strong feeling about when the tipping point comes. I can just sense that smart people are starting to ask the natural next questions.
 
