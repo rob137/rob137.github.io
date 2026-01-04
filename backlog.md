@@ -110,7 +110,7 @@ Ideas extracted from ambient recordings and conversations.
 
 ### The Raft and the Ladder
 **Published:** 2026-01-04
-**Core idea:** Buddhist raft metaphor (use it to cross the river, don't carry it with you). Wittgenstein's ladder (climb it, then throw it away). Some obsoleting skills are rafts (leave the old shore behind), some are ladders (can still see below). The paradox: you needed the raft to cross, but now it slows you down.
+**Core idea:** Buddhist raft and Wittgenstein's ladder as metaphors for letting go. Enterprise context: will AI lead to skipping learning? Industrial Revolution parallel. Alan Kay and Jonathan Blow on the existing expertise problem. The temptation of task completion dopamine. Ends by rejecting both metaphors: the question isn't whether to let go, it's whether you've grasped it in the first place.
 
 ---
 
