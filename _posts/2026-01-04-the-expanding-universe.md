@@ -10,9 +10,7 @@ I wrote a few days ago about [crossing a threshold](/2026/01/02/crossing-the-hor
 
 ## The flippers
 
-[Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy), October 2025, on his nanochat project:
-
-> "Intellectually intense code... everything has to be very precisely arranged." AI was "net unhelpful." He called the output "slop."
+[Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy), October 2025, on his nanochat project. He described it as "intellectually intense code" where "everything has to be very precisely arranged." AI was "net unhelpful." He called the output "slop."
 
 [Andrej Karpathy](https://x.com/karpathy/status/2004607146781278521), December 2025:
 
