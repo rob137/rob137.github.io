@@ -6,7 +6,7 @@ tags: [ai, coding, domains, spectrum]
 excerpt: "The spectrum of viable workflows is widening. Some domains will be fully automated. Others might never accommodate AI at all."
 ---
 
-A year ago, there was roughly one way to be a professional software developer. You wrote code. The tools varied, the languages varied, but the core activity was the same.
+Five years ago, there was roughly one way to be a professional software developer. You wrote code. The tools varied, the languages varied, but the core activity was the same.
 
 Now there's a spectrum - and it's getting wider.
 
