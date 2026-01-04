@@ -1,0 +1,27 @@
+---
+layout: post
+title: "The Next Rung"
+date: 2026-01-04 09:00:00 +0000
+tags: [ai, agents, abstraction, tools]
+excerpt: "The most eager people I knew were using Aider this time last year. Now everyone's on Claude Code. The pattern repeats."
+---
+
+The most eager people I knew were leaning into [Aider](https://github.com/Aider-AI/aider) this time last year. It felt premature to me - jagged, tricky to use, more friction than flow.
+
+Now everyone's on Claude Code.
+
+Paul Gauthier, Aider's creator, was early. He set things up for everyone else. That's how these things go.
+
+## The pattern
+
+Agent orchestration is in that same early phase now. Steve Yegge just released [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) - and even he calls the agents "superhuman chimps" and adds "if you're crazy enough to use it."
+
+A friend put it well: "I don't believe agents running agents is ready yet."
+
+He's probably right. The big wrapper companies - Cursor, Windsurf, the rest - have almost certainly been experimenting with orchestration longer than Yegge's pet project. Nothing shipped yet. That silence says something.
+
+## But
+
+This feels like March 2024 for agents, except it's orchestration. The timelines are accelerating, so I don't have a strong feeling about when the tipping point comes. I can just sense that smart people are starting to ask the natural next questions.
+
+The [abstraction ladder](/2026/01/03/first-contact/) keeps extending. Each rung seems less than serious until suddenly it's ubiquitous.
