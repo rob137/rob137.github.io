@@ -122,6 +122,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-04
 **Core idea:** ADHD-like symptoms (2am essay paralysis, excruciation at starting) have disappeared with LLMs. Work became like playing Nintendo - dopaminergic, compounding. Burnout assumptions may be wrong when work is fun. Certain personality types were failure modes but now thrive. Open question: would different personalities dominate software engineering if tools froze?
 
+### Fresh and Stale
+**Published:** 2026-01-04
+**Core idea:** Ideas captured immediately feel effortless, saved for later feel like work. The infrastructure: speech to text + Tailscale + frontier models. Volume compounds - generating ideas causes more ideas. Productizing the group chat. From WhatsApp conversation with James.
+
 ---
 
 ## Backlog
