@@ -10,15 +10,7 @@ excerpt: "Something happened in the last few weeks. A step change that went unre
 >
 > — [Physics Forums](https://www.physicsforums.com/threads/is-crossing-a-black-holes-event-horizon-possible.1059967/)
 
-I've never trained a model from scratch.
-
-I could explain reasonably well how transformers work - attention mechanisms, context windows, the broad strokes of what's happening. But I've never trained a model. I could probably fumble through a conversation about mixture of experts, though I suspect my mental model is subtly wrong in ways I can't identify. I'm a software engineer, not an ML person. An [AI engineer](https://www.latent.space/p/ai-engineer), in swyx's framing - someone who wields these systems rather than builds them.
-
-But here's the thing: I don't think anyone on Jools Holland could give you a rigorous definition of a decibel. That doesn't mean they can't play.
-
-## The Practitioner's View
-
-[swyx](https://x.com/swyx) coined the term "[AI engineer](https://www.latent.space/p/ai-engineer)" and I identify with it. I'm not building models. I'm wielding them. I've been doing this since the summer before ChatGPT launched, when I was using early Copilot and realising that block comments could be prompts.
+I'm not building models. I'm wielding them. [swyx](https://x.com/swyx) calls this being an "[AI engineer](https://www.latent.space/p/ai-engineer)" - someone who uses these systems rather than trains them. I've been doing this since the summer before ChatGPT launched, when early Copilot made me realise that block comments could be prompts.
 
 Since then I've lived through what feel like distinct phases:
 
