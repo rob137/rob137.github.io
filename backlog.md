@@ -130,6 +130,10 @@ Ideas extracted from ambient recordings and conversations.
 - [x] DHH - CONTRAST:
   - Lex Fridman (summer 2025): "not letting AI write any code directly"
   - X post (Jan 3, 2026): "half the resistance was simply that the models weren't good enough yet... That has now flipped." Working with opencode "has been a blast. Watching the thinking models nail a difficult bug is a revelation."
+- [?] Robert C. Martin (Uncle Bob) - CONSISTENT SKEPTIC (may not fit the narrative):
+  - May 2025: "efficiency boost... nowhere near 8X. I would put it at about 10%. That's because all of the code presented by the AI requires scrutiny, and a large fraction is crap."
+  - Dec 2025: "AI was a help. I got farther than I would have without it. But not that much farther." Still using hybrid approach, AI for "boring repetitive work"
+  - Hasn't flipped like Karpathy/DHH - remains measured. Could show the spectrum includes holdouts?
 
 ---
 
