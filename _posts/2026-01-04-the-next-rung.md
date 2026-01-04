@@ -14,7 +14,9 @@ Paul Gauthier, Aider's creator, was early. He set things up for everyone else. T
 
 ## The pattern
 
-Agent orchestration is in that same early phase now. Steve Yegge just released [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) - and even he calls the agents "superhuman chimps" and adds "if you're crazy enough to use it."
+Agent orchestration is in that same early phase now. Steve Yegge just released [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) - and even he includes this warning:
+
+> Do not use Gas Town if you do not juggle at least five Claude Codes at once, daily. Do not use Gas Town if you care about money. Do not use Gas Town if you are more than 4 feet tall. I want to tower impressively at meet-ups, like Sauron. Do not use Gas Town.
 
 Chris Laidler put it well: "I don't believe agents running agents is ready yet."
 
