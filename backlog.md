@@ -100,17 +100,17 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-03
 **Core idea:** Human friction becoming the bottleneck. "The Goal" theory - as AI speeds everything up, interpersonal coordination sticks out. "The worst thing anyone could say is that someone else is going to work on it with me." Optimal engineers approaching zero. Jevons Paradox on project count. Metal Gear Solid exclamation mark ending.
 
+### You Just Get Used to It
+**Published:** 2026-01-04
+**Core idea:** Trust, testimony, and dogs. Most knowledge is testimonial. AI subverts normal responsibility attribution. Dogs co-evolved with humans - human-facing traits but unexpected bits underneath. Von Neumann: "you don't understand things, you just get used to them."
+
+### The Next Rung
+**Published:** 2026-01-04
+**Core idea:** Aider felt premature a year ago, now everyone's on Claude Code. Agent orchestration (Gas Town) in the same early phase. The pattern: each rung of the abstraction ladder seems less than serious until suddenly ubiquitous.
+
 ---
 
 ## Backlog
-
-### The Next Rung
-**Status:** Idea
-**Core idea:** Conversation with Chris (friend/colleague). One year ago: agents were a speculative feature in Cursor, Aider was jagged and tricky to use. Now: agents ubiquitous. Agent orchestration (Gas Town, etc.) is in that same early phase now - people speculatively trying things out. Chris notes the big wrapper companies haven't even ventured into orchestration yet, though they're probably experimenting internally. Pattern: the next rung of the abstraction ladder seems less than serious until suddenly it's ubiquitous. Link back to prior post on abstraction ladder.
-
-**From Chris:** "I don't believe agents running agents is ready yet."
-
-He notes that even Yegge calls them "superhuman chimps" and adds "if you're crazy enough to use it" in the Gas Town post. The big wrapper companies (Cursor, etc.) have almost certainly been experimenting with orchestration longer than Yegge's pet project - and nothing shipped yet. That silence says something.
 
 ### How Hiring Has Changed
 **Status:** Idea - reading Joel Spolsky's book
