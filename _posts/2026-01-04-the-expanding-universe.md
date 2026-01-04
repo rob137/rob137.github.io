@@ -42,7 +42,7 @@ He's noted that AI may help with "typing-speed-limited" work, but that's not whe
 
 He sees some utility. Not transformative.
 
-[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow), consistently:
+[John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow), [consistently](/2026/01/03/the-witnesses/):
 
 > "Current AIs can't code. It's clear by now that everyone who thinks they can are not good programmers themselves, and/or only ever do trivial problems."
 
