@@ -33,6 +33,8 @@ This only works because of three things:
 
 Nothing in the posts is content I haven't dictated. They're tight distillations of much longer ramblings. I've yet to see one that doesn't stick to the spirit of what I said.
 
+I'm always surprised at how direct the results are. Most posts are essentially a patchwork of fragments I actually said, rearranged into something cohesive and less flabby. I struggle to find text I don't recall saying myself.
+
 Remove any one of these and the whole thing breaks down. Speech without remote access means waiting until I'm home. Remote access without models means doing the cleanup myself. Models without speech means typing, which means a desk, which means no cracks.
 
 ## Volume compounds
