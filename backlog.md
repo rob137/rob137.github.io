@@ -142,6 +142,14 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-05
 **Core idea:** Orienteering technique - deliberately aim to one side so you know which way to turn. When everything's moving, you have to aim where the target will be. ESR's YERD project (LLMs writing CRUD apps). Early web/open source hackers built for a world that didn't exist. Eternal September. Position before submission, inkblot strategy.
 
+### The Great Attractor
+**Published:** 2026-01-05
+**Core idea:** Certain general-purpose devices attract all functionality. Hanklight story - bought a Noctigon KR1, ended up just using phone. AI is the great attractor now. James writing code via AI. Lambda's neural OS as the extreme.
+
+### Gateway Drug
+**Published:** 2026-01-05
+**Core idea:** Copilot → scaling laws → Dwarkesh → hippocampus. Guillaume Verdon on AGI as anthropocentric. roon on "agency" as filler. LLMs as discovery, not just engineering.
+
 ---
 
 ## Backlog
@@ -150,17 +158,9 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
 
-### The Great Attractor
-**Status:** Idea
-**Core idea:** Certain general-purpose, convenient devices/apps attract all functionality. Story: got a Hanklight after much deliberation (link to frugality post), but ended up just using phone light. (Noctigon KR1, Dark Grey, W2 Osram 6000K, 18650 pocket thrower.) Barely open laptop now - phone browser does 90%, happy to slam it for the rest. This is coming for AI. Terminal-based coding tools are already general-purpose computing interfaces - command line can do all knowledge work, but most knowledge workers are scared of it. Reference colleague James: non-technical, hasn't written code, but now uses terminal-based tools as primary interface for his role. Reference Audacity being sidelined (GUI Was a Detour). Note: check if too many "The X" titles, and whether cosmological references are getting hammy after Expanding Universe.
-
 ### Corsair
 **Status:** Idea
 **Core idea:** Built an Emacs tool called Corsair (top project on GitHub). Already obsolete. The workflow it supported is no longer relevant following terminal-based agents and IDE-integrated tools. Personal example of how fast things are moving.
-
-### Gateway Drug
-**Status:** Idea
-**Core idea:** GitHub Copilot as weird gateway drug into neurology and philosophy of intelligence. All roads lead to the brain - the only existence proof of what people call AGI. Suspicion that AGI is in the eye of the beholder, deeply anthropocentric definition. Beff Jezos on Lex Fridman: extended quote about many other forms of intelligence and the term AGI being anthropocentric. Find the quote.
 
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
