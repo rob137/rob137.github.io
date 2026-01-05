@@ -32,7 +32,7 @@ Anthropic's Hannah Moran [put it simply](https://simonwillison.net/2025/May/22/t
 
 We're already building abstractions for this era. Coding harnesses, context windows, tokenizers. Hallucinations, sycophancy, evals. These are just the things we've got names for so far - probably a tiny fraction of what's already in play.
 
-Steve Yegge's [latest post](https://steve-yegge.medium.com/the-future-of-coding-agents-e9451a84207c) talks about levels of AI engineering - eight of them, I think. He's naturally describing concepts that aren't yet in common use. Partly because they help him express himself, but also because he's proposing they might be useful to others.
+Steve Yegge's [latest post](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) lists eight stages of AI engineering - from "zero or near-zero AI" through to "building your own orchestrator." He's naturally describing concepts that aren't yet in common use. Partly because they help him express himself, but also because he's proposing they might be useful to others.
 
 The mouse and the GUI of AI are sat right there, waiting to be named. But I wonder if the eras of AI engineering will be stratified like computing's eras - the 60s and 70s distinct from the 80s, then the web - but compressed. Much more rapid. Humans might struggle to develop the right metaphors in time before things are overturned by progress once again.
 
