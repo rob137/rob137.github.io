@@ -14,7 +14,7 @@ It starts innocently. You try Copilot one summer and realise that an awful lot o
 
 Then ChatGPT appears. You're already aware of the utility if you channel it correctly, so your interest peaks. You find out about scaling laws. Before you know it, you're listening to the [Dwarkesh Patel podcast](https://www.dwarkesh.com/).
 
-Cut forward a few months. You're listening to conversations about the brain. Suddenly you know more than you ought to about the hippocampus. You still have no idea how the brain works - but it turns out that having something to listen to in the in-between moments is a pretty good forcing function for snapping out of day-to-day work and fixating on broader questions. Questions that take you way beyond the things legible to companies.
+Cut forward a few months. You're listening to conversations about the brain. Suddenly you know more than you ought to about the hippocampus.
 
 [Adam Marblestone's recent episode](https://www.dwarkesh.com/p/adam-marblestone) is a good example: "How does the genome encode abstract reward functions?" It's the kind of thing I'd never have encountered without AI as a gateway.
 
