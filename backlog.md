@@ -166,6 +166,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
 
+### Local Maximum
+**Status:** Idea - follow-up to Artifice
+**Core idea:** Artifice post makes it sound open-and-shut that scaling continues. But there's a slice of ML world (particularly academic) who believe we're chasing a local maximum with LLMs - economic utility made it the only game in town, but it doesn't have long-term potential as a paradigm. Counter-view: historically sigmoids overlap to form an exponential over decades. You can always point to concrete reasons the current paradigm can't continue, or you can take a meta-level view that paradigms come and go but progress is consistent. Link to [AI 2027](https://ai-2027.com/) which is built on the continuation premise. Muse on this tension.
+
 ---
 
 *Last updated: 2026-01-05*
