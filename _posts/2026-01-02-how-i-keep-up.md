@@ -10,7 +10,7 @@ A caveat: my days are spent experimenting with this stuff professionally, and my
 
 X.com is unreasonably good.
 
-I know how that sounds. The politicisation, the image problems, the discourse about the discourse. I get it. But it turns out the best minds in this space are very active and engaged there. It's the best place to keep track of what's happening, by a country mile.
+I know how that may sound. The politicisation, the image problems, the discourse about the discourse. I get it. But it turns out the best minds in this space are very active and engaged there. It's the best place to keep track of what's happening, by a country mile.
 
 The catch is that it only works if you follow the right people. Which is what this post is about.
 
