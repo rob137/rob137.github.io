@@ -6,7 +6,11 @@ tags: [meditation, attention, nature, ai]
 excerpt: "Left hemisphere bait, right hemisphere activity. A pattern that keeps appearing."
 ---
 
-I've been exploring [field recording](https://en.wikipedia.org/wiki/Field_recording) as I go deeper into [speech to text as a medium](/2026/01/02/voice-first-the-future-of-talking-to-machines/#the-setup). A follow-up to [Fresh and Stale](/2026/01/04/fresh-and-stale/), though not about AI. At least not at first.
+I was researching [field recorders](/2026/01/02/voice-first-the-future-of-talking-to-machines/#the-setup) as dictation devices when I stumbled into the [field recording](https://en.wikipedia.org/wiki/Field_recording) subculture. I haven't actually done any field recording myself. But I watched the introductory videos - the enthusiasm was infectious - and I noticed something.
+
+Every video has a detour about three quarters of the way in. The presenter compares the practice to meditation. Standing still. Listening. Always presented as personal discovery rather than received wisdom.
+
+That observation led somewhere. A follow-up to [Fresh and Stale](/2026/01/04/fresh-and-stale/), though not about AI. At least not at first.
 
 ## Bird watching
 
@@ -22,11 +26,9 @@ The bird itself might be a McGuffin. Like golf - ostensibly about hitting a ball
 
 ## The pattern
 
-Every video about field recording has a detour about three quarters of the way in. The presenter compares the practice to meditation. Standing still. Listening. It applies regardless of what you're recording - street noise, waves, forest.
-
 Long-distance swimming has the same quality. Enough sensory input to occupy the surface of your mind - cold, rhythm, effort - but not enough signal to constitute actual thought. Your brain goes somewhere else. Surprising calm, given the exertion.
 
-These aren't the same activity. But they seem to converge on the same place.
+Bird watching, field recording, swimming. These aren't the same activity. But they seem to converge on the same place.
 
 ## Maps
 
