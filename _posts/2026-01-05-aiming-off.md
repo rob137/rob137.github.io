@@ -6,11 +6,11 @@ tags: [ai, strategy, uncertainty, history]
 excerpt: "When everything's moving, you have to aim where the target will be. The early hackers knew this."
 ---
 
-In orienteering there's a technique called [aiming off](https://en.wikipedia.org/wiki/Aiming_off). You deliberately aim to one side of your target so that when you reach the feature you're using for navigation, you know which way to turn. Better to be predictably wrong than unpredictably right.
+If you're shooting at a moving target, you don't aim at where it is. You aim at where it's going to be. The further the target, the faster it's moving, the more you have to lead.
 
-I keep thinking about this when people ask whether they should be writing agent-first applications. Whether they should adopt Temporal. Whether they should build for the tooling that exists today or the tooling they expect in twelve months.
+People keep asking whether they should be writing agent-first applications. Whether they should adopt Temporal. Whether they should build for the tooling that exists today or the tooling they expect in twelve months.
 
-The honest answer is that nobody knows. The variables are moving. The capabilities are moving. The best practices don't exist yet because nobody's had time to make the mistakes that generate them.
+The honest answer is that nobody knows. The target is moving. The capabilities are moving. The best practices don't exist yet because nobody's had time to make the mistakes that generate them. You have to aim off.
 
 ## The CRUD question
 
@@ -22,7 +22,7 @@ He's steering LLMs to do the heavy coding. He's looking for collaborators not to
 
 Most software is CRUD apps. Forms that write to databases, databases that feed dashboards, dashboards that inform decisions. If that's what you're building, the question of whether to adopt agent-first tooling might be simpler than it looks. The fundamentals haven't changed. They've just become easier - possibly to the point where hand-coding them stops making sense.
 
-But if you're building something more speculative - trying to hit a target twelve months out - you're in orienteering territory. You have to aim off.
+But if you're building something more speculative - trying to hit a target twelve months out - you have to lead.
 
 ## The hackers
 
@@ -44,4 +44,4 @@ The [horseless carriage](/2026/01/02/golden-retriever-problem/) instinct is stro
 
 I keep coming back to the [inkblot strategy](/2026/01/03/first-contact/#the-inkblot-strategy). Small bets, fast iteration, willingness to be wrong. It's the only approach that makes sense when you can't see clearly.
 
-Aim off. Be predictably wrong. Then correct.
+Lead the target. Adjust. Fire again.
