@@ -34,7 +34,7 @@ But I don't think it's the main thing.
 
 ## The real variable
 
-I wrote [before](/2026/01/03/brooks-law-redux/) about how human coordination is becoming the binding constraint. LLMs get faster, humans start to stick out as the bottleneck. You end up wanting to reduce headcount. Less than one person per project might be the long-term equilibrium.
+I wrote [before](/2026/01/03/brooks-law-redux/) about how human coordination is becoming the binding constraint. LLMs get faster, humans start to stick out as the bottleneck. You end up wanting to reduce headcount. One person per project. Then less than one.
 
 Here's the thing: if you throw a solo developer at a project with nothing but a parachute, they get all the benefits I described in that post. No coordination overhead. No waiting for alignment. No context-switching between people's mental models.
 
