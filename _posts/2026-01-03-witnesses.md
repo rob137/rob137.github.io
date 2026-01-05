@@ -88,6 +88,14 @@ But I keep noticing something: builders I also respect - people known for shippi
 
 ---
 
+**[Salvatore Sanfilippo](https://en.wikipedia.org/wiki/Salvatore_Sanfilippo)** (antirez) - Created [Redis](https://en.wikipedia.org/wiki/Redis):
+
+> "I believe my positions about: 'LLMs are great for coding, but use the web interface as the agents will mostly do a mess for complex things' is no longer accurate right now. Claude Code with Opus and other similar systems are now able to carry complicated subtasks alone... Last few weeks were as shocking as the first ChatGPT version."
+
+[Source](https://x.com/antirez/status/2007927148502499773) (January 2026)
+
+---
+
 ## Why this matters
 
 These aren't impressionable newcomers. They're people who've been sceptical of hype before - often correctly. When someone who wrote foundational texts on open source development says their workflow has permanently changed, it's worth paying attention.
