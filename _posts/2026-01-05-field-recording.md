@@ -40,7 +40,7 @@ Ian McGilchrist argues the left hemisphere has a tendency to ignore what it can'
 
 Here's where it comes back to AI.
 
-A change I've experienced working with LLMs is that I'm no longer stuck at low levels of abstraction for long. The knowledge gaps that used to block progress - waiting for the "database person" to return from holiday, moving on to another task - are closing. You can chase questions up the stack. Frontend to database to security to architecture. There's no reason to stop.
+A change I've experienced working with LLMs is that I'm no longer stuck at any one level of abstraction for long. The knowledge gaps that used to block progress - waiting for the "database person" to return from holiday, moving on to another task - are closing. You can chase questions up the stack. Frontend to database to security to architecture. There's no reason to stop.
 
 It seems clear that engineers will be pushed to think in terms of product and project management quite soon. Nothing stopping them now. The whole process goes better when you reduce the number of nodes and people can just get on with it. There's real pressure to expand beyond a single domain. I think this is a good thing.
 
