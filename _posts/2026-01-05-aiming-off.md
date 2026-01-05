@@ -20,6 +20,8 @@ That's roughly where we are with AI tooling.
 
 People keep asking whether they should be writing agent-first applications. Whether they should adopt Temporal. Whether they should build for the tooling that exists today or the tooling they expect in twelve months.
 
+Steve Yegge [spent months](https://steve-yegge.medium.com/the-future-of-coding-agents-e9451a84207c) building his tool on Temporal - "the gold standard for workflow orchestration," he called it, "the Bagger 288 of workflow orchestrators." Then he found it was overkill for his use case and pivoted away. He still thinks it'll be key for enterprise AI workflows. But he aimed, adjusted, and fired again.
+
 Nobody knows. The capabilities are moving. The best practices don't exist yet because nobody's had time to make the mistakes that generate them. You have to aim off - but you're guessing at every variable.
 
 ## The CRUD question
