@@ -28,7 +28,7 @@ AI is becoming the great attractor. Right now it happens to live in terminals fo
 
 A colleague of mine, James, is non-technical. He hasn't written code. But he now uses AI tools as his primary interface for work - and yes, currently that means a terminal. But the terminal is just today's wrapper. Tomorrow it might be voice, or something we haven't imagined yet.
 
-In [The GUI Was a Detour](/2026/01/02/the-gui-was-a-detour/), I wrote about Audacity getting sidelined. The pattern keeps repeating. General-purpose interfaces absorb specialist ones. And AI is the most general-purpose interface we've ever built.
+In [The GUI Was a Detour](/2026/01/02/the-gui-was-a-detour/), I wrote about Audacity getting sidelined - for me, at least. The pattern keeps repeating. General-purpose interfaces absorb specialist ones. And AI is the most general-purpose interface we've ever built.
 
 ## The extreme version
 
