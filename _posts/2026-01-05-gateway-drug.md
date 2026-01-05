@@ -10,7 +10,7 @@ A caveat before we start: the same word can be a pointer to completely different
 
 ---
 
-It starts innocently. You try Copilot one summer and realise that an awful lot of logic can be expressed in plain English as a block comment - even though that's not how it's intended to be used. You're prompting before prompting is a thing.
+It starts innocently. You try GitHub Copilot one summer and realise that an awful lot of logic can be expressed in plain English as a block comment - even though that's not how it's intended to be used. You're prompting before prompting is a thing.
 
 Then ChatGPT appears. You're already aware of the utility if you channel it correctly, so your interest peaks. You find out about scaling laws. Before you know it, you're listening to the [Dwarkesh Patel podcast](https://www.dwarkesh.com/).
 
