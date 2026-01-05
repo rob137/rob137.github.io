@@ -10,7 +10,7 @@ I know of teams who have taken on developers and given them starter projects. Th
 
 These developers are moving ridiculously fast.
 
-If you can build a [calculator app in 40 minutes](/2026/01/03/interview-question/), why wouldn't you expect other things to go quickly too? But still - doesn't experience count? Knowing where the pitfalls are, spotting risks early before they mushroom into something that kills the project. Surely you need at least some book knowledge, if not scar tissue, around that stuff.
+If you can build a [calculator app in a few minutes](/2026/01/03/interview-question/), why wouldn't you expect other things to go quickly too? But still - doesn't experience count? Knowing where the pitfalls are, spotting risks early before they mushroom into something that kills the project. Surely you need at least some book knowledge, if not scar tissue, around that stuff.
 
 It would seem these developers are going a lot further than you'd expect.
 
