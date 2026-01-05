@@ -42,7 +42,7 @@ Here's where it comes back to AI.
 
 A change I've experienced working with LLMs is that I'm no longer stuck at low levels of abstraction for long. The knowledge gaps that used to block progress - waiting for the database person to return from holiday, moving on to another task - are closing. You can chase questions up the stack. Frontend to database to security to architecture. There's no reason to stop.
 
-Being stuck in software usually means a knowledge gap. Everything you see was built by humans, so in principle it's traversable. Robert Martin has a line about never accepting the feeling that you don't know what to do next. But in practice, opportunity cost made people stop.
+Being stuck in software usually means a knowledge gap. Everything you see was built by humans, so in principle it's traversable. Robert Martin: "don't be stuck." But in practice, opportunity cost made people stop.
 
 That's changing. And in its place, something shifts. You find yourself in a more expansive frame - figuring out what you don't know, accommodating it, rather than fitting together concepts you already have.
 
