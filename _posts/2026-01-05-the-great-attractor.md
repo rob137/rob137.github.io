@@ -16,7 +16,7 @@ That winter I used it on every dog walk. It felt just right for the purpose - a 
 
 It's dark in winter in the UK. That's when you reach for your torch. But somewhere along the way, I lost the habit. Now I just use my phone.
 
-The same thing happened with my laptop. It sits ready to go, and I almost never open it outside of work. Online shopping, browsing, reading - all on the phone now. This blog is an example: I'm dictating posts on my phone using speech-to-text, SSHing into my laptop to commit them.
+The same thing happened with my laptop. It sits ready to go, and I almost never open it outside of work. Online shopping, browsing, reading - all on the phone now. This blog is an example: I'm dictating posts on my phone using speech-to-text, and Claude Code does the rest.
 
 Certain general-purpose devices attract all functionality. The phone is a great attractor - good enough at everything, always in your pocket. The specialist tool, however beautiful, gets left in the drawer.
 
