@@ -127,8 +127,20 @@ Ideas extracted from ambient recordings and conversations.
 **Core idea:** Ideas captured immediately vs saved for later. About half the posts have been from backlog out of necessity, but the flow is lower if you don't grab the iron while it's hot. The infrastructure: speech to text + Tailscale + frontier models + copywriter on phone. Volume compounds. From WhatsApp conversation with James.
 
 ### Field Recording
+**Published:** 2026-01-05
+**Core idea:** Left hemisphere bait, right hemisphere activity. Field recording videos all detour into meditation. Dad's bird watching as parallel. Daniel Ingram's maps, contemplative traditions converging. McGilchrist quote. AI twist: engineers expanding beyond single domains because they're no longer stuck at knowledge gaps.
+
+### Invisible Capability Line
 **Published:** 2026-01-04
-**Core idea:** Every video about field recording has a meditation detour 3/4 in, always presented as personal discovery not common wisdom. The pattern of independent rediscovery - some insights resist transmission. Follow-up to Fresh and Stale.
+**Core idea:** Simon Willison on GPT-5.2/Opus 4.5 as inflection point - hard to know where the capability line is until you crash into it. Links to Crossing the Horizon.
+
+### Parachute
+**Published:** 2026-01-05
+**Core idea:** Junior developers moving ridiculously fast on starter projects. Experience should be higher leverage than before, yet juniors keep shipping. The real variable: solo developers get all the benefits of avoiding Brooks' Law. Inexperience might hurt in aggregate, but being unconstrained by coordination overhead offsets the cost.
+
+### Aiming Off
+**Published:** 2026-01-05
+**Core idea:** Orienteering technique - deliberately aim to one side so you know which way to turn. When everything's moving, you have to aim where the target will be. ESR's YERD project (LLMs writing CRUD apps). Early web/open source hackers built for a world that didn't exist. Eternal September. Position before submission, inkblot strategy.
 
 ---
 
@@ -156,4 +168,4 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
-*Last updated: 2026-01-04*
+*Last updated: 2026-01-05*
