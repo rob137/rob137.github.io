@@ -8,7 +8,7 @@ excerpt: "Certain general-purpose devices attract all functionality. The phone a
 
 A friend put me onto flashlight enthusiasts. There's a [whole subreddit](https://www.reddit.com/r/flashlight/) of people slightly obsessed with finding the right torch - and it turns out the fringes of this hobby contain some beautifully designed products.
 
-I've written before about over-obsessing on purchasing decisions. This was one of them. Before I knew it, I'd spent a few days sucked into the topic and ended up buying a [Noctigon KR1](https://intl-outdoor.com/noctigon-kr1.html) - a pocket thrower made by Hank Wang, who runs his shop as something between a side hustle and a calling. The design is lovely. It runs [Anduril](https://github.com/ToyKeeper/anduril), an open source firmware that lets you configure every aspect of how the light behaves. Someone saw a gap and filled it, beautifully.
+I've written before about over-obsessing on purchasing decisions. This was one of them. Before I knew it, I'd spent a few days sucked into the topic and ended up buying a Noctigon KR1 - a pocket thrower made by [Hank Wang](https://intl-outdoor.com/), who runs his shop as something between a side hustle and a calling. The design is lovely. It runs [Anduril](https://github.com/ToyKeeper/anduril), an open source firmware that lets you configure every aspect of how the light behaves. Someone saw a gap and filled it, beautifully.
 
 That winter I used it on every dog walk. It felt just right for the purpose - a tool that did one thing well.
 
