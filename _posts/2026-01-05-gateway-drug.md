@@ -42,6 +42,6 @@ There's something to this. "Courage" and "agency" - and Samo Burja's "[live play
 
 In another sense - like "general" in "artificial general intelligence" - "agency" is filler for the things humans do that AI doesn't yet. The word shifts as the capabilities shift. What's uniquely human keeps retreating.
 
-The question becomes: is there a core that won't retreat, or are we just watching a progressive uncovering of how little was special in the first place?
+The question becomes: is there a core that won't retreat, or are we just watching the territory shrink until we find out nothing's actually left?
 
 I don't know. But I didn't expect Copilot to lead here.
