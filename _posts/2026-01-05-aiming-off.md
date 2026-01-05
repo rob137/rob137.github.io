@@ -6,6 +6,10 @@ tags: [ai, strategy, uncertainty, history]
 excerpt: "When everything's moving, you have to aim where the target will be. The early hackers knew this."
 ---
 
+> "It's tough to make predictions, especially about the future."
+>
+> — Yogi Berra (attributed)
+
 If you're shooting at a moving target, you don't aim at where it is. You aim at where it's going to be.
 
 Under normal conditions, most of the variables are solved. You know the distance. You know the wind. You know how fast the target is moving and in what direction. You know how long your projectile takes to travel. You can calculate the lead and take the shot.
