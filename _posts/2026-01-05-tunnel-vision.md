@@ -36,11 +36,11 @@ Steve Yegge's [latest post](https://steve-yegge.medium.com/welcome-to-gas-town-4
 
 The mouse and the GUI of AI are sat right there, waiting to be named. But I wonder if the eras of AI engineering will be stratified like computing's eras - the 60s and 70s distinct from the 80s, then the web - but compressed. Much more rapid. Humans might struggle to develop the right metaphors in time before things are overturned by progress once again.
 
-## Alan Kay's tragedy
+## Something a little tragic
 
-[Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) is at once optimistic and grumpy about the state of computing. Optimistic because he always thinks things could be so much better. Grumpy because he thinks we've alighted on the wrong metaphors and practices far too early.
+[Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) is at once optimistic and grumpy about the state of computing. Optimistic because he thinks things could be so much better. Grumpy because he thinks we've alighted on the wrong metaphors and practices far too early.
 
-He'd look at us now - sat in chairs, eyes fixed on screens, talking into fixed-position microphones - and see something a little tragic. We're still using QWERTY keyboards designed to slow down typewriters. We're still using the same editors. Even terminal agents are basically thin shims between us and normal terminal output, showing diffs as they change files.
+I suspect he'd look at us now - sat in chairs, eyes fixed on screens, talking into fixed-position microphones - and see something a little tragic. We're still using QWERTY keyboards designed to slow down typewriters. We're still using the same editors. Even terminal agents are basically thin shims between us and normal terminal output, showing diffs as they change files.
 
 The first thing we want to do with AI isn't something new. It's to adapt it to our existing working practices.
 
