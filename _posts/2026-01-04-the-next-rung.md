@@ -20,8 +20,7 @@ Steve Yegge just released [Gas Town](https://steve-yegge.medium.com/welcome-to-g
 
 > Do not use Gas Town if you do not juggle at least five Claude Codes at once, daily.
 > Do not use Gas Town if you care about money.
-> Do not use Gas Town if you are more than 4 feet tall.
-> I want to tower impressively at meet-ups, like Sauron.
+> Do not use Gas Town if you are more than 4 feet tall. I want to tower impressively at meet-ups, like Sauron.
 > Do not use Gas Town.
 
 (This is almost the most Yegge quote imaginable.)
