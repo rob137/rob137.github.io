@@ -6,11 +6,17 @@ tags: [ai, strategy, uncertainty, history]
 excerpt: "When everything's moving, you have to aim where the target will be. The early hackers knew this."
 ---
 
-If you're shooting at a moving target, you don't aim at where it is. You aim at where it's going to be. The further the target, the faster it's moving, the more you have to lead.
+If you're shooting at a moving target, you don't aim at where it is. You aim at where it's going to be.
+
+Under normal conditions, most of the variables are solved. You know the distance. You know the wind. You know how fast the target is moving and in what direction. You know how long your projectile takes to travel. You can calculate the lead and take the shot.
+
+Now imagine you don't know any of that. You're not sure how far away the target is. You don't know its speed, or whether it's accelerating. The wind keeps changing. Your own platform is moving. And everyone around you disagrees about the error bars on each of these unknowns - not just the values, but how uncertain to be about them.
+
+That's roughly where we are with AI tooling.
 
 People keep asking whether they should be writing agent-first applications. Whether they should adopt Temporal. Whether they should build for the tooling that exists today or the tooling they expect in twelve months.
 
-The honest answer is that nobody knows. The target is moving. The capabilities are moving. The best practices don't exist yet because nobody's had time to make the mistakes that generate them. You have to aim off.
+Nobody knows. The capabilities are moving. The best practices don't exist yet because nobody's had time to make the mistakes that generate them. You have to aim off - but you're guessing at every variable.
 
 ## The CRUD question
 
