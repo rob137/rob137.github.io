@@ -26,7 +26,7 @@ But we've built up whole constellations of concepts to make it intelligible. Fil
 
 These are ergonomic fictions. They exist to help us think, not to describe some fundamental reality. The trade-off is supposed to be worth it - and you hope it is. But case in point: you can forget the fiction is even there.
 
-Anthropic's Hannah Moran [put it simply](https://simonwillison.net/2025/May/22/tools-in-a-loop/): "Agents are models using tools in a loop." When you describe it that way, it feels like a mirage. A user-facing fiction that doesn't really describe the underlying thing. There isn't an entity at all - just a process that comes and goes.
+Anthropic's Hannah Moran [put it simply](https://simonwillison.net/2025/May/22/tools-in-a-loop/): "Agents are models using tools in a loop." When you describe it that way, it feels like a mirage. A user-facing fiction that doesn't really describe the underlying thing. There isn't an entity at all - just a [process](https://en.wikipedia.org/wiki/Process_philosophy) that comes and goes.
 
 ## The mouse and GUI of AI
 
