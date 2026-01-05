@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Field Recording"
-date: 2026-01-04 20:45:00 +0000
+date: 2026-01-05 07:00:00 +0000
 tags: [meditation, attention, nature, ai]
 excerpt: "Left hemisphere bait, right hemisphere activity. A pattern that keeps appearing."
 ---
 
-A follow-up to [Fresh and Stale](/2026/01/04/fresh-and-stale/), though not about AI. At least not at first.
+I've been exploring [field recording](https://en.wikipedia.org/wiki/Field_recording) as I go deeper into [speech to text as a medium](/2026/01/02/voice-first-the-future-of-talking-to-machines/#the-setup). A follow-up to [Fresh and Stale](/2026/01/04/fresh-and-stale/), though not about AI. At least not at first.
 
 ## Bird watching
 
@@ -42,7 +42,7 @@ Here's where it comes back to AI.
 
 A change I've experienced working with LLMs is that I'm no longer stuck at low levels of abstraction for long. The knowledge gaps that used to block progress - waiting for the database person to return from holiday, moving on to another task - are closing. You can chase questions up the stack. Frontend to database to security to architecture. There's no reason to stop.
 
-Being stuck in software usually means a knowledge gap. Everything you see was built by humans, so in principle it's traversable. Robert Martin: "don't be stuck." But in practice, opportunity cost made people stop.
+Being stuck in software usually means a knowledge gap. Everything you see was built by humans, so in principle it's traversable. [Robert Martin](https://en.wikipedia.org/wiki/Robert_C._Martin): "don't be stuck." But in practice, opportunity cost made people stop.
 
 That's changing. And in its place, something shifts. You find yourself in a more expansive frame - figuring out what you don't know, accommodating it, rather than fitting together concepts you already have.
 
