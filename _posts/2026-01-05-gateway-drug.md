@@ -26,7 +26,7 @@ Cut forward a few months. You're listening to conversations about the brain. Sud
 >
 > We're going through a moment right now similar to when we went from Geocentrism to Heliocentrism - but for intelligence. We realized that human intelligence is just a point in a very large space of potential intelligences. It's both humbling for humanity, and a bit scary, that we're not at the center of this space.
 
-I find this persuasive. I used to think of the things LLMs are good at - [active listening](/2026/01/02/last-bastion/), empathy, synthesis - as uniquely human. Now I see them as things humans instantiate pretty well, but aren't even the best at in most cases anymore.
+I find this persuasive. I used to think of the things LLMs are good at - [active listening](/2026/01/02/last-bastion/), empathy, [synthesis](/2026/01/02/show-dont-tell/) - as uniquely human. Now I see them as things humans instantiate pretty well, but aren't even the best at in most cases anymore.
 
 Large language models feel like a form of discovery. Disembodied cognition forces you to ask what's left for the brain.
 
