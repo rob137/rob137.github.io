@@ -38,7 +38,9 @@ This suggests it's less about the specific practice and more about the brain. So
 
 ## The twist
 
-Ian McGilchrist argues the left hemisphere has a tendency to ignore what it can't categorise. Deny the existence of things it finds inconvenient.
+> "Although the left hemisphere does not see and cannot understand what the right hemisphere understands, it is expert at pretending that it does, at finding quite plausible, but bogus, explanations for the evidence that does not fit its version of events."
+>
+> — [Iain McGilchrist](https://en.wikipedia.org/wiki/Iain_McGilchrist), *The Master and His Emissary*
 
 Here's where it comes back to AI.
 
