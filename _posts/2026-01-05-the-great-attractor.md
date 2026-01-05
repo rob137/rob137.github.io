@@ -20,15 +20,15 @@ The same thing happened with my laptop. It sits ready to go, and I almost never 
 
 Certain general-purpose devices attract all functionality. The phone is a great attractor - good enough at everything, always in your pocket. The specialist tool, however beautiful, gets left in the drawer.
 
-## The terminal as attractor
+## AI as attractor
 
-This pattern is playing out again with AI tooling.
+This pattern is playing out again - but bigger.
 
-Terminal-based coding agents are quietly becoming general-purpose computing interfaces. The command line can do all knowledge work - most knowledge workers are just scared of it. But that's changing.
+AI is becoming the great attractor. Right now it happens to live in terminals for people like me, but that's incidental. The terminal isn't the end state. AI is.
 
-A colleague of mine, James, is non-technical. He hasn't written code. But he now uses terminal-based AI tools as his primary interface for work. The GUI is becoming optional.
+A colleague of mine, James, is non-technical. He hasn't written code. But he now uses AI tools as his primary interface for work - and yes, currently that means a terminal. But the terminal is just today's wrapper. Tomorrow it might be voice, or something we haven't imagined yet.
 
-In [The GUI Was a Detour](/2026/01/02/the-gui-was-a-detour/), I wrote about Audacity getting sidelined. The pattern keeps repeating. General-purpose interfaces absorb specialist ones.
+In [The GUI Was a Detour](/2026/01/02/the-gui-was-a-detour/), I wrote about Audacity getting sidelined. The pattern keeps repeating. General-purpose interfaces absorb specialist ones. And AI is the most general-purpose interface we've ever built.
 
 ## The extreme version
 
