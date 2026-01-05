@@ -38,8 +38,10 @@ The most obvious way this comes out is people talking in terms of "agency." As [
 
 > "Agency" is a bland bourgeois replacement for the high romantic language of "courage". Too many priests and not enough warriors.
 
-There's something to this. In one sense, agency means a cluster of abstract nouns around getting things done. But there's a meaningful sense in which - like "general" in "artificial general intelligence" - it's really just filler for the things humans do that AI doesn't yet.
+There's something to this. "Courage" and "agency" - and Samo Burja's "[live player](https://samoburja.com/live-versus-dead-players/)" - have the same [reference but different sense](https://en.wikipedia.org/wiki/Sense_and_reference). They point to the same thing: being an active force in the world. But with different connotations. Maybe that's what's left to fight over: the words we use for what feels essentially human, as the territory keeps shrinking.
 
-The word shifts as the capabilities shift. What's uniquely human keeps retreating. The question becomes: is there a core that won't retreat, or are we just watching a progressive uncovering of how little was special in the first place?
+In another sense - like "general" in "artificial general intelligence" - "agency" is filler for the things humans do that AI doesn't yet. The word shifts as the capabilities shift. What's uniquely human keeps retreating.
+
+The question becomes: is there a core that won't retreat, or are we just watching a progressive uncovering of how little was special in the first place?
 
 I don't know. But I didn't expect Copilot to lead here.
