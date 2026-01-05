@@ -42,8 +42,6 @@ I suppose in some sense it is, if you're putting a name on something you didn't 
 
 We're already in the middle of an Overton window shift on this. We semi-accept ghostwriting even if we don't fully acknowledge the implications. The rules changed; we just didn't update the discourse.
 
-Academic papers handle this differently. Multi-author attribution is explicit - first author did the most work, last author is usually the senior researcher who supervised. Everyone in between contributed something. The convention is so strong that [author order has become a negotiation](https://www.nature.com/articles/d41586-018-06767-6) in its own right. More transparent than ghostwriting, but distributed authorship all the same.
-
 ## The filter
 
 I mentioned in [an earlier post](/2026/01/02/last-bastion/) that the Samaritans service filters for people comfortable calling strangers on the phone. If you're not that person, you're less likely to reach out - even if you need help.
