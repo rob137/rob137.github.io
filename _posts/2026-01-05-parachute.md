@@ -40,6 +40,6 @@ Here's the thing: if you throw a solo developer at a project with nothing but a 
 
 It might be that inexperience does hurt in the aggregate. But the benefits of being unconstrained by [Brooks' Law](https://en.wikipedia.org/wiki/Brooks%27s_law) offset the cost.
 
-Experience doesn't matter enough to overcome the speed you get when you're not coordinating with anyone.
+Maybe we're seeing the first glimmers: coordination costs can outweigh inexperience.
 
 And the effect of Brooks' Law is changing dramatically over time. The gap between solo and team will keep widening.
