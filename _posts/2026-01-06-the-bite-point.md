@@ -10,8 +10,6 @@ Last spring, running a terminal coding agent without stopping to check every too
 
 Now it's becoming standard. The bite point moved.
 
-On a clutch, the bite point is where it starts to engage - the threshold between slipping and gripping. In AI tooling, it's the threshold between reckless and standard. And it keeps moving.
-
 ## The shifting horizon
 
 [YOLO](/2026/01/02/yolo-mode/) implies uncertainty. You only live once - there's valour in charging around like things are certain when they aren't. In an enterprise setting this can send the wrong signals. But everything has tradeoffs, and the calculus changes when the risky thing stops failing.
