@@ -174,6 +174,14 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - follow-up to [Artifice](/2026/01/05/artifice/)
 **Core idea:** Quality standards are contextual, driven by the art of the possible. You arrive at a new workplace, up your game without realising. Look at prior work and feel shame - written by someone else in effect. RIGHT NOW: we're watching LLMs code at a level better than many of us typically operated at. We're loosely playing arbiter of taste. But by watching AI code well, our priors around code quality are rising beyond what we're used to producing ourselves. Soon we'll look at our own old code with that same feeling of sloppiness. Connects to G Fodor's point in Artifice - if humans were the chaos all along, we're now unconsciously recalibrating what "good" looks like.
 
+### Karpathy - Playing an Instrument
+**Status:** Idea
+**Link:** https://x.com/karpathy/status/2008351926350737699
+**Transcript:**
+- **near** (@nearcyan): "coding a la factorio or starcraft is cool, but what if instead it felt more like playing an instrument"
+- **Andrej Karpathy** (@karpathy): "Yep exactly, just like this. Better analogy because it's not effortful"
+- **Reid Hoffman** (@reidhoffman - Dec 30, 2024): "I came across this video of Justin Bieber using a full orchestra to turn the rhythms in his mind into music. Soon, anyone will be able to hum a tune, describe the vibe you're aiming for, and have an AI-powered producer turn your ideas into reality."
+
 ---
 
 *Last updated: 2026-01-06*
