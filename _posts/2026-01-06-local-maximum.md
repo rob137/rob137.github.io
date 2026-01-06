@@ -6,7 +6,7 @@ tags: [ai, scaling, predictions, uncertainty]
 excerpt: "The industry is split between 'foom' and 'it's so over'. Both camps have serious people in them."
 ---
 
-My wife works on MRI machines for her PhD. One thing that surprised me in learning about medical research is how brutal it is. Moving things along involves an awful lot of hard work - really brutal hard work.
+My wife worked on MRI machines for her PhD. One thing that surprised me in learning about medical research is how brutal it is. Moving things along involves an awful lot of hard work - really brutal hard work.
 
 But it makes sense. Climbing the tech tree on the medical side of things is obviously beneficial. Quality of life. Child mortality. The stakes are high enough that people work hard on hard problems and don't give up. The usual arguments around four-day work weeks and ignoring messages outside work hours start to seem weaker when your goal is reducing child mortality.
 
