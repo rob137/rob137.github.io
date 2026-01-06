@@ -170,6 +170,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
 
+### Rising Priors
+**Status:** Idea - follow-up to [Artifice](/2026/01/05/artifice/)
+**Core idea:** Quality standards are contextual, driven by the art of the possible. You arrive at a new workplace, up your game without realising. Look at prior work and feel shame - written by someone else in effect. RIGHT NOW: we're watching LLMs code at a level better than many of us typically operated at. We're loosely playing arbiter of taste. But by watching AI code well, our priors around code quality are rising beyond what we're used to producing ourselves. Soon we'll look at our own old code with that same feeling of sloppiness. Connects to G Fodor's point in Artifice - if humans were the chaos all along, we're now unconsciously recalibrating what "good" looks like.
+
 ---
 
 *Last updated: 2026-01-06*
