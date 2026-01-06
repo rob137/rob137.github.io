@@ -162,6 +162,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-06
 **Core idea:** Standards are implicit, formed by environment. Colleague surprised by own code from months ago - not to expected standard. Watching AI code well is recalibrating us. G Fodor: humans were the chaos all along. The ratchet turns quietly.
 
+### Vibe Orchestration
+**Published:** 2026-01-06
+**Core idea:** Bieber conducting orchestra by humming. Better metaphors needed for AI coding. near/Karpathy on playing an instrument. Geoff Huntley's Ralph Wiggum approach - agent loop until tests pass. Was in 2024 papers but names matter.
+
 ---
 
 ## Backlog
@@ -177,16 +181,6 @@ Ideas extracted from ambient recordings and conversations.
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
-
-### Vibe Orchestration
-**Status:** Idea
-**Transcript:**
-- **near** (@nearcyan): "coding a la factorio or starcraft is cool, but what if instead it felt more like playing an instrument" [link](https://x.com/nearcyan/status/2008321468397220174)
-- **Andrej Karpathy** (@karpathy): "Yep exactly, just like this. Better analogy because it's not effortful" [link](https://x.com/karpathy/status/2008351926350737699)
-- **Reid Hoffman** (@reidhoffman - Dec 30, 2024): "I came across this video of Justin Bieber using a full orchestra to turn the rhythms in his mind into music. Soon, anyone will be able to hum a tune, describe the vibe you're aiming for, and have an AI-powered producer turn your ideas into reality." [link](https://x.com/reidhoffman/status/1873756306013901051)
-- **Michael Nielsen** (@michael_nielsen): "Stephen Spielberg's instruction to the interface designers for 'Minority Report' was 'Make it like conducting an orchestra'." [link](https://x.com/michael_nielsen) / [Technologies in Minority Report (Wikipedia)](https://en.wikipedia.org/wiki/Technologies_in_Minority_Report)
-
-**Notes:** Could link back to [YOLO Mode](/2026/01/02/yolo-mode/) - what's considered reckless at any given time is whatever's just beyond the current horizon, near enough for people to muck around while odds of success are still disconcerting. Historical parallels: moral panic about train speeds, [Red flag traffic laws](https://en.wikipedia.org/wiki/Red_flag_traffic_laws) requiring someone to walk ahead of cars with a flag. Pull a block quote from the Wikipedia article when writing.
 
 ### The Bite Point
 **Status:** Idea - connects to [YOLO Mode](/2026/01/02/yolo-mode/)
