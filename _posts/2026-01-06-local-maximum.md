@@ -25,7 +25,8 @@ But within the field - particularly at the machine learning end, and in some of 
 It seems paradoxical for the industry to be split between "foom" and "it's so over." These are not close positions.
 
 ![Overlapping sigmoids forming an exponential](/assets/images/sigmoids.webp)
-*Image from [AI in 2025: Gestalt](https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt)*
+
+<center><small>Image from <a href="https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt">AI in 2025: Gestalt</a></small></center>
 
 ## Petrol stations in the mist
 
