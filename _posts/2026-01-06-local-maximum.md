@@ -42,8 +42,6 @@ You can't plan for the petrol stations. But they've been emerging at a consisten
 
 <center><small>Image from <a href="https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt">AI in 2025: Gestalt</a></small></center>
 
-## The honest position
-
 I don't know which camp is right. The "it's so over" crowd includes serious people with deep technical knowledge. The "foom" crowd includes people who've been right about trajectory for years.
 
 What I do know is that both positions require something unusual to be true. Either we're about to hit a wall that invalidates decades of compounding progress, or we're about to see capabilities that would have seemed like science fiction five years ago.
