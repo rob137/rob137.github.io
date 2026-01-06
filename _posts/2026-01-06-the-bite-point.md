@@ -8,7 +8,9 @@ excerpt: "Chase whatever feels like YOLO right now. That's probably where to bui
 
 Last spring, running a terminal coding agent without stopping to check every tool call and code change was considered slightly heretical. The capability was hidden behind flags like `--dangerously-skip-permissions` and `--yolo` that weren't always documented, or were added reluctantly when users kept asking for them.
 
-Now it's becoming standard.
+Now it's becoming standard. The bite point moved.
+
+On a clutch, the bite point is where it starts to engage - the threshold between slipping and gripping. In AI tooling, it's the threshold between reckless and standard. And it keeps moving.
 
 ## The shifting horizon
 
