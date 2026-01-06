@@ -24,10 +24,6 @@ But within the field - particularly at the machine learning end, and in some of 
 
 It seems paradoxical for the industry to be split between "foom" and "it's so over." These are not close positions.
 
-![Overlapping sigmoids forming an exponential](/assets/images/sigmoids.webp)
-
-<center><small>Image from <a href="https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt">AI in 2025: Gestalt</a></small></center>
-
 ## Petrol stations in the mist
 
 Nobody has historically been great at predicting the future. ChatGPT came as a surprise even to OpenAI - they thought it was just a little demo project. It became the [fastest-growing application of all time](https://time.com/6253615/chatgpt-fastest-growing/), reaching 100 million users in two months.
@@ -41,6 +37,10 @@ We've gone through phases. Reinforcement learning is an obvious recent example -
 But then a petrol station emerges out of the mist. And before you know it, things are healthy again.
 
 You can't plan for the petrol stations. But they've been emerging at a consistent enough rate to keep things moving. Historically, overlapping sigmoids have formed something that looks like an exponential. Individual paradigms plateau, but progress continues.
+
+![Overlapping sigmoids forming an exponential](/assets/images/sigmoids.webp)
+
+<center><small>Image from <a href="https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt">AI in 2025: Gestalt</a></small></center>
 
 ## The honest position
 
