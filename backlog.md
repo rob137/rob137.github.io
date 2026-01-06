@@ -182,7 +182,7 @@ Ideas extracted from ambient recordings and conversations.
 - **Reid Hoffman** (@reidhoffman - Dec 30, 2024): "I came across this video of Justin Bieber using a full orchestra to turn the rhythms in his mind into music. Soon, anyone will be able to hum a tune, describe the vibe you're aiming for, and have an AI-powered producer turn your ideas into reality." [link](https://x.com/reidhoffman/status/1873756306013901051)
 - **Michael Nielsen** (@michael_nielsen): "Stephen Spielberg's instruction to the interface designers for 'Minority Report' was 'Make it like conducting an orchestra'." [link](https://x.com/michael_nielsen) / [Technologies in Minority Report (Wikipedia)](https://en.wikipedia.org/wiki/Technologies_in_Minority_Report)
 
-**Notes:** Could link back to [YOLO Mode](/2026/01/02/yolo-mode/) - what's considered reckless at any given time is whatever's just beyond the current horizon, near enough for people to muck around while odds of success are still disconcerting. Historical parallels: moral panic about train speeds, [Red flag traffic laws](https://en.wikipedia.org/wiki/Red_flag_traffic_laws) requiring someone to walk ahead of cars with a flag.
+**Notes:** Could link back to [YOLO Mode](/2026/01/02/yolo-mode/) - what's considered reckless at any given time is whatever's just beyond the current horizon, near enough for people to muck around while odds of success are still disconcerting. Historical parallels: moral panic about train speeds, [Red flag traffic laws](https://en.wikipedia.org/wiki/Red_flag_traffic_laws) requiring someone to walk ahead of cars with a flag. Pull a block quote from the Wikipedia article when writing.
 
 ---
 
