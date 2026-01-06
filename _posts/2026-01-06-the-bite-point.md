@@ -12,7 +12,7 @@ Now it's becoming standard.
 
 ## The shifting horizon
 
-[YOLO](/2026/01/02/yolo-mode/) implies uncertainty. You only live once - there's valour in charging around like things are certain when they aren't. In an enterprise setting this can send the wrong signals entirely. There's naturally a wastage rate for any equipment or staff, and to some degree it's a numbers game whether the organisation ends up profitable when you tweak the rate of wastage versus the payoff of a particular approach.
+[YOLO](/2026/01/02/yolo-mode/) implies uncertainty. You only live once - there's valour in charging around like things are certain when they aren't. In an enterprise setting this can send the wrong signals. But everything has tradeoffs, and the calculus changes when the risky thing stops failing.
 
 For a while YOLO was contentious. Many people using it didn't widely admit to it.
 
