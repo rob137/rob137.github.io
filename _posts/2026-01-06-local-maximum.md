@@ -3,7 +3,7 @@ layout: post
 title: "Local Maximum"
 date: 2026-01-06 08:00:00 +0000
 tags: [ai, scaling, predictions, uncertainty]
-excerpt: "The industry is split between 'foom' and 'it's so over'. Both camps have serious people in them."
+excerpt: "The AI industry is split between 'foom' and 'it's so over'. Both camps have serious people in them."
 ---
 
 My wife worked on MRI machines for her PhD. One thing that surprised me in learning about medical research is how brutal it is. Moving things along involves an awful lot of hard work - really brutal hard work.
