@@ -3,7 +3,7 @@ layout: post
 title: "A New Proof Point"
 date: 2026-01-06 10:00:00 +0000
 tags: [ai, practices, engineering, testing]
-excerpt: "The religious wars might finally get some data."
+excerpt: "Software's religious wars over best practices might finally get some data."
 ---
 
 Software engineering has its religious wars. Inlining versus decomposition. [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) as one tome, [Carmack's email](http://number-none.com/blow/john_carmack_on_inlined_code.html) as scripture for another. Continuous delivery. Test-driven development. Pair programming in the Kent Beck, pure Agile sense.
