@@ -158,6 +158,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-06
 **Core idea:** Religious wars between practices (Clean Code vs Carmack, TDD, CD, pair programming). Slow feedback loops + small sample sizes = divergent attitudes. LLMs will force convergence - writing so much so fast, obvious whose race car is quickest. Human bits become bottleneck. Tweets from Orosz, Willison, McKenzie.
 
+### The Quiet Ratchet
+**Published:** 2026-01-06
+**Core idea:** Standards are implicit, formed by environment. Colleague surprised by own code from months ago - not to expected standard. Watching AI code well is recalibrating us. G Fodor: humans were the chaos all along. The ratchet turns quietly.
+
 ---
 
 ## Backlog
@@ -173,10 +177,6 @@ Ideas extracted from ambient recordings and conversations.
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
-
-### The Quiet Ratchet
-**Status:** Idea - follow-up to [Artifice](/2026/01/05/artifice/)
-**Core idea:** Quality standards are contextual, driven by the art of the possible. You arrive at a new workplace, up your game without realising. Look at prior work and feel shame - written by someone else in effect. RIGHT NOW: we're watching LLMs code at a level better than many of us typically operated at. We're loosely playing arbiter of taste. But by watching AI code well, our priors around code quality are rising beyond what we're used to producing ourselves. Soon we'll look at our own old code with that same feeling of sloppiness. Connects to G Fodor's point in Artifice - if humans were the chaos all along, we're now unconsciously recalibrating what "good" looks like.
 
 ### Vibe Orchestration
 **Status:** Idea
