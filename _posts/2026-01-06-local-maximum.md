@@ -30,7 +30,7 @@ It seems paradoxical for the industry to be split between "foom" and "it's so ov
 
 Nobody has historically been great at predicting the future. ChatGPT came as a surprise even to OpenAI - they thought it was just a little demo project. It became the [fastest-growing application of all time](https://time.com/6253615/chatgpt-fastest-growing/), reaching 100 million users in two months.
 
-There's a risk my intuitions are off about the trajectory.
+So there's obviously a risk my intuitions are off about the trajectory.
 
 [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever) is known for making breakthroughs - AlexNet, sequence-to-sequence learning, the work that led to GPT. The fact that breakthroughs were needed meant there was something of a wall coming. Or at least that the flow of progress was blocked until someone found the next thing.
 
