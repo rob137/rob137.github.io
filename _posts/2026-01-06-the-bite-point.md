@@ -24,6 +24,6 @@ The expression YOLO implies being a bit loose. But what if the dangerous things 
 
 It's widely said that you want to build AI products for where the models will be in a year or eighteen months, so your product isn't dead on arrival. But how do you find that level?
 
-Chase whatever feels like YOLO right now. That's probably where to build. Look for what people do but won't admit to.
+Chase whatever feels like YOLO right now. That's probably where to build. Look for [what people do but won't admit to](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years).
 
 The things that feel reckless today - the things hidden behind warning flags, the things people do but don't admit to - those are the things that will be standard in a year. The bite point moves. If you can find it, you know where to [aim off](/2026/01/05/aiming-off/).
