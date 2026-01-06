@@ -32,11 +32,7 @@ Simon put it more directly in [Your job is to deliver code you have proven to wo
 
 > "There are a lot of 200 engineer practices you can now implement at 3 engineers and a lot of 12 engineer practices you can implement on day one just by mentioning them in a sentence or three."
 
-He followed up with an example: "The only blessed way for writing code at this company is against Docker. All dependencies are installed only in Docker. Any Docker box can be shot in the head at any time and we don't lose more than minutes of work."
-
-Then: "I thought I was insufficiently Cool Kid to ever get Docker running until I realized Claude is easily sufficiently Cool Kid and the entire spec for this behavior is the above tweet."
-
-The cost of good practices just collapsed. The excuses are vanishing.
+The cost of good practices just collapsed.
 
 ## Which practices?
 
