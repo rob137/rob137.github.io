@@ -176,11 +176,11 @@ Ideas extracted from ambient recordings and conversations.
 
 ### Karpathy - Playing an Instrument
 **Status:** Idea
-**Link:** https://x.com/karpathy/status/2008351926350737699
 **Transcript:**
-- **near** (@nearcyan): "coding a la factorio or starcraft is cool, but what if instead it felt more like playing an instrument"
-- **Andrej Karpathy** (@karpathy): "Yep exactly, just like this. Better analogy because it's not effortful"
-- **Reid Hoffman** (@reidhoffman - Dec 30, 2024): "I came across this video of Justin Bieber using a full orchestra to turn the rhythms in his mind into music. Soon, anyone will be able to hum a tune, describe the vibe you're aiming for, and have an AI-powered producer turn your ideas into reality."
+- **near** (@nearcyan): "coding a la factorio or starcraft is cool, but what if instead it felt more like playing an instrument" [link](https://x.com/nearcyan/status/2008321468397220174)
+- **Andrej Karpathy** (@karpathy): "Yep exactly, just like this. Better analogy because it's not effortful" [link](https://x.com/karpathy/status/2008351926350737699)
+- **Reid Hoffman** (@reidhoffman - Dec 30, 2024): "I came across this video of Justin Bieber using a full orchestra to turn the rhythms in his mind into music. Soon, anyone will be able to hum a tune, describe the vibe you're aiming for, and have an AI-powered producer turn your ideas into reality." [link](https://x.com/reidhoffman/status/1873756306013901051)
+- **Michael Nielsen** (@michael_nielsen): "Stephen Spielberg's instruction to the interface designers for 'Minority Report' was 'Make it like conducting an orchestra'." [link](https://x.com/michael_nielsen) / [Technologies in Minority Report (Wikipedia)](https://en.wikipedia.org/wiki/Technologies_in_Minority_Report)
 
 ---
 
