@@ -14,7 +14,7 @@ I suspect LLMs are going to force convergence.
 
 ## The race
 
-When you're writing so much so fast, it becomes obvious whose race car is quickest. The human bits are becoming the bottleneck. Manual testing doesn't scale. Reacting to bugs is still largely a human domain. Suddenly robustness sticks out.
+When you're writing so much so fast, it becomes obvious whose race car is quickest. The human bits are becoming the bottleneck. Manual testing never scaled, and coding agent takeoff is making this stark.
 
 [Gergely Orosz](https://x.com/GergelyOrosz/status/2008272970041409579):
 
