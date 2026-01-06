@@ -12,7 +12,7 @@ That might be closer to where we're heading than our current metaphors suggest.
 
 ## The chairs we sat in
 
-In [The Music Stopped](/2026/01/02/the-music-stopped/), I wrote about how the IDE versus terminal debate was becoming irrelevant. Not because one side won, but because the underlying activity changed. We sat down in whatever chairs were closest when the music stopped.
+In [The Music Stopped](/2026/01/02/the-music-stopped/), I wrote about how the IDE versus terminal debate was becoming irrelevant. The underlying activity changed and we sat down in whatever chairs were closest.
 
 But I think what's actually lacking is better metaphors for what we're doing now.
 
