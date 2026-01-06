@@ -26,4 +26,4 @@ It's widely said that you want to build AI products for where the models will be
 
 Chase whatever feels like YOLO right now. That's probably where to build.
 
-The things that feel reckless today - the things hidden behind warning flags, the things people do but don't admit to - those are the things that will be standard in a year. The bite point moves. If you can find it, you know where to aim.
+The things that feel reckless today - the things hidden behind warning flags, the things people do but don't admit to - those are the things that will be standard in a year. The bite point moves. If you can find it, you know where to [aim off](/2026/01/05/aiming-off/).
