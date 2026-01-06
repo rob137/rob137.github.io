@@ -26,7 +26,7 @@ It seems paradoxical for the industry to be split between "foom" and "it's so ov
 
 ## Petrol stations in the mist
 
-I'm pretty confident nobody knows. ChatGPT came as a surprise even to OpenAI - they thought it was just a little demo project. It became the [fastest-growing application of all time](https://time.com/6253615/chatgpt-fastest-growing/), reaching 100 million users in two months.
+I'm confident nobody knows. ChatGPT came as a surprise even to OpenAI - they thought it was just a little demo project. It became the [fastest-growing application of all time](https://time.com/6253615/chatgpt-fastest-growing/), reaching 100 million users in two months.
 
 So there's obviously a risk my intuitions are off about the trajectory.
 
