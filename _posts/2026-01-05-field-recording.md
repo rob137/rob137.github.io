@@ -6,7 +6,7 @@ tags: [meditation, attention, nature, ai]
 excerpt: "Left hemisphere bait, right hemisphere activity. A pattern that keeps appearing."
 ---
 
-I was [researching field recorders](/2026/01/02/voice-first-the-future-of-talking-to-machines/#the-setup) as dictation devices when I stumbled into the [field recording](https://en.wikipedia.org/wiki/Field_recording) subculture. I haven't actually done any field recording myself. But I watched the introductory videos - the enthusiasm was infectious - and I noticed something.
+I was [researching field recorders](/2026/01/02/voice-first-the-future-of-talking-to-machines/#the-setup) as dictation devices when I stumbled into the [field recording](https://en.wikipedia.org/wiki/Field_recording) subculture. I haven't actually done any field recording myself. But I watched some introductory videos - the enthusiasm was infectious - and I noticed something.
 
 Every video has a detour about three quarters of the way in. The presenter compares the practice to meditation. Standing still. Listening. Always presented as personal discovery rather than received wisdom.
 
