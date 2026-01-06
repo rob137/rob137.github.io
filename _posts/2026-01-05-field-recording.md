@@ -32,7 +32,7 @@ Bird watching, field recording, swimming. These aren't the same activity. But th
 
 ## Maps
 
-Daniel Ingram talks about "maps" - a term of art for sequences of mental states that recur across contemplative traditions. Teresa of Avila's Interior Castle. Meister Eckhart. Julian of Norwich, walled up in her anchorite cell. The hesychast tradition in Russian Orthodoxy. Different frameworks, different centuries, but the phenomenology lines up.
+[Daniel Ingram](https://www.integrateddaniel.info/) talks about "maps" - a term of art for sequences of mental states that recur across contemplative traditions. Teresa of Avila's Interior Castle. Meister Eckhart. Julian of Norwich, walled up in her anchorite cell. The hesychast tradition in Russian Orthodoxy. Different frameworks, different centuries, but the phenomenology lines up.
 
 This suggests it's less about the specific practice and more about the brain. Something that's typically missing when you go from processed food to car to office to screen and back.
 
