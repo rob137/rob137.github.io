@@ -3,7 +3,7 @@ layout: post
 title: "A New Proof Point"
 date: 2026-01-06 10:00:00 +0000
 tags: [ai, practices, engineering, testing]
-excerpt: "Software's religious wars over best practices might finally get some data."
+excerpt: "Software's religious wars over best practices might finally get conclusive data."
 ---
 
 Software engineering has its religious wars. Inlining versus decomposition. [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) as one tome, [Carmack's email on inlining](http://number-none.com/blow/john_carmack_on_inlined_code.html) as scripture for another. [Continuous delivery](https://www.davefarley.net/). [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development). Pair programming in the [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck), pure Agile sense.
@@ -40,4 +40,4 @@ The interesting question is which practices win. LLMs aren't humans. They might 
 
 We're about to find out. The sample size is no longer "however many projects you shipped in your career." It's "however many projects got shipped this quarter, globally, with AI assistance."
 
-The religious wars might finally get some data.
+The religious wars might finally get conclusive data.
