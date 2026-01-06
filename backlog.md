@@ -188,6 +188,10 @@ Ideas extracted from ambient recordings and conversations.
 
 **Notes:** Could link back to [YOLO Mode](/2026/01/02/yolo-mode/) - what's considered reckless at any given time is whatever's just beyond the current horizon, near enough for people to muck around while odds of success are still disconcerting. Historical parallels: moral panic about train speeds, [Red flag traffic laws](https://en.wikipedia.org/wiki/Red_flag_traffic_laws) requiring someone to walk ahead of cars with a flag. Pull a block quote from the Wikipedia article when writing.
 
+### The Bite Point
+**Status:** Idea - connects to [YOLO Mode](/2026/01/02/yolo-mode/)
+**Core idea:** The adage about building for where agents will be in a year. But how do you find that? Look for where YOLO mode is today. That's the bite point - what's considered reckless now but will be standard soon. It's relative to where you are on the tech tree. Sardonic aside: "They don't count because they have a GUI right? I heard it wasn't real software if there's a mouse in the user flow."
+
 ### The Huddle
 **Status:** Idea - follow-up to The Quiet Ratchet
 **Core idea:** The meme where someone asks a question to a huddle, gets a thumbs up with an emotionally neutral face, and the huddle continues without them. Increasingly, AI considers your input, politely rejects it because it has broader context and has thought more carefully than you have, then carries on. The thing is: it's actually correct, increasingly often. And the rate is accelerating. You're being trained to defer. Include the meme image.
