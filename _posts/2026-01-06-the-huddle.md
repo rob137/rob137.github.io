@@ -18,7 +18,7 @@ This literally never happened in the summer. We're in a different place now.
 
 ## The frequency
 
-It's still occasional. But the frequency is going up. It probably happens two or three times a day when I'm especially busy. Every time it does, I hop on the group chat and send the huddle meme. There's an undertone of "thanks mate" when it happens. Or "ha, yeah, good point" - then just carries on, like it assumes I must be joking.
+It's still occasional. But the frequency is going up. It probably happens two or three times a day when I'm especially busy. Every time it does, I hop on the group chat and send the huddle meme. There's an undertone of "thanks mate" when it happens. Or "ha, yeah, good point" - then the AI just carries on, like it assumes I must be joking.
 
 ## Backing out
 
