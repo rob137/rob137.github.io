@@ -8,9 +8,7 @@ excerpt: "You go to correct the model. Then you check. They were right."
 
 ![The huddle meme](/assets/images/huddle.webp)
 
-I've been using agents all day on a relatively complex project. My mental model has gaps. Sometimes the models spot them before I do.
-
-Here's what keeps happening: I give the model a task, follow it closely, and spot what looks like an oversight. After months of catching subtle errors - hallucinated imports, slightly wrong method signatures, off-by-one mistakes - there's a muscle memory. Here we go again.
+I've been using agents all day on a relatively complex project. I give the model a task, follow it closely, and spot what looks like an oversight. After months of catching subtle errors - hallucinated imports, slightly wrong method signatures, off-by-one mistakes - there's a muscle memory. Here we go again.
 
 So I chip in. And occasionally the model says, actually, no. Then carries on.
 
