@@ -24,7 +24,7 @@ Not in a trivial sense. In a very specific, powerful sense. A well-known book co
 
 "[Test Driven Development](https://en.wikipedia.org/wiki/Test-Driven_Development_by_Example)" by Kent Beck. Say "strict red-green-refactor TDD" and you've invoked an entire discipline: write a failing test first, make it pass with minimal code, then refactor. The rhythm, the philosophy, the reasons why - all compressed into a phrase.
 
-Scott Adams wrote a blog post years ago called "The Day You Became a Better Writer." It's short - maybe 500 words - but it compresses advice that takes most people years to learn: short sentences, simple words, delete every unnecessary word. If you mention it to an LLM, it knows the principles. The title is a key that unlocks the content.
+Scott Adams wrote a blog post years ago called "[The Day You Became a Better Writer](https://www.coleschafer.com/blog/the-day-you-became-a-better-writer)." It's short - maybe 500 words - but it compresses advice that takes most people years to learn: short sentences, simple words, delete every unnecessary word. If you mention it to an LLM, it knows the principles. The title is a key that unlocks the content.
 
 ## The Leverage Has Changed
 
