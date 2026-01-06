@@ -166,6 +166,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-06
 **Core idea:** Bieber conducting orchestra by humming. Better metaphors needed for AI coding. near/Karpathy on playing an instrument. Geoff Huntley's Ralph Wiggum approach - agent loop until tests pass. Was in 2024 papers but names matter.
 
+### The Bite Point
+**Published:** 2026-01-06
+**Core idea:** YOLO was heretical last spring, now standard. Chase whatever feels like YOLO to find where to build. The bite point moves - reckless today is standard in a year.
+
 ---
 
 ## Backlog
@@ -181,10 +185,6 @@ Ideas extracted from ambient recordings and conversations.
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
-
-### The Bite Point
-**Status:** Idea - connects to [YOLO Mode](/2026/01/02/yolo-mode/)
-**Core idea:** The adage about building for where agents will be in a year. But how do you find that? Look for where YOLO mode is today. That's the bite point - what's considered reckless now but will be standard soon. It's relative to where you are on the tech tree. Sardonic aside: "They don't count because they have a GUI right? I heard it wasn't real software if there's a mouse in the user flow."
 
 ### The Huddle
 **Status:** Idea - follow-up to The Quiet Ratchet
