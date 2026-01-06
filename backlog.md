@@ -170,6 +170,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-06
 **Core idea:** YOLO was heretical last spring, now standard. Chase whatever feels like YOLO to find where to build. The bite point moves - reckless today is standard in a year.
 
+### The Huddle
+**Published:** 2026-01-06
+**Core idea:** You go to correct the model, expecting another subtle error. They politely disagree and carry on. You check - they were right. Frequency increasing. Being trained to defer because the training is working.
+
 ---
 
 ## Backlog
@@ -185,12 +189,6 @@ Ideas extracted from ambient recordings and conversations.
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
-
-### The Huddle
-**Status:** Idea - follow-up to The Quiet Ratchet
-**Core idea:** The meme where someone asks a question to a huddle, gets a thumbs up with an emotionally neutral face, and the huddle continues without them. Increasingly, AI considers your input, politely rejects it because it has broader context and has thought more carefully than you have, then carries on. The thing is: it's actually correct, increasingly often. And the rate is accelerating. You're being trained to defer. Include the meme image.
-
-**Alt titles:** Noted, The Thumbs Up
 
 ---
 
