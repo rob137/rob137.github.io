@@ -6,7 +6,7 @@ tags: [ai, practices, engineering, testing]
 excerpt: "Software's religious wars over best practices might finally get some data."
 ---
 
-Software engineering has its religious wars. Inlining versus decomposition. [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) as one tome, [Carmack's email](http://number-none.com/blow/john_carmack_on_inlined_code.html) as scripture for another. Continuous delivery. Test-driven development. Pair programming in the Kent Beck, pure Agile sense.
+Software engineering has its religious wars. Inlining versus decomposition. [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) as one tome, [Carmack's email on inlining](http://number-none.com/blow/john_carmack_on_inlined_code.html) as scripture for another. Continuous delivery. Test-driven development. Pair programming in the Kent Beck, pure Agile sense.
 
 These debates are always framed in terms of productivity and robustness. But the feedback loops are slow. You only complete so many projects in a decade. So attitudes diverge. People pattern-match to their own experience and declare victory for whichever practices happened to correlate with their successes.
 
