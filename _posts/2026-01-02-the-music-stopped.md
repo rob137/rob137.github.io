@@ -58,7 +58,7 @@ Which brings me back to tools. I've been watching something shift lately. Not in
 
 ## A Dead Paradigm We Inherited
 
-The word "terminal" is downstream of time-sharing. You used to have a mainframe, and you'd connect to it from a terminal - a dumb input/output device that talked to the real computer somewhere else. The whole concept of a terminal being fundamental to computing is an artifact of that era.
+The word "[terminal](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/#_terminal_confusion)" is downstream of time-sharing. You used to have a mainframe, and you'd connect to it from a terminal - a dumb input/output device that talked to the real computer somewhere else. What we call a "terminal" now is actually a terminal emulator. We're emulating something that no longer exists.
 
 The paradigm died. The music stopped. And here we are, still sitting in these chairs.
 
