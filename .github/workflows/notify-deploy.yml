@@ -12,4 +12,4 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Send notification
-        run: curl -d "Blog live" ntfy.sh/rob137-blog-k9x2
+        run: curl -d "Blog live" ntfy.sh/${{ secrets.NTFY_TOPIC }}
