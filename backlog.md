@@ -18,4 +18,4 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
-*Last updated: 2026-01-07*
+*Last updated: 2026-01-07 (ntfy test)*
