@@ -97,7 +97,9 @@ Right now, as I write this, I'm dictating into my phone using [Gboard](https://p
 
 I'm pacing around my house. The laptop is in another room. I haven't touched it.
 
-When I'm done talking, I'll tell Claude to commit and push, and this post will be live. The whole thing - from "I should write about how we made this blog" to published post - will have taken maybe twenty minutes, interleaved with making lunch and tidying up.
+When I'm done talking, I'll tell Claude to commit and push, and this post will be live. A push notification hits my phone when the deploy completes. The loop closes.
+
+The whole thing - from "I should write about how we made this blog" to published post - will have taken maybe twenty minutes, interleaved with making lunch and tidying up.
 
 I've gone from being someone who felt like they probably should blog someday to someone with multiple posts online, without ever sitting down to make it happen.
 
