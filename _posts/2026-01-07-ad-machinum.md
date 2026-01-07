@@ -22,7 +22,7 @@ That's ad machinum. Rejecting (or accepting) something because a machine made it
 
 Early C compilers were buggy. They made errors that required complex debugging. You had to check their output, understand their quirks, work around their limitations.
 
-Most people don't know this anymore. Compilers just work. We trust them. If a compiler produced subtly wrong code this year, would you reject its suggestions out of hand next time? Probably not. The hit rate is too high.
+Most people don't know this anymore. Compilers just work. We trust them. If a compiler produced subtly wrong code this year, would you reject its output out of hand next time? Would you chest-poke a developer for trusting it? Downgrade their work for having been generated through a compiler? Probably not. The hit rate is too high.
 
 The question is going to get forced on us for language models quite soon. [Opus 4.5](/2026/01/04/invisible-capability-line/), Gemini 3 Pro, GPT 5.2 are all surprisingly good. We're crossing the line where it's obviously safer to use coding agents for certain tasks. Like [commercial pilots using autopilot](/2026/01/06/the-huddle/#backing-out) - the automation isn't optional because it's more reliable at that level.
 
