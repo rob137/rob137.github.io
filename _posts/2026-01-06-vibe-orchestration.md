@@ -26,6 +26,8 @@ The metaphor keeps surfacing. Maybe there's something to it.
 
 ## Ralph Wiggum
 
+![Ralph Wiggum](/assets/images/ralph-wiggum.jpg)
+
 [Geoff Huntley](https://ghuntley.com/) has been advocating for an approach he calls Ralph Wiggum, after the Simpsons character. You put a change request in an agent-operated loop that only quits when the agent is satisfied things are done. You might set an upper limit to prevent infinite runs, but basically you're setting success criteria and forcing it to run at the problem until tests pass.
 
 This was in papers as early as 2024. Models turned out to be much better at completing problems when forced to keep going against tests. The early examples were performance optimisation - the models could hill-climb pretty well. But that didn't get much attention.
