@@ -182,6 +182,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-07
 **Core idea:** Rejecting an argument because a machine made it. Compiler precedent - early C compilers were buggy, now we trust them. Ad populum evil twin - Karpathy's "people spirits". What tolerance for error from something with high hit rate?
 
+### Getting Stuck
+**Published:** 2026-01-07
+**Core idea:** Models get stuck on UI quirks humans find obvious. Humans get stuck on activation energy problems models breeze through. FFmpeg tweet thread. Symmetry of jagged intelligence.
+
 ---
 
 ## Backlog
