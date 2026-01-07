@@ -178,6 +178,10 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-07
 **Core idea:** Lemire on avoiding work vs doing the work. Competency gap compounds over time. Sam Vuong: gap will widen with AI. Connects to Raft and Ladder.
 
+### Ad Machinum
+**Published:** 2026-01-07
+**Core idea:** Rejecting an argument because a machine made it. Compiler precedent - early C compilers were buggy, now we trust them. Ad populum evil twin - Karpathy's "people spirits". What tolerance for error from something with high hit rate?
+
 ---
 
 ## Backlog
@@ -193,10 +197,6 @@ Ideas extracted from ambient recordings and conversations.
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
-
-### Ad Machinum
-**Status:** Idea
-**Core idea:** TBD
 
 ---
 
