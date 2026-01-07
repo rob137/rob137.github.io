@@ -154,7 +154,7 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-06
 **Core idea:** Industry split between "foom" and "it's so over". Medical research brutality as context for hard work. AI 2027 vs Yann LeCun/MLST skeptics. Ilya's breakthroughs = walls that needed breaking. Petrol stations emerging from mist. Overlapping sigmoids form exponential.
 
-### A New Proof Point
+### Trial by Foom
 **Published:** 2026-01-06
 **Core idea:** Religious wars between practices (Clean Code vs Carmack, TDD, CD, pair programming). Slow feedback loops + small sample sizes = divergent attitudes. LLMs will force convergence - writing so much so fast, obvious whose race car is quickest. Human bits become bottleneck. Tweets from Orosz, Willison, McKenzie.
 
