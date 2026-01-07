@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A New Proof Point"
+title: "Trial by Foom"
 date: 2026-01-06 10:00:00 +0000
 tags: [ai, practices, engineering, testing]
 excerpt: "Software's religious wars over best practices might finally get conclusive data."
