@@ -166,7 +166,7 @@ Ideas extracted from ambient recordings and conversations.
 **Published:** 2026-01-06
 **Core idea:** Bieber conducting orchestra by humming. Better metaphors needed for AI coding. near/Karpathy on playing an instrument. Geoff Huntley's Ralph Wiggum approach - agent loop until tests pass. Was in 2024 papers but names matter.
 
-### The Bite Point
+### Today's Bite Point
 **Published:** 2026-01-06
 **Core idea:** YOLO was heretical last spring, now standard. Chase whatever feels like YOLO to find where to build. The bite point moves - reckless today is standard in a year.
 
