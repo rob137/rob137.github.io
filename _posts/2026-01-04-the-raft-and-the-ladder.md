@@ -56,7 +56,7 @@ For professionals, the metaphors apply. They've crossed something, climbed somet
 
 Software is different from cutting down corn. At its core, we're producing coherent, complex systems in spite of the obstacles that reality throws at us. The craft isn't just executing tasks. It's managing complexity, holding structure in your head, making trade-offs that compound.
 
-Someone driving a combine harvester might have no idea about the reasons why crops grow. What matters is knowing the machinery. The foundational craft has been mechanised away.
+A 21st century farmer doesn't have the same expertise as a 19th century farmer. Things have changed. Some knowledge has fallen away, replaced by different knowledge.
 
 I don't think this is true yet for software. I'm sympathetic to people like [Robert Martin](https://en.wikipedia.org/wiki/Robert_C._Martin), who argue that software is fundamentally about managing details, and since you can't delegate responsibility for details, you'll always have to worry about them. Although I'm not confident I agree.
 
