@@ -18,7 +18,7 @@ So they asked an AI to do it for them. It did a fantastic job. They basically ju
 
 ## The phone call
 
-A friend called a senior executive for career advice. Halfway through the conversation, he realised he was doing it because it was a human. The advice could have been delivered instantly by any LLM.
+A friend called a senior executive for career advice. Halfway through, he caught himself: he was doing it because it was a human. Any LLM could have given the same advice instantly.
 
 The human voice pats you on the back by virtue of being "a person with experience." But that's increasingly hard to justify.
 
