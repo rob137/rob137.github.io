@@ -40,4 +40,6 @@ So: don't reject model output because it came from a model. But don't accept it 
 
 If we're heading toward models that deserve to be considered AGI - and the question is starting to surface - I suspect it will be gradual. A scalar thing, as more people come to agree. Along the way, the question of whether this or that entity is the source becomes less relevant.
 
+The social side is hardest to predict. We adjusted to trusting car drivers and pocket calculators. But those transitions took generations, and the outputs were less ambiguous. This is faster, and we're negotiating trust with something that looks like it might be reasoning.
+
 What tolerance for error do we have from something with such a high hit rate? The compilers won. The question is when the models will too.
