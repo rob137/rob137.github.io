@@ -20,7 +20,7 @@ Call it ad machinum: rejecting (or accepting) something because a machine made i
 
 ## The compiler precedent
 
-Early C compilers were buggy. They made errors that required complex debugging. You had to check their output, understand their quirks, work around their limitations.
+[Early C compilers were buggy](https://www.rogerbinns.com/visionfs.html#language-tools-and-libraries). They made errors that required complex debugging. You had to check their output, understand their quirks, work around their limitations.
 
 Most people don't know this anymore. Compilers just work. We trust them. If a compiler produced subtly wrong code this year, would you reject its output out of hand next time? Would you chest-poke a developer for trusting it? Downgrade their work for having been generated through a compiler? Probably not. The hit rate is too high.
 
