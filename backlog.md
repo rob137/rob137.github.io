@@ -194,6 +194,10 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
 
+### Ad Machinum
+**Status:** Idea
+**Core idea:** TBD
+
 ---
 
-*Last updated: 2026-01-06*
+*Last updated: 2026-01-07*
