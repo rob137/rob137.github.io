@@ -32,7 +32,7 @@ The question is going to get forced on us for language models quite soon. Opus 4
 
 There's an evil twin to ad machinum. [Andrej Karpathy](https://x.com/karpathy/status/1935518272667217925) calls LLMs "people spirits" - they're trained on human output, representing a kind of distribution over what people think. You could argue this makes them the wrong thing to ask if you want to be contrarian. If you want to do something great, you probably have to go against the crowd.
 
-But reasoning models have broken this problem. We're no longer constrained by what the model considers average. Yes, there's sycophancy. But if you keep your head straight, models can follow you to new places and act as sparring partners to stress-test your ideas.
+But reasoning models have largely solved this problem. We're no longer constrained by what the model considers average. Yes, there's sycophancy. But if you keep your head straight, models can follow you to new places and act as sparring partners to stress-test your ideas.
 
 So: don't reject model output because it came from a model. But don't accept it uncritically either. That would just be ad populum with extra steps.
 
@@ -40,4 +40,4 @@ So: don't reject model output because it came from a model. But don't accept it 
 
 If we're heading toward models that deserve to be considered AGI - and the question is starting to surface - I suspect it will be gradual. A scalar thing, as more people come to agree. Along the way, the question of whether this or that entity is the source becomes less relevant.
 
-What tolerance for error do we have from something with such a high hit rate? The compilers won. The question is whether the models will too.
+What tolerance for error do we have from something with such a high hit rate? The compilers won. The question is when the models will too.
