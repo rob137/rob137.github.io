@@ -22,7 +22,7 @@ It's still occasional. But the frequency is going up. It probably happens two or
 
 ## Backing out
 
-[YOLO mode](/2026/01/02/yolo-mode/) felt reckless not long ago. Now it's [mainstream](/2026/01/06/the-bite-point/). This might be part of why. If the human is getting in the way while the model is working, maybe the human ought to back out of the inner loop. A little.
+[YOLO mode](/2026/01/02/yolo-mode/) felt reckless not long ago. Now it's [mainstream](/2026/01/06/todays-bite-point/). This might be part of why. If the human is getting in the way while the model is working, maybe the human ought to back out of the inner loop. A little.
 
 Commercial pilots are often required to use autopilot during cruise. Hand-flying is the exception, not the rule. The automation isn't optional - it's preferred, because it's more reliable at that level of the task. Human skill still matters for edge cases and overall judgement. But for the middle part, you're expected to let the system work.
 
