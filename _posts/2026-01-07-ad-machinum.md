@@ -16,7 +16,7 @@ I wrote about [whether this is cheating](/2026/01/03/is-it-cheating/) before. Bu
 
 If you outsourced writing a personal email to a third party, that would be gross. But with models, you're outsourcing to some weird mixture of Mechanical Turk and calculator. Different people have drastically different mental models around this. [45% of people](https://www.searchlightinstitute.org/research/americans-have-mixed-views-of-ai-and-an-appetite-for-regulation/) think ChatGPT looks up exact answers from a database. Others understand it's generative, but disagree wildly about whether the models are actually reasoning. The same output, judged differently depending on what you think produced it.
 
-That's ad machinum. Rejecting (or accepting) something because a machine made it, rather than evaluating the thing itself.
+Call it ad machinum: rejecting (or accepting) something because a machine made it, rather than evaluating the thing itself.
 
 ## The compiler precedent
 
