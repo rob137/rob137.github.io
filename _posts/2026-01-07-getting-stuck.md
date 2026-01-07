@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Getting Stuck"
+date: 2026-01-07 09:00:00 +0000
+tags: [ai, agents, expertise, workflow]
+excerpt: "Models get stuck on things humans find obvious. Humans get stuck on things models find obvious. The question is what you get stuck on."
+---
+
+A colleague was using the Chrome DevTools MCP to manually test some features, watching GPT-5.2 via the Codex CLI interact with forms and buttons in real time.
+
+He noticed the model getting stuck on UI quirks. A search box where pressing Escape closes the modal instead of clearing the text. The model tried Ctrl+A to select the text, but Ctrl+A doesn't work in that particular MUI component. It kept trying. Why isn't this working?
+
+A human front-end developer would recognise this immediately. Ctrl+A doesn't work here - must be a quirk of the framework. Back out, try something else.
+
+The model thrashed. A human would have pivoted.
+
+## The FFmpeg thread
+
+Then I saw [this exchange](https://x.com/FFmpeg/status/2008580624240849298) on X.
+
+Someone [claimed](https://x.com/zulali/status/2008290170161033271) Claude Code recovered 512GB of corrupted wedding footage - using PhotoRec, then FFmpeg to reconstruct video frames. "The power of Claude Code is insane."
+
+FFmpeg's official account replied: 🤔
+
+From the FFmpeg team's perspective, this is probably standard incantations. The tools exist. The knowledge is documented. The user didn't get stuck on the technical problem - they got stuck on [activation energy](/2026/01/02/respecting-the-fence/). Not knowing where to start. Not knowing it was even possible.
+
+## The symmetry
+
+Models get stuck on things humans find obvious. Humans get stuck on things models find obvious.
+
+The Ctrl+A quirk? Trivial to a front-end developer. The FFmpeg recovery? Trivial to anyone who's done video forensics. But the user and the model each hit walls the other wouldn't have.
+
+I suspect activation energy - knowing you can get past something, knowing where to start - is now the primary blocker for a large percentage of problems. That's this generation of models in a nutshell. They don't get stuck where you do.
