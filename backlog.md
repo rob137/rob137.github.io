@@ -175,7 +175,7 @@ Ideas extracted from ambient recordings and conversations.
 **Core idea:** You go to correct the model, expecting another subtle error. They politely disagree and carry on. You check - they were right. Frequency increasing. Being trained to defer because the training is working.
 
 ### Competency Gap
-**Published:** 2026-01-06
+**Published:** 2026-01-07
 **Core idea:** Lemire on avoiding work vs doing the work. Competency gap compounds over time. Sam Vuong: gap will widen with AI. Connects to Raft and Ladder.
 
 ---
