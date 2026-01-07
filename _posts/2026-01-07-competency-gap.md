@@ -12,7 +12,7 @@ excerpt: "The difference between doing the work and showing up to the right meet
 
 [Sam Vuong replied](https://x.com/samjvuong/status/2008609442041037191):
 
-> And the competency gap will continue to widen with AI.
+> And the competency gap will continue to widen with AI. This is why Cal Newport's [Slow Productivity](https://calnewport.com/my-new-book-slow-productivity/) resonates. Ruthlessly prioritize deep work and the few things that matter, and give yourself space to do it exceptionally well.
 
 This connects to something I've been thinking about since writing [The Raft and the Ladder](/2026/01/04/the-raft-and-the-ladder/). AI makes it easier to skip the hard parts. The temptation of task completion dopamine is real. You can get things done without acquiring the expertise that doing things the hard way used to force on you.
 
