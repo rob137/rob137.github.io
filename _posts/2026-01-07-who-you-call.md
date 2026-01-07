@@ -14,7 +14,7 @@ I'm starting to see it happen elsewhere.
 
 Someone in a meeting was struggling to articulate what they actually wanted. They kept drifting into implementation details - libraries, databases - without ever landing on the "why we're here" part. Couldn't snap out of it.
 
-So they asked an AI to do it for them. It did a fantastic job. They basically just handed over the output.
+So they asked an AI to do it for them. It did a fantastic job. They just handed over the output.
 
 ## The phone call
 
