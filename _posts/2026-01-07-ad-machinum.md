@@ -3,7 +3,7 @@ layout: post
 title: "Ad Machinum"
 date: 2026-01-07 07:30:00 +0000
 tags: [ai, epistemology, trust, philosophy]
-excerpt: "Rejecting an argument because of who made it is a fallacy. What about rejecting it because of what made it?"
+excerpt: "Rejecting an argument because of who made it is supposedly a fallacy. What about rejecting it because of what made it?"
 ---
 
 > **Argumentum ad hominem**: attacking the person making an argument rather than the substance of the argument itself.
