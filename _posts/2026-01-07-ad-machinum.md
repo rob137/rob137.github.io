@@ -10,7 +10,7 @@ excerpt: "Rejecting an argument because of who made it is a fallacy. What about 
 
 Someone submits some work. You find out they completed it using AI. How does that affect their credit for the work? Their culpability if it turns out not to be up to scratch?
 
-I wrote about [whether this is cheating](/2026/01/03/is-it-cheating/) before. But there's a different angle here. It's not about whether using AI is legitimate. It's about whether the origin of an idea should affect how we evaluate it.
+I wrote about [whether this is cheating](/2026/01/03/is-it-cheating/) before. But there's a different angle here: whether the origin of an idea should affect how we evaluate it.
 
 ## The weird middle ground
 
