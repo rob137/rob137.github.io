@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Hesitation"
-date: 2026-01-08 10:00:00 +0000
+date: 2026-01-08 09:00:00 +0000
 tags: [ai, llm, samaritans, therapy, barriers]
 excerpt: "I volunteer with the Samaritans. When I needed to talk, I didn't pick up the phone."
 ---
