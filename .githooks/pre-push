@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# Check that all posts have GMT (+0000) timezone
+errors=()
+
+for file in _posts/*.md; do
+    if [[ -f "$file" ]]; then
+        date_line=$(grep -m1 '^date:' "$file")
+        if [[ -n "$date_line" ]] && [[ ! "$date_line" =~ \+0000 ]]; then
+            errors+=("$file: $date_line")
+        fi
+    fi
+done
+
+if [[ ${#errors[@]} -gt 0 ]]; then
+    echo "ERROR: Posts with non-GMT timezones found:"
+    for err in "${errors[@]}"; do
+        echo "  $err"
+    done
+    echo ""
+    echo "Please update to +0000 before pushing."
+    exit 1
+fi
+
+exit 0
