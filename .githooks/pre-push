@@ -1,34 +1,22 @@
 #!/bin/bash
 
-# Check that all posts have GMT (+0000) timezone and aren't future-dated
+# Pre-push hook: validates post dates are GMT and not in the future
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/post-checks.sh"
+
 tz_errors=()
 future_errors=()
-
 current_timestamp=$(date -u +%s)
 
 for file in _posts/*.md; do
     if [[ -f "$file" ]]; then
-        date_line=$(grep -m1 '^date:' "$file")
-
-        # Check timezone is GMT
-        if [[ -n "$date_line" ]] && [[ ! "$date_line" =~ \+0000 ]]; then
-            tz_errors+=("$file: $date_line")
+        if ! check_timezone "$file"; then
+            tz_errors+=("$file: $(get_date_line "$file")")
         fi
 
-        # Check for future dates (skip if 'future: true' is set)
-        if grep -q '^future: true' "$file"; then
-            continue
-        fi
-
-        if [[ -n "$date_line" ]]; then
-            # Extract datetime: 2026-01-08 09:30:00
-            datetime=$(echo "$date_line" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}')
-            if [[ -n "$datetime" ]]; then
-                post_timestamp=$(date -u -j -f "%Y-%m-%d %H:%M:%S" "$datetime" +%s 2>/dev/null)
-                if [[ -n "$post_timestamp" ]] && [[ "$post_timestamp" -gt "$current_timestamp" ]]; then
-                    future_errors+=("$file: $date_line")
-                fi
-            fi
+        if ! check_not_future "$file" "$current_timestamp"; then
+            future_errors+=("$file: $(get_date_line "$file")")
         fi
     fi
 done
