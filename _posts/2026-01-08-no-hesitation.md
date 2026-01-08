@@ -6,7 +6,7 @@ tags: [ai, llm, samaritans, therapy, barriers]
 excerpt: "I volunteer with the Samaritans. When I needed to talk, I didn't pick up the phone."
 ---
 
-I woke up from a disturbing dream. The kind that leaves you rattled for hours.
+I woke up from a deeply disturbing dream. The kind that leaves you rattled for hours.
 
 I [volunteer with the Samaritans](/2026/01/02/last-bastion/). I know the service exists for exactly this - when you're troubled and need to talk. I know the volunteers are trained to listen without judgement. I've been that volunteer.
 
