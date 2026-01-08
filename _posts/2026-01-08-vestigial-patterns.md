@@ -30,7 +30,7 @@ This week, a [PR was closed](https://github.com/tailwindlabs/tailwindcss.com/pul
 
 Adam Wathan, the maintainer, [explained](https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957) why he couldn't prioritize it:
 
-> 75% of the people on our engineering team lost their jobs here yesterday because of the brutal impact AI has had on our business... Traffic to our docs is down about 40% from early 2023 despite Tailwind being more popular than ever... our revenue is down close to 80%.
+![Adam Wathan's comment on the Tailwind PR](/assets/images/tailwind-layoffs.png)
 
 Tailwind is more popular than ever. But the traffic that used to flow through docs - where people discovered paid products - now flows through LLMs that have already ingested those docs. The business model assumed a world where humans read documentation. That assumption broke.
 
