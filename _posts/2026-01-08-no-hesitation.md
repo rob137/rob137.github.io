@@ -36,7 +36,9 @@ By the time I finished, the dream hadn't resolved itself. I didn't have answers.
 
 I think I'd be more inclined now to ring and talk to someone - having warmed up the muscle, broken the ice on the subject, even if it wasn't with a person.
 
-And to be clear: I talked to an LLM instead of doing nothing. Not instead of ringing. I wasn't going to ring.
+And to be clear: I talked to an LLM instead of doing nothing. Not instead of ringing. I wasn't going to ring. I was troubled, but I could feel it was temporary - not a crisis, not at risk of spiralling.
+
+If there's any doubt, ring.
 
 ## The Uncorking
 
