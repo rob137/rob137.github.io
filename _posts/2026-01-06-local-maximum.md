@@ -8,7 +8,7 @@ excerpt: "The AI industry is split between 'foom' and 'it's so over'. Both camps
 
 My wife worked on MRI machines for her PhD. One thing that surprised me in learning about medical research is how brutal it is. Moving things along involves an awful lot of hard work - really brutal hard work.
 
-But it makes sense. Climbing the tech tree on the medical side of things is obviously beneficial. Quality of life. Child mortality. The stakes are high enough that people work hard on hard problems and don't give up. The usual arguments around four-day work weeks and ignoring messages outside work hours start to seem weaker when the stakes are this high.
+But it makes sense. Climbing the tech tree on the medical side of things is obviously beneficial. Quality of life. Child mortality. The stakes are high enough that people work hard on hard problems and don't give up. The usual arguments around four-day weeks and office hours for ignoring messages start to seem weaker when the stakes are this high.
 
 People work famously hard at the big AI labs too. Partly because there's a race between them. But if you listen to interviews, they believe they're climbing the tech tree in ways that could benefit humanity even more broadly than medicine. [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) won a Nobel Prize for protein folding - and that's just one application. You could see their concerns as a superset of the medical end of things.
 
