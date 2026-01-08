@@ -34,6 +34,8 @@ A dry run with a simulacrum.
 
 By the time I finished, the dream hadn't resolved itself. I didn't have answers. But I'd proven to myself that I could talk about it. The frontal lobes had been let into the frame. Something had shifted, even if I couldn't name it.
 
+I think I'd be more inclined now to ring and talk to someone - having warmed up the muscle, broken the ice on the subject, even if it wasn't with a person.
+
 ## The Uncorking
 
 Here's the thought that stayed with me:
