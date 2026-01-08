@@ -18,7 +18,7 @@ So I talked to an LLM instead.
 
 ## The Calculus
 
-With the Samaritans, there's a social performance. You're talking to a stranger. There's a queue. There's an implicit question of whether you "qualify" - whether your problem is serious enough to warrant taking up a slot someone else might need.
+With the Samaritans, there's a threshold to cross. You're talking to a stranger. There's a queue. There's an implicit question of whether you "qualify" - whether your problem is serious enough to warrant taking up a slot someone else might need.
 
 The training addresses this. We tell callers explicitly that they don't need to be in crisis. If something's troubling you, that's enough. But the implicit filter still operates. People class themselves out before they ever dial.
 
