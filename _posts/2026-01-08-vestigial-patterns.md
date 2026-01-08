@@ -10,6 +10,8 @@ I wanted to detect plosives in audio recordings. I'm having early thoughts about
 
 But why settle for that when I can point Claude at the file and ask it to highlight any plosives? Which it does, gleefully.
 
+![Claude's plosive analysis](/assets/images/plosive-analysis.png)
+
 After a few iterations I had something useful. At this point I naturally thought: *this is where I'd make a GitHub repository*. Crystallize the work. So I did.
 
 Then I pushed, and noticed: I hadn't written any code. Claude is marked as a contributor. The whole thing was generated just-in-time. The [repository](https://github.com/rob137/plosifs) exists, but it's really just a little script.
