@@ -1,24 +1,55 @@
 #!/bin/bash
 
-# Check that all posts have GMT (+0000) timezone
-errors=()
+# Check that all posts have GMT (+0000) timezone and aren't future-dated
+tz_errors=()
+future_errors=()
+
+current_timestamp=$(date -u +%s)
 
 for file in _posts/*.md; do
     if [[ -f "$file" ]]; then
         date_line=$(grep -m1 '^date:' "$file")
+
+        # Check timezone is GMT
         if [[ -n "$date_line" ]] && [[ ! "$date_line" =~ \+0000 ]]; then
-            errors+=("$file: $date_line")
+            tz_errors+=("$file: $date_line")
+        fi
+
+        # Check for future dates (skip if 'future: true' is set)
+        if grep -q '^future: true' "$file"; then
+            continue
+        fi
+
+        if [[ -n "$date_line" ]]; then
+            # Extract datetime: 2026-01-08 09:30:00
+            datetime=$(echo "$date_line" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}')
+            if [[ -n "$datetime" ]]; then
+                post_timestamp=$(date -u -j -f "%Y-%m-%d %H:%M:%S" "$datetime" +%s 2>/dev/null)
+                if [[ -n "$post_timestamp" ]] && [[ "$post_timestamp" -gt "$current_timestamp" ]]; then
+                    future_errors+=("$file: $date_line")
+                fi
+            fi
         fi
     fi
 done
 
-if [[ ${#errors[@]} -gt 0 ]]; then
+if [[ ${#tz_errors[@]} -gt 0 ]]; then
     echo "ERROR: Posts with non-GMT timezones found:"
-    for err in "${errors[@]}"; do
+    for err in "${tz_errors[@]}"; do
         echo "  $err"
     done
     echo ""
     echo "Please update to +0000 before pushing."
+    exit 1
+fi
+
+if [[ ${#future_errors[@]} -gt 0 ]]; then
+    echo "ERROR: Posts with future dates found:"
+    for err in "${future_errors[@]}"; do
+        echo "  $err"
+    done
+    echo ""
+    echo "Add 'future: true' to front matter to override, or fix the date."
     exit 1
 fi
 
