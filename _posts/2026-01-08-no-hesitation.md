@@ -44,7 +44,7 @@ If there's any doubt, ring.
 
 Here's the thought that stayed with me:
 
-People who would never get therapy, who would never call a helpline, who would never burden a friend with something half-formed and strange - they might process it anyway now. The barrier dropped low enough that they stepped over it.
+People who would never get therapy, who would never call a helpline, who would never burden a friend with something half-formed and strange - they might process it anyway now. The barrier drops low enough that they step over it.
 
 Maybe this is like radiology. When machine learning caught up to medical imaging, we expected radiologists to disappear. Instead, demand increased. The technology made it feasible to scan things we wouldn't have bothered scanning before.
 
