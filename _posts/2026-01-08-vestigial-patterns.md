@@ -45,3 +45,5 @@ My plosive detector didn't need a repository. Tailwind's docs don't need human v
 The interfaces are still sitting there, as if nothing has changed. We keep following the same patterns. But the ground has shifted underneath them.
 
 I'm not sure what the new patterns are. I'm not sure anyone is yet. But I'm trying to notice when I'm doing something out of habit rather than because it still makes sense.
+
+This pattern is playing out again. AI is becoming [the great attractor](/2026/01/05/the-great-attractor/) for all computer tasks.
