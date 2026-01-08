@@ -22,7 +22,7 @@ With the Samaritans, there's a social performance. You're talking to a stranger.
 
 The training addresses this. We tell callers explicitly that they don't need to be in crisis. If something's troubling you, that's enough. But the implicit filter still operates. People class themselves out before they ever dial.
 
-I did it myself. As a volunteer.
+I did it myself, and I'm a volunteer.
 
 With the LLM, I had no such hesitation.
 
