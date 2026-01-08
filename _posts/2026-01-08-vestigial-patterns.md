@@ -14,7 +14,7 @@ But why settle for that when I can point Claude at the file and ask it to highli
 
 After a few iterations I had something useful. At this point I naturally thought: *this is where I'd make a GitHub repository*. Crystallize the work. So I did.
 
-Then I pushed, and noticed: I hadn't written any code. Claude is marked as a contributor. The whole thing was generated just-in-time. The [repository](https://github.com/rob137/plosifs) exists, but it's really just a little script.
+Then I pushed, and realised: I hadn't written any code. Claude is marked as a contributor. The whole thing was generated just-in-time. The [repository](https://github.com/rob137/plosifs) exists, but it's really just a little script.
 
 Why did I push?
 
