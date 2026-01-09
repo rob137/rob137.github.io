@@ -11,9 +11,9 @@ excerpt: "We built bridges for tethered horses. What if they could hop across?"
 
 On the Macclesfield Canal, there's a type of structure called a roving bridge. When the towpath changes sides, the bridge lets the horse cross without being untethered from the barge. The horse doesn't need to understand the bridge's design. It just follows the path.
 
-Yesterday, Doug O'Laughlin on [SemiAnalysis](https://www.semianalysis.com/)'s [Transistor Radio](https://open.spotify.com/show/0HTOH7h5iw9ixmBxR6OQVD) podcast was talking about his recent discovery of how useful Claude Code with Opus 4.5 is. Something he said stuck with me:
+Yesterday, Doug O'Laughlin on [SemiAnalysis](https://www.semianalysis.com/)'s [Transistor Radio](https://open.spotify.com/show/0HTOH7h5iw9ixmBxR6OQVD) podcast was talking about Claude Code with Opus 4.5. He'd been using it daily, hitting his usage limit every week. All the charts in his year-end outlook were made by Claude. "It one-shots everything," he said. Then:
 
-> "It's a skill issue now. Like, I'm really telling you, it's all a skill issue... I think everything that is a problem is a skill issue on my end. I believe that... for the first time in my life, there is nothing - it is completely on me, it's a skill issue. I deeply believe that."
+> "It's a skill issue now... for the first time in my life, there is nothing - it is completely on me. I deeply believe that."
 
 Everything is a skill issue now. Master the tools or get left behind.
 
