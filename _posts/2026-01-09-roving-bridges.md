@@ -65,7 +65,7 @@ The temptation is to skip straight to agentic. Everyone's excited about agents m
 
 Here's the thing though. As models get better at tool calling and figuring things out on the fly, I'm becoming more comfortable doing things the agentic way. The elaborate scaffolding starts to feel unnecessary.
 
-The roving bridge was a clever workaround for a horse that couldn't understand. You wouldn't build it today. If the horse could figure out how to cross on its own, the bridge would just be a curiosity - beautiful, perhaps, but antiquated.
+The roving bridge was a clever workaround for a tethered horse. You wouldn't build it today. If the horse could just hop across the canal, the bridge would be a curiosity - beautiful, perhaps, but antiquated.
 
 I think we're in an awkward middle period. The "skill issue" framing is real: there's genuine alpha in mastering the current tooling, building the bridges, understanding how to route the horse. But the half-life of that knowledge is shrinking.
 
