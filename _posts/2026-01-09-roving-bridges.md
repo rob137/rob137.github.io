@@ -15,8 +15,6 @@ Yesterday, Doug O'Laughlin on [SemiAnalysis](https://www.semianalysis.com/)'s [T
 
 > "It's a skill issue now... for the first time in my life, there is nothing - it is completely on me. I deeply believe that."
 
-Everything is a skill issue now. Master the tools or get left behind.
-
 ## Task vs Purpose
 
 In 2016, Geoffrey Hinton made a famous prediction:
