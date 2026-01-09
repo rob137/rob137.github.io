@@ -45,7 +45,7 @@ The response: "You're right. I'm being a tentacle when I should be the octopus."
 
 It spun up two worktrees, launched background agents into each, and came back with a status table. One thread finished while we talked. The other was still running - bigger scope, still exploring.
 
-The bridge worked. But here's the thing: I didn't need to spawn separate instances or manage processes myself. The scaffolding I'd imagined was already inside the tool. The elaborate prompt file was mostly pointing at capabilities that existed anyway.
+The bridge worked. But here's the thing: I didn't need to prompt for any of it. The behaviour was already built into the tool. The elaborate prompt file was mostly pointing at capabilities that existed anyway.
 
 This is bridge-building. The horse can't understand how to cross the canal on its own, so you build an elegant structure that routes it where it needs to go.
 
