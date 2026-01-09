@@ -25,7 +25,7 @@ On the same day, Jensen Huang appeared on [No Priors](https://www.youtube.com/@N
 
 Hinton was right about the task. AI now powers essentially all radiology applications. But Huang pointed out what actually happened: the number of radiologists *increased*.
 
-Why? Because the task isn't the job.
+Why? Because the task isn't the job. Jensen:
 
 > "A job has tasks and has purpose. In the case of a radiologist, the task is to study scans. But the purpose is to diagnose disease."
 
