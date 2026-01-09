@@ -47,9 +47,7 @@ It spun up two worktrees, launched background agents into each, and came back wi
 
 The bridge worked. But here's the thing: I didn't need to prompt for any of it. The behaviour was already built into the tool. The elaborate prompt file was mostly pointing at capabilities that existed anyway.
 
-This is bridge-building. The horse can't understand how to cross the canal on its own, so you build an elegant structure that routes it where it needs to go.
-
-But here's the thing. As models improve, I find myself reaching for the prompt file less. A brief natural language instruction increasingly does the job. I wrote [before](/2026/01/02/books-as-compressed-prompts/) about how books are compressed prompts - a reference that puts the model in the right latent space. Increasingly, there's a tone of phrase that works the same way. The elaborate scaffolding starts to feel like overhead. The prompt file becomes a crutch.
+This is bridge-building. The horse can't understand how to cross the canal on its own, so you build an elegant structure that routes it where it needs to go. Except, apparently, it can now.
 
 ## The Crystallisation Hierarchy
 
