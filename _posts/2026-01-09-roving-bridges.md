@@ -39,7 +39,7 @@ Huang extended this to software engineers:
 
 At work, I'm on a skunk works team. We have a project called Briefcase - named after Will from [The Inbetweeners](https://en.wikipedia.org/wiki/The_Inbetweeners) - that uses git worktrees to parallelise small units of work across multiple LLM instances. Early on, it was chaos. Agents fucking around, coming up with their own ideas, misunderstanding instructions. You could never get it to 100%.
 
-So I wrote an "octopus" prompt - a structured approach where a central LLM coordinates: creates worktrees, spawns worker instances, pulls branches back, runs tests. Deterministic scaffolding around unreliable agents.
+So I wrote a standing "octopus" prompt in a local markdown file - a structured approach where a central LLM coordinates: creates worktrees, spawns worker instances, pulls branches back, runs tests. Deterministic scaffolding around unreliable agents.
 
 This is bridge-building. The horse can't understand how to cross the canal on its own, so you build an elegant structure that routes it where it needs to go.
 
