@@ -57,7 +57,7 @@ I've started thinking about AI workflows the same way:
 
 Early on at work, I tried using LLMs to handle deployment tasks. It was okay-ish at first, but became untenable as things grew - the odds get worse when the surface area expands. You could never get it to 100%. The models would come up with their own ideas about how things could be better, or misunderstand instructions. It mattered.
 
-So we wrote a script. Wrong reliably, therefore right reliably once fixed.
+So we wrote a script. Reliably wrong at first, therefore reliably right once fixed.
 
 The temptation is to skip straight to agentic. Everyone's excited about agents managing things dynamically. But you probably want to start with manual understanding before escalating - and "manual" here means both humans clicking around *and* agents figuring things out ad-hoc. Both are non-deterministic. Both are how you learn. And if something matters - if you'd be upset when it breaks - you shouldn't skip the crystallisation step.
 
