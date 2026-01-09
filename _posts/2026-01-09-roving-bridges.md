@@ -39,7 +39,7 @@ At work, I'm on a skunk works team. We have a project called Briefcase - named a
 
 So I wrote a standing "octopus" prompt in a local markdown file - a structured approach where a central LLM coordinates: creates worktrees, spawns worker instances, pulls branches back, runs tests. Deterministic scaffolding around unreliable agents.
 
-Today I actually used it. I had two threads of work to parallelise. My first instinct was to dive in and start exploring the codebase myself - but I caught myself. "I wonder if you're already stepping in to do work that tentacles could take on," I said.
+Today I actually used it. I had two threads of work to parallelise. Claude Code's first instinct was to dive in and start exploring the codebase - but I stopped it. "I wonder if you're already stepping in to do work that tentacles could take on," I said.
 
 The response: "You're right. I'm being a tentacle when I should be the octopus."
 
