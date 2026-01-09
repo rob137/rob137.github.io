@@ -55,7 +55,7 @@ I've started thinking about AI workflows the same way:
 2. **Agentic**: Have a coding agent use browser automation tools - Playwright MCP, Chrome DevTools MCP. It figures things out dynamically.
 3. **Deterministic**: Crystallise what matters into a script or test. If you liked it, then you shoulda put a test on it - [the Beyoncé rule](https://landing.google.com/sre/sre-book/chapters/testing-reliability/).
 
-Early on at work, I tried using LLMs to handle deployment tasks. It was okay-ish at first, but became a disaster as things grew - the odds get worse when the surface area expands. You could never get it to 100%. The models would come up with their own ideas about how things could be better, or misunderstand instructions. It mattered.
+Early on at work, I tried using LLMs to handle deployment tasks. It was okay-ish at first, but became untenable as things grew - the odds get worse when the surface area expands. You could never get it to 100%. The models would come up with their own ideas about how things could be better, or misunderstand instructions. It mattered.
 
 So we wrote a script. Wrong reliably, therefore right reliably once fixed.
 
