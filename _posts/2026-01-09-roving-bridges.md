@@ -37,7 +37,7 @@ Huang extended this to software engineers:
 
 ## Building Bridges
 
-At work, I'm on a skunk works team. We have a project called [Briefcase](https://en.wikipedia.org/wiki/The_Inbetweeners) - named after Will from The Inbetweeners - that uses git worktrees to parallelise small units of work across multiple LLM instances.
+At work, I'm on a skunk works team. We have a project called Briefcase - named after Will from [The Inbetweeners](https://en.wikipedia.org/wiki/The_Inbetweeners) - that uses git worktrees to parallelise small units of work across multiple LLM instances.
 
 I also have an "octopus" prompt that sets up a central LLM as a coordinator: it creates worktrees, spawns worker instances, then pulls branches back and runs tests. The pattern is everywhere right now - people building infrastructure to work around model limitations.
 
