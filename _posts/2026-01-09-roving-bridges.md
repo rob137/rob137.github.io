@@ -3,7 +3,7 @@ layout: post
 title: "Roving Bridges"
 date: 2026-01-09 10:00:00 +0000
 tags: [ai, llm, workflow, testing, agents]
-excerpt: "The bridge was a workaround for a dumb horse. But the horse is getting smarter."
+excerpt: "The bridge was a workaround for a horse that couldn't understand. But the horse is getting smarter."
 ---
 
 ![Bridge 77, Macclesfield Canal](/assets/images/roving-bridge.jpg)
@@ -37,11 +37,13 @@ Huang extended this to software engineers:
 
 ## Building Bridges
 
-At work, I'm on a skunk works team. We have a project called Briefcase - named after Will from [The Inbetweeners](https://en.wikipedia.org/wiki/The_Inbetweeners) - that uses git worktrees to parallelise small units of work across multiple LLM instances.
+At work, I'm on a skunk works team. We have a project called Briefcase - named after Will from [The Inbetweeners](https://en.wikipedia.org/wiki/The_Inbetweeners) - that uses git worktrees to parallelise small units of work across multiple LLM instances. Early on, it was chaos. Agents fucking around, coming up with their own ideas, misunderstanding instructions. You could never get it to 100%.
 
-I also have an "octopus" prompt that sets up a central LLM as a coordinator: it creates worktrees, spawns worker instances, then pulls branches back and runs tests. The pattern is everywhere right now - people building infrastructure to work around model limitations.
+So I wrote an "octopus" prompt - a structured approach where a central LLM coordinates: creates worktrees, spawns worker instances, pulls branches back, runs tests. Deterministic scaffolding around unreliable agents.
 
-This is bridge-building. The horse is too stupid to cross the canal on its own, so you build an elegant structure that routes it where it needs to go.
+This is bridge-building. The horse can't understand how to cross the canal on its own, so you build an elegant structure that routes it where it needs to go.
+
+But here's the thing. As models improve, I find myself reaching for the prompt file less. A brief natural language instruction increasingly does the job. I wrote [before](/2026/01/02/books-as-compressed-prompts/) about how books are compressed prompts - a reference that puts the model in the right latent space. Increasingly, there's a tone of phrase that works the same way. The elaborate scaffolding starts to feel like overhead. The prompt file becomes a crutch.
 
 ## The Crystallisation Hierarchy
 
@@ -51,7 +53,7 @@ I've started thinking about AI workflows the same way:
 
 1. **Manual**: Use the browser yourself. Click around. Understand what's happening.
 2. **Agentic**: Have a coding agent use browser automation tools - Playwright MCP, Chrome DevTools MCP. It figures things out dynamically.
-3. **Deterministic**: Crystallise what matters into a script or test. If you liked it, put a test on it - [the Beyoncé rule](https://landing.google.com/sre/sre-book/chapters/testing-reliability/).
+3. **Deterministic**: Crystallise what matters into a script or test. If you liked it, then you shoulda put a test on it - [the Beyoncé rule](https://landing.google.com/sre/sre-book/chapters/testing-reliability/).
 
 Early on at work, I tried using LLMs to handle deployment tasks. It was okay-ish at first, but became a disaster. You could never get it to 100%. The models would come up with their own ideas about how things could be better, or misunderstand instructions. It mattered.
 
@@ -63,7 +65,7 @@ The temptation is to skip straight to agentic. Everyone's excited about agents m
 
 Here's the thing though. As models get better at tool calling and figuring things out on the fly, I'm becoming more comfortable doing things the agentic way. The elaborate scaffolding starts to feel unnecessary.
 
-The roving bridge was a clever workaround for a dumb horse. You wouldn't build it today. If the horse could figure out how to cross on its own, the bridge would just be a curiosity - beautiful, perhaps, but antiquated.
+The roving bridge was a clever workaround for a horse that couldn't understand. You wouldn't build it today. If the horse could figure out how to cross on its own, the bridge would just be a curiosity - beautiful, perhaps, but antiquated.
 
 I think we're in an awkward middle period. The "skill issue" framing is real: there's genuine alpha in mastering the current tooling, building the bridges, understanding how to route the horse. But the half-life of that knowledge is shrinking.
 
