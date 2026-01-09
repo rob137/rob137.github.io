@@ -7,7 +7,7 @@ excerpt: "The bridge was a workaround for a horse that couldn't understand. But 
 ---
 
 ![Bridge 77, Macclesfield Canal](/assets/images/roving-bridge.jpg)
-*Bridge 77 on the Macclesfield Canal - a roving bridge*
+*Bridge 77 on the Macclesfield Canal*
 
 On the Macclesfield Canal, there's a type of structure called a roving bridge. When the towpath changes sides, the bridge lets the horse cross without being untethered from the barge. The horse doesn't need to understand the bridge's design. It just follows the path.
 
