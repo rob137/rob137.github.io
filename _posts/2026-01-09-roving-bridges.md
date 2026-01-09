@@ -69,6 +69,6 @@ The roving bridge was a clever workaround for a horse that couldn't understand. 
 
 I think we're in an awkward middle period. The "skill issue" framing is real: there's genuine alpha in mastering the current tooling, building the bridges, understanding how to route the horse. But the half-life of that knowledge is shrinking.
 
-The bridges I'm building now may be obsolete in months. The octopus prompt, the worktree orchestration, the crystallised scripts - all workarounds for limitations that are actively being eroded.
+The bridges I'm building now may be obsolete in months. The octopus prompt, the worktree orchestration, the crystallised scripts - all workarounds for limitations that are actively being eroded. [The bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) keeps proving itself.
 
 Maybe the real skill isn't building bridges. Maybe it's knowing when to stop.
