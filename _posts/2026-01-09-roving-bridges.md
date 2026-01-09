@@ -39,6 +39,14 @@ At work, I'm on a skunk works team. We have a project called Briefcase - named a
 
 So I wrote a standing "octopus" prompt in a local markdown file - a structured approach where a central LLM coordinates: creates worktrees, spawns worker instances, pulls branches back, runs tests. Deterministic scaffolding around unreliable agents.
 
+Today I actually used it. I had two threads of work to parallelise. My first instinct was to dive in and start exploring the codebase myself - but I caught myself. "I wonder if you're already stepping in to do work that tentacles could take on," I said.
+
+The response: "You're right. I'm being a tentacle when I should be the octopus."
+
+It spun up two worktrees, launched background agents into each, and came back with a status table. One thread finished while we talked. The other was still running - bigger scope, still exploring.
+
+The bridge worked. But here's the thing: I didn't need to spawn separate instances or manage processes myself. The scaffolding I'd imagined was already inside the tool. The elaborate prompt file was mostly pointing at capabilities that existed anyway.
+
 This is bridge-building. The horse can't understand how to cross the canal on its own, so you build an elegant structure that routes it where it needs to go.
 
 But here's the thing. As models improve, I find myself reaching for the prompt file less. A brief natural language instruction increasingly does the job. I wrote [before](/2026/01/02/books-as-compressed-prompts/) about how books are compressed prompts - a reference that puts the model in the right latent space. Increasingly, there's a tone of phrase that works the same way. The elaborate scaffolding starts to feel like overhead. The prompt file becomes a crutch.
