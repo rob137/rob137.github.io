@@ -59,7 +59,7 @@ Early on at work, I tried using LLMs to handle deployment tasks. It was okay-ish
 
 So we wrote a script. Wrong reliably, therefore right reliably once fixed.
 
-The temptation is to skip straight to agentic. Everyone's excited about agents managing things dynamically. But you probably want to start with manual understanding before escalating. And if something matters - if you'd be upset when it breaks - you shouldn't skip the crystallisation step.
+The temptation is to skip straight to agentic. Everyone's excited about agents managing things dynamically. But you probably want to start with manual understanding before escalating - and "manual" here means both humans clicking around *and* agents figuring things out ad-hoc. Both are non-deterministic. Both are how you learn. And if something matters - if you'd be upset when it breaks - you shouldn't skip the crystallisation step.
 
 ## The Horse Is Getting Smarter
 
