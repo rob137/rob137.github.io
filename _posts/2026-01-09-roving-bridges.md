@@ -19,13 +19,13 @@ Everything is a skill issue now. Master the tools or get left behind.
 
 ## Task vs Purpose
 
-On the same day, Jensen Huang appeared on [No Priors](https://www.youtube.com/@NoPriorsPodcast) with a different framing. He brought up Geoffrey Hinton's famous prediction from 2016:
+In 2016, Geoffrey Hinton made a famous prediction:
 
 > "People should stop training radiologists now. It's just completely obvious within five years deep learning is going to do better than radiologists."
 
-Hinton was right about the task. AI now powers essentially all radiology applications. But Huang pointed out what actually happened: the number of radiologists *increased*.
+Hinton was right about the task. AI now powers essentially all radiology applications. But the number of radiologists *increased*.
 
-Why? Because the task isn't the job. Jensen:
+Why? Jensen Huang, on [No Priors](https://www.youtube.com/@NoPriorsPodcast) the same day as Doug's podcast, offered a framing:
 
 > "A job has tasks and has purpose. In the case of a radiologist, the task is to study scans. But the purpose is to diagnose disease."
 
