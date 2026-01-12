@@ -6,7 +6,7 @@ tags: [ai, llm, coding, culture, economics]
 excerpt: "When you scale LLMs to 50 concurrent agents, best practices start to feel sacrilegious."
 ---
 
-I'm not a best-practices fanatic, but I find them fascinating as cultural artefacts. I've collected the usual books - Gang of Four, Bob Martin, continuous delivery, TDD - and toyed with most of the paradigms. Same with religion, honestly. I can listen to any of it anthropologically without getting bound up in doctrine.
+I'm not a best-practices fanatic, but I find them fascinating as cultural artefacts. I've collected the usual books - Gang of Four, Bob Martin, Continuous Delivery, TDD - and toyed with most of the paradigms. Same with religion, honestly. I can listen to any of it anthropologically without getting bound up in doctrine.
 
 From that vantage point, it's interesting how scaled LLM practices feel kind of *sacrilegious*.
 
