@@ -12,7 +12,7 @@ From that vantage point, it's interesting how scaled LLM practices feel kind of 
 
 ## The Industrialists
 
-[Ben Holmes](https://x.com/BHolmesDev/status/2010395079937040487) asking a reasonable question:
+[Ben Holmes](https://x.com/BHolmesDev/status/2010189144123998669) asking a reasonable question:
 
 > How do yall manage 10 Claude Codes running at once? Worktrees? Multiple repo clones?
 
