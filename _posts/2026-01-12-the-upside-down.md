@@ -12,15 +12,15 @@ From that vantage point, it's interesting how scaled LLM practices feel kind of 
 
 ## The Industrialists
 
-[Ben Holmes](https://x.com/BHolmesDev/status/2010189144123998669) asking a reasonable question:
+Ben Holmes asking a reasonable question:
 
 > How do yall manage 10 Claude Codes running at once? Worktrees? Multiple repo clones?
 
-[Jeffrey Emanuel](https://x.com/doodlestein):
+[Jeffrey Emanuel](https://x.com/doodlestein/status/2010395079937040487):
 
 > More like 40-50 at once with no issues. Worktrees suck and just kick the can down the road. Advisory file reservations and messaging ftw.
 
-[Geoff Huntley](https://x.com/GeoffreyHuntley) on accidentally wiping worktrees:
+[Geoff Huntley](https://x.com/GeoffreyHuntley/status/2009970301501911076) on accidentally wiping worktrees:
 
 > I monkey patched git to remove force push. In the end I don't really care cause code is cheap and free now.
 
