@@ -44,9 +44,7 @@ A 30K token budget isn't hobbyist territory. The bedroom tinkerer running 50 con
 
 If this approach wins, things centralise again. New capability emerges, briefly chaotic and accessible, then capital industrialises it, and scale wins. We've seen this pattern before.
 
-Handmade sandwiches to factory sandwiches. Lower quality, but economics wins. Look at how companies feel about code quality versus bottom lines. You can see which way it goes.
-
-I'm not complaining. Just describing how the world works.
+Handmade sandwiches to factory sandwiches. Some people will always prefer artisanal; the economy often picks scale. If this approach wins, the meaning of good craft may change significantly - approaches that once seemed silly or outright forbidden might become reasonable. That's not obviously bad. It's just different.
 
 ## The Present Moment
 
