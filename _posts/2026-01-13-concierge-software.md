@@ -8,7 +8,7 @@ excerpt: "It was easier to conjure bespoke software than to find something that 
 
 I'm dictating this into a microphone. Speech to text. That's how I'm writing the article.
 
-I've been recording things using a Zoom H2 Essential - a field recorder that makes it easy to get good audio quality for dictation, especially with a group. My default workflow has been: plug it into my laptop, fire up a coding harness, tell it the device is attached and I want the files moved and transcribed. It pulls up whisper-cpp or whatever. I get the text. Done.
+I've been recording things using a Zoom H2 Essential - a field recorder that makes it easy to get good audio quality for dictation. It lets me detether from my laptop when thinking - moving around is often conducive to getting good thoughts out. Good for group settings too, when recording multiple people. My default workflow has been: plug it into my laptop, fire up a coding harness, tell it the device is attached and I want the files moved and transcribed. It pulls up whisper-cpp or whatever. I get the text. Done.
 
 But I realised I'd never actually listened to any of these recordings. Partly a UX thing - not easy to just pull them open and browse.
 
