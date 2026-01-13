@@ -32,7 +32,7 @@ Some practices become *more* important. I recently drifted into TDD for database
 
 Some become weirdly malleable. "Do all the work, then split it into separate branches per concern" - absurd to ask of a human, perfectly natural for an LLM.
 
-And some break entirely. Worktrees were fine for parallel work. At 50-agent scale, you need file reservations and inter-agent messaging. Risks we considered solved come back when you scale up.
+And some break entirely. Worktrees were an obscure git feature until LLMs came along - then they became ubiquitous among the LLM-obsessed. Now, at 50-agent scale, they're seen as having a low ceiling. File reservations and inter-agent messaging replace them. A practice that went from alien to essential to abandoned in under two years.
 
 The quotes above are jarring. But the jarring thing isn't that everything inverts - it's that you can't predict which way each practice will go.
 
