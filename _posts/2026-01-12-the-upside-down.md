@@ -6,9 +6,9 @@ tags: [ai, llm, coding, culture, economics]
 excerpt: "When you scale LLMs to 50 concurrent agents, best practices start to feel sacrilegious."
 ---
 
-I'm not a best-practices fanatic, but I find them fascinating as cultural artefacts. I've collected the usual books - Gang of Four, Bob Martin, Joel Spolsky, Continuous Delivery, TDD - and toyed with most of the paradigms. Same with religion, honestly. I can listen to any of it anthropologically without getting bound up in doctrine.
+I find best practices fascinating as cultural artefacts. I've collected the usual books - Gang of Four, Bob Martin, Joel Spolsky, Continuous Delivery, TDD - and toyed with most of the paradigms. Same with religion, honestly. I can listen to any of it anthropologically without getting bound up in doctrine.
 
-From that vantage point, it's interesting how scaled LLM practices feel kind of *sacrilegious*.
+From that vantage point, scaled LLM practices feel kind of *sacrilegious*.
 
 ## The Industrialists
 
@@ -26,7 +26,7 @@ Ben Holmes asking a reasonable question:
 
 ## A Reshuffling
 
-It's not uniform inversion though. More of a reshuffling.
+Not uniform inversion. More of a reshuffling.
 
 Some practices become *more* important. I recently drifted into TDD for database constraints, not from religious conviction, but because it was the safest approach and didn't require any more energy. Why not? Fast test suites with good coverage matter more now because human testing is the bottleneck. LLMs can push you *toward* best practices, not just away from them.
 
@@ -40,7 +40,7 @@ This favours people with capital - either their own, or license to spend their e
 
 You can treat software spend as something to minimise, or something to exploit. If spending is how you make money, spend more. But not everyone does spreadsheets that way.
 
-A 30K token budget isn't hobbyist territory. The bedroom tinkerer running 50 concurrent agents is hard to imagine. This is factory farming - industrialising something no individual could do for fun.
+A 30K token budget puts this outside hobbyist territory. The bedroom tinkerer running 50 concurrent agents is hard to imagine. This is factory farming - industrialising something no individual could do for fun.
 
 If this approach wins, things centralise again. New capability emerges, briefly chaotic and accessible, then capital industrialises it, and scale wins. We've seen this pattern before.
 
