@@ -3,7 +3,7 @@ layout: post
 title: "The Upside Down"
 date: 2026-01-12 12:00:00 +0000
 tags: [ai, llm, coding, culture, economics]
-excerpt: "When you scale LLMs to 50 concurrent agents, best practices start to feel sacrilegious."
+excerpt: "Scale to 50 agents and the new best practices look sacrilegious."
 ---
 
 I find best practices fascinating as cultural artefacts. I've collected the usual books - Gang of Four, Bob Martin, Joel Spolsky, Continuous Delivery, TDD - and toyed with most of the paradigms. Same with religion, honestly. I can listen to any of it anthropologically without getting bound up in doctrine.
