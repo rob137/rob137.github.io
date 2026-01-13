@@ -6,7 +6,7 @@ tags: [ai, llm, coding, culture, economics]
 excerpt: "When you scale LLMs to 50 concurrent agents, best practices start to feel sacrilegious."
 ---
 
-I'm not a best-practices fanatic, but I find them fascinating as cultural artefacts. I've collected the usual books - Gang of Four, Bob Martin, Continuous Delivery, TDD - and toyed with most of the paradigms. Same with religion, honestly. I can listen to any of it anthropologically without getting bound up in doctrine.
+I'm not a best-practices fanatic, but I find them fascinating as cultural artefacts. I've collected the usual books - Gang of Four, Bob Martin, Joel Spolsky, Continuous Delivery, TDD - and toyed with most of the paradigms. Same with religion, honestly. I can listen to any of it anthropologically without getting bound up in doctrine.
 
 From that vantage point, it's interesting how scaled LLM practices feel kind of *sacrilegious*.
 
@@ -26,13 +26,15 @@ Ben Holmes asking a reasonable question:
 
 ## A Reshuffling
 
-It's not uniform inversion. More of a reshuffling.
+The jarring thing is that it's not uniform inversion. It's a reshuffling.
 
-Some practices become *more* important. Fast test suites with good coverage matter more now because human testing is the bottleneck.
+Some practices become *more* important. I recently drifted into TDD for database constraints - not from religious conviction, but because it was the safest approach and didn't require any more energy. Why not? Fast test suites with good coverage matter more now because human testing is the bottleneck. LLMs can push you *toward* best practices, not just away from them.
 
 Some become weirdly malleable. "Do all the work, then split it into separate branches per concern" - absurd to ask of a human, perfectly natural for an LLM.
 
 And some break entirely. Worktrees were fine for parallel work. At 50-agent scale, you need file reservations and inter-agent messaging. Risks we considered solved come back when you scale up.
+
+The quotes above are jarring. But the jarring thing isn't that everything inverts - it's that you can't predict which way each practice will go.
 
 ## Factory Farming
 
