@@ -26,15 +26,13 @@ Ben Holmes asking a reasonable question:
 
 ## A Reshuffling
 
-The jarring thing is that it's not uniform inversion. It's a reshuffling.
+It's not uniform inversion though. More of a reshuffling.
 
-Some practices become *more* important. I recently drifted into TDD for database constraints - not from religious conviction, but because it was the safest approach and didn't require any more energy. Why not? Fast test suites with good coverage matter more now because human testing is the bottleneck. LLMs can push you *toward* best practices, not just away from them.
+Some practices become *more* important. I recently drifted into TDD for database constraints, not from religious conviction, but because it was the safest approach and didn't require any more energy. Why not? Fast test suites with good coverage matter more now because human testing is the bottleneck. LLMs can push you *toward* best practices, not just away from them.
 
-Some become weirdly malleable. "Do all the work, then split it into separate branches per concern" - absurd to ask of a human, perfectly natural for an LLM.
+Some become weirdly malleable. "Do all the work, then split it into separate branches per concern." Absurd to ask of a human. Perfectly natural for an LLM.
 
-And some break entirely. Worktrees were an obscure git feature until LLMs came along - then they became ubiquitous among the LLM-obsessed. Now, at 50-agent scale, they're seen as having a low ceiling. File reservations and inter-agent messaging replace them. A practice that went from alien to essential to abandoned in under two years.
-
-The quotes above are jarring. But the jarring thing isn't that everything inverts - it's that you can't predict which way each practice will go.
+Others break entirely. Worktrees were an obscure git feature until LLMs came along, then became ubiquitous among the LLM-obsessed. Now, at 50-agent scale, they're seen as having a low ceiling. File reservations and inter-agent messaging replace them. Alien to essential to abandoned in under two years.
 
 ## Factory Farming
 
@@ -46,7 +44,7 @@ A 30K token budget isn't hobbyist territory. The bedroom tinkerer running 50 con
 
 If this approach wins, things centralise again. New capability emerges, briefly chaotic and accessible, then capital industrialises it, and scale wins. We've seen this pattern before.
 
-Handmade sandwiches to factory sandwiches. Some people will always prefer artisanal; the economy often picks scale. If this approach wins, the meaning of good craft may change significantly - approaches that once seemed silly or outright forbidden might become reasonable. That's not obviously bad. It's just different.
+Handmade sandwiches to factory sandwiches. Some people will always prefer artisanal; the economy often picks scale. If this approach wins, the meaning of good craft may change significantly. Approaches that once seemed silly or outright forbidden might become reasonable.
 
 ## The Present Moment
 
