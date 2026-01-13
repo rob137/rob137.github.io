@@ -12,7 +12,7 @@ I've been recording things using a Zoom H2 Essential - a field recorder that mak
 
 But I realised I'd never actually listened to any of these recordings. Partly a UX thing - not easy to just pull them open and browse.
 
-Linus Torvalds has been [experimenting with vibe coding](https://github.com/torvalds/AudioNoise). So I thought: why not.
+Linus Torvalds has been [experimenting with vibe coding](https://github.com/torvalds/AudioNoise). I'd already been doing it myself, but seeing it prompted a realisation: there are pain points I take for granted sitting right in front of me. The real question I need to keep asking myself is whether AI could just solve them.
 
 ## Five Minutes
 
