@@ -20,7 +20,7 @@ I vibe coded a dashboard. Device detection, import, transcription, playback, met
 
 It took less than five minutes of effort. Not elapsed time - I'd check in while doing other things, try the UI, tell it what I wanted different, and go back to what I was doing. Concierge software. Background task.
 
-The key thing isn't that it was doable, or easy, or cheap, or possible.
+The key thing isn't that it was doable, or easy, or cheap, or possible. (Though it was all these things.)
 
 It was *easier than finding existing software*.
 
