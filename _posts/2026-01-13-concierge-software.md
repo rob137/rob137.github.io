@@ -18,6 +18,8 @@ Linus Torvalds has been [experimenting with vibe coding](https://github.com/torv
 
 I vibe coded a dashboard. Device detection, import, transcription, playback, metadata. The features I actually wanted.
 
+![H2 Dashboard](/assets/images/h2-dashboard.png)
+
 It took less than five minutes of effort. Not elapsed time - I'd check in while doing other things, try the UI, tell it what I wanted different, and go back to what I was doing. Concierge software. Background task.
 
 The key thing isn't that it was doable, or easy, or cheap, or possible. (Though it was all these things.)
