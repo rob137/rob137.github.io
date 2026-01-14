@@ -22,7 +22,7 @@ The underexplored question: are humans starting to write like AI?
 
 ## The Search
 
-I searched for typical LLM expressions in my own messages - direct messages to colleagues, group chats, places where nobody would use a model to communicate.
+I searched for typical LLM expressions in messages I could see - group chats, direct messages between colleagues, places where nobody would use a model to communicate.
 
 They were there. More than I expected.
 
