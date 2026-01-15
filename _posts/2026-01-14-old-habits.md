@@ -12,9 +12,9 @@ I developed a habit, common in guides for this: when I caught myself doing somet
 
 ## Universal Interfaces
 
-Vim is a universal interface within its bounded context - files, text, following references around a codebase. Terminal-based agents are a universal interface within theirs. And the bounded context of a computer is extremely wide.
+Vim is a universal interface within its bounded context - files, text, following references around a codebase. LLM agents running in the terminal are a universal interface within theirs. And the bounded context of a computer is extremely wide.
 
-I'm struggling to find things I can't do from the terminal as smoothly as I can manually. Write documents, move files, just by talking. Open any application. Play media. Research via web search. Pull CSVs and crunch numbers in Python. The other day I realised I was still interacting directly with ticketing and repository web UIs when the APIs, CLIs and MCPs were all available. The models were happy to create PRs on my behalf, open pages in my browser, copy links to my clipboard. I just hadn't thought to ask.
+I'm struggling to find things I can't do by talking to an agent as smoothly as I can manually. Write documents, move files. Open any application. Play media. Research via web search. Pull CSVs and crunch numbers in Python. The other day I realised I was still interacting directly with ticketing and repository web UIs when the APIs, CLIs and MCPs were all available. The models were happy to create PRs on my behalf, open pages in my browser, copy links to my clipboard. I just hadn't thought to ask.
 
 ## Voice
 
