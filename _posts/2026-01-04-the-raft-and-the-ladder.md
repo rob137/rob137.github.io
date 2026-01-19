@@ -46,6 +46,10 @@ Software engineering already has an expertise problem. Or rather: the industry h
 
 > The first generation works on thing X. After X is done and becomes popular, time passes and the next generation of programmers comes and works on Y, based on X. They do not need to know, exactly, how X is built, why it was built that way, or how to write an alternative X from scratch... The biggest a-ha moment was that if you are working on Y and Y is based on X, that does not imply automatically that you would know X also.
 
+[Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl), creator of Node.js and Deno, [January 2026](https://x.com/rough__sea/status/2013280952370573666):
+
+> The era of humans writing code is over. Disturbing for those of us who identify as SWEs, but no less true. That's not to say SWEs don't have work to do, but writing syntax directly is not it.
+
 Think of the equivalent of the Beatles in the historic lineup of programmers and computer scientists. Von Neumann, Dijkstra, Grace Hopper, Licklider. How many names would ring a bell for your average team of web developers? Have they heard of the [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)?
 
 The industry has been doubling every five years for the longest time. That means fewer people joined out of love for the craft. The rungs of the ladder were always just stepping stones for a lot of the workforce.
