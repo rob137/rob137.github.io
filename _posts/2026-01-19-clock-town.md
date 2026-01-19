@@ -8,9 +8,9 @@ excerpt: "Everyone can see the moon. Almost nobody changes their plans."
 
 I've had a lot of conversations about AI over the past few years. HR, journalism, project management, design, QA, copywriting. Friends outside work too: musicians, school teachers, military officers, marketers. My dad, a retired software developer.
 
-Almost everyone gets it, almost immediately. That's what surprised me.
-
 Show someone what the tools can do. Walk through where they were two years ago, where they are now, the rate of investment, the prisoner's dilemma between labs and between superpowers. Within five minutes, most people are nodding. Often they start making connections themselves, observations that tell you they're genuinely engaged, not just being polite. They can see their job is a bundle of tasks, they can see the trendline only goes up, they can see the error bars on expert AGI predictions are [5-15 years, not 50](/2026/01/06/local-maximum/).
+
+Almost everyone gets it, almost immediately. That's what surprised me.
 
 And then the conversation ends, and they go back to normal. Maybe 1-2% actually uproot. The rest return to Clock Town.
 
@@ -37,6 +37,8 @@ It takes a certain disposition to say "no, the moon really is there, I'm going t
 ## Which day?
 
 Meanwhile, xAI is building what they internally call ["human emulators"](https://www.youtube.com/watch?v=8jN60eJr4Ps). They don't say agents, assistants, or copilots. They say humans. The framing is explicit.
+
+Compare Jensen Huang's framing from [Roving Bridges](/2026/01/09/roving-bridges/): jobs have tasks and purpose, tasks get automated, purpose expands. That's the optimistic version. xAI isn't automating tasks. They're emulating the human.
 
 Everyone agrees there's a moon. Expert consensus has error bars, but they're narrow. The debate is which day we're on.
 
