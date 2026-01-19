@@ -32,7 +32,7 @@ Most people are low on this scale. That's probably adaptive. Following the patte
 
 But it means that seeing something clearly and acting on it are two different things. The reasoning part of the brain isn't massively connected to the part that actually lives. You can understand the implications of machine intelligence, think through the consequences, and still file it alongside Game of Thrones in some kind of interesting-fiction box.
 
-It takes a certain disposition to say "no, the moon really is there, I'm going to make a survival plan." Willingness to be disagreeable against the social grain matters more than intelligence. High-psychoticism types are rare by design.
+It takes a certain disposition to say "no, the moon really is there, I'm going to make a survival plan." Willingness to be disagreeable against the social grain is rarer than the intelligence to see what's coming. High-psychoticism types are rare by design.
 
 ## Which day?
 
