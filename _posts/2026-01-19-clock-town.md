@@ -3,7 +3,7 @@ layout: post
 title: "Clock Town"
 date: 2026-01-19 13:00:00 +0000
 tags: [ai, culture, psychology, predictions]
-excerpt: "Everyone can see the moon. Almost nobody changes their plans."
+excerpt: "Everyone can see the moon coming. Almost nobody changes their plans."
 ---
 
 I've had a lot of conversations about AI over the past few years. HR, journalism, project management, design, QA, copywriting. Friends outside work too: musicians, school teachers, military officers, marketers. My dad, a retired software developer.
