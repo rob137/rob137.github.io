@@ -10,7 +10,7 @@ excerpt: "The list of things I've stopped doing is more interesting than the too
 >
 > — Robert Heinlein, [*Time Enough for Love*](https://en.wikipedia.org/wiki/Time_Enough_for_Love)
 
-> "Humans are experts at inefficiency. All art, discovery, innovation, creation, are inherently inefficient. Efficiency is for robots, not us."
+> "Efficiency is for robots. Efficiency is for AI. Humans are about inefficiencies... Productivity is for robots."
 >
 > — Kevin Kelly, [*North Star Podcast*](https://perell.com/podcast/kevin-kelly-seeing-the-future/)
 
