@@ -36,6 +36,6 @@ Here's the uncomfortable part: the skills you invested years in, the ones you we
 
 Heinlein celebrated the generalist human against insect-like specialisation. Kelly defended inefficiency as the human domain. Both were drawing lines between us and machines. Those lines are dissolving. The generalist skills and the efficient execution are both being absorbed now.
 
-The tail wags the dog. I got a good microphone because I use speech-to-text constantly. Then I started caring about audio quality. Then I started recording thoughts while agents work. The tools reshape the user.
+The tail wags the dog. I got a good microphone because I use speech-to-text constantly. Then I started caring about audio quality. Then I started recording thoughts while agents work. But it's not a weird cubbyhole—there's a flywheel here. Thinking out loud to an intelligent listener develops ideas. Developing ideas makes you faster with the tools. Being faster with the tools lets you get faster at other things quicker. Those feed back into tool usage. Getting stuff done feels good, so you're drawn toward whatever compounds. It's a self-improving loop I'm not fully conscious of. Every experiment lands you somewhere better.
 
 It's getting pretty weird now.
