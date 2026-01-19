@@ -32,7 +32,7 @@ What's left? Judgment. Review. The decision to ship.
 
 I sit in front of three terminal panes. One is orchestrating. One is testing. One is waiting for my approval. My job has become saying "yes" or "not yet" while agents do the locomotion.
 
-Here's the uncomfortable part: the skills that are easiest to automate are the ones worth automating—the ones that took years to develop, the ones you were proud of. The valuable skills are the ones the models learn first. That's the economics. That's the point.
+Here's the uncomfortable part: the skills you invested years in, the ones you were proud of—those are exactly the skills worth automating. Your strengths get eaten first, not your weaknesses. That's the economics.
 
 Heinlein celebrated the generalist human against insect-like specialisation. Kelly defended inefficiency as the human domain. Both were drawing lines between us and machines. Those lines are dissolving. The generalist skills and the efficient execution are both being absorbed now.
 
