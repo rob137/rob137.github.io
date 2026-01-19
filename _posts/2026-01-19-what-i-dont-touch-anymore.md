@@ -28,9 +28,9 @@ The things I don't touch anymore aren't the things I was bad at. They're the thi
 
 **Even manual testing.** First-line manual testing is done by the bots now. I say "check that the dropdown works" and watch Claude navigate the browser, click through the UI, take screenshots. I still need to get the fuzzy feeling myself by checking—but this is [becoming the bottleneck](/2026/01/06/trial-by-foom/).
 
-What's left? Judgment. Review. The decision to ship.
+What's left? Not just approval. The job is more intellectually demanding now, not less. I'm constantly articulating ambiguity—social uncertainties, gaps in my own understanding, the possible ways things might be, the intentions behind test setups or architectural fudges that wouldn't be obvious to a new joiner. I have to frame all of this in a way that lets smart models move fast.
 
-I sit in front of three terminal panes. One is orchestrating. One is testing. One is waiting for my approval. My job has become saying "yes" or "not yet" while agents do the locomotion.
+I sit in front of three terminal panes. One is orchestrating. One is testing. One is waiting for direction. The locomotion is theirs. The context-shaping is mine.
 
 Here's the uncomfortable part: the skills you invested years in, the ones you were proud of—those are exactly the skills worth automating. Your strengths get eaten first, not your weaknesses. That's the economics.
 
