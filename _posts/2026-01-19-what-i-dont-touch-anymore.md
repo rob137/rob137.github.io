@@ -26,7 +26,7 @@ The things I don't touch anymore aren't the things I was bad at. They're the thi
 
 **Breaking down tasks.** This was the skill. Taking a vague requirement and decomposing it into the right units of work. Now the orchestrator pulls tickets from Azure DevOps, reads the comments, cross-references merged PRs, checks dates of merges against comments—forensics on the semantic history of the thing. Then it farms the work out to agents, and I review what comes back.
 
-**Even manual testing.** I say "check that the dropdown works" and watch Claude navigate the browser, click through the UI, take screenshots. I'm still reviewing, still deciding. But the mechanical testing has shifted.
+**Even manual testing.** First-line manual testing is done by the bots now. I say "check that the dropdown works" and watch Claude navigate the browser, click through the UI, take screenshots. I still need to get the fuzzy feeling myself by checking—but this is [becoming the bottleneck](/2026/01/06/trial-by-foom/).
 
 What's left? Judgment. Review. The decision to ship.
 
