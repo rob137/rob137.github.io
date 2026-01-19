@@ -20,7 +20,7 @@ And then the conversation ends, and they go back to normal. Maybe 1-2% actually 
 
 In *Majora's Mask*, the moon is falling. You have three days. The game is structured around this countdown. Events happen at specific times, you can rewind and replay, the whole thing has an uncanny wind-up-toy quality.
 
-What stays with me is the NPCs. They carry on chatting in the town square. Chasing dogs in the courtyard. You can stop them and talk to them, the moon might come up, but then they go back to their routines. There's a vague acknowledgement that something dramatic is about to happen. It doesn't change their behaviour.
+What stays with me is the NPCs. They carry on chatting in the town square. Preparing for the festival. You can stop them and talk to them, the moon might come up, but then they go back to their routines. There's a vague acknowledgement that something dramatic is about to happen. It doesn't change their behaviour.
 
 That's what it feels like right now. Not denial exactly. People can see the moon when you point to it. They just can't seem to carry the realisation beyond the conversation.
 
@@ -42,4 +42,4 @@ Compare Jensen Huang's framing from [Roving Bridges](/2026/01/09/roving-bridges/
 
 Everyone agrees there's a moon. Expert consensus has error bars, but they're narrow. The debate is which day we're on.
 
-Most people can see this when shown. They just can't hold onto it. Maybe that's fine. Someone has to keep the town running while the rest of us stare at the sky. But it's strange to watch. You point at the moon, they say "oh dear," you look away and look back, and they're chasing dogs again.
+Most people can see this when shown. They just can't hold onto it. Maybe that's fine. Someone has to keep the town running while the rest of us stare at the sky. But it's strange to watch. You point at the moon, they say "oh dear," you look away and look back, and they're back to planning the festival.
