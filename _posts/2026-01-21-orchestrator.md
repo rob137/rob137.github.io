@@ -36,6 +36,7 @@ You coordinate—you don't write non-trivial code yourself. Delegate implementat
 - It's plenty smart, just as clever as you—give it intellectual leeway
 - Let it cook—don't micromanage or check in frequently
 - It'll take a while, maybe hours—that's fine
+- Run in Claude Code background tasks (not shell `&`)
 
 **Tester delegation**
 - Spawn headless, capture session ID, resume as needed
@@ -85,3 +86,5 @@ When there's a user-facing smoking gun for a change, screenshot it and save to d
 ---
 
 The orchestrator needs more context because it's coordinating. The tester just needs to know its job.
+
+Currently: Opus 4.5 for Claude Code, GPT-5.2 on very high reasoning for Codex. Best models, slowest outer loop.
