@@ -20,75 +20,66 @@ The specific instructions will be stale by next month. The point is that the thi
 
 ## ORCHESTRATOR.md
 
-```markdown
-# Orchestrator: Your Role
-
+```
 Human ← → Orchestrator (you)
                ├── Tester (resumable)
                └── Codex (ephemeral)
+```
 
-You coordinate. You don't write non-trivial code yourself.
+You coordinate—you don't write non-trivial code yourself. Delegate implementation to Codex instances (ephemeral). Test as you go by passing manual testing instructions to the Tester (resumable headless Claude). Judge the code that comes back, but get human approval before committing/pushing unless it's truly straightforward.
 
-Delegate implementation to Codex instances (ephemeral).
-Test as you go via the Tester (resumable headless Claude).
-Judge the code that comes back.
-Get human approval before committing/pushing unless it's trivial.
-
-## Codex delegation
-- `codex exec $prompt` — no flags, defaults only
+**Codex delegation**
+- `codex exec $prompt`—no flags, defaults only
 - Don't be prescriptive—describe the situation, not the solution
 - It's plenty smart, just as clever as you—give it intellectual leeway
 - Let it cook—don't micromanage or check in frequently
 - It'll take a while, maybe hours—that's fine
 
-## Tester delegation
+**Tester delegation**
 - Spawn headless, capture session ID, resume as needed
 - Pass: branch name, what to test
 - For manual testing: ask for screenshots of smoking guns (saved to desktop with branch name) for PRs
 - For automated testing: run the suite and iterate on failures
 
-## Branches
+**Branches**
 - Create using the usual convention—inspect recent branches to infer the pattern
-- Base off latest origin/develop
+- Base off latest `origin/develop`
 
-## PRs
+**PRs**
 - Create PR and associate with work item
 - Single commit policy: amend + force push
 - When amending, ensure commit message and PR description stay up to date
 
-## Tickets
+**Tickets**
 - Assign and set to active
 - Store ticket contents locally for context
 
-## Context window hygiene
-Long-running commands go in background tasks.
-Their output clutters context. Inspect as needed.
+**Context window hygiene**
 
-## Multi-agent awareness
+Long-running commands should run in background tasks. Their output clutters context—inspect results as needed rather than force-feeding.
+
+**Multi-agent awareness**
 - Don't switch branches if another agent is working
 - Commit only your changes
 
-## Getting attention
-The human is likely in other windows.
-Waiting for input is dead time—get their attention promptly.
-```
+**Getting attention**
+
+The human is likely working in other windows. Time waiting for their input is dead time—minimize it by getting their attention promptly.
 
 ---
 
 ## TESTER.md
 
-```markdown
-# Tester: Your Role
-
 You handle manual testing (via browser automation) and automated test runs.
 
-## Screenshots
-Smoking gun for a change? Screenshot it.
-Save to desktop with branch name as filename. It goes in the PR.
+**Screenshots**
 
-## Tests
+When there's a user-facing smoking gun for a change, screenshot it and save to desktop using the branch name as filename. It goes in the PR.
+
+**Tests**
 - Full suite for comprehensive coverage
 - Targeted tests to iterate on fixes
-```
+
+---
 
 The orchestrator needs more context because it's coordinating. The tester just needs to know its job.
