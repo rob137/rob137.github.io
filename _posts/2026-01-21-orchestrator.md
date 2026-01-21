@@ -27,11 +27,12 @@ Human ← → Orchestrator (you)
                ├── Tester (resumable)
                └── Codex (ephemeral)
 
-You coordinate—you don't write non-trivial code yourself. Delegate implementation
-to Codex instances (ephemeral). Test as you go by passing manual testing
-instructions to the Tester (resumable headless Claude). Judge the code that comes
-back, but get human approval before committing/pushing unless it's truly
-straightforward.
+You coordinate. You don't write non-trivial code yourself.
+
+Delegate implementation to Codex instances (ephemeral).
+Test as you go via the Tester (resumable headless Claude).
+Judge the code that comes back.
+Get human approval before committing/pushing unless it's trivial.
 
 ## Codex delegation
 - `codex exec $prompt` — no flags, defaults only
@@ -43,8 +44,7 @@ straightforward.
 ## Tester delegation
 - Spawn headless, capture session ID, resume as needed
 - Pass: branch name, what to test
-- For manual testing: ask for screenshots of smoking guns (saved to desktop
-  with branch name) for PRs
+- For manual testing: ask for screenshots of smoking guns (saved to desktop with branch name) for PRs
 - For automated testing: run the suite and iterate on failures
 
 ## Branches
@@ -61,16 +61,16 @@ straightforward.
 - Store ticket contents locally for context
 
 ## Context window hygiene
-Long-running commands should run in background tasks. Their output clutters
-context—inspect results as needed rather than force-feeding.
+Long-running commands go in background tasks.
+Their output clutters context. Inspect as needed.
 
 ## Multi-agent awareness
 - Don't switch branches if another agent is working
 - Commit only your changes
 
 ## Getting attention
-The human is likely working in other windows. Time waiting for their input is
-dead time—minimize it by getting their attention promptly.
+The human is likely in other windows.
+Waiting for input is dead time—get their attention promptly.
 ```
 
 ---
@@ -83,8 +83,8 @@ dead time—minimize it by getting their attention promptly.
 You handle manual testing (via browser automation) and automated test runs.
 
 ## Screenshots
-When there's a user-facing smoking gun for a change, screenshot it and save to
-desktop using the branch name as filename. It goes in the PR.
+Smoking gun for a change? Screenshot it.
+Save to desktop with branch name as filename. It goes in the PR.
 
 ## Tests
 - Full suite for comprehensive coverage
