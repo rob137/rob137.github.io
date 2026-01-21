@@ -173,8 +173,9 @@ img {
   color: #abb2bf;
   padding: 1rem;
   border-radius: 5px;
-  overflow-x: auto;
   margin: 1.5rem 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
 
 .post-content pre code {
