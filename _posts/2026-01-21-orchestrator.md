@@ -88,3 +88,5 @@ When there's a user-facing smoking gun for a change, screenshot it and save to d
 The orchestrator needs more context because it's coordinating. The tester just needs to know its job.
 
 Currently: Opus 4.5 for Claude Code, GPT-5.2 on very high reasoning for Codex. Best models, slowest outer loop.
+
+I prefer slow outer loops with smart models over faster models that make more mistakes. Reasonable people disagree on this. My reasoning: I want a fast feedback loop with Claude Code to figure out what makes sense—Claude lets you interrupt mid-response, so conversation stays fluid. But for actual coding, I want the best model regardless of how long it takes. Codex might run for tens of minutes; Claude can check the logs as it goes. So Claude as front of house, Codex as the workhorse.
