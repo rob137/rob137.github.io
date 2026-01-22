@@ -14,7 +14,7 @@ So I pointed Claude Code at my `~/.claude` directory—where it stores recent co
 
 The result is two markdown files. One for the orchestrator (the Claude instance I talk to), one for the tester (a headless Claude that handles manual and automated testing). When I spin up a new agent, I point it at these.
 
-The specific instructions will be stale by next month. The [bitter lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) is coming for this workflow soon—explicit orchestration like this will probably get absorbed into the models themselves. This is just a snapshot of where day-to-day practice has gotten to.
+The specific instructions will be stale by next month. The [bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) is coming for this workflow soon—explicit orchestration like this will probably get absorbed into the models themselves. This is just a snapshot of where day-to-day practice has gotten to.
 
 But the meta-point stands: the thing I was avoiding became the thing that levels me up again. The distillation can now onboard new models. The explanation *is* the automation.
 
