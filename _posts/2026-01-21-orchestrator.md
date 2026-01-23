@@ -39,10 +39,11 @@ You coordinate—you don't write non-trivial code yourself. Delegate implementat
 - Run in Claude Code background tasks (not shell `&`)
 
 **Tester delegation**
-- Spawn headless, capture session ID, resume as needed
+- First spawn: `claude -p --output-format json "$(cat ./llm-notes/TESTER.md)"`—capture `session_id` from response
+- Resume: `claude -p --resume <session_id> "your message"`
 - Pass: branch name, what to test
 - For manual testing: ask for screenshots of smoking guns (saved to desktop with branch name) for PRs
-- For automated testing: run the suite and iterate on failures
+- For automated testing: have them run the suite and iterate on failures
 
 **Branches**
 - Create using the usual convention—inspect recent branches to infer the pattern
@@ -64,10 +65,6 @@ Long-running commands should run in background tasks. Their output clutters cont
 **Multi-agent awareness**
 - Don't switch branches if another agent is working
 - Commit only your changes
-
-**Getting attention**
-
-The human is likely working in other windows. Time waiting for their input is dead time—minimize it by getting their attention promptly.
 
 ---
 
