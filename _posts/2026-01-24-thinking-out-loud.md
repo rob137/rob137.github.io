@@ -6,9 +6,9 @@ tags: [ai, cognition]
 excerpt: "Models don't remember their train of thought. They only remember what they've said out loud."
 ---
 
-A friend at a local startup told me they've been playing 20 questions with reasoning models—reading the thinking traces as the model narrows in on its guess. Once they could tell it had basically figured out the answer, they lied. Told it the guess was wrong.
+A friend at a local startup told me they've been playing 20 questions with reasoning models—but with the model as the answerer. They'd ask it to think of something, then pepper it with yes/no questions while reading its thinking traces.
 
-The model believed them. It abandoned the correct answer and kept searching.
+In one round, the model picked "apple." The humans could see this in the trace. But partway through, the model got confused and started answering as though it had picked "pear." The humans knew it was wrong about its own secret. The model didn't—it couldn't see the trace showing what it had originally chosen.
 
 ---
 
@@ -34,7 +34,7 @@ He's right, but I'd frame it differently. It's not that Claude can't understand 
 
 This is why architecture is hard for models. Architecture requires holding invariants across a codebase while making local changes. It requires remembering *why* you structured something a certain way, not just *that* you did. Models can see the code, but they don't remember the reasoning that shaped it—unless that reasoning was written down somewhere they can read.
 
-The startup's 20 questions trick worked because the model's "confidence" isn't confidence at all. It's just text. And text can be contradicted by newer text.
+The 20 questions game revealed this starkly: the humans had better access to the model's "mind" than the model did. They could read the trace; the model couldn't. Its own prior reasoning was invisible to it.
 
 When you understand this, a lot of model behavior makes more sense. The tendency to agree with corrections even when the original answer was right. The way extended conversations drift. The benefit of writing explicit reasoning into prompts rather than assuming the model will "figure it out."
 
