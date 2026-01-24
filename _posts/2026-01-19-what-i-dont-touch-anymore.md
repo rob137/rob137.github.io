@@ -24,6 +24,8 @@ The things I don't touch anymore aren't the things I was bad at. They're the thi
 
 **Test harnesses.** I knew how to set these up well. Targeted test runs, sensible suite organisation, fast feedback loops. I've made them legible to LLMs now—makefile targets with comments explaining what each suite does. But I don't run them. Claude runs them, reports back, iterates if something fails.
 
+**Language servers.** LSP was a lifeline—jump to definition, find references, the kind of code navigation that made large codebases tractable. I have company-mode and lsp-mode set up in Emacs. They've been broken for weeks. I genuinely don't know if they work anymore, because I've stopped using them. Grepping through a codebase with an LLM that understands what it's looking at turns out to be just as fast.
+
 **Breaking down tasks.** This was the skill. Taking a vague requirement and decomposing it into the right units of work. Now the orchestrator pulls tickets from Azure DevOps, reads the comments, cross-references merged PRs, checks dates of merges against comments—forensics on the semantic history of the thing. Then it farms the work out to agents, and I review what comes back.
 
 **Even manual testing.** First-line manual testing is done by the bots now. I say "check that the dropdown works" and watch Claude navigate the browser, click through the UI, take screenshots. I still need to get the fuzzy feeling myself by checking—but this is [becoming the bottleneck](/2026/01/06/trial-by-foom/).
