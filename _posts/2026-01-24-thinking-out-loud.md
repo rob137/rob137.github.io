@@ -32,7 +32,7 @@ Uncle Bob Martin [put it well](https://x.com/unclebobmartin/status/2014311028972
 
 He's right, but I'd frame it differently. It's not that Claude can't understand big pictures. It's that Claude can't *hold* anything. Every response starts from scratch, reconstructing context from the transcript. The "mind" that holds more details than Uncle Bob is an illusion created by the context window—a finite text buffer, not a persistent understanding.
 
-This is why architecture is hard for models. Architecture requires holding invariants across a codebase while making local changes. It requires remembering *why* you structured something a certain way, not just *that* you did. Models can see the code, but they don't remember the reasoning that shaped it—unless that reasoning was written down somewhere they can read.
+This is why architecture is *costly* for models, not hard. They can inhale a codebase fast enough—but they have to reload it into context every time. There's no persistent grasp of the structure, just repeated reconstruction. And they still don't remember *why* something was structured a certain way unless that reasoning was written down somewhere they can read.
 
 The 20 questions game revealed this starkly: the humans had better access to the model's "mind" than the model did. They could read the trace; the model couldn't. Its own prior reasoning was invisible to it.
 
