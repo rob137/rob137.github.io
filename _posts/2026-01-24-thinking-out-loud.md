@@ -36,6 +36,10 @@ This is why architecture is hard for models. Architecture requires holding invar
 
 The 20 questions game revealed this starkly: the humans had better access to the model's "mind" than the model did. They could read the trace; the model couldn't. Its own prior reasoning was invisible to it.
 
+Andrej Karpathy [calls them](https://x.com/karpathy/status/1930003172246073412) "people spirits"—stochastic simulations of people, with a kind of emergent psychology. He compares them to the protagonist in *Memento*: anterograde amnesia, unable to consolidate knowledge, every conversation a fresh start with only their context window as working memory.
+
+There's a micro-community of people who code with LLMs every day—following the [Latent Space](https://www.latent.space/) podcast, hanging off Dwarkesh Patel interviews, absorbing Karpathy's framing. We develop shared mental models that are useful but sometimes false. The jargon becomes comfortable. Meanwhile, an outsider willing to ask fundamental questions and watch [3Blue1Brown](https://www.youtube.com/c/3blue1brown) videos can quickly find themselves understanding gaps that daily users gloss over.
+
 When you understand this, a lot of model behavior makes more sense. The tendency to agree with corrections even when the original answer was right. The way extended conversations drift. The benefit of writing explicit reasoning into prompts rather than assuming the model will "figure it out."
 
 They think out loud because that's the only way they think at all.
