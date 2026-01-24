@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Thinking Out Loud"
+title: "Useful, Not True"
 date: 2026-01-24 11:00:00 +0000
 tags: [ai, cognition]
-excerpt: "Models don't remember their train of thought. They only remember what they've said out loud."
+excerpt: "We need metaphors to understand LLMs. But if something is categorically new, all metaphors will fail somewhere."
 ---
 
 A friend at a local startup told me they've been playing 20 questions with reasoning models—but with the model as the answerer. The model is invited to think of something, then the humans ask yes/no questions to guess it, reading the thinking traces as they go.
@@ -44,4 +44,4 @@ When you understand this, a lot of model behavior makes more sense. The tendency
 
 This is also a subtle form of hallucination that's easy to miss. When you ask a model "why did you do that?", its explanation implies it knows its own thoughts. It doesn't. The explanation is a plausible story generated after the fact, not a report of actual introspection. It's not overtly false—it's misleading in a way the model itself can't detect.
 
-They think out loud because that's the only way they think at all.
+The model that forgot it picked apple couldn't know it had forgotten. Neither can the model explaining why it did what it did.
