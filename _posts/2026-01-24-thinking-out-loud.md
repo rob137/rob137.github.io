@@ -18,9 +18,9 @@ But here's the thing: those thinking tokens work exactly like regular output tok
 
 There's no separate scratchpad. No persistent internal state. The model's "train of thought" exists only to the extent that it's been written down.
 
-A human playing 20 questions remembers their reasoning even if they don't say it out loud. They can get told they're wrong and think: *wait, that doesn't match what I worked out*. The reasoning persists independently of whether it was spoken.
+A human playing 20 questions as the answerer remembers what they picked. Even without saying it out loud, they hold the answer in mind and check each response against it. The reasoning persists independently of whether it was spoken.
 
-Models don't have this. They only remember what they've said out loud. If the thinking tokens say "I'm confident the answer is apple," but the conversation history says "User told me apple was wrong," the model will trust the history. It has no privileged access to its own prior confidence—just the text.
+Models don't have this. They only remember what they've said out loud. The model that picked "apple" had no way to check its later answers against that choice—the thinking trace where it decided on "apple" was invisible to it by the time it started answering "pear." It had no privileged access to its own prior reasoning. Just the text of its responses.
 
 ---
 
