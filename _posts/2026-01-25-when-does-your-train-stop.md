@@ -8,7 +8,7 @@ excerpt: "LLMs let engineers climb the abstraction stack. But who's actually doi
 
 Will Larson's [*Staff Engineer*](https://staffeng.com/book) book lays out four archetypes for senior technical roles: Tech Lead, Architect, Solver, Right Hand. It's become the received wisdom for how to think about the fork in the road at senior engineer—management track or technical track.
 
-The archetypes assume a stable game. You pick your lane, cultivate the relevant skills, and compound over decades. The S3 lady at AWS—[Mai-Lan Tomsen Bukovec](https://www.pragmaticengineer.com/)—did exactly this. Twenty years of going deep, still energized by the technical details, coordinating enormous human and technical capital while staying hands-on. The existence of that path is reassuring.
+The archetypes assume a stable game. You pick your lane, cultivate the relevant skills, and compound over decades. The S3 lady at AWS—Mai-Lan Tomsen Bukovec—did exactly this. Twenty years of going deep, still energized by the technical details, coordinating enormous human and technical capital while staying hands-on. The existence of that path is reassuring.
 
 But the game might not be stable anymore.
 
@@ -24,7 +24,7 @@ Maybe engineers aren't climbing the stack. Maybe they're being *carried* up it. 
 
 Rather than asking "which future is true," it's more useful to think in phases. These aren't alternative worlds—they're sequential.
 
-**Phase 1: Staff engineers supercharged.** Models top out, or expressing intent turns out to be the real bottleneck. "What do you actually want?" and "What are you missing?" remain human questions. Deep technical knowledge plus taste equals durable position. This is now through near-term.
+**Phase 1: Staff engineers supercharged.** LLMs handle implementation, humans handle direction. You orchestrate agents, maintain quality, bridge the gap between business intent and technical execution. Deep knowledge plus taste makes you more valuable, not less. This is now through near-term.
 
 **Phase 2: The squeeze.** AI automates what staff engineers do—iterating on specs, architectural reasoning, system-level thinking. The role gets a temporary boost (like AI-first engineers now), but it's not durable. Implementation commoditizes, then specification commoditizes. Picking up pennies in front of the steamroller.
 
