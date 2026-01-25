@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Does Your Train Stop?"
+title: "Along for the Ride"
 date: 2026-01-25 12:00:00 +0000
 tags: [ai, career, engineering]
 excerpt: "LLMs let engineers climb the abstraction stack. But who's actually doing the climbing?"
@@ -30,7 +30,7 @@ Rather than asking "which future is true," it's more useful to think in phases. 
 
 **Phase 3: Orgs flatten.** Models reach a level where all you need is a founder. No managers, no middlemen, no career ladder—at least not for software engineering as a rarefied function. A million startups glistening away.
 
-The question isn't which phase is "true." You might live through all three. The question is: when does your train stop?
+The question isn't which phase is "true." You might live through all three. The question is: how long are you along for the ride?
 
 ---
 
@@ -70,4 +70,4 @@ None of this is certain. Expert error bars on AI timelines are wide on the 18-mo
 
 You're not planning for stability with occasional disruption. You're planning for the middle of a phase change.
 
-The question isn't "Staff or management?" The question is: when does your train stop, and what do you do when it does?
+The question isn't "Staff or management?" The question is: how long are you along for the ride, and what do you do when it ends?
