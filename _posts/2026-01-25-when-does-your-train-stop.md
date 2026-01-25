@@ -6,7 +6,14 @@ tags: [ai, career, engineering]
 excerpt: "LLMs let engineers climb the abstraction stack. But who's actually doing the climbing?"
 ---
 
-Will Larson's [*Staff Engineer*](https://staffeng.com/book) book lays out four archetypes for senior technical roles. The **Tech Lead** guides a single team's approach and execution. The **Architect** owns technical direction across a broader area. The **Solver** parachutes into gnarly problems wherever they arise. The **Right Hand** extends an executive's reach across complex orgs. It's a useful model for thinking about the fork in the road at senior engineer—management track or technical track.
+Will Larson's [*Staff Engineer*](https://staffeng.com/book) book lays out four archetypes for senior technical roles—patterns within the staff track itself:
+
+- The **Tech Lead** guides a single team's approach and execution.
+- The **Architect** owns technical direction across a broader area.
+- The **Solver** parachutes into gnarly problems wherever they arise.
+- The **Right Hand** extends an executive's reach across complex orgs.
+
+It's a useful model for thinking about the fork in the road at senior engineer—management track or technical track—and what the technical side actually looks like at scale.
 
 The archetypes assume a stable game. You pick your lane, cultivate the relevant skills, and compound over decades. Mai-Lan Tomsen Bukovec at AWS did exactly this. Twenty years of going deep, still energized by the technical details, coordinating enormous human and technical capital while staying hands-on. The existence of that path is reassuring.
 
