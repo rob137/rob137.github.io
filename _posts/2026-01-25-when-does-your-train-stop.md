@@ -60,6 +60,8 @@ Some candidates:
 
 Notice what's not on the list: "technical problem-solving." That's exactly what's getting automated.
 
+This is regretful. Technical problem-solving is genuinely enjoyable—it's what brought me and most of my friends into the field. The dopamine of a clean solution, the satisfaction of making something work. If that's what gets eaten, there's a real loss, not just a neutral transition.
+
 The uncomfortable answer might be that the durable positions require absorbing *social* complexity, not technical complexity. The thing that survives is the thing many engineers specifically fled from.
 
 ---
