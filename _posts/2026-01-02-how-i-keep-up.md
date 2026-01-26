@@ -39,7 +39,7 @@ That said, if you do want to go to the source:
 
 - **Dwarkesh Patel** - [@dwarkesh_sp](https://x.com/dwarkesh_sp) - The single best podcast for understanding the pace of acceleration and its implications, while maintaining reasonable doubts about the "when." Honourable mention: the [Manifold](https://www.youtube.com/@ManifoldPodcast) podcast as a runner-up.
 
-- **Matt Turck** - [@mattturck](https://x.com/mattturck) - Creates the [MAD landscape](https://mad.firstmark.com/) and hosts the [MAD podcast](https://www.youtube.com/@TheMADPodcast). Good for the broader ML/AI/data ecosystem view rather than just frontier models.
+- **Matt Turck** - [@mattturck](https://x.com/mattturck) - Creates the [MAD landscape](https://mad.firstmark.com/) and hosts the [MAD podcast](https://www.youtube.com/@TheMADPodcast). Unusually engaging and technical at the same time, where usually that's a trade-off.
 
 - **The Sourcegraph crew** - [Beyang Liu](https://x.com/beyang), [Quinn Slack](https://x.com/sqs), [Thorsten Ball](https://x.com/thorstenball) - Beyang has a terrific [Sourcegraph podcast](https://www.youtube.com/@Sourcegraph), but more recently the team working on [Ampcode](https://ampcode.com/) has become an excellent source for day-to-day, down-in-the-weeds questions about coding with LLM agents. Proudly opinionated. I think of them as intellectually moving first on a lot of things rather than simply being reactive. Special shout-out to their [Frequently Ignored Feedback](https://ampcode.com/fif) page - they're not going to shower you in options, they tell you what they think and you can use another product if you disagree.
 
