@@ -6,9 +6,7 @@ tags: [ai, workflows, llm]
 excerpt: "The bottleneck used to be execution. Now it's knowing what's worth building."
 ---
 
-I've been doing work that doesn't have a name.
-
-The coding workflow is familiar enough: I task Claude Code with moderately complicated work in a codebase—coding, iterating on tests, doing things with the build—then disappear overnight. It works. Not perfectly, but well enough that the failure modes are predictable and nudgeable. I check in, course-correct, leave again. This maps to something recognisable: tech lead with a remote team.
+I've been doing work that doesn't have a name. The coding workflow is familiar enough: I task Claude Code with moderately complicated work in a codebase—coding, iterating on tests, doing things with the build—then disappear overnight. It works. Not perfectly, but well enough that the failure modes are predictable and nudgeable. I check in, course-correct, leave again. This maps to something recognisable: tech lead with a remote team.
 
 The writing workflow doesn't map to anything. I record thoughts into audio files on dog walks, share them over Tailscale, and Claude Code transcribes and drafts. If I'm caught by a flash of inspiration at the gym, I don't need to find time later. I just talk. The recording replaces the podcast I would have listened to anyway.
 
