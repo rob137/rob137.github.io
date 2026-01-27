@@ -44,4 +44,4 @@ We're in an odd period where your bespoke workflow works before it gets absorbed
 
 The question used to be "Can I build this?" Now it's "Do I have the taste to know what's worth building?"
 
-Most people are still optimising for the old constraint. Meanwhile, the space of nameless workflows keeps growing.
+Most people are still optimising for the old constraint. Meanwhile, the space of available workflows keeps growing.
