@@ -3,7 +3,7 @@ layout: post
 title: "Workflows Without Names"
 date: 2026-01-27 14:30:00 +0000
 tags: [ai, workflows, llm]
-excerpt: "The space of possible workflows just got much wider than the space of things we have names for."
+excerpt: "The bottleneck used to be execution. Now it's knowing what's worth building."
 ---
 
 I've been doing work that doesn't have a name.
@@ -28,7 +28,7 @@ Now execution is covered, at least the first 30%. You still have to attend to th
 
 The bottleneck is now exploration. Hunches. Taste. The feeling of being onto something.
 
-And here's the strange part: those hunches are becoming self-fulfilling. Not in the hyperstition sense, where you believe something and unwittingly cause it. More like a self-fulfilling *lead*. You're onto something, it's investigative, you're chasing it down. That very feeling is now a trigger to approach a frontier model.
+Those hunches are becoming self-fulfilling. Not in the hyperstition sense, where you believe something and unwittingly cause it. More like a self-fulfilling *lead*. You're onto something, it's investigative, you're chasing it down. That very feeling is now a trigger to approach a frontier model.
 
 You describe the workflow you wish existed. The model knows the established options, the common patterns. It gives you the workflow. You ask for something you can hand to another agent. It does that too. You're left with a list of instructions to set things up on your phone.
 
