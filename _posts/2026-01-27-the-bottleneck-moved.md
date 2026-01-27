@@ -14,7 +14,7 @@ The writing workflow has shades of this. I record thoughts into audio files on d
 
 These workflows resemble each other but they're actually quite different. The coding one maps to something familiar: tech lead with a remote team. The writing one doesn't map to anything I can name. It's not dictation. It's not editing. It's closer to thinking out loud with a transcriptionist who also happens to be a competent ghostwriter—but that's a stretch too.
 
-This is the thing I keep noticing: *workflows without names*. The space of possible workflows just got much wider than the space of things we can point at and say "that's a known job."
+This is the thing I keep noticing: *nameless workflows*. The space of possible workflows just got much wider than the space of things we can point at and say "that's a known job."
 
 ---
 
