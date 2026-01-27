@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "The Bottleneck Moved"
-date: 2026-01-27 15:00:00 +0000
-future: true
+date: 2026-01-27 14:30:00 +0000
 tags: [ai, workflows, llm]
 excerpt: "Execution got cheap. The scarce resource is now exploration and taste."
 ---
