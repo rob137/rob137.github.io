@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Bottleneck Moved"
+title: "Workflows Without Names"
 date: 2026-01-27 14:30:00 +0000
 tags: [ai, workflows, llm]
 excerpt: "Execution got cheap. The scarce resource is now exploration and taste."
