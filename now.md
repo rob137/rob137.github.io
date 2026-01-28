@@ -9,6 +9,10 @@ permalink: /now/
 
 **Last updated:** January 2026
 
+## Family
+
+Insanely busy with young kids. Enjoying family life, but there isn't really time for DIY or the sorts of things that kept me out of trouble before. The one exception is AI and technology - curious about that year-round. Hence this blog.
+
 ## Music
 
 I'm on a music arc at the minute. I tend to cycle through interests a couple of times a year - meditation, theology, literature, visual arts, music - but it's cyclical and quite intense, and right now I'm deep in music.
@@ -20,7 +24,3 @@ Playing entirely for pleasure. It's been kind of life-changing. My eldest daught
 ## BJJ
 
 Enjoying working with people at my gym who are preparing for competition. I'm too busy with work and family to compete myself at the moment, but I'm hoping to get back to it when things settle down. In the meantime, it's really fun helping people prep.
-
-## Family
-
-Insanely busy with young kids. Enjoying family life, but there isn't really time for DIY or the sorts of things that kept me out of trouble before. The one exception is AI and technology - curious about that year-round. Hence this blog.
