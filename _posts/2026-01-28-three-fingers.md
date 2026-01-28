@@ -26,7 +26,7 @@ Ray Kurzweil coined the phrase "second half of the chessboard" for the moment wh
 
 Here's what I think is happening. Software workflows have reached the second half of the board.
 
-Not for everything. The capabilities are jagged. But with the current batch of models—Gemini 3.5 Pro, Opus 4.5, GPT 5.2—there are categories of work where output has genuinely changed character. I've written about this elsewhere: [leaving Claude Code running overnight](/2026/01/27/workflows-without-names/), checking in to course-correct, leaving again. Work that would have taken days now takes hours. Not always, but often enough that it's become my default assumption.
+Not for everything. The capabilities are jagged. But with the current batch of models—Gemini 3 Pro, Opus 4.5, GPT 5.2—there are categories of work where output has genuinely changed character. I've written about this elsewhere: [leaving Claude Code running overnight](/2026/01/27/workflows-without-names/), checking in to course-correct, leaving again. Work that would have taken days now takes hours. Not always, but often enough that it's become my default assumption.
 
 The problem is that unless you're using the tools directly, your expectations are anchored somewhere else. Maybe early 2024, when ChatGPT was impressive but not yet practical for serious work. Maybe late 2025, after some experiments that didn't pan out. You tried it, it hallucinated, you moved on. A few grains of rice on the board. Nothing dramatic.
 
