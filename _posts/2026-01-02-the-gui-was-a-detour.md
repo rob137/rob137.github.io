@@ -6,6 +6,8 @@ tags: [ai, software, llm, productivity]
 excerpt: "I installed Audacity yesterday. I've barely opened it. Not because I lost interest, but because LLMs write ffmpeg commands for me instead."
 ---
 
+![GUI maze vs terminal direct path](/assets/images/terminal-direct.webp)
+
 I installed [Audacity](https://www.audacityteam.org/) yesterday. An LLM suggested it might give me better recording quality than QuickTime.
 
 I've barely opened it. Not because I lost interest. I've been doing more audio work than ever. Normalising levels, reducing noise, trimming silence, converting formats. I just haven't needed the application.

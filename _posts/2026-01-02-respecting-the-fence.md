@@ -5,6 +5,8 @@ date: 2026-01-02 11:00:00 +0000
 tags: [ai, bureaucracy, llm, government, productivity]
 ---
 
+![Open gate in a fence](/assets/images/fence-gate.webp)
+
 A retired vicar asked me for help with some paperwork. What happened next made me rethink my entire relationship with bureaucracy.
 
 I've always been temperamentally allergic to bureaucracy. Small systems, low friction, get out of the way - that's my instinct. Forms feel like obstacles. Processes feel like make-work. The word "bureaucracy" itself is almost universally pejorative.
