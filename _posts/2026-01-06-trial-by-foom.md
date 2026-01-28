@@ -12,6 +12,8 @@ These debates are always framed in terms of productivity and robustness. But the
 
 I suspect LLMs are going to force convergence.
 
+![Race convergence](/assets/images/race-convergence.webp)
+
 ## The race
 
 When you're writing so much so fast, it becomes obvious whose race car is quickest. The human bits are becoming the bottleneck. Manual testing never scaled, and coding agent takeoff is making this stark.

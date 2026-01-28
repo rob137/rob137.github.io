@@ -10,6 +10,8 @@ I find best practices fascinating as cultural artefacts. I've collected the usua
 
 From that vantage point, scaled LLM practices feel kind of *sacrilegious*.
 
+![Factory reflection](/assets/images/factory-reflection.webp)
+
 ## The Industrialists
 
 Ben Holmes asking a reasonable question:
