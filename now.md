@@ -9,7 +9,7 @@ permalink: /now/
 
 **Last updated:** January 2026
 
-## Audio LLM Experiments
+## Talking to Machines
 
 Experimenting with field recorders, lav mics, cardioid microphones, various phone applications - basically trying to reduce the friction in talking to LLMs to zero using speech-to-text. Most of the open questions for me are still around form factor, improving the quality of transcriptions, and ensuring it's effortless to interact with a model when forming ideas or working through problems.
 
