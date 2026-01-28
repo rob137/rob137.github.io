@@ -10,6 +10,8 @@ excerpt: "We need metaphors to understand LLMs. But if something is categoricall
 >
 > — Iain McGilchrist, [*The Matter With Things*](https://channelmcgilchrist.com/matter-with-things/)
 
+![Apple and pear](/assets/images/apple-pear.webp)
+
 A friend at a local startup told me they've been playing 20 questions with reasoning models—but with the model as the answerer. The model is invited to think of something, then the humans ask yes/no questions to guess it, reading the thinking traces as they go.
 
 In one round, the model picked "apple." The humans could see this in the trace. But partway through, the model got confused and started answering as though it had picked "pear." The humans knew it was wrong about its own secret. The model didn't—it couldn't see the trace showing what it had originally chosen.
