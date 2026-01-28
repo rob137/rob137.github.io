@@ -9,6 +9,10 @@ permalink: /now/
 
 **Last updated:** January 2026
 
+## Audio LLM Experiments
+
+Experimenting with field recorders, lav mics, cardioid microphones, various phone applications - basically trying to reduce the friction in talking to LLMs to zero using speech-to-text. Most of the open questions for me are still around form factor, improving the quality of transcriptions, and ensuring it's effortless to interact with a model when forming ideas or working through problems.
+
 ## Family
 
 Insanely busy with young kids. Enjoying family life, but there isn't really time for DIY or the sorts of things that kept me out of trouble before. The one exception is AI and technology - curious about that year-round. Hence this blog.
