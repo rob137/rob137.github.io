@@ -8,7 +8,7 @@ excerpt: "There's a gap growing between what an hour of work should produce and 
 
 There's a scene in *Inglourious Basterds* where a British spy orders drinks by holding up three fingers—index, middle, ring. A German officer clocks it instantly. Germans count from the thumb. The spy has revealed himself with a gesture so small he didn't know he was making it.
 
-[IMAGE PLACEHOLDER: Three fingers scene]
+![Three fingers](/assets/images/three-fingers.jpeg)
 
 I think something similar is happening with managers and team leads right now. Not espionage, but a tell. When someone hands in work that took two hours but was expected to take two days, there's a moment. The manager might say "already?" or raise an eyebrow or just nod and move on. But something registers.
 
@@ -18,7 +18,7 @@ They're seeing someone hold up three fingers the wrong way.
 
 You've probably heard the [wheat and chessboard story](https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem). The inventor of chess presents the game to a king. The king offers any reward. The inventor asks for one grain of wheat on the first square, two on the second, four on the third—doubling each time.
 
-The king agrees, thinking it's a humble request. By the 64th square, the total is 18 quintillion grains—more than the world's annual wheat production, multiplied by 1,600.
+The king agrees, thinking it's a humble request. By the 64th square, the total is 18 quintillion grains—more than the world's annual wheat production, multiplied by 1,600. ([Compounding does horrifying things](/2026/01/09/rule-of-72/).)
 
 Ray Kurzweil coined the phrase "second half of the chessboard" for the moment when exponential growth stops being interesting and starts being disorienting. The first half is manageable. Spoonfuls of rice, then bowls, then barrels. By the end of the first 32 squares, you've got about four billion grains—roughly one large field. But the second half contains 4 billion times more than the first half. The same doubling that was a curiosity becomes overwhelming.
 
@@ -26,7 +26,7 @@ Ray Kurzweil coined the phrase "second half of the chessboard" for the moment wh
 
 Here's what I think is happening. Software workflows have reached the second half of the board.
 
-Not for everything. The capabilities are jagged. But with the current batch of models—Gemini 2.0, Opus 4.5, GPT-5—there are categories of work where output has genuinely changed character. I've written about this elsewhere: [leaving Claude Code running overnight](/2026/01/27/workflows-without-names/), checking in to course-correct, leaving again. Work that would have taken days now takes hours. Not always, but often enough that it's become my default assumption.
+Not for everything. The capabilities are jagged. But with the current batch of models—Gemini 3.5 Pro, Opus 4.5, GPT 5.2—there are categories of work where output has genuinely changed character. I've written about this elsewhere: [leaving Claude Code running overnight](/2026/01/27/workflows-without-names/), checking in to course-correct, leaving again. Work that would have taken days now takes hours. Not always, but often enough that it's become my default assumption.
 
 The problem is that unless you're using the tools directly, your expectations are anchored somewhere else. Maybe early 2024, when ChatGPT was impressive but not yet practical for serious work. Maybe late 2025, after some experiments that didn't pan out. You tried it, it hallucinated, you moved on. A few grains of rice on the board. Nothing dramatic.
 
