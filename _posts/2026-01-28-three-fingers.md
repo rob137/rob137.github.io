@@ -60,6 +60,6 @@ I wrote [previously](/2026/01/19/clock-town/) about how almost everyone can see 
 
 The three finger problem is a specific instance of this. Managers and workers are developing different intuitions about what's possible, because only one group is immersed in the tools day-to-day. The growing disconnect isn't evidence that someone is wrong. It's evidence that we're no longer on the flat part of the curve.
 
-If you're on the IC side of this divide, it creates a strange situation. You hand in work and watch for the tell. You maintain openness about how you're getting things done, knowing that [most people struggle to update their priors](/2026/01/19/clock-town/) even when they want to. You operate within structures that may not be structurally ill-suited to the current moment—just populated by people who are psychologically ill-suited to the pace of change.
+If you're on the IC side of this divide, it creates a strange situation. You hand in work and watch for the tell. You maintain openness about how you're getting things done, knowing that most people struggle to update their priors even when they want to. You operate within structures that may not be structurally ill-suited to the current moment—just populated by people who are psychologically ill-suited to the pace of change.
 
 And you notice when someone holds up three fingers the wrong way. Because now you know what that looks like.
