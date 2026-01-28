@@ -6,6 +6,8 @@ tags: [ai, society, disruption, observations]
 excerpt: "The Industrial Revolution was net positive. It was also expensive in the intermediary times. We might be there again."
 ---
 
+![Transition between eras](/assets/images/transition-period.webp)
+
 I've never really worried about my job.
 
 That's not complacency - I'm aware of what's happening. I've been using LLMs for coding since before ChatGPT launched. I've watched the capabilities accelerate. I know the trajectory. But I've always felt more excited than threatened. The unlocks are real. The productivity gains are real. Being able to do things that weren't possible before feels like a gift, not a warning.

@@ -5,6 +5,8 @@ date: 2026-01-02 08:30:00 +0000
 tags: [meta, ai, friction, productivity]
 ---
 
+![Voice to code](/assets/images/voice-to-code.webp)
+
 I'm standing in my kitchen. The laptop is in another room. I haven't touched it all morning.
 
 And yet somehow, in the last hour, I've set up a blog, configured hosting, and started writing my second post.
