@@ -19,7 +19,7 @@ Playing entirely for pleasure. It's been kind of life-changing. My eldest daught
 
 ## BJJ
 
-Recently got my brown belt, and it dawned on me that I'd basically ignored leg locks so far. Trying to patch that gap this year. Luckily I have good friends and training partners at my current and previous gyms.
+Enjoying working with people at my gym who are preparing for competition. I'm too busy with work and family to compete myself at the moment, but I'm hoping to get back to it when things settle down. In the meantime, it's really fun helping people prep.
 
 ## Family
 
