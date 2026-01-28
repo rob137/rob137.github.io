@@ -32,7 +32,7 @@ Not for everything. The capabilities are jagged. But with the current batch of m
 
 The problem is that unless you're using the tools directly, your expectations are anchored somewhere else. Maybe early 2024, when ChatGPT was impressive but not yet practical for serious work. Maybe late 2025, after some experiments that didn't pan out. You tried it, it hallucinated, you moved on. A few grains of rice on the board. Nothing dramatic.
 
-By Q1 2026, things might be really quite different. But superficially nothing has changed. The interface is still a chat box. The hype cycle sounds the same. So you maintain your priors from a year ago, not realising that when you talk to your teams, you're holding up three fingers in just the wrong way.
+By now—Q1 2026—things are really quite different. But superficially nothing has changed. The interface is still a chat box. The hype cycle sounds the same. So you maintain your priors from a year ago, not realising that when you talk to your teams, you're holding up three fingers in just the wrong way.
 
 ---
 
