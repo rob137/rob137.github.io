@@ -5,6 +5,8 @@ date: 2026-01-02 15:00:00 +0000
 tags: [ai, llm, ux, persona, sdlc]
 ---
 
+![Golden retriever and border collie](/assets/images/golden-retriever.webp)
+
 The helpful assistant persona is a transitional form.
 
 Early TV shows looked like radio plays. Early cars were called horseless carriages. New mediums imitate old ones until they figure out what they actually are.

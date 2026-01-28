@@ -5,6 +5,8 @@ date: 2026-01-02 16:30:00 +0000
 tags: [ai, llm, decision-making, associative-thinking]
 ---
 
+![Connecting dots](/assets/images/connecting-dots.webp)
+
 LLMs are unreasonably good at associative thinking. Almost nobody is talking about it.
 
 ## The discovery

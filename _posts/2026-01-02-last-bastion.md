@@ -6,6 +6,8 @@ tags: [ai, llm, society, samaritans, human]
 excerpt: "If you were looking for work that's fundamentally about human connection, the Samaritans would be it. Surely AI has to flow around this, not through it. And yet."
 ---
 
+![Telephone in the dark](/assets/images/telephone-glow.webp)
+
 I've volunteered with the [Samaritans](https://www.samaritans.org/) since 2019.
 
 I want to be clear: I'm not speaking on their behalf. These are my own thoughts, informed by a few years as a listening volunteer and a day job working with LLMs.
