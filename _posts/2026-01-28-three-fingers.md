@@ -10,9 +10,9 @@ There's a scene in *Inglourious Basterds* where a British spy orders drinks by h
 
 ![Three fingers](/assets/images/three-fingers.jpeg)
 
-I think something similar is happening with managers and team leads right now. Not espionage, but a tell. When someone hands in work that took two hours but was expected to take two days, there's a moment. The manager might say "already?" or raise an eyebrow or just nod and move on. But something registers.
+I think something similar is happening with managers and team leads right now. Not espionage, but a tell. When a manager sets a two-day deadline for something that now takes two hours, there's a moment. They might say "take your time" or pad the estimate "just in case." But something registers.
 
-They're seeing someone hold up three fingers the wrong way.
+The worker is seeing someone hold up three fingers the wrong way. The manager has revealed, with a gesture so small they didn't know they were making it, that their mental model is outdated.
 
 ---
 
