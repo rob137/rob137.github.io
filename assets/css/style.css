@@ -355,6 +355,12 @@ img {
   margin-bottom: 1.5rem;
 }
 
+/* Remove top margin from first element in content */
+.site-content > .container > *:first-child,
+.site-content > .container > *:first-child > *:first-child {
+  margin-top: 0;
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--color-border);
