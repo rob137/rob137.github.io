@@ -16,6 +16,8 @@ excerpt: "The list of things I've stopped doing is more interesting than the too
 
 ---
 
+![Dusty tools](/assets/images/dusty-tools.webp)
+
 I still have a normal job with a normal manager who assigns me tickets. But my workflow has become science fiction.
 
 The things I don't touch anymore aren't the things I was bad at. They're the things I was *good* at—upper fifth percentile, the skills I spent years developing, the ones that got me hired.

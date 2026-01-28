@@ -18,6 +18,8 @@ The specific instructions will be stale by next month. The [bitter lesson](http:
 
 But the meta-point stands: the thing I was avoiding became the thing that levels me up again. The distillation can now onboard new models. The explanation *is* the automation.
 
+![Orchestrator](/assets/images/orchestrator.webp)
+
 ---
 
 ## ORCHESTRATOR.md

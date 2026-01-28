@@ -19,6 +19,8 @@ The archetypes assume a stable game. You pick your lane, cultivate the relevant 
 
 But the game might not be stable anymore.
 
+![Escalator](/assets/images/escalator.webp)
+
 ---
 
 Here's the comfortable narrative: LLMs let engineers operate at higher abstraction levels. You stop thinking about logger implementation and start thinking about logging architecture across a suite of services. You're climbing the stack—less interested in the line-by-line, more focused on system-level concerns. This feels like growth.
