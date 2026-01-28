@@ -13,7 +13,7 @@ permalink: /now/
 
 I'm on a music arc at the minute. I tend to cycle through interests a couple of times a year - meditation, theology, literature, visual arts, music - but it's cyclical and quite intense, and right now I'm deep in music.
 
-Teaching myself piano again. Learning by rote, mostly - just repeating pieces until the hard bits become natural, then picking up another when I get bored. Currently working through the Outset Island theme from Zelda: The Wind Waker, quite slowly. A lot of video game nostalgia from the early 2000s. Also Eric Satie - Gymnopédie No. 1 and that sort of thing.
+Teaching myself piano again. Learning by rote, mostly - just repeating pieces until the hard bits become natural, then picking up another when I get bored. Recently been learning [Outset Island](https://www.ninsheetmusic.org/download/pdf/3900) from Zelda: The Wind Waker, which my family are pretty sick of listening to. Trying to figure out what to learn next - probably something else from video game nostalgia. Koji Kondo pieces tend not to get boring, which is turning out to be a superpower for learning since I can play things again and again until they click.
 
 Playing entirely for pleasure. It's been kind of life-changing. My eldest daughter is learning piano at the moment, so we're learning together to some degree - I figured it would help to show an interest as she's getting started herself. The kids are really enjoying it.
 
