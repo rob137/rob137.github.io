@@ -20,6 +20,8 @@ You've probably heard the [wheat and chessboard story](https://en.wikipedia.org/
 
 The king agrees, thinking it's a humble request. By the 64th square, the total is 18 quintillion grains—more than the world's annual wheat production, multiplied by 1,600. ([Compounding does horrifying things](/2026/01/09/rule-of-72/).)
 
+![Wheat on chessboard](/assets/images/chessboard.webp)
+
 Ray Kurzweil coined the phrase "second half of the chessboard" for the moment when exponential growth stops being interesting and starts being disorienting. The first half is manageable. Spoonfuls of rice, then bowls, then barrels. By the end of the first 32 squares, you've got about four billion grains—roughly one large field. But the second half contains 4 billion times more than the first half. The same doubling that was a curiosity becomes overwhelming.
 
 ---
