@@ -36,9 +36,9 @@ By Q1 2026, things might be really quite different. But superficially nothing ha
 
 ---
 
-There's a study I keep thinking about. [Research from HBR](https://hbr.org/2025/05/research-gen-ai-makes-people-more-productive-and-less-motivated) found that while AI collaboration boosts task performance, it also decreases intrinsic motivation. Workers who used AI reported more boredom on subsequent non-AI tasks. [Other surveys](https://www.stlouisfed.org/on-the-economy/2025/feb/impact-generative-ai-work-productivity) found time savings of around 5% of work hours on average—about two hours a week.
+There's research I keep thinking about. [Humlum & Vestergaard](https://www.nber.org/papers/w33777) looked at AI chatbot adoption against administrative records on hours and earnings. The time savings are real—but they don't show up as higher recorded output. [Surveys from the St. Louis Fed](https://www.stlouisfed.org/on-the-economy/2025/feb/impact-generative-ai-work-productivity) found similar patterns: around 5% of work hours saved on average, about two hours a week.
 
-But here's the interesting part: some employers may not realise how much time is being saved. Workers might be using AI without their employer's knowledge. In either case, workers may take advantage of saved time to ease up rather than immediately jump to the next task.
+But here's the thing: some employers may not realise how much time is being saved. Workers might be using AI without their employer's knowledge. In either case, workers may take advantage of saved time to ease up rather than immediately jump to the next task.
 
 This isn't laziness exactly. It's an innate sense of what "enough" looks like in the eyes of the organisation. Hit the implicit bar, then pocket the difference. It's rational behaviour given misaligned expectations.
 
