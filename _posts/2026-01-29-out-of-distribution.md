@@ -80,7 +80,7 @@ This cuts both ways. I'm excited that formidable people I've known - stuck in fi
 
 But it also means my own moat is eroding. The moat around software engineering. The moat that personality type once provided.
 
-If the great flood is coming, nothing will really keep you safe. Epictetus: "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will."
+If the great flood is coming, nothing will really keep you safe. Grant me the serenity to accept the things I cannot change, and so on.
 
 On the other hand, this is probably the best time to acknowledge where you're average and address it. The models make it easier than ever to identify your gaps. Easier than ever to fill them.
 
