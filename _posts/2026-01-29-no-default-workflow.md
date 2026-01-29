@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "No Default Workflow"
-date: 2026-01-29 11:00:00 +0000
+date: 2026-01-29 08:00:00 +0000
 tags: [ai, llm, workflow, productivity]
 excerpt: "I don't have a default because the landscape is morphing. Each time I start a project, the situation is different."
-future: true
 ---
 
 A friend asked me what my workflow is for starting projects with LLMs. Do I still have long conversations in the web interface first? Does the speech-to-text brain dump go in there? Or is it all Claude Code now?
@@ -52,5 +51,7 @@ Though model advancements might protect you from that failure mode now. I don't 
 People asking about workflows want a recipe. The recipe doesn't exist.
 
 The landscape is morphing. The appropriate response isn't to lock in a workflow - it's to keep your intuitions loose and apply common sense and gut feel each time.
+
+The bottleneck used to be execution. Now it's noticing what's become possible since you last checked.
 
 Not very satisfying. But I think it's true.
