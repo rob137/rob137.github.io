@@ -58,7 +58,7 @@ When strong chess engines emerged, the top performers weren't pure AI. They were
 
 But only for a while. Eventually, AI did better without people. Magnus Carlsen has said he'd lose to the software on your phone now.
 
-Here's what "average" means in this context. It's not just middling ability. It's also typical traits and typical deficiencies. The average software engineer. The average writer with no technical side. The average designer who can't think in systems.
+Here's what "average" means in this context. It's not just middling ability. It's also typical traits and typical deficiencies. The average software engineer. The average writer with no technical side. The average designer who won't think in product terms.
 
 If you're average, you're predictable. And if you're predictable, you're replaceable - because models have average covered.
 
