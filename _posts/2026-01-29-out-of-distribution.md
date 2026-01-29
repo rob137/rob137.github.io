@@ -16,6 +16,8 @@ This shouldn't surprise me. But it did.
 
 ## Infinitely dimensional
 
+![Embedding space visualisation](/assets/images/bert-embeddings-visualisation.webp)
+
 There's a concept from machine learning: in high-dimensional embedding space, everything is close together. The curse of dimensionality. Points that seem far apart in our intuition turn out to be neighbours when you have enough dimensions to measure.
 
 AI is infinitely dimensional in how it affects work. Not literally infinite, but effectively so. It touches writing, coding, research, design, analysis, communication, planning. Plus weirder things we don't have words for. [Anthropic found](https://alignment.anthropic.com/2025/subliminal-learning/) that when they fine-tuned one model on random number outputs from another model in the same family, they became aligned on seemingly unrelated opinions. The dimensions bleed into each other in ways we can't track.
@@ -83,8 +85,6 @@ If the great flood is coming, nothing will really keep you safe. Grant me the se
 On the other hand, this is probably the best time to acknowledge where you're average and address it. The models make it easier than ever to identify your gaps. Easier than ever to fill them.
 
 ## Don't be average
-
-![Embedding space visualisation](/assets/images/bert-embeddings-visualisation.webp)
 
 The last thing you want right now is to be average at anything. Because models have average covered.
 
