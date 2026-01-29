@@ -42,7 +42,7 @@ The point is: I've spent years learning to recognise intellectual seriousness in
 
 Everyone knows what you mean when you talk about the sysadmin archetype. Computers put exacting demands on people. They're unforgiving. Right and wrong, black and white. This makes them appealing to a certain kind of person - someone more interested in things than people, perhaps.
 
-Human traits are highly dimensional. There's a family resemblance between people drawn to tech, probably related to personality types, neurology. Someone who excels technically might get those advantages at some cost elsewhere. At scale, people are messy, but there does seem to be a distribution.
+Human traits are highly dimensional. There's a family resemblance between people drawn to tech, probably related to personality types, neurology. Someone who excels technically might get those advantages at some cost elsewhere. At scale, people are messy, but there does seem to be clustering.
 
 The interesting thing: at peak levels of performance, things flatten out. The best technical performers are surprisingly personable. They understand product and business. Eric Schmidt, Demis Hassabis - well-rounded in ways that contradict the stereotype.
 
