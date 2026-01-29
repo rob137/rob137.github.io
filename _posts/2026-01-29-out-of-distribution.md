@@ -82,7 +82,7 @@ On the other hand, this is probably the best time to acknowledge where you're av
 
 ## Don't be average
 
-<!-- TODO: Placeholder for embedding space visualisation - Rob will add -->
+![Embedding space visualisation](/assets/images/bert-embeddings-visualisation.webp)
 
 The last thing you want right now is to be average at anything. Because models have average covered.
 
