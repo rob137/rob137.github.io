@@ -16,6 +16,11 @@ Ideas extracted from ambient recordings and conversations.
 **Status:** Idea
 **Core idea:** Bridge 77 on the Macclesfield Canal - a roving bridge designed so the tow horse could cross without being untethered. The horse didn't need to understand the bridge's design, it just followed the path. Metaphor for git worktrees: suddenly easy without humans ever having to figure out how they work, because Claude Code manages them. Setup: central Claude Code instance ("the octopus") presiding over the repo, tasking sub-LLMs on feature branches in worktrees. Each sub-LLM works on a feature branch, central LLM arbitrates quality, tests run on central branch, reviews PRs one at a time with user oversight. Degrees of separation from the human - the closer to the centre, the closer to me. Image: Bridge 77 photo in Downloads.
 
+### Infinite Dimensions / Joe Weisenthal
+**Status:** Raw brain dump
+**Notes:** [weisenthal-infinite-dimensions.md](/_notes/weisenthal-infinite-dimensions.md)
+**Core idea:** In infinitely dimensional space, everything is close. AI tools are infinitely dimensional in how they affect work. Joe Weisenthal (Odd Lots podcast) is now coding with Claude Code, working on a "primary orality" project to detect natural spoken language. This shouldn't be surprising - all roads lead here. Thread through: Wittgenstein → philosophy → meeting intellectual lions → Taleb as taste curator → Odd Lots → convergence of disciplines around AI tools.
+
 ---
 
-*Last updated: 2026-01-08*
+*Last updated: 2026-01-29*
