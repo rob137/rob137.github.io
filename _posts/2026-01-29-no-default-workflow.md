@@ -1,0 +1,56 @@
+---
+layout: post
+title: "No Default Workflow"
+date: 2026-01-29 11:00:00 +0000
+tags: [ai, llm, workflow, productivity]
+excerpt: "I don't have a default because the landscape is morphing. Each time I start a project, the situation is different."
+future: true
+---
+
+A friend asked me what my workflow is for starting projects with LLMs. Do I still have long conversations in the web interface first? Does the speech-to-text brain dump go in there? Or is it all Claude Code now?
+
+He's a proper developer. Been consulting since his early twenties, now works in a high-pressure environment surrounded by extremely competent people. He wanted to know what works.
+
+I couldn't give him a straight answer.
+
+## Piece of string
+
+I haven't started a major project in a while. Long time in LLM years - maybe six months. Many, many toy projects in the meantime. But I find it impossible to imagine doing any real work without having a long chat first. In some form.
+
+Do I use plan mode? Sometimes. Do I write specs? Sometimes. Do I just chat a bit, let it make stuff, chat more? Also yes. It depends entirely on the project, the uncertainties, where I am on the timeline, other things.
+
+Promise I'm not being evasive. I think I would do a real disservice if I told you there was one workflow that works for me.
+
+## The landscape is morphing
+
+Here's the thing. Each time I start a project, the situation is genuinely different. Not just the project - the tools are different. The models have changed. What worked three months ago might not be right now, and I haven't tested all my priors.
+
+The space of possible workflows is massive. I have assumptions from a few months back that I haven't revisited. Some of them are probably wrong.
+
+There's also a big epistemic humility thing here. The models are increasingly opaque. We can't easily tell what changed between releases or why certain approaches work better. Wittgenstein's ruler - when you use a short ruler to measure a table, you might be using the table to measure the ruler. When I try to evaluate whether a workflow "works," I'm not sure if I'm measuring the workflow or the model capabilities or my own understanding or the specific project context.
+
+## The colleague who cycles
+
+I work with another AI engineer who's gone deep for about as long as I have. Very intuitive thinker. Has fascinating insights into model behaviour - often surprises me with observations that turn out to be correct. Not just about the models, but about how they might be used to speed things along.
+
+He's more emphatic than I am about workflows. Has more of an "aha moment" feeling around whatever his current approach is. But I've watched him change workflows at least three times in the past couple of months, without any new model releases.
+
+No judgment. I think this is actually healthy.
+
+If you pressed him on the specifics of your project, he'd probably say it's a different kettle of fish. Would downgrade his recommendations pretty fast. The enthusiasm for the current workflow doesn't mean he thinks it generalises.
+
+## What I actually think
+
+I wouldn't feel comfortable writing a spec without having first reached the point where I've exhausted any question about whether the model is on the same page as me. The long conversation comes first. But the form varies.
+
+Specs can work. The models work surprisingly well with them. There's nuance in how you present it, but that's no different to working with people. Reality will scupper a plan in various ways. The key thing is you don't want new conversations to take the spec as gospel, marching to it rigidly.
+
+Though model advancements might protect you from that failure mode now. I don't know. Haven't tested it recently.
+
+## The uncomfortable answer
+
+People asking about workflows want a recipe. The recipe doesn't exist.
+
+The landscape is morphing. The appropriate response isn't to lock in a workflow - it's to keep your intuitions loose and apply common sense and gut feel each time.
+
+Not very satisfying. But I think it's true.
