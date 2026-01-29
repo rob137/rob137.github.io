@@ -52,6 +52,8 @@ Peak performers in any domain tend to be more complete than the stereotype sugge
 
 ## Average is over
 
+![Average Is Over book cover](/assets/images/average-is-over-cover.jpg)
+
 Tyler Cowen wrote a book called [Average Is Over](https://en.wikipedia.org/wiki/Average_Is_Over) back in 2013. He spent a lot of time on chess.
 
 When strong chess engines emerged, the top performers weren't pure AI. They were human-AI hybrids - centaurs. For a while, in no-holds-barred tournaments, it was the centaur pairings that dominated.
