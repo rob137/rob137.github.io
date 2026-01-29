@@ -18,7 +18,7 @@ This shouldn't surprise me. But it did.
 
 There's a concept from machine learning: in high-dimensional embedding space, everything is close together. The curse of dimensionality. Points that seem far apart in our intuition turn out to be neighbours when you have enough dimensions to measure.
 
-AI is infinitely dimensional in how it affects work. Not literally infinite, but effectively so. It touches writing, coding, research, design, analysis, communication, planning. Plus weirder things we don't have words for. Anthropic found that when they fine-tuned one model on random number outputs from another model in the same family, they became aligned on seemingly unrelated opinions. The dimensions bleed into each other in ways we can't track.
+AI is infinitely dimensional in how it affects work. Not literally infinite, but effectively so. It touches writing, coding, research, design, analysis, communication, planning. Plus weirder things we don't have words for. [Anthropic found](https://alignment.anthropic.com/2025/subliminal-learning/) that when they fine-tuned one model on random number outputs from another model in the same family, they became aligned on seemingly unrelated opinions. The dimensions bleed into each other in ways we can't track.
 
 Which means the barriers that kept people in their lanes are dissolving. A journalist can code. An engineer can design. A designer can run sprint ceremonies. The personality types we associated with roles - those patterns existed because of barriers. Remove the barriers and people redistribute.
 
@@ -26,13 +26,13 @@ I found Joe in my space because all roads lead here now.
 
 ## Recognising seriousness
 
-I got into philosophy at university. Wittgenstein, initially - the biography by Ray Monk, the Wikipedia rabbit holes about his life. On some level I was drawn to it for temperamental reasons. But it turned out to be an enormously deep pool of intellectually formidable people.
+I got into philosophy at university, through Wittgenstein initially - the biography by Ray Monk, the Wikipedia rabbit holes about his life. On some level I was drawn to the subject for temperamental reasons. But philosophy turned out to be an enormously deep pool of intellectually formidable people.
 
 There were PhD students and tutors who made me realise how big the world is intellectually. Some of them ended up at places like Google. None of them surprised me when they did. You calibrate when you meet people who are undeniably sharp. You recalibrate your sense of what "real" looks like.
 
 I had a friend who was a musicologist. I'd had no idea how technical and rigorous music could be until I lived with him in third year. He had a natural grasp of literature, physics, aesthetics - all at once. And he was straining under the intellectual demands of his degree.
 
-Nassim Taleb led me to Montaigne, Rory Sutherland, Yann LeCun. I've been following him for fifteen years - read his books in Afghanistan during a quiet period. He's usually scathing about journalists. But he was warm towards the Odd Lots hosts. That's how I found them.
+Nassim Taleb led me to Montaigne, Rory Sutherland, Yann LeCun. I've been following him for fifteen years - read his books during a quiet spell on an operational tour in Afghanistan. He's usually scathing about journalists. But he was warm towards the Odd Lots hosts. That's how I found them.
 
 The point is: I've spent years learning to recognise intellectual seriousness in unexpected places. It doesn't look the same in every field. But there's a quality that transfers.
 
