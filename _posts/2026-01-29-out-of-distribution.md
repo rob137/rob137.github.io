@@ -26,7 +26,7 @@ I found Joe in my space because all roads lead here now.
 
 ## Recognising seriousness
 
-I got into philosophy at university, through Wittgenstein initially - Ray Monk's biography, the Wikipedia rabbit holes. A musicologist friend I lived with in third year opened my eyes to how technical and rigorous music could be. He had a natural grasp of literature, physics, aesthetics - and he was straining under the intellectual demands of his degree.
+I got into philosophy in sixth form, through Wittgenstein initially, and studied it at university - Ray Monk's biography, the Wikipedia rabbit holes. A musicologist friend I lived with in third year opened my eyes to how technical and rigorous music could be. He had a natural grasp of literature, physics, aesthetics - and he was straining under the intellectual demands of his degree.
 
 Nassim Taleb led me to Montaigne, Rory Sutherland, Yann LeCun. I've been following him for fifteen years - read his books during a quiet spell on an operational tour in Afghanistan. He's usually scathing about journalists. But he was warm towards the Odd Lots hosts. That's how I found them.
 
