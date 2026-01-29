@@ -6,6 +6,8 @@ tags: [ai, llm, workflow, productivity]
 excerpt: "I don't have a default because the landscape is morphing. Each time I start a project, the situation is different."
 ---
 
+![Shifting landscape](/assets/images/shifting-landscape.webp)
+
 A friend asked me what my workflow is for starting projects with LLMs. Do I still have long conversations in the web interface first? Does the speech-to-text brain dump go in there? Or is it all Claude Code now?
 
 He knows what he's doing. Been consulting since his early twenties, now works in a high-pressure environment surrounded by extremely competent people. He wanted to know what works.
