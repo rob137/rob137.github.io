@@ -10,7 +10,7 @@ Joe Weisenthal is a journalist. Co-host of Bloomberg's [Odd Lots](https://www.bl
 
 He's now coding with Claude Code.
 
-He's building [Havelock_AI](https://x.com/TheStalwart/status/2007881712374816998) - software for detecting orality in text, based on Walter Ong's theories about oral vs literate cultures. In one hour with Claude Code, he made serious progress. He's [asking Claude to create separate agents to double-check the work of the first one](https://x.com/TheStalwart/status/2009622958516645976). This is not someone flexing vibe coding. It's a genuine intellectual pursuit.
+He's building [Havelock_AI](https://x.com/TheStalwart/status/2007881712374816998) - software for detecting orality in text, based on Walter Ong's theories about oral vs literate cultures. In one hour with Claude Code, he made serious progress. He's [using exactly the kinds of techniques](https://x.com/TheStalwart/status/2009622958516645976) I see AI engineers use every day. This is not someone flexing vibe coding. It's a genuine intellectual pursuit.
 
 This shouldn't surprise me. But it did.
 
