@@ -26,7 +26,7 @@ I found Joe in my space because all roads lead here now.
 
 ## Recognising seriousness
 
-I got into philosophy in sixth form, through Wittgenstein initially, and studied it at university - Ray Monk's biography, the Wikipedia rabbit holes. It turned out to be a deep pool of formidable people. Some of them ended up at places like Google. None of them surprised me when they did.
+I got into philosophy in sixth form, through Wittgenstein initially, and studied it at university - Ray Monk's biography, the Wikipedia rabbit holes. It turned out to be a deep pool of formidable people. Some ended up at places like Google. Others got locked away in academia, or drifted into roles that never quite used what they had. Talent sitting behind barriers.
 
 A musicologist friend I lived with in third year opened my eyes to how technical and rigorous music could be. He had a natural grasp of literature, physics, aesthetics - and he was straining under the intellectual demands of his degree.
 
