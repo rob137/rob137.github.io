@@ -78,7 +78,7 @@ T-shaped skill sets are emerging. People are filling in their gaps.
 
 This cuts both ways. I'm excited that formidable people I've known - stuck in fields that didn't quite fit - can now contribute to domains they'd written off. The musicologist who'd be brilliant at systems design. The philosopher who'd thrive in product strategy. AI unlocks them.
 
-But it also means my own moat is eroding. The moat around entry-level software engineering. The moat that personality type once provided.
+But it also means my own moat is eroding. The moat around software engineering. The moat that personality type once provided.
 
 If the great flood is coming, nothing will really keep you safe. Epictetus: "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will."
 
