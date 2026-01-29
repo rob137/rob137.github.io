@@ -44,7 +44,7 @@ Everyone knows what you mean when you talk about the sysadmin archetype. Compute
 
 Human traits are highly dimensional. There's a family resemblance between people drawn to tech, probably related to personality types, neurology. Someone who excels technically might get those advantages at some cost elsewhere. At scale, people are messy, but there does seem to be clustering.
 
-The interesting thing: at peak levels of performance, things flatten out. The best technical performers are surprisingly personable. They understand product and business. Eric Schmidt, Demis Hassabis - well-rounded in ways that contradict the stereotype.
+The interesting thing: at peak levels of performance, things flatten out. The best technical performers are surprisingly personable. They understand product and business. Jeff Dean, Demis Hassabis - well-rounded in ways that contradict the stereotype.
 
 This echoes [research on elite footballers](https://www.psych.ox.ac.uk/news/elite-football-players-have-higher-levels-of-cognitive-abilities-compared-to-the-general-population-new-study). Oxford found they have higher cognitive abilities - working memory, planning, flexibility - than the general population. The AI could distinguish elite players from controls with 97% accuracy based on cognitive and personality features alone. Gerard Pique reportedly has an IQ of 170.
 
