@@ -26,15 +26,9 @@ I found Joe in my space because all roads lead here now.
 
 ## Recognising seriousness
 
-I got into philosophy at university, through Wittgenstein initially - the biography by Ray Monk, the Wikipedia rabbit holes about his life. On some level I was drawn to the subject for temperamental reasons. But philosophy turned out to be an enormously deep pool of intellectually formidable people.
+Philosophy at university - Wittgenstein, Ray Monk's biography. A musicologist friend straining under the intellectual demands of his degree. Nassim Taleb, whose books I read during a quiet spell on an operational tour in Afghanistan, leading me to Montaigne, Rory Sutherland, Yann LeCun. He's usually scathing about journalists, but warm towards the Odd Lots hosts. That's how I found them.
 
-There were PhD students and tutors who made me realise how big the world is intellectually. Some of them ended up at places like Google. None of them surprised me when they did. You calibrate when you meet people who are undeniably sharp. You recalibrate your sense of what "real" looks like.
-
-I had a friend who was a musicologist. I'd had no idea how technical and rigorous music could be until I lived with him in third year. He had a natural grasp of literature, physics, aesthetics - all at once. And he was straining under the intellectual demands of his degree.
-
-Nassim Taleb led me to Montaigne, Rory Sutherland, Yann LeCun. I've been following him for fifteen years - read his books during a quiet spell on an operational tour in Afghanistan. He's usually scathing about journalists. But he was warm towards the Odd Lots hosts. That's how I found them.
-
-The point is: I've spent years learning to recognise intellectual seriousness in unexpected places. It doesn't look the same in every field. But there's a quality that transfers.
+Intellectual seriousness looks different in every field. But it transfers.
 
 ## The tech archetype
 
