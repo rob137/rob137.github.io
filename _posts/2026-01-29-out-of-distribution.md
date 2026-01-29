@@ -10,7 +10,7 @@ Joe Weisenthal is a journalist. Co-host of Bloomberg's [Odd Lots](https://www.bl
 
 He's now coding with Claude Code.
 
-He's working on a project around "primary orality" - trying to detect natural spoken language patterns using machine learning. It's the kind of thing that would have been completely impossible for him to do a year ago. Now he's asking thoughtful questions about model architecture and dataset construction.
+He's building [Havelock_AI](https://x.com/TheStalwart/status/2007881712374816998) - software for detecting orality in text, based on Walter Ong's theories about oral vs literate cultures. In one hour with Claude Code, he made serious progress. He's [asking Claude to create separate agents to double-check the work of the first one](https://x.com/TheStalwart/status/2009622958516645976). This is not someone flexing vibe coding. It's a genuine intellectual pursuit.
 
 This shouldn't surprise me. But it did.
 
@@ -92,7 +92,7 @@ You don't want to be an average software engineer. You don't want to be an avera
 
 If there's time left in a world where centaurs dominate - as they did in chess, for a while - you want to become out of distribution. Bring something the models don't.
 
-Joe Weisenthal's primary orality project is a good example. It's not vibe coding. It's a genuine intellectual pursuit, approached thoughtfully. The kind of thing a curious mind does when the barriers fall away.
+Joe Weisenthal building orality detection software is a good example. The kind of thing a curious mind does when the barriers fall away.
 
 I wonder how many people like him are waiting in the wings. People who haven't yet realised their ideas can be made real.
 
