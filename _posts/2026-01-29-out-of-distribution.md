@@ -38,7 +38,9 @@ The point is: I've spent years learning to recognise intellectual seriousness in
 
 ## The tech archetype
 
-Everyone knows [what you mean](https://www.youtube.com/watch?v=F69TBtJwIP0) when you talk about the sysadmin archetype. Computers put exacting demands on people. They're unforgiving. Right and wrong, black and white. This makes them appealing to a certain kind of person - someone more interested in things than people, perhaps.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F69TBtJwIP0" frameborder="0" allowfullscreen></iframe>
+
+Everyone knows what you mean when you talk about the sysadmin archetype. Computers put exacting demands on people. They're unforgiving. Right and wrong, black and white. This makes them appealing to a certain kind of person - someone more interested in things than people, perhaps.
 
 Human traits are highly dimensional. There's a family resemblance between people drawn to tech, probably related to personality types, neurology. Someone who excels technically might get those advantages at some cost elsewhere. At scale, people are messy, but there does seem to be a distribution.
 
