@@ -44,7 +44,7 @@ Human traits are highly dimensional. There's a family resemblance between people
 
 The interesting thing: at peak levels of performance, things flatten out. The best technical performers are surprisingly personable. They understand product and business. Jeff Dean, Demis Hassabis - well-rounded in ways that contradict the stereotype.
 
-This echoes [research on elite footballers](https://www.psych.ox.ac.uk/news/elite-football-players-have-higher-levels-of-cognitive-abilities-compared-to-the-general-population-new-study). Oxford found they have higher cognitive abilities - working memory, planning, flexibility - than the general population. The AI could distinguish elite players from controls with 97% accuracy based on cognitive and personality features alone. Gerard Pique reportedly has an IQ of 170.
+This echoes [research on elite footballers](https://www.psych.ox.ac.uk/news/elite-football-players-have-higher-levels-of-cognitive-abilities-compared-to-the-general-population-new-study). Oxford University found they have higher cognitive abilities - working memory, planning, flexibility - than the general population. The AI could distinguish elite players from controls with 97% accuracy based on cognitive and personality features alone. Gerard Pique reportedly has an IQ of 170.
 
 Peak performers in any domain tend to be more complete than the stereotype suggests.
 
