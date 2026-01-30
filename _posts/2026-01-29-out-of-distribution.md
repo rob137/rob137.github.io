@@ -32,7 +32,7 @@ I got into philosophy in sixth form, through Wittgenstein initially, and studied
 
 A musicologist friend I lived with in third year opened my eyes to how technical and rigorous music could be. He had a natural grasp of literature, physics, aesthetics - and he was straining under the intellectual demands of his degree.
 
-Intellectual seriousness looks different in every field. But it transfers.
+Joe and Tracy would be at home in a philosophy department. That's the quality I'm talking about.
 
 ## The tech archetype
 
