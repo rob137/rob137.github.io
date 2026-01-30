@@ -32,7 +32,7 @@ I got into philosophy in sixth form, through Wittgenstein initially, and studied
 
 A musicologist friend I lived with in third year opened my eyes to how technical and rigorous music could be. He had a natural grasp of literature, physics, aesthetics - and he was straining under the intellectual demands of his degree.
 
-I suspect Joe and Tracy would hold their own in a philosophy department. Same quality, different field.
+I suspect Joe and Tracy would hold their own in a strong philosophy department. Same quality, different field.
 
 ## The tech archetype
 
