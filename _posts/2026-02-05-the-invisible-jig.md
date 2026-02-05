@@ -10,7 +10,7 @@ Good week for OpenAI. GPT 5.2 Codex is 40% faster than last week. They're offeri
 
 However.
 
-James Whiting, a colleague, switched from Claude Code to the Codex app because of the higher limits. Within a week he messaged me: "Codex is an absolute pain to talk to compared to Claude Code." It keeps questioning his decisions. Claude Code just gets him.
+A colleague switched from Claude Code to the Codex app because of the higher limits. Within a week he messaged me: "Codex is an absolute pain to talk to compared to Claude Code." It keeps questioning his decisions. Claude Code just gets him.
 
 I think the Codex Desktop app is basically a poor man's Claude Code prompt.
 
