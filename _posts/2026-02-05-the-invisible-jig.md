@@ -22,7 +22,7 @@ The context is implicit in the harness code. The model can't see it. So you keep
 
 A harness is great for improving today's workflow. But it's behavior you can encode through natural language instead. And when you do, the model can actually reason about it. Notice conflicts. Adapt to edge cases. A prompt is visible to the thing doing the work. A GUI isn't.
 
-So I'm back to using Claude Code as my concierge with an [orchestrator prompt](/2026/01/21/orchestrator) - it manages worktrees and coordinates headless Codex instances running in the background. Better at talking anyway. More flexible than hard-coded buttons. With the caveat that none of my workflows seem to last very long given the rate of progress.
+So I'm back to using Claude Code as my concierge with an [orchestrator prompt](/2026/01/21/orchestrator) - it manages worktrees and coordinates headless Codex instances running in the background. Better at talking anyway. More flexible than hard-coded buttons. With the caveat that none of my workflows seem to last very long given the rate of progress. The best workflow tracks the frontier. The training data is always behind the frontier. So your workflow is out of distribution by construction, not by accident.
 
 And in the meantime, I'm conscious that the bitter lesson is coming for all of this. Models will absorb these workflows. I'd be loath to become reliant on scaffolding I don't control when it's only a matter of time till the models consume the majority of it anyway.
 
