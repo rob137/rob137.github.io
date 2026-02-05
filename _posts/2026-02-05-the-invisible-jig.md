@@ -14,15 +14,15 @@ A colleague switched from Claude Code to the Codex app because of the higher lim
 
 I think the Codex Desktop app is basically a poor man's Claude Code prompt.
 
-Here's what I mean. I built an orchestrator workflow for a client project - worktrees, naming conventions, delegation commands, the works. At first I was excited: click new conversation, get a fresh worktree, everything wired up. Elegant.
+Here's what I mean. The Codex app lets you click to start new conversations that spin up fresh worktrees. At first that seems elegant - each ticket gets its own isolated environment, everything wired up automatically.
 
-Until I realised the models had no clue what workflow they were in.
+Until you realise the models have no clue what workflow they're in.
 
-The context was implicit in the harness code. The model couldn't see it. So I kept having to explain what was actually happening, which came as a surprise to them. I was educating the models about their own environment.
+The context is implicit in the harness code. The model can't see it. So you keep having to explain what's actually happening, which comes as a surprise to them. You're educating the models about their own environment.
 
 A harness is great for improving today's workflow. But it's behavior you can encode through natural language instead. And when you do, the model can actually reason about it. Notice conflicts. Adapt to edge cases. A prompt is visible to the thing doing the work. A GUI isn't.
 
-So now I use Claude as my concierge with an orchestrator prompt. Better at talking anyway. More flexible than hard-coded buttons.
+I use Claude Code as my concierge with an orchestrator prompt - it manages worktrees and coordinates headless Codex instances running in the background. Better at talking anyway. More flexible than hard-coded buttons.
 
 And in the meantime, I'm conscious that the bitter lesson is coming for all of this. Models will absorb these workflows. I'd be loath to become reliant on scaffolding I don't control when it's only a matter of time till the models consume the majority of it anyway.
 
