@@ -28,5 +28,5 @@ And in the meantime, I'm conscious that the bitter lesson is coming for all of t
 
 ![METR task duration graph](/assets/images/metr-task-duration.jpeg)
 
-The Codex app isn't bad because it's OpenAI. It's bad because it puts the intelligence in the wrong place - in code the model can't see, rather than language it can reason about.
+Nothing against OpenAI here. The problem is putting intelligence in code the model can't see.
 
