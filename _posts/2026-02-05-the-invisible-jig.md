@@ -26,5 +26,7 @@ So I'm back to using Claude Code as my concierge with an [orchestrator prompt](/
 
 And in the meantime, I'm conscious that the bitter lesson is coming for all of this. Models will absorb these workflows. I'd be loath to become reliant on scaffolding I don't control when it's only a matter of time till the models consume the majority of it anyway.
 
+![METR task duration graph](/assets/images/metr-task-duration.jpeg)
+
 The Codex app isn't bad because it's OpenAI. It's bad because it puts the intelligence in the wrong place - in code the model can't see, rather than language it can reason about.
 
