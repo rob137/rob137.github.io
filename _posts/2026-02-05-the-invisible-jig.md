@@ -6,7 +6,7 @@ tags: [ai, tools, workflow]
 excerpt: "Orchestrator apps hide context from the thing doing the work."
 ---
 
-Good week for OpenAI. GPT 5.2 Codex is 40% faster than last week. They're offering 2x rate limits if you use the macOS desktop app. I gave it a spin.
+Good week for OpenAI. GPT 5.2 Codex is 40% faster than last week. They're offering 2x rate limits if you use the macOS desktop app. I gave it three days, basically full time.
 
 However.
 
