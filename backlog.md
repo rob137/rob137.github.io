@@ -21,6 +21,12 @@ Ideas extracted from ambient recordings and conversations.
 **Notes:** [weisenthal-infinite-dimensions.md](/_notes/weisenthal-infinite-dimensions.md)
 **Core idea:** In infinitely dimensional space, everything is close. AI tools are infinitely dimensional in how they affect work. Joe Weisenthal (Odd Lots podcast) is now coding with Claude Code, working on a "primary orality" project to detect natural spoken language. This shouldn't be surprising - all roads lead here. Thread through: Wittgenstein → philosophy → meeting intellectual lions → Taleb as taste curator → Odd Lots → convergence of disciplines around AI tools.
 
+### Transformers Within Reach
+**Status:** Raw transcript
+**Notes:** [transformers-within-reach.md](/_notes/transformers-within-reach.md)
+**Related:** [Useful, Not True](/2026/01/24/thinking-out-loud/)
+**Core idea:** How esoteric-seeming LLM/transformer workings are surprisingly within reach. Transformer research full of physicists not CS people because barrier to entry is low. "Normies" can grok this faster than expected. The mental model has high economic value. 3Blue1Brown video: https://www.youtube.com/watch?v=LPZh9BOjkQs
+
 ### Exiting Hyperspace
 **Status:** Raw transcript
 **Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
