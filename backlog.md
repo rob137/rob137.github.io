@@ -27,30 +27,15 @@ Ideas extracted from ambient recordings and conversations.
 **Related:** [Useful, Not True](/2026/01/24/thinking-out-loud/)
 **Core idea:** How esoteric-seeming LLM/transformer workings are surprisingly within reach. Transformer research full of physicists not CS people because barrier to entry is low. "Normies" can grok this faster than expected. The mental model has high economic value. 3Blue1Brown video: https://www.youtube.com/watch?v=LPZh9BOjkQs
 
-### Exiting Hyperspace
+### The Perception Gap (consolidated: 2026 Isn't 2025 / Falling Asleep / Childlike Trust)
 **Status:** Raw transcript
 **Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
-**Core idea:** Human-in-the-loop becoming the bottleneck. "I feel like I'm exiting hyperspace every time I need to communicate." Factory sandwiches: the economy isn't designed around humans, we contort to fit it. AI will graft onto economic needs better than people can.
+**Core idea:** Humans can't perceive exponentials. Gap between years growing but apparent change shrinking. Losing felt sense without realizing - a kind of sleep. The "cautious adults" are actually falling asleep. Childlike trust becomes the adult position when the "adults" are on Q2 2025 assumptions. Connects to The False Middle.
 
-### Falling Asleep
+### Factory Sandwiches (consolidated with Exiting Hyperspace)
 **Status:** Raw transcript
 **Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
-**Core idea:** Losing felt sense of where models are when you stop using them daily. A kind of sleep you fall into. "I don't think I would be any more immune." Cautionary tale.
-
-### 2026 Isn't 2025
-**Status:** Raw transcript
-**Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
-**Core idea:** Gap between years growing, but apparent change becoming smaller because humans can't perceive exponentials. The supersonic tsunami.
-
-### Childlike Trust
-**Status:** Raw transcript
-**Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
-**Core idea:** At some point childlike trust becomes the adult position. The "adults in the room" are operating on Q2 2025 assumptions. Relates to False Middle.
-
-### Factory Sandwiches
-**Status:** Raw transcript
-**Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
-**Core idea:** 80% at 1000x efficiency makes the 20% irrelevant. Hand woven baskets, horse riding as recreation. Some software that thinks it's artisanal is actually commodity. Bangladesh suits: where tailoring is cheap, off-the-shelf is higher status. Quality dips then blasts past artisan levels.
+**Core idea:** Human-in-the-loop becoming bottleneck. "Exiting hyperspace every time I need to communicate." Economy isn't designed around humans - we contort to fit it. 80% at 1000x efficiency makes the 20% irrelevant. Hand woven baskets, horse riding as recreation. Bangladesh suits. Quality dips then blasts past artisan levels. Artisanal concerns come from artisans who might get sidelined. Have used this analogy at work including on internal corporate podcast.
 
 ---
 
