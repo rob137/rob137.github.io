@@ -4,7 +4,10 @@ title: "Within Reach"
 date: 2026-02-06 12:00:00 +0000
 tags: [ai, learning, mental-models]
 excerpt: "Transformer research is full of physicists. The barrier to entry is lower than it looks."
+image: /assets/images/within-reach.webp
 ---
+
+![Within reach](/assets/images/within-reach.webp)
 
 A colleague shared a screenshot today. Someone had asked Claude why it hallucinated, and Claude produced this confident explanation about "training data contamination" - how the model saw a filename, matched it to patterns from training, and reported issues without reading the actual content.
 

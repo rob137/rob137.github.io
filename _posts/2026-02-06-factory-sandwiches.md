@@ -4,7 +4,10 @@ title: "Factory Sandwiches"
 date: 2026-02-06 11:00:00 +0000
 tags: [ai, economics, work]
 excerpt: "The economy isn't designed around humans. We contort to fit it."
+image: /assets/images/factory-sandwiches.webp
 ---
+
+![Factory sandwiches](/assets/images/factory-sandwiches.webp)
 
 I feel like I'm exiting hyperspace every time I need to communicate with a client or wait on a stakeholder to state the next requirement. It feels totally natural to say this is just the cost of doing business. Humans and human taste are what counts.
 
