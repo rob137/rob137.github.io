@@ -40,6 +40,6 @@ Meanwhile, xAI is building what they internally call ["human emulators"](https:/
 
 Compare Jensen Huang's framing from [Roving Bridges](/2026/01/09/roving-bridges/): jobs have tasks and purpose, tasks get automated, purpose expands. That's the optimistic version. xAI isn't automating tasks. They're emulating the human.
 
-Everyone agrees there's a moon. Expert consensus has error bars, but they're narrow. The debate is which day we're on.
+Everyone agrees the sky is falling. Expert consensus has error bars, but they're narrow. The debate is which day we're on.
 
 Most people can see this when shown. They just can't hold onto it. Maybe that's fine. Someone has to keep the town running while the rest of us stare at the sky. But it's strange to watch. You point at the moon, they say "oh dear," you look away and look back, and they're back to planning the festival.
