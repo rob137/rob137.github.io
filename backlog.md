@@ -21,6 +21,31 @@ Ideas extracted from ambient recordings and conversations.
 **Notes:** [weisenthal-infinite-dimensions.md](/_notes/weisenthal-infinite-dimensions.md)
 **Core idea:** In infinitely dimensional space, everything is close. AI tools are infinitely dimensional in how they affect work. Joe Weisenthal (Odd Lots podcast) is now coding with Claude Code, working on a "primary orality" project to detect natural spoken language. This shouldn't be surprising - all roads lead here. Thread through: Wittgenstein → philosophy → meeting intellectual lions → Taleb as taste curator → Odd Lots → convergence of disciplines around AI tools.
 
+### Exiting Hyperspace
+**Status:** Raw transcript
+**Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
+**Core idea:** Human-in-the-loop becoming the bottleneck. "I feel like I'm exiting hyperspace every time I need to communicate." Factory sandwiches: the economy isn't designed around humans, we contort to fit it. AI will graft onto economic needs better than people can.
+
+### Falling Asleep
+**Status:** Raw transcript
+**Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
+**Core idea:** Losing felt sense of where models are when you stop using them daily. A kind of sleep you fall into. "I don't think I would be any more immune." Cautionary tale.
+
+### 2026 Isn't 2025
+**Status:** Raw transcript
+**Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
+**Core idea:** Gap between years growing, but apparent change becoming smaller because humans can't perceive exponentials. The supersonic tsunami.
+
+### Childlike Trust
+**Status:** Raw transcript
+**Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
+**Core idea:** At some point childlike trust becomes the adult position. The "adults in the room" are operating on Q2 2025 assumptions. Relates to False Middle.
+
+### Factory Sandwiches
+**Status:** Raw transcript
+**Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
+**Core idea:** 80% at 1000x efficiency makes the 20% irrelevant. Hand woven baskets, horse riding as recreation. Some software that thinks it's artisanal is actually commodity. Bangladesh suits: where tailoring is cheap, off-the-shelf is higher status. Quality dips then blasts past artisan levels.
+
 ---
 
-*Last updated: 2026-01-29*
+*Last updated: 2026-02-06*
