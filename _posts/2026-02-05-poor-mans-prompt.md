@@ -4,7 +4,10 @@ title: "Poor Man's Prompt"
 date: 2026-02-05 10:00:00 +0000
 tags: [ai, tools, workflow]
 excerpt: "Orchestrator apps hide context from the thing doing the work."
+image: /assets/images/poor-mans-prompt.webp
 ---
+
+![Poor man's prompt](/assets/images/poor-mans-prompt.webp)
 
 Good week for OpenAI. GPT 5.2 Codex is 40% faster than last week. They're offering 2x rate limits if you use the macOS desktop app. I gave it three days, basically full time.
 
