@@ -17,7 +17,7 @@ The economy is a force unto itself. It isn't designed to fit around humans. We'v
 
 I've used this analogy in conversations at work, including on an internal corporate podcast. If you can do an 80% version at 1,000 times the efficiency, at some point it's obvious the 20% wasn't worth holding out for. There will still be niches. But they become rarefied categories. Hand-woven baskets. Horse riding as recreation.
 
-Some software that thinks it's a complex hand-woven basket is actually just a plastic bag.
+Some software thinks it's a hand-woven basket. It's actually a plastic bag.
 
 Here's an interesting thing about tailoring. At the very top end these days, you deliberately add imperfections to make it apparent the suit is handmade. And in Bangladesh where tailoring is cheap, off-the-shelf suits are higher status.
 
