@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Within Reach"
-date: 2026-02-06 12:00:00 +0000
+date: 2026-02-06 10:00:00 +0000
 tags: [ai, learning, mental-models]
 excerpt: "Transformer research is full of physicists. The barrier to entry is lower than it looks."
 image: /assets/images/within-reach.webp
