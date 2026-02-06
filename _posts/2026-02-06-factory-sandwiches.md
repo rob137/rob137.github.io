@@ -15,7 +15,7 @@ Except I actually disagree, because of factory-made sandwiches.
 
 The economy is a force unto itself. It isn't designed to fit around humans. We've been contorting people to fit it for hundreds of years. And I think pretty soon AI will graft onto economic needs far better than people can. At which point the question becomes how to avoid including humans in loops entirely.
 
-I've used this analogy in conversations at work, including on an internal corporate podcast. If you can do an 80% version at 1,000 times the efficiency, at some point it's obvious the 20% wasn't worth holding out for. There will still be niches. But they become rarefied categories. Hand woven baskets. Horse riding as recreation.
+I've used this analogy in conversations at work, including on an internal corporate podcast. If you can do an 80% version at 1,000 times the efficiency, at some point it's obvious the 20% wasn't worth holding out for. There will still be niches. But they become rarefied categories. Hand-woven baskets. Horse riding as recreation.
 
 Some software that thinks it's a complex hand-woven basket is actually just a plastic bag.
 
@@ -23,5 +23,5 @@ Here's an interesting thing about tailoring. At the very top end these days, you
 
 When you start to automate there's a dip in quality. Then it blasts up higher than the artisans could achieve in the first place.
 
-The idea that output must conform to artisanal concerns is being given to us by the artisans. Who might get sidelined quite soon for economic reasons.
+The idea that output must conform to artisanal concerns is being given to us by artisans like myself. Who might get sidelined quite soon for economic reasons.
 
