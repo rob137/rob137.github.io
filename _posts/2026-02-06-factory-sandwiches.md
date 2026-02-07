@@ -19,9 +19,5 @@ I've used this analogy in conversations at work, including on an internal corpor
 
 Some software thinks it's a hand-woven basket when it's actually a plastic bag.
 
-Here's an interesting thing about tailoring. At the very top end these days, you deliberately add imperfections to make it apparent the suit is handmade. And in Bangladesh where tailoring is cheap, off-the-shelf suits are higher status.
-
-When you start to automate there's a dip in quality. Then it blasts up higher than the artisans could achieve in the first place.
-
 The idea that output must conform to artisanal concerns is being given to us by artisans like myself. Who might get sidelined quite soon for economic reasons.
 
