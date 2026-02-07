@@ -21,5 +21,3 @@ A corollary: normies like us can get it much faster than you might think.
 
 I really recommend sitting down with one of the shorter [3Blue1Brown videos](https://www.youtube.com/watch?v=LPZh9BOjkQs). It's going to seem esoteric and boring at first, but anyone can get it pretty fast. The mental model you build has high economic value.
 
-It's disturbing to me that non-ML tech people aren't writing about this stuff much. It's either AI researchers who take it all for granted, or people in HR and marketing on LinkedIn. The middle bit is totally under-served.
-
