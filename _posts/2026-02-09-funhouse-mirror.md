@@ -9,7 +9,7 @@ image: /assets/images/funhouse-mirror.webp
 
 ![Funhouse mirror](/assets/images/funhouse-mirror.webp)
 
-I use AI agents for coding all day. And it occurred to me that the expertise I've built is pretty fragile because of the Lindy effect. Anything that hasn't been around very long probably won't be around much longer. Case in point: my AI workflows keep getting replaced. The tricks I learned six months ago are often obsolete now.
+I use AI agents for coding all day. And it occurred to me that the expertise I've built is pretty fragile because of the [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect). Anything that hasn't been around very long probably won't be around much longer. Case in point: my AI workflows keep getting replaced. The tricks I learned six months ago are often obsolete now.
 
 Part of this is [the bitter lesson](http://www.incompleteideas.net/IncsIdeas/BitterLesson.html). But I reckon what's also going on is that intelligence is multidimensional, and models are getting better at inferring intent, drawing out requirements, presenting things in ways that make adjustments intuitive. Exactly the kinds of things that familiarity with tools helps you overcome. Which means arriving late to the party, you have far less to learn.
 
