@@ -25,6 +25,6 @@ What I do think is happening is that the tools are increasingly multiplicative. 
 
 I think of it like a funhouse mirror. It exaggerates differences. People come out looking completely different. And a funhouse mirror has a very easy UI - you just stand in front of it. That's where coding agents are heading. Skill with AI will matter less than the differences in the user.
 
-[Peter Steinberger](https://steipete.com/) is interesting here. He sold a company a while back, took some time off, and basically missed LLMs in the coding lifecycle until last summer. Then he built [OpenClaw](https://github.com/openclaw/openclaw) (née Moltbot), which went viral - it hands the keys to your digital life to Claude through a harness he built. There are obvious security considerations, but people have historically stomached pretty terrible security compromises when their quality of life improves.
+[Peter Steinberger](https://steipete.com/) is interesting here. He sold a company a while back, took some time off, and basically missed LLMs in the coding lifecycle until last summer. Then he built [OpenClaw](https://github.com/openclaw/openclaw), which went viral - it hands the keys to your digital life to Claude through a harness he built. There are obvious security considerations, but people have historically stomached pretty terrible security compromises when their quality of life improves.
 
 He arrived late, no priors, and spotted something the rest of us were too close to see. Naivety becomes a bit of a competitive advantage.
