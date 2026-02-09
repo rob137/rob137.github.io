@@ -21,7 +21,7 @@ There's a bit of an illusion that people who've been using AI tools for a year m
 
 The slope looks steep, but it isn't really. You can onboard yourself pretty quickly just by talking to them. That wasn't true six months ago.
 
-What I do think is happening is that the tools are multiplicative. They're stretching out differences between users. Not skill differences - differences in the users themselves. Their relationship with the subject matter, their ability to articulate and manage.
+What I do think is happening is that the tools are increasingly multiplicative. They're stretching out differences between users. Not skill differences - differences in the users themselves. Their relationship with the subject matter, their ability to articulate and manage.
 
 I think of it like a funhouse mirror. It exaggerates differences. People come out looking completely different. And a funhouse mirror has a very easy UI - you just stand in front of it. That's where coding agents are heading. Skill will matter less than the differences in the user.
 
