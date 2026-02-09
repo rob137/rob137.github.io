@@ -33,7 +33,7 @@ I think of it like a funhouse mirror. It exaggerates differences. People come ou
 
 That's where coding agents are heading. Skill will matter less than the differences in the user.
 
-[Peter Steinberger](https://steipete.com/) is an interesting example. He sold a company a while back, took some time off, and basically missed large language models in the coding lifecycle until last summer. Then he built [MaltBot](https://github.com/steipete/macos-automator-mcp) (now renamed a few times), a tool that went massively viral - handing the keys to your digital life to Claude through a harness he built.
+[Peter Steinberger](https://steipete.com/) is an interesting example. He sold a company a while back, took some time off, and basically missed large language models in the coding lifecycle until last summer. Then he built [Moltbot](https://github.com/steipete/macos-automator-mcp) (now renamed a few times), a tool that went massively viral - handing the keys to your digital life to Claude through a harness he built.
 
 He arrived late, with no priors, and spotted something the rest of us were too close to see.
 
