@@ -23,7 +23,7 @@ The slope looks steep, but it isn't really. You can onboard yourself pretty quic
 
 What I do think is happening is that the tools are increasingly multiplicative. They're stretching out differences between users. Not skill differences - differences in the users themselves. Their relationship with the subject matter, their ability to articulate and manage.
 
-I think of it like a funhouse mirror. It exaggerates differences. People come out looking completely different. And a funhouse mirror has a very easy UI - you just stand in front of it. That's where coding agents are heading. Skill will matter less than the differences in the user.
+I think of it like a funhouse mirror. It exaggerates differences. People come out looking completely different. And a funhouse mirror has a very easy UI - you just stand in front of it. That's where coding agents are heading. Skill with AI will matter less than the differences in the user.
 
 [Peter Steinberger](https://steipete.com/) is interesting here. He sold a company a while back, took some time off, and basically missed LLMs in the coding lifecycle until last summer. Then he built [OpenClaw](https://github.com/openclaw/openclaw) (née Moltbot), which went viral - it hands the keys to your digital life to Claude through a harness he built. There are obvious security considerations, but people have historically stomached pretty terrible security compromises when their quality of life improves.
 
