@@ -7,7 +7,7 @@ permalink: /now/
 
 *This is a [now page](https://nownownow.com/about). It's what I'd tell a friend I hadn't seen in a year.*
 
-**Last updated:** January 2026
+**Last updated:** February 2026
 
 ## Family
 
@@ -19,11 +19,13 @@ Experimenting with field recorders, lav mics, cardioid microphones, various phon
 
 ## Music
 
-I'm on a music arc at the minute. I tend to cycle through interests a couple of times a year - meditation, theology, literature, visual arts, music - but it's cyclical and quite intense, and right now I'm deep in music.
+Taking piano lessons again. Concentrating on scales, broken chords, and theory - things I totally neglected growing up.
 
-Teaching myself piano again. Learning by rote, mostly - just repeating pieces until the hard bits become natural, then picking up another when I get bored. Recently been learning [Outset Island](https://www.ninsheetmusic.org/download/pdf/3900) from Zelda: The Wind Waker, which my family are pretty sick of listening to. Trying to figure out what to learn next - probably something else from video game nostalgia. Koji Kondo pieces tend not to get boring, which is turning out to be a superpower for learning since I can play things again and again until they click.
+Recently managed to get the contact details for my childhood piano teacher, who's now in her late 80s and in care. I was nervous ringing her, but we ended up talking for half an hour. She'd spent her life teaching, came from a musical family, loved it. She was delighted I'd thought to reach out, and excited that I was learning again. A really lovely experience.
 
-Playing entirely for pleasure. It's been kind of life-changing. My eldest daughter is learning piano at the moment, so we're learning together to some degree - I figured it would help to show an interest as she's getting started herself. The kids are really enjoying it.
+As a kid, I resented piano lessons. I thought they were waypoints towards grade exams I didn't enjoy. The pressure was partly the framing of lessons, partly self-imposed. Now I'm treating piano as a meditative activity rather than an achievement thing. Repeating scales and drills and pieces to get better for the sake of getting better - a way of spending time well rather than something that leads anywhere.
+
+Looking at small MIDI controllers for my desk. Something I can mix into the day as a kind of mindless fidget-spinner activity between tasks.
 
 ## BJJ
 
