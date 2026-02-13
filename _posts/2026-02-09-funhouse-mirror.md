@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Funhouse mirror"
+title: "Funhouse Mirror"
 date: 2026-02-09 13:38:00 +0000
 tags: [ai, software]
 excerpt: "AI coding expertise is fragile. Late arrivals might have less to learn."

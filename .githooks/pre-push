@@ -7,6 +7,7 @@ source "$SCRIPT_DIR/lib/post-checks.sh"
 
 tz_errors=()
 future_errors=()
+title_errors=()
 current_timestamp=$(date -u +%s)
 
 for file in _posts/*.md; do
@@ -17,6 +18,10 @@ for file in _posts/*.md; do
 
         if ! check_not_future "$file" "$current_timestamp"; then
             future_errors+=("$file: $(get_date_line "$file")")
+        fi
+
+        if ! check_title_case "$file"; then
+            title_errors+=("$file: $(get_title "$file")")
         fi
     fi
 done
@@ -39,6 +44,16 @@ if [[ ${#future_errors[@]} -gt 0 ]]; then
     echo ""
     echo "Add 'future: true' to front matter to override, or fix the date."
     exit 1
+fi
+
+if [[ ${#title_errors[@]} -gt 0 ]]; then
+    echo "WARNING: Posts with possible title case issues:"
+    for err in "${title_errors[@]}"; do
+        echo "  $err"
+    done
+    echo ""
+    echo "Please check titles use Title Case."
+    # Warning only, don't block push
 fi
 
 exit 0

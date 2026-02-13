@@ -37,6 +37,13 @@ Ideas extracted from ambient recordings and conversations.
 **Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
 **Core idea:** Human-in-the-loop becoming bottleneck. "Exiting hyperspace every time I need to communicate." Economy isn't designed around humans - we contort to fit it. 80% at 1000x efficiency makes the 20% irrelevant. Hand woven baskets, horse riding as recreation. Bangladesh suits. Quality dips then blasts past artisan levels. Artisanal concerns come from artisans who might get sidelined. Have used this analogy at work including on internal corporate podcast.
 
+### Don't Prescribe Workflows (working title)
+**Status:** Raw transcript
+**Core idea:** In a world where workflows are changing rapidly and there's massive overhang in AI model abilities for coding/software, the single worst thing you can say to a small team is "here is the prescribed way you ought to act" - because it implicitly creates political risk for individuals who go against the pattern. Things haven't settled yet. Still incredibly tumultuous because progress is on such a steep curve. Fundamentally about central planning vs decentralisation - specifically when encountering a novel and rapidly changing landscape. Decision-making under uncertainty. More to come.
+
+**Raw notes (12 Feb 2026):**
+> There's this idea that in a world where workflows are changing really rapidly and there's loads of overhang in the abilities of AI models that you're using in software, like to do coding or to build software, I think the single worst thing you could say to a small team is "here is the prescribed way you ought to act." And implicitly, there is therefore a lot of political risk for you as an individual in going against this prescribed pattern. And the reason being is that things haven't settled yet. This is still incredibly tumultuous because the progress of the models is on such a steep curve at the moment.
+
 ---
 
-*Last updated: 2026-02-06*
+*Last updated: 2026-02-12*
