@@ -9,7 +9,7 @@ I'm Rob Kirby. I live near Oxford and work as a software engineer at a portfolio
 
 Before software I was an Intelligence Corps officer in the British Army. Before that I studied philosophy. The through-line is probably something about information and how to make sense of it.
 
-This blog is where I write about things I'm noticing. See also: [what I'm doing now](/now/).
+This blog is where I write about things I'm noticing. I also have a podcast called [Liminal Time](https://liminaltimepodcast.com). See also: [what I'm doing now](/now/).
 
 ## Contact
 
