@@ -27,6 +27,8 @@ As a kid, I resented piano lessons. I thought they were waypoints towards grade 
 
 Looking at small MIDI controllers for my desk. Something I can mix into the day as a kind of mindless fidget-spinner activity between tasks.
 
+Also tiptoeing towards field recording. Getting ambient sound for podcast episodes appeals to me in a way I can't fully explain. Of course, it's exactly the kind of activity that marks you as a nerd heading into a midlife crisis - like collecting miniature airplanes. Haven't gotten over the ick factor yet.
+
 ## BJJ
 
 Enjoying working with people at my gym who are preparing for competition. I'm too busy with work and family to compete myself at the moment, but I'm hoping to get back to it when things settle down. In the meantime, it's really fun helping people prep.
