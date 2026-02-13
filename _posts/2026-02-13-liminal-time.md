@@ -4,10 +4,10 @@ title: "Liminal Time"
 date: 2026-02-13 10:00:00 +0000
 tags: [ai, podcast]
 excerpt: "I started a podcast."
-image: /assets/images/fence-gate.webp
+image: /assets/images/transition-period.webp
 ---
 
-![Liminal Time](/assets/images/fence-gate.webp)
+![Liminal Time](/assets/images/transition-period.webp)
 
 I started a podcast. It's called [Liminal Time](https://liminaltimepodcast.com). Social field recordings. Conversations with people I find interesting.
 
@@ -29,7 +29,7 @@ I keep coming back to the Hero's Journey. Joseph Campbell's observation that the
 
 It's funny that modern economic life maps so well to this. Pursuing a doctorate and climbing a career ladder shouldn't feel like hunting a mammoth or slaying a dragon. But it does. The reward systems light up. Hobbit leaves home, confronts Smaug, returns with treasure. Oddly familiar.
 
-I said on the podcast with Oliver Farnham that we're lucky AI-assisted work turns out to be highly engaging - almost addictive. It could have been like the software equivalent of cleaning toilets or breaking up bar fights. Jobs people do for money, not recreation. Instead it scratches something primal.
+Recording with Oliver Farnham, I found myself saying we're lucky AI-assisted work turns out to be highly engaging - almost addictive. It could have been like the software equivalent of cleaning toilets or breaking up bar fights. Jobs people do for money, not recreation. Instead it scratches something primal.
 
 This is an underappreciated tailwind for AI adoption. It's not just productivity gains. The work itself is motivationally resonant in a way that maps to ancient reward systems. People are gleefully working long hours and checking on their agents before bed - out of excitement, not duty.
 
