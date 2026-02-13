@@ -4,10 +4,10 @@ title: "Liminal Time"
 date: 2026-02-13 10:00:00 +0000
 tags: [ai, podcast]
 excerpt: "I started a podcast."
-image: /assets/images/transition-period.webp
+image: /assets/images/liminal-time.webp
 ---
 
-![Liminal Time](/assets/images/transition-period.webp)
+![Liminal Time](/assets/images/liminal-time.webp)
 
 I started a podcast. It's called [Liminal Time](https://liminaltimepodcast.com). Social field recordings. Conversations with people I find interesting.
 
