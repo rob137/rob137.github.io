@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "The quest"
+title: "Liminal Time"
 date: 2026-02-13 10:00:00 +0000
 tags: [ai, podcast]
-excerpt: "It's lucky that AI-assisted work feels like a quest rather than a chore."
+excerpt: "I started a podcast."
+image: /assets/images/fence-gate.webp
 ---
+
+![Liminal Time](/assets/images/fence-gate.webp)
 
 I started a podcast. It's called [Liminal Time](https://liminaltimepodcast.com). Social field recordings. Conversations with people I find interesting.
 
