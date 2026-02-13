@@ -36,5 +36,3 @@ This is an underappreciated tailwind for AI adoption. It's not just productivity
 There's a certain amount of mourning going on for software as a practice. The models are enveloping coding and parts of the design process. But we're lucky that what remains is the interesting part - the quest, the decisions, the treasure. Not the tedium.
 
 The podcast feels the same way. Additional work I'm choosing to do, but it doesn't feel like work at all. An exciting quest where I'm collecting things that are extremely valuable on their own terms.
-
-I intend to do a lot more of it.
