@@ -28,6 +28,8 @@ This only works because the models are good enough now. A year ago you needed ti
 
 Which means my job is shifting. Less time on commit-level concerns. More time on coordination, team-level failure modes, project-level risk. The models are reaching the point where they have grounds to challenge me on decisions, and the ratio of useful pushback is going up. That's a product of better taste - rising intelligence, RL on code, whatever's driving it - and I expect it to continue.
 
+It's a strange inversion. For years the work was about chivvying things along - pushing the models, coaxing output. Now they're pulling you. So long as you can keep up, it makes sense to let the stream flow. Your judgment still matters, but the mode has changed: less quality-checking every line, more watching for signs of confusion or drift. Managing the current rather than turning the crank.
+
 So the workflow is: living document, model pulls from it, human watches and steers but doesn't block. The pause tax disappears. Throughput goes up by more than you'd expect.
 
 You are the bottleneck now. Might as well notice.
