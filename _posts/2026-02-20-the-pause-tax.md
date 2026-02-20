@@ -8,7 +8,7 @@ excerpt: "You are the bottleneck now."
 
 ![The Pause Tax](/assets/images/2026-02-20-the-pause-tax.png)
 
-I've used [org-mode](https://orgmode.org/) in Emacs for years. One file per job, living in my home directory - first thing I set up on a new work laptop. A keybind opens it from anywhere; it's the touchbase for everything. Plain text, tree structure, simple checkboxes. Unreasonably effective.
+I've used [org-mode](https://orgmode.org/) in Emacs for years. One file, living in my home directory - the first thing I set up when I get a new work laptop, and the last thing I close before handing it back. A keybind opens it from anywhere; it's the touchbase for everything. Plain text, tree structure, simple checkboxes. Unreasonably effective.
 
 What I only recently noticed: my to-do items have become prompts. All my work runs through coding agents now. When I add a task, I'm really staging a prompt. And because I use speech-to-text for everything, it's actually easier to braindump the full context at the moment I'm thinking about it than to write something terse. So my to-do items have gotten verbose - they're basically ready to fire at LLMs.
 
