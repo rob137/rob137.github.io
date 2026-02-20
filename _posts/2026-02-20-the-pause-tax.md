@@ -8,7 +8,7 @@ excerpt: "You are the bottleneck now."
 
 I've used org-mode for years. One file per job, living in my home directory - first thing I set up on a new work laptop. A keybind opens it from anywhere; it's the touchbase for everything. Plain text, tree structure, simple checkboxes. Unreasonably effective.
 
-What I only recently noticed: my to-do items have become prompts. All my work runs through coding agents now. When I add a task, I'm really staging a prompt. And because I use speech-to-text for everything, it's actually easier to braindump the full context at the moment I'm thinking about it than to write something terse. So my to-do items have gotten verbose - they're basically ready to fire.
+What I only recently noticed: my to-do items have become prompts. All my work runs through coding agents now. When I add a task, I'm really staging a prompt. And because I use speech-to-text for everything, it's actually easier to braindump the full context at the moment I'm thinking about it than to write something terse. So my to-do items have gotten verbose - they're basically ready to fire at LLMs.
 
 Here's the embarrassing bit. For months I'd add follow-up tasks while an agent was working, planning to copy them into the chat later. Then I realised: the agent can just read the file. The manual step was completely redundant. It can read the org file, pull work from it, even update it as things complete.
 
