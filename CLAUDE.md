@@ -16,7 +16,7 @@
    - Interesting ≠ essential
    - Don't be polite about your own output
    - The raw transcript is preserved - nothing is truly lost
-4. Generate image with gpt-image-1 (medium quality, no text/letters)
+4. Generate image with gpt-image-1.5 via API (medium quality, no text/letters). API key is in $OPENAI_API_KEY
 5. Backdate times to GMT if needed
 6. Push
 
