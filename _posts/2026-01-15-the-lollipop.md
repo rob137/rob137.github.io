@@ -6,7 +6,7 @@ tags: [philosophy, academia, career]
 excerpt: "A system whose primary function is to sustain itself."
 ---
 
-Some of the most formidable people I've ever met studied philosophy. Not formidable in the way tech people use the word. Formidable in the way that impressed me most at that age. They could follow an argument through seven layers of abstraction without losing the thread, spot a hidden premise from across the room, and take your position apart so cleanly you'd thank them for it.
+Some of the most formidable people I've ever met studied philosophy. Not formidable in the way tech people use the word. Formidable in the way that impressed me most as an undergraduate. They could follow an argument through seven layers of abstraction without losing the thread, spot a hidden premise from across the room, and take your position apart so cleanly you'd thank them for it.
 
 ![Lollipop](/assets/images/lollipop.webp)
 
