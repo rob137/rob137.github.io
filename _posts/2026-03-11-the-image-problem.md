@@ -6,18 +6,16 @@ tags: [tools, ai, workflow]
 excerpt: "Terminals can't show you a picture."
 ---
 
-I've lived in terminal-based AI interfaces for a while now. Started with ChatGPT and Claude web UIs, copy-pasting code back and forth. Built macros to make that less painful. Then Cursor got good. Then Claude Code and Codex CLIs got good, and I basically moved into the terminal full-time.
+My default for a while now: terminal-based AI interfaces. Claude Code, Codex CLI. Before that it was Cursor, and before that I was copy-pasting between web UIs and my editor, building macros to make it less painful.
 
-It's great. Close to the metal. Composable. No context-switching between editor and chat window.
+The terminal is good. Close to the metal. Composable. I can SSH in from anywhere.
 
-But I just realized I'm probably behind the times.
+But I missed something. The desktop apps that wrap these CLIs can display images. Screenshots, diagrams, whatever the model is looking at. When the AI verifies something visually, GUI users just see it.
 
-The desktop apps that wrap these CLIs can display images. And videos. When the AI takes a screenshot to verify something, or generates a diagram, or shows you what it's seeing, the GUI users just... see it.
+I see a file path.
 
-I can't. My terminal shows me a file path.
+There's no way around this. Terminals render text. That's what they do. For all the affordances of text-in text-out, a TUI cannot show you a picture.
 
-This might be an insurmountable problem for TUIs. For all the affordances they offer, for all the simplicity of text-in text-out, they fundamentally cannot show you a picture. And when I'm verifying things at pace, that actually matters.
+When you're verifying things at pace, that matters. Visual confirmation is fast. Opening a file path, waiting for a viewer, context-switching back - that's friction.
 
-I don't think "text-based GUI" can compete if the payoff is high enough. And visual verification at speed is a pretty high payoff.
-
-Maybe I need to rethink my setup.
+I'm not sure what to do with this yet. The terminal workflow is good in other ways. But the image gap is real, and it's not going away.
