@@ -6,6 +6,8 @@ tags: [tools, ai, workflow]
 excerpt: "Terminals have two of them."
 ---
 
+![Image Problem](/assets/images/2026-03-11-image-problem.png)
+
 Terminals have two image problems.
 
 The first is perception - they're foreboding, hiding possibilities behind memorized incantations rather than revealing them through buttons and dropdowns. If you know man pages exist you can figure things out, but it's not intuitive.
