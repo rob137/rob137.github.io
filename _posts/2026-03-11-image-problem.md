@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "Pictures"
+title: "Image Problem"
 date: 2026-03-11 10:00:00 +0000
 tags: [tools, ai, workflow]
-excerpt: "Terminals can't show you one."
+excerpt: "Terminals have two of them."
 ---
+
+Terminals have two image problems.
+
+The first is perception. They're foreboding. If you know that man pages exist, you can figure things out - but it's not intuitive the way a button or dropdown is. GUIs implicitly reveal possibilities. Terminals hide them behind memorized incantations.
+
+The second is literal. Terminals can't display images. And that's starting to matter.
 
 Steve Yegge, in his [talk with Gene Kim](https://www.youtube.com/watch?v=FtJObsATsh0): "If you're using an IDE starting on... I'll give you till January 1st. You're a bad engineer."
 
@@ -22,9 +28,7 @@ When the agent takes a screenshot to verify something, GUI users see it inline. 
 
 I see a file path.
 
-Terminals render text. That's what they do. There's no way around it. A TUI cannot show you a picture.
-
-Visual verification at pace matters. Seeing the screenshot immediately versus opening a file path, waiting for a viewer, context-switching back - that's real friction.
+Terminals render text. That's what they do. There's no way around it. A TUI cannot show you a picture. And as AI feedback loops tighten - as visual verification becomes part of how you work with agents - that gap matters more.
 
 You could fix this. The harness could auto-open images in your OS when the agent wants to show you something. Pop up a preview window. It's not hard to build. But it's still not the same as inline. Your eyes leave the terminal. You context-switch. The flow breaks, even if only briefly.
 
