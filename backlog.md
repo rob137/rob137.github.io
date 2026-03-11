@@ -4,6 +4,21 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
+### Intelligence Inside Existing Tools (Claude + Excel)
+**Status:** Idea - ready for draft
+**Notes:** [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
+**Core idea:** The meaningful frontier is not "chatbot intelligence" but intelligence embedded into existing applications. Claude's Excel integration is a clean example: capability appears when model + live data + familiar interface are combined. This reframes "AI tools" as runtime overlays on existing workflows, not separate products.
+
+### Is/Ought Drift in AI Work
+**Status:** Raw transcript
+**Notes:** [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
+**Core idea:** Teams keep sliding from descriptive observations ("this currently works") to prescriptive rules ("this is how everyone should work"). In a rapidly shifting capability landscape, this becomes a coordination hazard. Use the less/fewer language-history analogy as scaffold, then connect to software workflows and policy-setting.
+
+### Strudel Follow-up: Barbell Team Composition
+**Status:** Idea - addendum or standalone
+**Notes:** [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
+**Core idea:** Add the missing barbell point from Strudel: avoid a team composed purely of "middle" assumptions. In high-change environments, small teams benefit from a deliberate mix of optimistic-naive and scarred-sceptical profiles, with someone translating between them.
+
 ### How Hiring Has Changed
 **Status:** Idea - reading Joel Spolsky's book
 **Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
@@ -46,4 +61,4 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
-*Last updated: 2026-02-12*
+*Last updated: 2026-02-18*
