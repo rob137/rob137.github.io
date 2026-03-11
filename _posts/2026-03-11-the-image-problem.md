@@ -3,6 +3,7 @@ layout: post
 title: "The Image Problem"
 date: 2026-03-11 10:00:00 +0000
 tags: [tools, ai, workflow]
+excerpt: "Terminals can't show you a picture."
 ---
 
 I've lived in terminal-based AI interfaces for a while now. Started with ChatGPT and Claude web UIs, copy-pasting code back and forth. Built macros to make that less painful. Then Cursor got good. Then Claude Code and Codex CLIs got good, and I basically moved into the terminal full-time.
