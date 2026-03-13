@@ -2,11 +2,11 @@
 layout: post
 title: "The Mask We Can't Drop"
 date: 2026-03-13 09:00:00 +0000
-tags: [ai, agentic, architecture, context-windows]
-excerpt: "Agentic systems are getting complicated fast. The chat interface might be locked in longer than we think."
+tags: [ai, agentic, architecture, context-windows, bitter-lesson]
+excerpt: "Agentic systems are getting complicated. Two forces might reverse that. Unless context windows are a hard constraint."
 ---
 
-I was at an AI meetup at Jesus College Oxford last week and got talking to Josh Lawman, who runs [Adder](https://www.adder.dev/)—a small AI consultancy working with local businesses. He gave a short talk comparing how agentic architectures have evolved—one of those talks that's both enjoyable and leaves you with something to chew on afterwards.
+I was at an AI meetup at Jesus College Oxford last week and got talking to Josh Lawman, who runs [Adder](https://www.adder.dev/), a small AI consultancy working with local businesses. He gave a short talk comparing how agentic architectures have evolved. One of those talks that's both enjoyable and leaves you with something to chew on afterwards.
 
 He pulled up Anthropic's "Building Effective Agents" diagrams from late 2024:
 
@@ -18,7 +18,7 @@ Then he showed what Anthropic's multi-agent architecture looks like in 2026:
 
 The jump is hard to miss. What was a tidy feedback loop has become an orchestration layer managing parallel workers, state machines, and specialised sub-agents. And that's just one vendor's reference architecture. Steve Yegge's [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) has mayors, polecats, witnesses, and refineries. It's a lot.
 
-Josh wasn't making predictions—he could see it going either way. I felt the same at the time.
+Josh wasn't making predictions. He could see it going either way. I felt the same at the time.
 
 ---
 
@@ -26,7 +26,7 @@ But walking home, I kept thinking about the shoggoth meme.
 
 ![The shoggoth meme](/assets/images/shoggoth-meme.jpeg)
 
-You know the one—the Lovecraftian horror holding a thin smiley-face mask. It was originally about AI risk: don't anthropomorphise models, because beneath the surface they're very not-human. Fair enough.
+You know the one. The Lovecraftian horror holding a thin smiley-face mask. It was originally about AI risk: don't anthropomorphise models, because beneath the surface they're very not-human. Fair enough.
 
 But I think you could apply the same image to AI *systems*. The chat interface is the mask. Behind it, we're building increasingly elaborate machinery to squeeze useful work out of context-limited models. Orchestrators, memory systems, tool routers, recursive summarisation. The mask stays simple because users expect simple. The shoggoth grows tentacles.
 
@@ -34,30 +34,38 @@ Yegge put it well in a [recent interview](https://youtu.be/aFsAOu2bgFk?si=HmI24l
 
 > Gas Town right now, the reason I say you can't use it, is that it's a factory filled with workers and you're talking to it through a telephone. You can also go and look through the window and pound on it and talk to the workers, but it's not like you're in it. With a UI you're in it, and you can see what's going on.
 
-His prediction: by the end of the year, most people will be programming by talking to a face—literally an animated character on screen, maybe a fox, that you speak to out loud. You say "why doesn't it work?" and it says "I'll go look at it" and spins off workers behind the scenes. Voice in, voice out. The complexity hidden entirely.
-
-Which sounds great. But it also suggests we might be locked into the mask for a while. User adoption and preferences mean we can never really let go of the simple interface—at least until the underlying constraint loosens.
+His prediction: by the end of the year, most people will be programming by talking to a face. Literally an animated character on screen, maybe a fox, that you speak to out loud. You say "why doesn't it work?" and it says "I'll go look at it" and spins off workers behind the scenes. Voice in, voice out. The complexity hidden entirely.
 
 ---
 
-What's the underlying constraint? My guess is context windows.
+So will the shoggoth keep growing? I think there are two forces pushing back.
 
-If you could give a model unlimited context and have it remember everything, you wouldn't need orchestrators juggling state across parallel workers. You wouldn't need recursive summarisation or memory retrieval systems. The architecture could flatten.
+**The first is user demand.** People want Apple-like simplicity. Interfaces that induce comfort. The mask isn't a temporary concession, it's what users actually prefer. If the choice is between exposing orchestration complexity or hiding it behind a friendly face, the face wins. The elaborate backend might grow, but it'll stay hidden.
 
-So is that solvable?
+**The second is the bitter lesson.** Rich Sutton's [famous essay](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) argues that general methods leveraging computation outperform methods encoding human cleverness. The harnesses we're building (memory systems, tool routers, state machines) are making affordances for the weaknesses of today's models. They're human cleverness compensating for limited context and limited reasoning.
 
-Will Brown from [Prime Intellect](https://www.primeintellect.ai/) was on [TBPN](https://www.youtube.com/live/Q-U0HWN5rHM?si=MqIIDR8gFzEE0xQ-&t=8483) recently :
+But incoming GPU clusters will crush a lot of these problems. When models get smart enough, you're better off without the harness. The AI portion of the system eats the business logic. The system gets smarter but the plumbing gets simpler.
+
+So: two paths toward simplification. User demand hides the complexity. Scaling removes the need for it.
+
+---
+
+Unless context windows are a hard constraint.
+
+Reiner Pope from [MatX](https://matx.com/) was on a [recent podcast](https://youtu.be/qvrdCpLPbuQ?si=Bs44BABACIEvV2Ki&t=3178):
+
+> Long context is one of the biggest bottlenecks on speed of the model. Every single token you generate, it reads through all of the previous tokens... Memory bandwidth for that is really constraining. I think the context size will stay ballpark the same where it is, maybe a few times larger, but the parameter count will go up. Parameter count should grow much faster than context length actually, just because of the underlying physics of what's available.
+
+If context stays bounded, maybe we're stuck with the harnesses. The orchestration, the compaction, the recursive summarisation. All downstream of a constraint that isn't going away.
+
+Will Brown from [Prime Intellect](https://www.primeintellect.ai/) was on [TBPN](https://www.youtube.com/live/Q-U0HWN5rHM?si=MqIIDR8gFzEE0xQ-&t=8483) recently with a more optimistic take:
 
 > Continual learning is going to fall pretty quickly. I think it's more of an engineering problem... No one's actually trying. OpenAI and Anthropic don't want to continuously train their models for each user. It's expensive and annoying and hard to serve at scale. But from a research perspective, we do continual learning—the model learns new things, they just keep training it more and it knows more stuff. Uneconomical right now, but there's enough tricks. There doesn't seem to be any big wall in sight that prevents it from being practical.
 
-So maybe the constraint isn't fundamental. Maybe it's economic. The labs aren't motivated to solve it because serving per-user continual learning at scale is a headache.
+So maybe it's solvable. Maybe it's just economics. Or maybe context is the wall that the bitter lesson can't break through.
 
 ---
 
-That's encouraging.
+I don't know which way this goes. The history of machine learning is overlapping sigmoids. You hit a ceiling, it looks impossible, then someone breaks through. Ilya Sutskever became famous partly for breaking through a series of seemingly impossible ceilings.
 
-The history of machine learning never felt exponential at the time. It's overlapping sigmoids—you hit a ceiling, it looks impossible, then someone breaks through. Ilya Sutskever became famous partly for breaking through a series of seemingly impossible ceilings.
-
-Working assumption: we have a few more orders of magnitude to go. Context windows will grow. Continual learning will arrive. The elaborate orchestration we're building now may turn out to be scaffolding for a transitional period.
-
-But in the meantime, we're stuck with the mask. The chat interface isn't going anywhere. Users like it. And behind it, the shoggoth keeps growing.
+But eighteen months is a long time in AI. It's also not very long at all. Josh was right not to make predictions. The shoggoth might keep growing tentacles. Or the mask might be all that's left.
