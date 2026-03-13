@@ -6,7 +6,7 @@ tags: [ai, agentic, architecture, context-windows]
 excerpt: "Agentic systems are getting complicated fast. The chat interface might be locked in longer than we think."
 ---
 
-I was at a recruiting meetup last week and got talking to Josh Lawman, who runs [Adder](https://www.adder.dev/)—a small AI consultancy working with local businesses. He gave a short talk comparing how agentic architectures have evolved.
+I was at a recruiting meetup last week and got talking to Josh Lawman, who runs [Adder](https://www.adder.dev/)—a small AI consultancy working with local businesses. He gave a short talk comparing how agentic architectures have evolved—one of those talks that's both enjoyable and leaves you with something to chew on afterwards.
 
 He pulled up Anthropic's "Building Effective Agents" diagrams from late 2024:
 
