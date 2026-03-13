@@ -28,7 +28,7 @@ But walking home, I kept thinking about the shoggoth meme.
 
 The Lovecraftian horror holding a thin smiley-face mask. It was originally about neural nets being fundamentally unfathomable, alien in how they work, but presented behind friendly UIs that hide the existential risk. Fair enough.
 
-But I think you could apply the same image to AI *systems*. The chat interface is the mask. Behind it, we're building increasingly elaborate machinery to squeeze useful work out of context-limited models. Orchestrators, memory systems, tool routers, recursive summarisation. The mask stays simple because users expect simple. The shoggoth grows tentacles.
+But I think you could apply the same image one level up. The original meme is about models. Today's AI systems are models plus harnesses: orchestrators, memory systems, tool routers, recursive summarisation. All the machinery we build around context-limited models to squeeze useful work out of them. The chat interface is the mask. The model-plus-harness is the shoggoth. And the shoggoth keeps growing tentacles.
 
 Yegge put it well in a [recent interview](https://youtu.be/aFsAOu2bgFk?si=HmI24lztbaIOULJp&t=1700):
 
