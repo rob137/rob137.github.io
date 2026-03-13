@@ -6,7 +6,7 @@ tags: [ai, agentic, architecture, context-windows]
 excerpt: "Agentic systems are getting complicated fast. The chat interface might be locked in longer than we think."
 ---
 
-I was at a recruiting meetup last week and got talking to Josh Lawman, who runs [Adder](https://www.adder.dev/)—a small AI consultancy working with local businesses. He gave a short talk comparing how agentic architectures have evolved—one of those talks that's both enjoyable and leaves you with something to chew on afterwards.
+I was at an AI meetup at Jesus College Oxford last week and got talking to Josh Lawman, who runs [Adder](https://www.adder.dev/)—a small AI consultancy working with local businesses. He gave a short talk comparing how agentic architectures have evolved—one of those talks that's both enjoyable and leaves you with something to chew on afterwards.
 
 He pulled up Anthropic's "Building Effective Agents" diagrams from late 2024:
 
@@ -16,7 +16,7 @@ Then he showed what Anthropic's multi-agent architecture looks like in 2026:
 
 ![2026 Claude Code multi-agent architecture](/assets/images/claude-code-multi-agent-diagrams-2026.avif)
 
-The jump is hard to miss. What was a tidy feedback loop has become an orchestration layer managing parallel workers, state machines, and specialised sub-agents. And that's just one vendor's reference architecture. Steve Yegge's [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) has mayors, polecats, witnesses, and refineries. The complexity is real.
+The jump is hard to miss. What was a tidy feedback loop has become an orchestration layer managing parallel workers, state machines, and specialised sub-agents. And that's just one vendor's reference architecture. Steve Yegge's [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) has mayors, polecats, witnesses, and refineries. It's a lot.
 
 Josh was admirably humble about where this is all heading. He could see it going either way. I felt the same at the time.
 
@@ -44,7 +44,7 @@ If you could give a model unlimited context and have it remember everything, you
 
 So is that solvable?
 
-Will Brown from [Prime Intellect](https://www.primeintellect.ai/) was on [TBPN](https://www.youtube.com/live/Q-U0HWN5rHM?si=MqIIDR8gFzEE0xQ-&t=8483) recently and said something interesting:
+Will Brown from [Prime Intellect](https://www.primeintellect.ai/) was on [TBPN](https://www.youtube.com/live/Q-U0HWN5rHM?si=MqIIDR8gFzEE0xQ-&t=8483) recently :
 
 > Continual learning is going to fall pretty quickly. I think it's more of an engineering problem... No one's actually trying. OpenAI and Anthropic don't want to continuously train their models for each user. It's expensive and annoying and hard to serve at scale. But from a research perspective, we do continual learning—the model learns new things, they just keep training it more and it knows more stuff. Uneconomical right now, but there's enough tricks. There doesn't seem to be any big wall in sight that prevents it from being practical.
 
@@ -52,7 +52,7 @@ So maybe the constraint isn't fundamental. Maybe it's economic. The labs aren't 
 
 ---
 
-I find this cautiously encouraging.
+That's encouraging.
 
 The history of machine learning never felt exponential at the time. It's overlapping sigmoids—you hit a ceiling, it looks impossible, then someone breaks through. Ilya Sutskever became famous partly for breaking through a series of seemingly impossible ceilings.
 

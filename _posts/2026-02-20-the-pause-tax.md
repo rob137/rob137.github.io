@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Pause Tax"
+title: "Pause Tax"
 date: 2026-02-20 12:00:00 +0000
 tags: [ai, software, workflow]
 excerpt: "You are the bottleneck now."
 ---
 
-![The Pause Tax](/assets/images/2026-02-20-the-pause-tax.png)
+![Pause Tax](/assets/images/2026-02-20-the-pause-tax.png)
 
 I've used [org-mode](https://orgmode.org/) in Emacs for years. One file, living in my home directory - the first thing I set up when I get a new work laptop. A keybind opens it from anywhere; it's the touchbase for everything. Plain text, tree structure, simple checkboxes. Unreasonably effective.
 
