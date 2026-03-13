@@ -24,7 +24,7 @@ But something shifted. The VS Code extensions for these tools are now just UI sh
 
 When the agent takes a screenshot to verify something, GUI users see it inline. When it generates a diagram, they see it. When it shows you what it's looking at, they see it. In the terminal, I see a file path. Terminals render text - that's what they do, and there's no way around it. A TUI cannot show you a picture. As AI feedback loops tighten, as visual verification becomes part of how you work with agents, that gap matters more.
 
-You could work around this. The harness could auto-open images in your OS when the agent wants to show you something - pop up a preview window. It's not hard to build. But it's still not the same as inline; your eyes leave the terminal, you context-switch, and the flow breaks, even if only briefly.
+You could work around this. The harness could auto-open images in your OS when the agent wants to show you something - pop up a preview window. It's not hard to build. But it's still not the same as inline; your eyes leave the terminal, you context-switch, and the flow breaks, even if only briefly. And there's an [Amdahl's law](/2026/01/03/position-before-submission/) dynamic here: everything else gets faster with scaling laws, but this human friction stays fixed. A small context-switch today becomes a relatively larger bottleneck as the rest of the workflow accelerates.
 
 So maybe the trajectory isn't terminal forever. Strip away the IDE cruft, yes - get down to agent plus codebase plus prompt. But the surface you interact through might swing back toward GUI. Not the old IDE, but something leaner: a shell that can show you what the agent sees.
 
