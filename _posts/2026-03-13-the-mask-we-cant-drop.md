@@ -34,7 +34,7 @@ Yegge put it well in a [recent interview](https://youtu.be/aFsAOu2bgFk?si=HmI24l
 
 > Gas Town right now, the reason I say you can't use it, is that it's a factory filled with workers and you're talking to it through a telephone. You can also go and look through the window and pound on it and talk to the workers, but it's not like you're in it. With a UI you're in it, and you can see what's going on.
 
-His prediction: by the end of the year, most people will be programming by talking to a face. The complexity will be hidden entirely.
+His prediction: by the end of the year, most people will be programming by talking to a face—literally an animated character on screen, maybe a fox, that you speak to out loud. You say "why doesn't it work?" and it says "I'll go look at it" and spins off workers behind the scenes. Voice in, voice out. The complexity hidden entirely.
 
 Which sounds great. But it also suggests we might be locked into the mask for a while. User adoption and preferences mean we can never really let go of the simple interface—at least until the underlying constraint loosens.
 
