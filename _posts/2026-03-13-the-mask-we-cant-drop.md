@@ -70,4 +70,4 @@ So maybe it's solvable. Maybe it's just economics. Or maybe context is the wall 
 
 I don't know which way this goes. The history of machine learning is overlapping sigmoids. You hit a ceiling, it looks impossible, then someone breaks through. Ilya Sutskever became famous partly for breaking through a series of seemingly impossible ceilings.
 
-But eighteen months is a long time in AI. It's also not very long at all. Josh was right not to make predictions. The shoggoth might keep growing tentacles. Or the mask might be all that's left.
+But eighteen months is a long time in AI. It's also not very long at all. Josh was right not to make predictions. The shoggoth will keep growing. The question is whether the mask grows with it, becoming unbelievably elaborate to hide what's underneath.
