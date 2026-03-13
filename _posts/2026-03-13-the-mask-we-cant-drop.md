@@ -24,6 +24,8 @@ Josh was admirably humble about where this is all heading. He could see it going
 
 But walking home, I kept thinking about the shoggoth meme.
 
+![The shoggoth meme](/assets/images/shoggoth-meme.jpeg)
+
 You know the one—the Lovecraftian horror holding a thin smiley-face mask. It was originally about AI risk: don't anthropomorphise models, because beneath the surface they're very not-human. Fair enough.
 
 But I think you could apply the same image to AI *systems*. The chat interface is the mask. Behind it, we're building increasingly elaborate machinery to squeeze useful work out of context-limited models. Orchestrators, memory systems, tool routers, recursive summarisation. The mask stays simple because users expect simple. The shoggoth grows tentacles.
