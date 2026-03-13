@@ -10,7 +10,7 @@ excerpt: "Terminals have two of them."
 
 Terminals have two image problems.
 
-The first is perception - they're foreboding, hiding possibilities behind memorized incantations rather than revealing them through buttons and dropdowns. If you know man pages exist you can figure things out, but it's not intuitive.
+The first is perception - they're foreboding, hiding possibilities behind memorized incantations rather than revealing them through buttons and dropdowns. If you know man pages exist you can figure things out, but it's not intuitive. Within software engineering, though, that's also what makes them high status. The esoteric knowledge is part of the appeal. It's not lost on me that some degree of pride pushed me into learning Vim and TMUX when I was a junior dev.
 
 The second is literal: terminals can't display images. And that's starting to matter.
 
