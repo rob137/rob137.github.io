@@ -6,7 +6,7 @@ tags: [ai, agentic, architecture, context-windows, bitter-lesson]
 excerpt: "Agentic systems are getting complicated. Two forces might reverse that. Unless context windows are a hard constraint."
 ---
 
-I was at an AI meetup at Jesus College Oxford last week and got talking to Josh Lawman, who runs [Adder](https://www.adder.dev/), a small AI consultancy working with local businesses. He gave a short talk comparing how agentic architectures have evolved. One of those talks that's both enjoyable and leaves you with something to chew on afterwards.
+I was at an AI meetup at Jesus College Oxford last week and saw a talk by Josh Lawman, who runs [Adder](https://www.adder.dev/), a small AI consultancy working with local businesses. He was comparing how agentic architectures have evolved. One of those talks that's both enjoyable and leaves you with something to chew on afterwards.
 
 He pulled up Anthropic's "Building Effective Agents" diagrams from late 2024:
 
