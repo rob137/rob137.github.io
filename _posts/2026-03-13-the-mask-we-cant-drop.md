@@ -18,7 +18,7 @@ Then he showed what Anthropic's multi-agent architecture looks like in 2026:
 
 The jump is hard to miss. What was a tidy feedback loop has become an orchestration layer managing parallel workers, state machines, and specialised sub-agents. And that's just one vendor's reference architecture. Steve Yegge's [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) has mayors, polecats, witnesses, and refineries. It's a lot.
 
-Josh was admirably humble about where this is all heading. He could see it going either way. I felt the same at the time.
+Josh wasn't making predictions—he could see it going either way. I felt the same at the time.
 
 ---
 
