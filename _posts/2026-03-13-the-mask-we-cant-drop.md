@@ -40,7 +40,7 @@ Which sounds great. But it also suggests we might be locked into the mask for a 
 
 ---
 
-What's the underlying constraint? Context windows.
+What's the underlying constraint? My guess is context windows.
 
 If you could give a model unlimited context and have it remember everything, you wouldn't need orchestrators juggling state across parallel workers. You wouldn't need recursive summarisation or memory retrieval systems. The architecture could flatten.
 
