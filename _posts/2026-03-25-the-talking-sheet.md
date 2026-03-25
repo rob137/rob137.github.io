@@ -12,7 +12,7 @@ I'm a software engineer. My days run on something close to Paul Graham's [maker'
 
 The feature list isn't the interesting part. What's interesting is that the more useful mental model has quietly shifted. This isn't an LLM that can reference a spreadsheet. It's a spreadsheet that can reason, update itself, search the web, and kick off actions. Intelligence added to Excel, not Excel added to an LLM.
 
-That inversion matters. We're over three years past ChatGPT and most applications are still fundamentally static. Same flows, same expectations of users, same interfaces. The interesting frontier isn't chatbot intelligence. It's intelligence showing up inside the applications people already live in, doing work where the data already is.
+Intelligence is moving into the apps people already use, and that matters more than anything chatbots are doing. We're over three years past ChatGPT and most applications are still fundamentally static. Same flows, same expectations of users, same interfaces. This is where the change actually lands.
 
 ---
 
@@ -26,4 +26,4 @@ People are calling these "super apps", borrowing the term from WeChat and its de
 
 ---
 
-My five-year-old can use a computer you talk to. She couldn't use a computer from the 1990s without serious coaching. The natural interface won, and the direction of travel is clear: intelligence goes into the tools, not the other way around. The chatbot era was a detour. The managers on my team figured this out before I did, because they never left Excel in the first place.
+My five-year-old can use a computer you talk to. She couldn't use a computer from the 1990s without serious coaching. The chatbot era was a detour. The managers on my team figured this out before I did, because they never left Excel in the first place.
