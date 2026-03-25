@@ -10,7 +10,7 @@ excerpt: "We keep adding applications to LLMs. The thing that's actually happeni
 
 I'm a software engineer. My days run on something close to Paul Graham's [maker's schedule](https://www.paulgraham.com/makersschedule.html): terminal, plain text files, long unbroken stretches. I avoid Outlook and Excel the way a cat avoids water. But I spend a lot of time talking to managers across the business, and over the past few weeks something has shifted. They're in a sugar rush. The cause is [Claude for Excel](https://support.claude.com/en/articles/12650343-use-claude-for-excel).
 
-What's interesting isn't the feature list. It's how they describe it. Nobody says "I'm using an AI tool that can read my spreadsheet." They say "my spreadsheet can talk now." The mental model flipped without anyone noticing. They're not adding Excel to an LLM. They're adding intelligence to Excel.
+The feature list isn't the interesting part. What's interesting is that the more useful mental model has quietly shifted. This isn't an LLM that can reference a spreadsheet. It's a spreadsheet that can reason, update itself, search the web, and kick off actions. Intelligence added to Excel, not Excel added to an LLM.
 
 That inversion matters. We're over three years past ChatGPT pushing language models into broader consciousness, and most software is still fundamentally the same as it was before. The dominant interaction pattern is still "go to a chatbot, paste your thing in, get a response, paste it back." The interesting frontier isn't chatbot intelligence. It's intelligence showing up inside the applications people already live in, doing work where the data already is.
 
