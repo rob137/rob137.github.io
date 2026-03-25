@@ -12,7 +12,7 @@ I'm a software engineer. My days run on something close to Paul Graham's [maker'
 
 The feature list isn't the interesting part. What's interesting is that the more useful mental model has quietly shifted. This isn't an LLM that can reference a spreadsheet. It's a spreadsheet that can reason, update itself, search the web, and kick off actions. Intelligence added to Excel, not Excel added to an LLM.
 
-That inversion matters. We're over three years past ChatGPT pushing language models into broader consciousness, and most software is still fundamentally the same as it was before. The dominant interaction pattern is still "go to a chatbot, paste your thing in, get a response, paste it back." The interesting frontier isn't chatbot intelligence. It's intelligence showing up inside the applications people already live in, doing work where the data already is.
+That inversion matters. We're over three years past ChatGPT and most applications are still fundamentally static. Same flows, same expectations of users, same interfaces. The interesting frontier isn't chatbot intelligence. It's intelligence showing up inside the applications people already live in, doing work where the data already is.
 
 ---
 
