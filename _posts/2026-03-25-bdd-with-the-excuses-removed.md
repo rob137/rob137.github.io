@@ -12,7 +12,7 @@ In January 2023, Andrej Karpathy posted what became one of the most-shared tweet
 
 ![Karpathy tweet: The hottest new programming language is English](/assets/images/karpathy-english-tweet.png)
 
-10.8 million views. He followed up with a [thread](https://x.com/karpathy/status/1617979122625712128) cataloguing what he meant: voice assistants programmed in English, LLMs as backends taking state as JSON and modifying it based on natural language, system prompts constructing entire identities. His summary: "GPT is a general-purpose computer, reconfigurable at run-time to run natural language programs." And this new paradigm had the potential to expand the number of programmers to 1.5 billion people.
+It got 10.8 million views, and he followed up with a [thread](https://x.com/karpathy/status/1617979122625712128) cataloguing what he meant: voice assistants programmed in English, LLMs as backends taking state as JSON and modifying it based on natural language, system prompts constructing entire identities. His summary: "GPT is a general-purpose computer, reconfigurable at run-time to run natural language programs." And this new paradigm had the potential to expand the number of programmers to 1.5 billion people.
 
 That was over three years ago. He was right. But what's interesting now is watching the formalisation catch up with the intuition.
 
@@ -22,9 +22,9 @@ A recent paper on arxiv, [Spec-Driven Development](https://arxiv.org/html/2602.0
 
 > The quality of specifications directly determines the quality of everything that follows. Good specs share several characteristics: they are behavior-focused, describing what happens rather than how; they are testable, with each requirement being verifiable; they are unambiguous, meaning different readers reach the same interpretation; and they are complete enough to cover essential cases without over-specifying.
 
-Read that again. Behavior-focused. Testable. Unambiguous. Complete enough without over-specifying. If you've spent any time with [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development), this is not new. This is BDD's definition, restated for an AI audience.
+Behavior-focused. Testable. Unambiguous. Complete enough without over-specifying. If you've spent any time with [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development), this is just BDD's definition, restated for an AI audience.
 
-Dan North [introduced BDD](https://dannorth.net/introducing-bdd/) as an evolution of TDD, itself building on Eric Evans' [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design). Martin Fowler wrote about the same ideas via [Given-When-Then](https://martinfowler.com/bliki/GivenWhenThen.html). Dave Farley has spent years [arguing](https://www.youtube.com/watch?v=gXh0iUt4TXA) that BDD is about collaboration and specification, not about Cucumber syntax. None of this is obscure.
+Dan North [introduced BDD](https://dannorth.net/introducing-bdd/) as an evolution of TDD, itself building on Eric Evans' [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design). Martin Fowler wrote about the same ideas via [Given-When-Then](https://martinfowler.com/bliki/GivenWhenThen.html). Dave Farley has spent years [arguing](https://www.youtube.com/watch?v=gXh0iUt4TXA) that BDD is about collaboration and specification, not about Cucumber syntax. None of this is obscure, and none of it is recent.
 
 The SDD paper's author knows it too. He spends serious time elsewhere on Cucumber and other executable spec tools, and he cites Bryan Finster directly: ["SDD is not a revolution… it's just BDD with branding."](https://bdfinst.medium.com/5-minute-devops-spec-driven-development-isnt-new-3a5c552efc95) Finster's piece is worth reading in full. His framing is sharper: "Tests describe behavior. Behavior drives code. Code is the implementation detail." And his closing line: "AI amplifies your discipline or your dysfunction. Your choice." The paper acknowledges all of this and still softens the framing. I think that's a misstep.
 
