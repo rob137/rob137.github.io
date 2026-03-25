@@ -7,7 +7,7 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 ### Intelligence Inside Existing Tools (Claude + Excel)
 **Status:** Idea - ready for draft
 **Notes:** [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
-**Core idea:** The meaningful frontier is not "chatbot intelligence" but intelligence embedded into existing applications. Claude's Excel integration is a clean example: capability appears when model + live data + familiar interface are combined. This reframes "AI tools" as runtime overlays on existing workflows, not separate products.
+**Core idea:** We think of it as adding Excel to Claude/ChatGPT, but the right mental model is adding intelligence to Excel. Frontier models (Opus 4.6 as example) are very good at this, to the point where it's mostly about updating priors: this is a talking, acting spreadsheet, not an LLM that happens to reference a spreadsheet. The model can update, reason about, refactor, search the web based on, and kick off actions from the sheet. The meaningful frontier is intelligence embedded in existing applications, not chatbot intelligence.
 
 ### Is/Ought Drift in AI Work
 **Status:** Raw transcript
@@ -18,10 +18,6 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 **Status:** Idea - addendum or standalone
 **Notes:** [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
 **Core idea:** Add the missing barbell point from Strudel: avoid a team composed purely of "middle" assumptions. In high-change environments, small teams benefit from a deliberate mix of optimistic-naive and scarred-sceptical profiles, with someone translating between them.
-
-### How Hiring Has Changed
-**Status:** Idea - reading Joel Spolsky's book
-**Core idea:** Reflections on how hiring has changed in the AI era. Reading Joel Spolsky's hiring book (based on his blog). More to come.
 
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
@@ -53,9 +49,8 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 **Core idea:** Human-in-the-loop becoming bottleneck. "Exiting hyperspace every time I need to communicate." Economy isn't designed around humans - we contort to fit it. 80% at 1000x efficiency makes the 20% irrelevant. Hand woven baskets, horse riding as recreation. Bangladesh suits. Quality dips then blasts past artisan levels. Artisanal concerns come from artisans who might get sidelined. Have used this analogy at work including on internal corporate podcast.
 
 ### Spec-Driven Development Is Just BDD With Agents
-**Status:** Idea
+**Status:** Published — [BDD With the Excuses Removed](/2026/03/25/bdd-with-the-excuses-removed/)
 **Notes:** [spec-driven-dev.md](/_notes/spec-driven-dev.md)
-**Core idea:** "Spec-driven development" sounds like a new AI-native practice but it's really behavioral-driven design with agents on top. The more people adopt BDD (even accidentally via spec-driven dev), the better off we'll be.
 
 ---
 
@@ -65,6 +60,13 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 
 **Raw notes (12 Feb 2026):**
 > There's this idea that in a world where workflows are changing really rapidly and there's loads of overhang in the abilities of AI models that you're using in software, like to do coding or to build software, I think the single worst thing you could say to a small team is "here is the prescribed way you ought to act." And implicitly, there is therefore a lot of political risk for you as an individual in going against this prescribed pattern. And the reason being is that things haven't settled yet. This is still incredibly tumultuous because the progress of the models is on such a steep curve at the moment.
+
+---
+
+### Shiny Object Syndrome as Competitive Advantage
+**Status:** Idea
+**Notes:** [shiny-objects.md](/_notes/shiny-objects.md)
+**Core idea:** Using AI agent skills as the anecdote, but the article is really about decision-making under uncertainty with new technology: is pursuing the new thing going to be a net positive? The pace of change massively favours people with what used to be called shiny object syndrome. Anecdote about a colleague at work who latched onto skills faster than Rob did because of different mental models. Thorsten Ball (Sourcegraph/Amp) as the spirit animal for the cautious type; Simon Willison as the spirit animal for the colleague who goes all in early on everything. May expand on a point from a previous article.
 
 ---
 
