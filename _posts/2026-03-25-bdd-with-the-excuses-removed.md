@@ -56,7 +56,7 @@ And whether you think carefully before writing code is one choice, but whether y
 
 I keep coming back to the Trojan horse, though.
 
-Most teams don't do BDD. They know they should. Farley, Humble, Evans, Spolsky — decades of smart people arguing that careful upfront thinking pays off. The industry nodded politely and kept sprinting toward the next arbitrary deadline. The friction was always the excuse. Writing specs took time. Maintaining them took more. The ROI was real but distant, and distant ROI loses to deadline pressure every single time.
+Most teams don't do BDD. They know they should. [Farley](https://www.youtube.com/@ContinuousDelivery), [Humble](https://continuousdelivery.com/), [Evans](https://www.domainlanguage.com/), [Spolsky](https://www.joelonsoftware.com/) — decades of smart people arguing that careful upfront thinking pays off. The industry nodded politely and kept sprinting toward the next arbitrary deadline. The friction was always the excuse. Writing specs took time. Maintaining them took more. The ROI was real but distant, and distant ROI loses to deadline pressure every single time.
 
 SDD collapses the distance. The spec is no longer documentation you maintain alongside the code. It's the input that produces the code. The ROI is immediate. And if a tool like Kiro gets people writing behavioral specifications who otherwise wouldn't have written them at all, that's a net win even if the tool itself is eventually superseded.
 
