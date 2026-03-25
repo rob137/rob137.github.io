@@ -1,6 +1,6 @@
 # Blog Post Backlog
 
-Ideas extracted from ambient recordings and conversations.
+Article ideas and future post topics. Raw material (quotes, transcripts, dictations, links) goes in `_notes/`.
 
 ---
 
@@ -52,6 +52,13 @@ Ideas extracted from ambient recordings and conversations.
 **Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
 **Core idea:** Human-in-the-loop becoming bottleneck. "Exiting hyperspace every time I need to communicate." Economy isn't designed around humans - we contort to fit it. 80% at 1000x efficiency makes the 20% irrelevant. Hand woven baskets, horse riding as recreation. Bangladesh suits. Quality dips then blasts past artisan levels. Artisanal concerns come from artisans who might get sidelined. Have used this analogy at work including on internal corporate podcast.
 
+### Spec-Driven Development Is Just BDD With Agents
+**Status:** Idea
+**Notes:** [spec-driven-dev.md](/_notes/spec-driven-dev.md)
+**Core idea:** "Spec-driven development" sounds like a new AI-native practice but it's really behavioral-driven design with agents on top. The more people adopt BDD (even accidentally via spec-driven dev), the better off we'll be.
+
+---
+
 ### Don't Prescribe Workflows (working title)
 **Status:** Raw transcript
 **Core idea:** In a world where workflows are changing rapidly and there's massive overhang in AI model abilities for coding/software, the single worst thing you can say to a small team is "here is the prescribed way you ought to act" - because it implicitly creates political risk for individuals who go against the pattern. Things haven't settled yet. Still incredibly tumultuous because progress is on such a steep curve. Fundamentally about central planning vs decentralisation - specifically when encountering a novel and rapidly changing landscape. Decision-making under uncertainty. More to come.
@@ -61,4 +68,4 @@ Ideas extracted from ambient recordings and conversations.
 
 ---
 
-*Last updated: 2026-02-18*
+*Last updated: 2026-03-25*
