@@ -12,7 +12,7 @@ I'm a software engineer. My days run on something close to Paul Graham's [maker'
 
 The feature list isn't the interesting part. What's interesting is that the more useful mental model has quietly shifted. This isn't an LLM that can reference a spreadsheet. It's a spreadsheet that can reason, update itself, search the web, and kick off actions. Intelligence added to Excel, not Excel added to an LLM.
 
-Intelligence is moving into the apps people already use, and that matters more than anything chatbots are doing. We're over three years past ChatGPT and most applications are still fundamentally static. Same flows, same expectations of users, same interfaces. This is where the change actually lands.
+Intelligence is moving into the apps people already use, and that matters more than anything chatbots are doing. Microsoft tried this early with Copilot and it felt premature for a long time. What changed is the quality of Q1 2026 frontier models, Opus 4.6, GPT-5.4 and their peers. The reliability crossed a threshold. We're over three years past ChatGPT and most applications are still fundamentally static. Same flows, same expectations of users, same interfaces. This is where the change actually lands.
 
 ---
 
