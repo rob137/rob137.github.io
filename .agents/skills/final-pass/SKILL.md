@@ -33,7 +33,7 @@ Read the whole article in one pass as if encountering it for the first time. The
 
 ## Output format
 
-Present findings as two lists (tells and cohesion issues), each with line numbers and specific text. Then make the edits. Don't ask for approval first. Think, then act.
+Present findings as two lists (tells and cohesion issues), each with line numbers and specific text. Then make the edits, commit, and push. Don't ask for approval first. Think, then act.
 
 ## Voice
 
