@@ -4,10 +4,10 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 
 ---
 
-### Intelligence Inside Existing Tools (Claude + Excel)
-**Status:** Idea - ready for draft
-**Notes:** [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
-**Core idea:** We think of it as adding Excel to Claude/ChatGPT, but the right mental model is adding intelligence to Excel. Frontier models (Opus 4.6 as example) are very good at this, to the point where it's mostly about updating priors: this is a talking, acting spreadsheet, not an LLM that happens to reference a spreadsheet. The model can update, reason about, refactor, search the web based on, and kick off actions from the sheet. The meaningful frontier is intelligence embedded in existing applications, not chatbot intelligence.
+### Intelligence Inside Existing Tools / Super Apps
+**Status:** Idea - needs personal anecdote to anchor it
+**Notes:** [intelligence-inside-apps.md](/_notes/intelligence-inside-apps.md), [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
+**Core idea:** 3+ years past ChatGPT and most software is still the same. The arrow is inverted: intelligence goes into Excel, not Excel into the LLM. Super apps (Anthropic Dispatch, OpenAI desktop superapp, OpenClaw's 250k stars in 4 months) are the desire line. Emacs analogy: OS in search of a text editor, but now it's a frontier model with a thin harness wired to your computer. Rob's 5-year-old intuitively gets it.
 
 ### Is/Ought Drift in AI Work
 **Status:** Raw transcript
