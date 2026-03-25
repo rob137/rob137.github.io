@@ -26,4 +26,4 @@ People are calling these "super apps", borrowing the term from WeChat and its de
 
 ---
 
-My five-year-old can use a computer you talk to. She couldn't use a computer from the 1990s without serious coaching. The chatbot era was a detour. The managers on my team figured this out before I did, because they never left Excel in the first place.
+My five-year-old can use a computer you talk to. She couldn't use a computer from the 1990s without serious coaching. The chatbot was always a transitional interface, and the managers on my team figured this out before I did, because they never left Excel in the first place.
