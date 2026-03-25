@@ -26,7 +26,9 @@ Read that again. Behavior-focused. Testable. Unambiguous. Complete enough withou
 
 Dan North [introduced BDD](https://dannorth.net/introducing-bdd/) as an evolution of TDD, itself building on Eric Evans' [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design). Martin Fowler wrote about the same ideas via [Given-When-Then](https://martinfowler.com/bliki/GivenWhenThen.html). Dave Farley has spent years [arguing](https://www.youtube.com/watch?v=gXh0iUt4TXA) that BDD is about collaboration and specification, not about Cucumber syntax. None of this is obscure.
 
-The SDD paper's author knows it too. He spends serious time elsewhere on Cucumber and other executable spec tools. He's not ignorant of the history. He just softens the framing, and I think that's a misstep.
+The SDD paper's author knows it too. He spends serious time elsewhere on Cucumber and other executable spec tools, and he cites Bryan Finster directly: ["SDD is not a revolution… it's just BDD with branding."](https://bdfinst.medium.com/5-minute-devops-spec-driven-development-isnt-new-3a5c552efc95) Finster's piece is worth reading in full. His framing is sharper than the paper's: "Tests describe behavior. Behavior drives code. Code is the implementation detail." And his closing line: "AI amplifies your discipline or your dysfunction. Your choice."
+
+The paper's author isn't ignorant of any of this. He just softens the framing, and I think that's a misstep.
 
 ---
 
