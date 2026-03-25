@@ -3,7 +3,7 @@ layout: post
 title: "BDD With the Excuses Removed"
 date: 2026-03-25 09:00:00 +0000
 tags: [ai, software, bdd, specifications, sdlc]
-excerpt: "Spec-driven development isn't new. It's what happens when the old discipline finally pays off."
+excerpt: "The people pushing spec-driven development know it's not new. That might be the point."
 ---
 
 ![BDD With the Excuses Removed](/assets/images/2026-03-25-bdd-with-the-excuses-removed.png)
