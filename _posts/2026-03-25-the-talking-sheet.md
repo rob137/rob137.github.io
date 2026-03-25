@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Talking Sheet"
+title: "Talking Spreadsheets"
 date: 2026-03-25 12:00:00 +0000
 tags: [ai, software, tools, interfaces]
 excerpt: "We keep adding applications to LLMs. The thing that's actually happening is the reverse."
 ---
 
-![Talking Sheet](/assets/images/2026-03-25-the-talking-sheet.png)
+![Talking Spreadsheets](/assets/images/2026-03-25-the-talking-sheet.png)
 
 I'm a software engineer. My days run on something close to Paul Graham's [maker's schedule](https://www.paulgraham.com/makersschedule.html): terminal, plain text files, long unbroken stretches. I avoid Outlook and Excel the way a cat avoids water. But I spend a lot of time talking to managers across the business, and over the past few weeks something has shifted. They're in a sugar rush. The cause is [Claude for Excel](https://support.claude.com/en/articles/12650343-use-claude-for-excel).
 
