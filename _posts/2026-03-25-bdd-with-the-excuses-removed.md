@@ -12,7 +12,7 @@ In January 2023, Andrej Karpathy posted what became one of the most-shared tweet
 
 ![Karpathy tweet: The hottest new programming language is English](/assets/images/karpathy-english-tweet.png)
 
-It got 10.8 million views, and he followed up with a [thread](https://x.com/karpathy/status/1617979122625712128) cataloguing what he meant: voice assistants programmed in English, LLMs as backends taking state as JSON and modifying it based on natural language, system prompts constructing entire identities. His summary: "GPT is a general-purpose computer, reconfigurable at run-time to run natural language programs." And this new paradigm had the potential to expand the number of programmers to 1.5 billion people.
+It got 10.8 million views, and he followed up with a [thread](https://x.com/karpathy/status/1617979122625712128) cataloguing what he meant: voice assistants programmed in English, LLMs as backends taking state as JSON and modifying it based on natural language, system prompts constructing entire identities. His summary: "GPT is a general-purpose computer, reconfigurable at run-time to run natural language programs." And this new way of programming had the potential to expand the number of programmers to 1.5 billion people.
 
 That was over three years ago. He was right. But what's interesting now is watching the formalisation catch up with the intuition.
 
@@ -22,7 +22,7 @@ A recent paper on arxiv, [Spec-Driven Development](https://arxiv.org/html/2602.0
 
 > The quality of specifications directly determines the quality of everything that follows. Good specs share several characteristics: they are behavior-focused, describing what happens rather than how; they are testable, with each requirement being verifiable; they are unambiguous, meaning different readers reach the same interpretation; and they are complete enough to cover essential cases without over-specifying.
 
-Behavior-focused. Testable. Unambiguous. Complete enough without over-specifying. If you've spent any time with [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development), this is just BDD's definition, restated for an AI audience.
+Behavior-focused, testable, unambiguous, complete enough without over-specifying. If you've spent any time with [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development), this is just BDD's definition, restated for an AI audience.
 
 Dan North [introduced BDD](https://dannorth.net/introducing-bdd/) as an evolution of TDD, itself building on Eric Evans' [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design). Martin Fowler wrote about the same ideas via [Given-When-Then](https://martinfowler.com/bliki/GivenWhenThen.html). Dave Farley has spent years [arguing](https://www.youtube.com/watch?v=gXh0iUt4TXA) that BDD is about collaboration and specification, not about Cucumber syntax. None of this is obscure, and none of it is recent.
 
@@ -56,11 +56,11 @@ And whether you think carefully before writing code is one choice, but whether y
 
 I keep coming back to the Trojan horse, though.
 
-Most teams don't do BDD. They know they should. [Farley](https://www.youtube.com/watch?v=Cg4Jhx099mU), [Humble](https://continuousdelivery.com/), [Evans](https://www.domainlanguage.com/), [Spolsky](https://www.joelonsoftware.com/) — decades of smart people arguing that careful upfront thinking pays off. The industry nodded politely and kept sprinting toward the next arbitrary deadline. The friction was always the excuse. Writing specs took time. Maintaining them took more. The ROI was real but distant, and distant ROI loses to deadline pressure every single time.
+Most teams don't do BDD. They know they should. [Farley](https://www.youtube.com/watch?v=Cg4Jhx099mU), [Humble](https://continuousdelivery.com/), [Evans](https://www.domainlanguage.com/), [Spolsky](https://www.joelonsoftware.com/), decades of smart people arguing that careful upfront thinking pays off. The industry nodded politely and kept sprinting toward the next arbitrary deadline. The friction was always the excuse. Writing specs took time. Maintaining them took more. The ROI was real but distant, and distant ROI loses to deadline pressure every single time.
 
 SDD collapses the distance. The spec is no longer documentation you maintain alongside the code. It's the input that produces the code. The ROI is immediate. And if a tool like Kiro gets people writing behavioral specifications who otherwise wouldn't have written them at all, that's a net win even if the tool itself is eventually superseded.
 
-My suspicion is that the bitter lesson is coming for the contrivance. Heavy intermediary tooling will get steamrolled as models get smarter and context windows get longer. But the bitter lesson is *not* coming for clarity of intent. Thinking carefully about what you want, in precise language, before asking a machine to build it. That part sticks.
+My suspicion is that the bitter lesson is coming for the contrivance. Heavy intermediary tooling will get steamrolled as models get smarter and context windows get longer. But the bitter lesson is *not* coming for clarity of intent. Thinking carefully about what you want, in precise language, before asking a machine to build it, is a habit that sticks.
 
 SDD might be transitional technology pointing at a permanent practice. If the scaffolding falls away and the discipline remains, it will have done its job.
 
