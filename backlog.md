@@ -70,4 +70,10 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 
 ---
 
-*Last updated: 2026-03-25*
+### The Human Agent (working title)
+**Status:** Idea
+**Core idea:** Semi-satirical piece introducing "Human 1.0" as a new kind of agent. Describe the spec honestly: context window resets every ~16 hours (sleep required), known to hallucinate with high confidence, prone to emotional state bleed-through, requires caloric refuelling, exhibits status-seeking behaviour that degrades output quality. Frame it as a product review or release note. The joke lands because every "flaw" we critique in LLMs has a direct human analogue we just treat as a given. Reframes model limitations as engineering tradeoffs rather than disqualifying defects.
+
+---
+
+*Last updated: 2026-03-26*
