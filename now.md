@@ -15,7 +15,7 @@ Busy with young kids. Enjoying family life, but there isn't really time for DIY 
 
 I'm also starting to explore making field recordings with my eldest daughter for her Yoto, so she can use them as sleep sounds. I like the idea of making something useful and slightly magical out of ordinary walks.
 
-I'm currently reading multiple translations of *The Idiot* by Fyodor Dostoevsky, and also reading *Tehanu* from the Earthsea sequence.
+I'm currently reading multiple translations of *The Idiot* by Fyodor Dostoevsky, and also reading *Tehanu* from the Earthsea sequence. I'm deliberately going slowly and rereading, trying to make sure I'm doing it for pleasure rather than for the sake of progress or completion.
 
 ## Music
 
