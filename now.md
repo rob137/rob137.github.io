@@ -15,10 +15,12 @@ Insanely busy with young kids. Enjoying family life, but there isn't really time
 
 ## Music
 
-Taking piano lessons again. Learning scales and chords properly for the first time in my life - things I totally neglected growing up. Working through the Real Book. Currently learning "All of Me".
+Taking piano lessons again, but in a very different spirit from how I approached them as a kid. Right now I'm learning "All of Me" as a vehicle for chord inversions rather than as a piece to just get through. I've now worked through all the major and minor scales, can move around the circle of fifths, and have started drilling broken chords through those patterns as well.
 
-As a kid, I resented piano lessons. I thought they were waypoints towards grade exams I didn't enjoy. The pressure was partly the framing of lessons, partly self-imposed. Now I'm treating piano as a meditative activity rather than an achievement thing. Repeating scales and drills and pieces to get better for the sake of getting better - a way of spending time well rather than something that leads anywhere.
+As a kid, I resented piano lessons. I thought they were waypoints towards grade exams I didn't enjoy. The pressure was partly the framing of lessons, partly self-imposed. Now I'm treating piano as something closer to play: useful drills, no exam pressure, and a growing sense that improvisation is actually within reach if I keep building the basics properly. I'm also learning a handful of Koji Kondo pieces from the Zelda games my kids love - Ocarina of Time, Majora's Mask, Wind Waker - which turns out to be a very good incentive structure.
 
 ## BJJ
 
-An elbow injury has made me train a little less recently. Still enjoying working with people at my gym who are preparing for competition. I'm too busy with work and family to compete myself at the moment, but I'm hoping to get back to it when things settle down. In the meantime, it's really fun helping people prep.
+I had a short layoff because of work and illness and am now getting back into it. What always surprises me is how much it feels like I've forgotten in the first few minutes back, as if I've become a beginner again, and then how quickly it all comes back after a couple of rolls.
+
+I'm still too busy with work and family to put serious thought into competing myself, but I enjoy being around people at the gym who are preparing for competition. For now, getting back into a steady rhythm is enough.
