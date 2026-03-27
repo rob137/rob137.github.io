@@ -13,6 +13,8 @@ permalink: /now/
 
 Busy with young kids. Enjoying family life, but there isn't really time for DIY or the sorts of things that kept me out of trouble before. The one exception is AI and technology. That curiosity seems to survive every season.
 
+I'm also starting to explore making field recordings with my eldest daughter for her Yoto, so she can use them as sleep sounds. I like the idea of making something useful and slightly magical out of ordinary walks.
+
 ## Music
 
 Taking piano lessons again, but in a very different spirit from how I approached them as a kid. Right now I'm learning "All of Me" as a vehicle for chord inversions rather than as a piece to just get through. I've worked through all the major and minor scales, can move around the circle of fifths, and have started drilling broken chords through those patterns as well.
