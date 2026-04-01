@@ -11,14 +11,14 @@ permalink: /now/
 
 ## Family
 
-Making field recordings with my eldest daughter for her Yoto. She's leading it — choosing which sounds to combine to build scenes. Sleep sounds from ordinary walks, but she's the one composing them.
+Making field recordings with my eldest daughter for her Yoto. She chooses which sounds to combine to build scenes. Sleep sounds from ordinary walks, but she's composing them.
 
 ## Books and Music
 
-Piano lessons again, but treating it as play this time — no exams, just drills, chord inversions, and a growing sense that improvisation is within reach. Learning Zelda pieces for the kids helps.
+Piano lessons again. No exams, just drills and chord inversions. Learning Zelda pieces for the kids helps.
 
-Reading multiple translations of *The Idiot* and *Tehanu* from Earthsea. Going slowly on purpose — for pleasure, not completion.
+Reading multiple translations of *The Idiot* and *Tehanu* from Earthsea. Going slowly on purpose.
 
 ## BJJ
 
-Getting back into it after a layoff. Always surprises me how quickly it comes back after the first couple of rolls, despite feeling like a complete beginner walking in. Not competing, just finding a steady rhythm again.
+Getting back into it after a layoff. Always surprises me how quickly it comes back after the first couple of rolls. Not competing, just trying to go regularly.
