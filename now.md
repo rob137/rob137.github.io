@@ -11,9 +11,7 @@ permalink: /now/
 
 ## Family
 
-Busy with young kids. Enjoying family life, but there isn't really time for DIY or the sorts of things that kept me out of trouble before. The one exception is AI and technology. That curiosity seems to survive every season.
-
-I'm also starting to explore making field recordings with my eldest daughter for her Yoto, so she can use them as sleep sounds. I like the idea of making something useful and slightly magical out of ordinary walks.
+Making field recordings with my eldest daughter for her Yoto — sleep sounds from ordinary walks. I like making something useful and slightly magical out of what we'd be doing anyway.
 
 ## Books and Music
 
