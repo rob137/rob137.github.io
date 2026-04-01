@@ -11,7 +11,7 @@ permalink: /now/
 
 ## Family
 
-Making field recordings with my eldest daughter for her Yoto — sleep sounds from ordinary walks. I like making something useful and slightly magical out of what we'd be doing anyway.
+Making field recordings with my eldest daughter for her Yoto. She's leading it — choosing which sounds to combine to build scenes. Sleep sounds from ordinary walks, but she's the one composing them.
 
 ## Books and Music
 
