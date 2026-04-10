@@ -4,6 +4,7 @@
 - Rob's posts are compressed from ~25 mins of talking/dictation
 - Keep the spoken quality - don't over-polish
 - No melodrama
+- No short sentences for dramatic effect - understated British tone, not punchy
 - Avoid AI tells: "Not X because Y" + em dash, excessive hedging
 - Push after every change - easier to review in browser
 
