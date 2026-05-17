@@ -74,6 +74,11 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 **Status:** Idea
 **Core idea:** Semi-satirical piece introducing "Human 1.0" as a new kind of agent. Describe the spec honestly: context window resets every ~16 hours (sleep required), known to hallucinate with high confidence, prone to emotional state bleed-through, requires caloric refuelling, exhibits status-seeking behaviour that degrades output quality. Frame it as a product review or release note. The joke lands because every "flaw" we critique in LLMs has a direct human analogue we just treat as a given. Reframes model limitations as engineering tradeoffs rather than disqualifying defects.
 
+### Nicholas Carlini: From Skeptic to Alarmist
+**Status:** Raw material from LLM conversation
+**Notes:** See chat transcript (user provided)
+**Core idea:** Profile of Nicholas Carlini (security researcher, Anthropic) tracing his journey from LLM skeptic to believer to alarmist. Structure: open with comparative block quotes—his March 2025 blog post where he describes his former skeptical position ("fun toys... next-token prediction caps out"), contrasted with his recent unprompted 2026 talk quote ("autonomous zero-days... better vulnerability researchers than I am"). Then trace the arc: audio hacks and adversarial ML pre-LLMs, quiet skepticism during GPT-3 era, the March 2025 flip where he owns being wrong, escalating warnings through 2025 (COLM keynote, FORC paper), culminating in the live zero-day demos. Key insight: he's credible precisely because he's evidence-driven, not a flip-flopper—someone who saw the wave coming, then got hit by it.
+
 ---
 
-*Last updated: 2026-03-26*
+*Last updated: 2026-04-01*
