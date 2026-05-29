@@ -18,7 +18,7 @@ Most software engineers in large companies aren't in value-producing roles. They
 
 A cost centre can only squeeze a bit. You can make it cheaper, but there's a floor. A profit centre can scale to infinity.
 
-The military understands this. Compare the spend over ten years on a tier-1 special forces operator versus a line infantry soldier. You pour resources into the people who deliver disproportionate impact because average allocation would be suicidal.
+The military understands this. Compare the spend over ten years on a tier-1 special forces operator versus a line infantry soldier. You pour resources into the people who deliver disproportionate impact.
 
 Token leaderboards assume the opposite. They assume the right answer is communism - everyone gets the same ration, and we'll measure whether they're using it. But that gets it backwards. The question isn't "how do we make sure everyone's consuming tokens?" It's "who do we want to give the budget to, because they'll actually do something with it?"
 
@@ -30,7 +30,7 @@ A lot of studious, hard-working people are actually cost centres. They're doing 
 
 The companies that figure this out will do something different. They'll identify who actually generates value and give them asymmetric resources.
 
-Everyone else gets whatever's left after that, which might be a lot or might be nothing. The egalitarian version feels fairer. The asymmetric version is how you avoid institutional suicide.
+Everyone else gets whatever's left after that, which might be a lot or might be nothing. The egalitarian version feels fairer, but the asymmetric version is how you survive.
 
 ---
 
@@ -38,4 +38,4 @@ Everyone else gets whatever's left after that, which might be a lot or might be 
 
 Token communism is one way organisations can avoid confronting this. Give everyone the same budget, track it on a leaderboard, pretend the problem is adoption. The Amazon experiment demonstrated why that doesn't work.
 
-I've [written before](/2026/01/28/three-fingers/) about how managers reveal outdated mental models through small gestures, like setting two-day deadlines for two-hour work. The leaderboard is the same tell at organisational scale. Leadership that thinks the right metric is "are people using AI?" has revealed, without knowing it, that they haven't understood what AI changes. The question was never adoption. It was allocation.
+I've [written before](/2026/01/28/three-fingers/) about how managers reveal outdated mental models through small gestures, like setting two-day deadlines for two-hour work. The leaderboard is the same tell at organisational scale. Leadership that thinks the right metric is "are people using AI?" has revealed, without knowing it, that they haven't understood what AI changes. The question was never adoption, it was allocation.
