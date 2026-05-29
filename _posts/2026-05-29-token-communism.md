@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Token Communism"
-date: 2026-05-29 11:56:00 +0000
+date: 2026-05-29 10:00:00 +0000
 tags: [ai, teams, management]
 excerpt: "Amazon's AI leaderboard is Goodhart's Law in corporate form. But the real lesson is about who gets the budget."
 ---
