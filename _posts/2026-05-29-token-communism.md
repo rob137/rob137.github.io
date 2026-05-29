@@ -6,7 +6,7 @@ tags: [ai, teams, management]
 excerpt: "Amazon's AI leaderboard is Goodhart's Law in corporate form. But the real lesson is about who gets the budget."
 ---
 
-Amazon built an internal leaderboard tracking employees' AI tool usage. Workers started gaming it immediately - running pointless tasks, padding their scores. The company shut it down this week. Anthropic apparently considered something similar two months ago, debated it internally, and killed the idea before it shipped. One company thought ahead, the other ran the experiment and learned the hard way.
+[Amazon built an internal leaderboard](https://x.com/GergelyOrosz/status/2060276380638576750) tracking employees' AI tool usage. Workers started gaming it immediately, running pointless tasks, padding their scores. The company shut it down this week. Anthropic apparently considered something similar two months ago, debated it internally, and killed the idea before it shipped. One company thought ahead, the other ran the experiment and learned the hard way.
 
 This is Goodhart's Law playing out in real time: when a measure becomes a target, it ceases to be a good measure. Token consumption is trivially easy to inflate. Run a heater 24/7 and you top the electricity leaderboard. It tells you nothing about whether anyone's getting warmer.
 
@@ -34,7 +34,7 @@ Everyone else gets whatever's left after that, which might be a lot or might be 
 
 ---
 
-Vik Khyat put it bluntly: agents make SWEs more productive, but most SWEs in large companies aren't in value-producing roles. If your job is a cost centre and you become twice as fast at it, you've halved the time until someone notices the job shouldn't exist.
+[Vik Khyat put it bluntly](https://x.com/vikhyatk/status/2059771148540527028): agents make SWEs more productive, but most SWEs in large companies aren't in value-producing roles. If your job is a cost centre and you become twice as fast at it, you've halved the time until someone notices the job shouldn't exist.
 
 Token communism is one way organisations can avoid confronting this. Give everyone the same budget, track it on a leaderboard, pretend the problem is adoption. The Amazon experiment demonstrated why that doesn't work.
 
