@@ -18,7 +18,7 @@ Most software engineers in large companies aren't in value-producing roles. They
 
 A cost centre can only squeeze a bit. You can make it cheaper, but there's a floor. A profit centre can scale to infinity.
 
-The military understands this. Compare the spend over ten years on a tier-1 special forces operator versus a line infantry soldier. You pour resources into the people who deliver disproportionate impact.
+The military understands this. Compare the spend over ten years on a special forces operator versus a line infantry soldier - even at Tier 2, training costs differ by more than an order of magnitude. You pour resources into the people who deliver disproportionate impact.
 
 Token leaderboards assume the opposite. They assume the right answer is communism - everyone gets the same ration, and we'll measure whether they're using it. But that gets it backwards. The question isn't "how do we make sure everyone's consuming tokens?" It's "who do we want to give the budget to, because they'll actually do something with it?"
 
