@@ -40,7 +40,7 @@ But team size isn't just a communication problem. It's a political one. Big team
 
 Meanwhile, AI doesn't wait for the org chart to catch up. Yann Dubois at OpenAI [described it well recently](https://zeno.fm/podcast/the-mad-podcast-with-matt-turck/episodes/openais-yann-dubois-why-ai-progress-suddenly-feels-real/): inside labs, improvement is continuous - incremental gains in reliability, post-training, evals. Outside, it feels like a step-change, because usefulness crosses a threshold and suddenly the tool works on real problems, not just demos.
 
-Different domains hit that threshold at different times. Software engineers were shouting about it from November to February. More recently it's mathematicians and theoretical physicists - Terence Tao has said AI has moved from "interesting but limited" to something that saves more time than it wastes. Each crossing sends a fresh wave of pressure through the organisations that depend on that domain, and they don't stop coming.
+Different domains hit that threshold at different times. Software engineers were shouting about it from November to February. More recently it's mathematicians and theoretical physicists - OpenAI's work on the Erdos unit-distance problem got serious mathematicians' attention in a way that benchmarks never did. Each crossing sends a fresh wave of pressure through the organisations that depend on that domain, and they don't stop coming.
 
 ---
 
