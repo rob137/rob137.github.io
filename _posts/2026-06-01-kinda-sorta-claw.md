@@ -14,7 +14,7 @@ OpenAI [hired Peter Steinberger](https://techcrunch.com/2026/02/15/openclaw-crea
 
 Everyone working with coding agents right now is token-constrained. Codex burns through budget. Claude Code burns through budget. The hard ceiling on any given day is usually "I ran out of tokens", not "I ran out of ideas."
 
-ChatGPT draws from a different pool, and a much more generous one. I can have o3 Pro review a pull request, leave inline comments, suggest refactors, the kind of work that would chew through Codex credits in minutes, and it barely registers against my ChatGPT allocation. Same models, just a different meter.
+ChatGPT draws from a different pool, and a much more generous one. I can have 5.5 Pro review a pull request, leave inline comments, suggest refactors, the kind of work that would chew through Codex credits in minutes, and it barely registers against my ChatGPT allocation. Same models, just a different meter.
 
 ---
 
