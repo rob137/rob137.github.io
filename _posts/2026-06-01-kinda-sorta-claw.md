@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "OpenClaw"
+title: "Kinda-Sorta Claw"
 date: 2026-06-01 09:00:00 +0000
 tags: [ai, agents, github]
-excerpt: "ChatGPT asked me to create a PR this week. Not Codex. ChatGPT. And it draws from a completely different token budget."
+excerpt: "ChatGPT quietly became a coding agent. It's on a different billing rail."
 ---
 
-ChatGPT asked me this week if I wanted it to create a GitHub issue. Then it offered to open a PR. Then to push a commit, comment on a review, suggest changes. Not Codex - ChatGPT. The chat interface, sitting in its own cloud-based sandbox, taking real actions on my repositories rather than just reading them like I'd assumed when the GitHub integration first shipped. It's a coding agent, just not labelled as one.
+ChatGPT asked me this week if I wanted it to create a GitHub issue, open a PR, push a commit, comment on a review. The chat interface, sitting in its own cloud-based sandbox, taking real actions on my repositories rather than just reading them like I'd assumed when the GitHub integration first shipped. It's a coding agent, just not labelled as one.
 
 OpenAI [hired Peter Steinberger](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/) in February, the creator of [OpenClaw](https://github.com/openclaw/openclaw), to lead their next-generation personal AI agents. Whether the ChatGPT GitHub integration is a downstream consequence of that hire or just product teams independently converging on the same idea, I don't know. The result is the same.
 
