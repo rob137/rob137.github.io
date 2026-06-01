@@ -22,6 +22,8 @@ For the past few months I've been running a setup I'm fairly proud of: Termux on
 
 The thing ChatGPT is becoming feels less like a collection of small tools and more like emacs: a single large platform that's mouldable enough to absorb whatever you throw at it. I've always been a small-tools person, but when the platform handles the compute, the audit trail, the sandbox, the permissions, and the billing in one place, the overhead of stitching your own version together starts to look like a cost rather than a virtue. Suddenly paying a bit more for a ChatGPT Pro subscription and letting it handle the plumbing feels more sensible than maintaining the bespoke rig, or at least worth trying for a month.
 
+There's a security angle here too, though not the one people usually mean. I've never been able to install Claude Code or OpenClaw or any of the local claw setups. I'd get to the install screen and just stop. Not because I was worried about prompt injection or data exfiltration in the way the discourse usually frames it, but because running one of these things makes you personally responsible for an unbelievably complex risk surface, and if something goes wrong with a free tool you have no leverage at all. GitHub is different: the audit trail, the permissions model, the APIs are already institutionally understood. You're piggybacking on someone else's operating surface rather than inventing your own.
+
 ---
 
 The question is whether OpenAI has noticed the economics of what they've built. There are two readings.
