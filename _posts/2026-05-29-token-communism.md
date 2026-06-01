@@ -3,7 +3,7 @@ layout: post
 title: "Token Communism"
 date: 2026-05-29 10:00:00 +0000
 tags: [ai, teams, management]
-excerpt: "Amazon's AI leaderboard is Goodhart's Law in corporate form. But the real lesson is about who gets the budget."
+excerpt: "Amazon's AI leaderboard is Goodhart's Law in corporate form. But the deeper problem is political: who gets the budget, who loses it, and whether the org can move fast enough to decide."
 ---
 
 [Amazon built an internal leaderboard](https://x.com/GergelyOrosz/status/2060276380638576750) tracking employees' AI tool usage. Workers started gaming it immediately, running pointless tasks, padding their scores. The company shut it down this week. Anthropic apparently considered something similar two months ago, debated it internally, and killed the idea before it shipped. One company thought ahead, the other ran the experiment and learned the hard way.
@@ -24,18 +24,26 @@ Token leaderboards assume the opposite. They assume the right answer is communis
 
 ---
 
-AI agents make software engineers more productive. They finish tasks faster, they can tackle more ambitious work. But that only matters if the work being finished is valuable. If someone is maintaining a system nobody should be maintaining, or attending meetings that exist because process has calcified around them, then making them faster just makes them more expensive.
+The trouble is that knowing this and acting on it are different problems entirely.
 
-A lot of studious, hard-working people are actually cost centres. They're doing the job they were hired to do. It's not their fault the job shouldn't exist. But when you give everyone equal token budgets and rank them on consumption, you're not identifying your best performers. You're identifying who's best at looking busy.
+A lot of cost-centre teams didn't start as cost centres. They were expanded because politics demanded it - somebody needed headcount to justify a budget, a reorg left the group orphaned, they're the residue of a negotiation between VPs three years ago. The individuals are often perfectly diligent. They're doing the job they were hired to do. It's just that the job probably shouldn't exist, and nobody with the authority to say so has the political incentive to.
 
-The companies that figure this out will do something different. They'll identify who actually generates value and give them asymmetric resources.
-
-Everyone else gets whatever's left after that, which might be a lot or might be nothing. The egalitarian version feels fairer, but the asymmetric version is how you survive.
+As [Vik Khyat put it](https://x.com/vikhyatk/status/2059771148540527028): if your job is a cost centre and you become twice as fast at it, you've halved the time until someone notices the job shouldn't exist. Give everyone an equal token budget and you're not just failing to identify value - you're subsidising political inertia, making it more comfortable to leave broken structures in place.
 
 ---
 
-[Vik Khyat put it bluntly](https://x.com/vikhyatk/status/2059771148540527028): agents make SWEs more productive, but most SWEs in large companies aren't in value-producing roles. If your job is a cost centre and you become twice as fast at it, you've halved the time until someone notices the job shouldn't exist.
+I'm now lead developer at a startup, and one of the things I found myself immediately aligned with the founders on was team size. I [wrote about Brooks' Law](/2026/01/03/brooks-law-redux/) in January - communication overhead becomes the dominant bottleneck when everything else speeds up. Amdahl's Law in practice: the non-parallelisable fraction swallows your gains.
 
-Token communism is one way organisations can avoid confronting this. Give everyone the same budget, track it on a leaderboard, pretend the problem is adoption. The Amazon experiment demonstrated why that doesn't work.
+But team size isn't just a communication problem. It's a political one. Big teams create constituencies, and constituencies resist change. Dismantling a team means someone loses budget, someone loses status, and nobody wants to be the one who lets go of the diligent people who were doing exactly what they were asked to do.
 
-I've [written before](/2026/01/28/three-fingers/) about how managers reveal outdated mental models through small gestures, like setting two-day deadlines for two-hour work. The leaderboard is the same tell at organisational scale. Leadership that thinks the right metric is "are people using AI?" has revealed, without knowing it, that they haven't understood what AI changes. The question was never adoption, it was allocation.
+---
+
+Meanwhile, AI doesn't wait for the org chart to catch up. Yann Dubois at OpenAI [described it well recently](https://zeno.fm/podcast/the-mad-podcast-with-matt-turck/episodes/openais-yann-dubois-why-ai-progress-suddenly-feels-real/): inside labs, improvement is continuous - incremental gains in reliability, post-training, evals. Outside, it feels like a step-change, because usefulness crosses a threshold and suddenly the tool works on real problems, not just demos.
+
+Different domains hit that threshold at different times. Software engineers were shouting about it from November to February. More recently it's mathematicians and theoretical physicists - Terence Tao has said AI has moved from "interesting but limited" to something that saves more time than it wastes. Each crossing sends a fresh wave of pressure through the organisations that depend on that domain, and they don't stop coming.
+
+---
+
+This is what makes the allocation question so pointed right now. The organisations that most need to decide who gets the budget and who loses it are exactly the ones least equipped to decide, because those decisions are political, and politics is the ultimate non-parallelisable bottleneck. Token communism is what you get when the political clock runs slower than the technical one, and AI is outpacing organisational OODA loops by a widening margin.
+
+The question was never adoption. It was allocation. But allocation requires political will, and a leaderboard is so much easier to ship.
