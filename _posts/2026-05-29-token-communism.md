@@ -3,7 +3,7 @@ layout: post
 title: "Token Communism"
 date: 2026-05-29 10:00:00 +0000
 tags: [ai, teams, management]
-excerpt: "An AI usage leaderboard is Goodhart's Law in corporate form."
+excerpt: "An AI usage leaderboard is Goodhart's Law waiting to happen."
 ---
 
 [Amazon built an internal leaderboard](https://x.com/GergelyOrosz/status/2060276380638576750) tracking employees' AI tool usage. Workers started gaming it immediately, running pointless tasks, padding their scores. The company shut it down this week. Anthropic apparently considered something similar two months ago, debated it internally, and killed the idea before it shipped. One company thought ahead, the other ran the experiment and learned the hard way.
