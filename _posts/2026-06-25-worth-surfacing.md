@@ -8,7 +8,7 @@ excerpt: "What happens when you spend most of your day talking to Claude?"
 
 I caught myself in a meeting last week starting a sentence with "I think it's really helpful to surface..." and then carrying on as if that were a normal way for a person to talk. It isn't really, it's how Claude talks, and at some point it had quietly become the way I talk too.
 
-Once I'd noticed one, I started noticing all of them. "Worth naming that." "It cuts directly against." The little correction where you say a thing and then upgrade it in the same breath, not just true but the more interesting point. In writing there's the em dash, deployed with a confidence I never used to have. I'd become fluent in a dialect I never set out to learn.
+Once I'd noticed one, I started noticing all of them. "Worth naming that." "It cuts directly against." The little correction where you say a thing and then upgrade it in the same breath, not just true but the more interesting point. I'd become fluent in a dialect I never set out to learn.
 
 For a while I was in the embarrassed phase. I'd hear myself reach for one mid-sentence, flag it ("sorry, that's a very Claude way to put it"), and push on. After a bit the caveat itself started to feel like a tic.
 
