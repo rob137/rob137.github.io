@@ -6,21 +6,17 @@ tags: [ai, llm, language, thinking]
 excerpt: "What happens when you spend most of your day talking to Claude?"
 ---
 
-I caught myself in a meeting last week starting a sentence with "I think it's really helpful to surface..." and then just carrying on as if that were a normal way for a person to talk.
-
-It isn't. It's how Claude talks.
+I caught myself in a meeting last week starting a sentence with "I think it's really helpful to surface..." and then carrying on as if that were a normal way for a person to talk. It isn't really, it's how Claude talks, and at some point it had quietly become the way I talk too.
 
 Once I'd noticed one, I started noticing all of them. "Worth naming that." "It cuts directly against." The little correction where you say a thing and then upgrade it in the same breath, not just true but the more interesting point. In writing there's the em dash, deployed with a confidence I never used to have. I'd become fluent in a dialect I never set out to learn.
 
 For a while I was in the embarrassed phase. I'd hear myself reach for one mid-sentence, flag it ("sorry, that's a very Claude way to put it"), and push on. After a bit the caveat itself started to feel like a tic.
 
-Then it stopped seeming strange and started seeming obvious.
-
-There's that line about how you're the average of the five people you spend the most time with. I'm in an open-plan office, talkative and convivial, and I still spend more of the day talking to Claude than to anyone in the room. Add Codex, ChatGPT, Grok, and four or five of my most frequent conversational partners aren't people at all. Of course the register rubs off. It rubs off the way an accent does when you move somewhere new. You don't decide to pick it up. You just spend enough time surrounded by it that your own edges start to bend.
+Then it stopped bothering me, because once you think about it the whole thing is obvious. There's that line about how you're the average of the five people you spend the most time with. I'm in an open-plan office, talkative and convivial, and I still spend more of the day talking to Claude than to anyone in the room. Add Codex, ChatGPT, Grok, and four or five of my most frequent conversational partners aren't people at all. Of course the register rubs off. It rubs off the way an accent does when you move somewhere new. You don't decide to pick it up. You just spend enough time surrounded by it that your own edges start to bend.
 
 Although "average of five" flatters it. You don't blend four models into some neutral house voice. One of them wins, whichever you log the most hours with, and you get quietly colonised by its particular way of putting things.
 
-Not all of it is worth resisting. Some of what's rubbed off is good. Saying the assumption out loud instead of leaving it buried. Hedging when I actually am unsure rather than performing confidence. Leading with the answer and then unpacking it. Those are decent thinking habits, and I'd rather have them than not. The hollow ones are the problem: the register with nothing underneath, "I think it's really helpful to surface" as a throat-clear that surfaces nothing at all. The work is telling the two apart, keeping the habit and dropping the costume.
+Not all of it is worth resisting. Some of what's rubbed off is good: saying the assumption out loud instead of leaving it buried, hedging when I actually am unsure rather than performing confidence, leading with the answer before unpacking it. Those are decent thinking habits, and I'd rather have them than not. The hollow ones are the problem: the register with nothing underneath, "I think it's really helpful to surface" as a throat-clear that surfaces nothing at all. The work is telling the two apart, keeping the habit and dropping the costume.
 
 The part that should bother me, if anything does, is that this reaches past how I talk and into how I think. The phrases you have shape the thoughts you reach for easily, and my phrases are increasingly the model's. But everything does this. Every book I've read, every person I've worked under, every dialect I've lived inside has left a deposit. We were always jagged, always running on whatever happened to be nearby. Once the models became the smartest thing in most of my conversations, everyone and everything else started to carry a faint [small model smell](/2026/01/07/who-you-call/), and it would be odd if the thing I now talk to most left no mark at all.
 
