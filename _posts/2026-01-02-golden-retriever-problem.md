@@ -3,6 +3,7 @@ layout: post
 title: "Golden Retriever Problem"
 date: 2026-01-02 15:00:00 +0000
 tags: [ai, llm, ux, persona, sdlc]
+excerpt: "The helpful assistant persona is a transitional form. The useful models will push back."
 ---
 
 ![Golden retriever and border collie](/assets/images/golden-retriever.webp)

@@ -3,6 +3,7 @@ layout: post
 title: "Show, Don't Tell"
 date: 2026-01-02 16:30:00 +0000
 tags: [ai, llm, decision-making, associative-thinking]
+excerpt: "LLMs can infer your decision style from examples you never explain."
 ---
 
 ![Connecting dots](/assets/images/connecting-dots.webp)

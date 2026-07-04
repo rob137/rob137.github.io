@@ -3,6 +3,7 @@ layout: post
 title: "How This Blog Exists"
 date: 2026-01-02 08:30:00 +0000
 tags: [meta, ai, friction, productivity]
+excerpt: "I described wanting a blog from my kitchen. The blog appeared."
 ---
 
 ![Voice to code](/assets/images/voice-to-code.webp)
