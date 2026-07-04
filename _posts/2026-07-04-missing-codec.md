@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Missing Codec"
-date: 2026-07-04 12:00:00 +0000
+date: 2026-07-04 09:00:00 +0000
 tags: [ai, llm, reading, literature]
 excerpt: "The hard part of hard books turns out to be optional."
 ---
