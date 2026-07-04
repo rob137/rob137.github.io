@@ -18,7 +18,7 @@
    - Don't be polite about your own output
    - The raw transcript is preserved - nothing is truly lost
 4. Generate image with gpt-image-1.5 via API (medium quality, no text/letters). API key is in $OPENAI_API_KEY
-5. Backdate times to GMT if needed
+5. Set publish times in GMT/UTC, not local UK time. Rob is in the UK; during BST, local time is UTC+1. Jekyll/GitHub Pages will not publish posts dated after the current UTC time, so use a clearly-past UTC timestamp such as `09:00:00 +0000` unless deliberately scheduling a future post.
 6. Push
 
 ## Common issues
