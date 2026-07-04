@@ -8,7 +8,7 @@ excerpt: "The hard part of hard books turns out to be optional."
 
 ![E-reader open on The Idiot beside a phone showing ChatGPT answering a question about the passage](/assets/images/2026-07-04-missing-codec.jpg)
 
-I've been reading *The Idiot* aloud with my wife in the evenings, and I keep hitting a particular kind of snag. Not a hard word or a lost plot thread, but an ambiguity. Early on, General Epanchin's daughters are described as having read too much, and the room treats this as self-evidently a bit worrying. Worrying how? Anti-intellectualism, gentle mockery of the daughters, gentle mockery of the parents, or a translation artefact. The text offers no help, because it's written as if no help could possibly be needed.
+A few pages into *The Idiot*, I kept hitting a particular kind of snag. Not a hard word or a lost plot thread, but an ambiguity. Early on, General Epanchin's daughters are described as having read too much, and the room treats this as self-evidently a bit worrying. Worrying how? Anti-intellectualism, gentle mockery of the daughters, gentle mockery of the parents, or a translation artefact. The text offers no help, because it's written as if no help could possibly be needed.
 
 A few pages later it happens again. Rogozhin mentions that his father would never let him go to the theatre. Again there is no explanation, no gloss, presented as the most natural fact in the world. Natural to whom?
 
