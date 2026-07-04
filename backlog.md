@@ -4,6 +4,13 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 
 ---
 
+### Reading With LLMs Through Ambiguity
+**Status:** Published - [Missing Codec](/2026/07/04/missing-codec/)
+**Image:** `/Users/robertkirby/Downloads/IMG-20260704-WA0003.jpg` and `/Users/robertkirby/Downloads/aa703304-e5d0-4cb7-bee5-066e651eab78~1.jpg`
+**Core idea:** Write about reading with large language models as a companion for ambiguity: not replacing the book, but sitting beside it as a way to test interpretations, unblock difficult passages, and keep going when the text becomes slippery. Anchor image: e-reader on the table with ChatGPT open on the phone, from my point of view.
+
+---
+
 ### Intelligence Inside Existing Tools / Super Apps
 **Status:** Idea - needs personal anecdote to anchor it
 **Notes:** [intelligence-inside-apps.md](/_notes/intelligence-inside-apps.md), [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
@@ -81,4 +88,4 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 
 ---
 
-*Last updated: 2026-04-01*
+*Last updated: 2026-07-04*
