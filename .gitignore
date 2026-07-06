@@ -7,7 +7,4 @@ vendor/
 *.gem
 Gemfile.lock
 .DS_Store
-_notes/
-_notes/transcripts/
 .venv/
-memories.md

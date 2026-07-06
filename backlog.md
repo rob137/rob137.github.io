@@ -2,6 +2,8 @@
 
 Article ideas and future post topics. Raw material (quotes, transcripts, dictations, links) goes in `_notes/`.
 
+> **Note (2026-07-06):** `_notes/` was gitignored until today, so several notes files linked below don't exist on this machine and have no git history. They may survive on the Mac; if found, commit them here. Until then treat `_notes/` links as unverified. `_notes/` is now tracked.
+
 ---
 
 ### Reading With LLMs Through Ambiguity
