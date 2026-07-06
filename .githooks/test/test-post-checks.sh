@@ -90,7 +90,11 @@ echo ""
 echo "=== Future Date Tests ==="
 
 # Use a fixed "now" for reproducible tests: 2026-01-08 10:00:00 UTC
-FIXED_NOW=$(date -u -j -f "%Y-%m-%d %H:%M:%S" "2026-01-08 10:00:00" +%s)
+# GNU date first (Linux), BSD date fallback (macOS)
+FIXED_NOW=$(date -u -d "2026-01-08 10:00:00" +%s 2>/dev/null)
+if [[ -z "$FIXED_NOW" ]]; then
+    FIXED_NOW=$(date -u -j -f "%Y-%m-%d %H:%M:%S" "2026-01-08 10:00:00" +%s)
+fi
 
 # Test: Past date
 file=$(create_post "past-date" "---

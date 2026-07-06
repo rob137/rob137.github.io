@@ -45,7 +45,11 @@ check_not_future() {
         return 0  # Can't parse, skip
     fi
 
-    local post_timestamp=$(date -u -j -f "%Y-%m-%d %H:%M:%S" "$datetime" +%s 2>/dev/null)
+    # GNU date first (Linux), BSD date fallback (macOS)
+    local post_timestamp=$(date -u -d "$datetime" +%s 2>/dev/null)
+    if [[ -z "$post_timestamp" ]]; then
+        post_timestamp=$(date -u -j -f "%Y-%m-%d %H:%M:%S" "$datetime" +%s 2>/dev/null)
+    fi
 
     if [[ -z "$post_timestamp" ]]; then
         return 0  # Can't parse, skip
