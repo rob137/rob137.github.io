@@ -18,7 +18,6 @@ highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 # Pagination (optional, requires jekyll-paginate plugin)
@@ -31,6 +30,10 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
+  - CLAUDE.md
+  - backlog.md
+  - TODO.md
+  - archive
 
 # Default front matter
 defaults:

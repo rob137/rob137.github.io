@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Generate images for blog posts using OpenAI gpt-image-1.5"""
+"""Generate images for blog posts using OpenAI gpt-image-1.5.
+
+Historical: the POSTS list below is the January 2026 batch, kept as a
+reference for prompt style and API usage. For new posts, generate
+one-off (see CLAUDE.md) rather than extending this list.
+"""
 
 import os
 import base64

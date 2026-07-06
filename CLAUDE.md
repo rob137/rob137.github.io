@@ -27,7 +27,7 @@
 - Garden path sentences - use "when" as hinge to clarify
 
 ## Files
-- `_notes/` - raw transcripts, fragments (gitignored)
+- `_notes/` - raw transcripts, fragments (tracked in git since 2026-07-06; public like the rest of the repo)
 - `_posts/` - published posts
 - `backlog.md` - ideas tracker
 - `assets/images/` - post images
