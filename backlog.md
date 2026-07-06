@@ -2,7 +2,7 @@
 
 Article ideas and future post topics. Raw material (quotes, transcripts, dictations, links) goes in `_notes/`.
 
-> **Note (2026-07-06):** `_notes/` was gitignored until today, so several notes files linked below don't exist on this machine and have no git history. They may survive on the Mac; if found, commit them here. Until then treat `_notes/` links as unverified. `_notes/` is now tracked.
+> **Note (2026-07-06):** `_notes/` was gitignored until today, so several notes files linked below were lost. Treat those links as dead; if an idea gets picked up, work from the core-idea summary here. `_notes/` is now tracked, so on any machine stray notes show up as untracked — commit or delete on sight.
 
 ---
 
