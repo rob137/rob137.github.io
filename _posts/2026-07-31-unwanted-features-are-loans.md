@@ -3,7 +3,7 @@ layout: post
 title: "Unwanted Features Are Loans"
 date: 2026-07-31 09:00:00 +0000
 tags: [software, engineering, ai, llm, language]
-excerpt: "A speculative affordance does not merely cost its implementation. It keeps charging every change that follows."
+excerpt: "We nearly kept a feature because calling it insurance made it sound prudent."
 ---
 
 This week at work we nearly talked ourselves into keeping a feature because it sounded like insurance.
