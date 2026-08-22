@@ -26,7 +26,7 @@ A rabbit hole used to have quite a high entry price. I might wonder whether the 
 
 Now I can say "try Russia" while walking down the road.
 
-Yesterday I wrote about [prompts getting shorter through repeated use](/2026/08/21/knees-out/). Voice adds another part to this. The cost of asking the next question can get remarkably close to the cost of having the thought.
+Earlier I wrote about [prompts getting shorter through repeated use](/2026/08/21/knees-out/). Voice adds another part to this. The cost of asking the next question can get remarkably close to the cost of having the thought.
 
 That creates a slightly dangerous flywheel. Most prompts produce another small piece of confirmation. Every so often one turns up something genuinely interesting. Somebody uses the tool differently. A complaint turns out to depend on a particular cutting geometry. A trade I hadn't considered has a completely different reason for preferring the smaller tool. The occasional surprise makes another prompt very tempting. The whole process has a slot-machine quality to it.
 
