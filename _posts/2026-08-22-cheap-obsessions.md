@@ -16,7 +16,7 @@ Eventually the annoying answer emerged. The trade-offs were mostly real. The 250
 
 This is perhaps how I have ended up spending an embarrassing amount on cutters over the last few days.
 
-I have [written about my affection for pliers before](/2026/01/03/pliers/), so none of this is entirely out of character. What interested me this time was the process. I am now absurdly well informed about a small category of hand tools that a week ago I barely understood, and I didn't sit down and decide to study them. Most of this happened while walking the dog, talking into my phone.
+I have [written about my affection for pliers before](/2026/01/03/pliers/), so none of this is entirely out of character. What interested me this time was the process. I am now absurdly well informed about a small category of hand tools that a week ago I barely understood, and I didn't sit down and decide to study them. Most of this happened while walking the dogs, talking into my phone.
 
 A rabbit hole used to have quite a high entry price. I might wonder whether the angled CoBolt had some hidden disadvantage, search Google, open a few reviews and eventually run out of patience. Looking for opinions from Russian tradesmen would involve finding the right words to search for, translating pages and working out whether the person writing knew what they were talking about. At some point the original question would stop being worth the effort.
 
@@ -50,7 +50,7 @@ The job increasingly involves starting something, switching away, coming back to
 
 That makes some cognitive habits look slightly different. Rapid task switching, following tangents and keeping several threads alive at once are not universally useful, but they are less obviously pathological when execution can continue after your attention has moved elsewhere.
 
-Our culture of attention developed in a world where investigation and execution competed for the same scarce human time. Following a tangent generally meant stopping the useful thing you were doing. Now the next question might cost a sentence spoken into a phone while walking the dog.
+Our culture of attention developed in a world where investigation and execution competed for the same scarce human time. Following a tangent generally meant stopping the useful thing you were doing. Now the next question might cost a sentence spoken into a phone while walking the dogs.
 
 It doesn't make attention abundant, but it does make curiosity cheaper. Temporary obsession becomes a more practical way of learning about the world because you can go deep enough to acquire the vocabulary, distinctions and odd bits of knowledge that normally only appear after prolonged exposure, then move on.
 
