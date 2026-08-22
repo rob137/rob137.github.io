@@ -3,7 +3,7 @@ layout: post
 title: "Cheap Obsessions"
 date: 2026-08-22 13:00:00 +0000
 tags: [ai, llm, learning, attention, tools]
-excerpt: "LLMs have made it much cheaper to follow a rabbit hole far enough to catch the things you weren't looking for."
+excerpt: "Curiosity got cheaper."
 ---
 
 For the last few days I have been learning far too much about bolt cutters.
