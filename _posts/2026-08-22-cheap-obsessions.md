@@ -52,7 +52,7 @@ That makes me wonder whether I should be cultivating some obsessions rather than
 
 There is an obvious shadow side. The net can come back full of rubbish.
 
-I was talking about this with a friend this morning in a completely different context. We were discussing starting a company, and he pointed out a standard failure mode: spending months tinkering with product ideas and enjoying yourself enormously while believing you are making progress. Nothing has actually been sold. The activity feels productive because it contains research, decisions, prototypes and lots of clever conversation.
+I was talking about this with a friend this morning in a completely different context. He pointed out a standard failure mode: spending months tinkering with product ideas and enjoying yourself enormously while believing you are making progress. Nothing has actually been sold. The activity feels productive because it contains research, decisions, prototypes and lots of clever conversation.
 
 Cheap exploration also makes cheap pseudo-progress possible. The pliers version is fairly harmless. I can become the world's least useful expert on bolt cutters and the main consequence is an overstocked toolbox. In other domains the distinction between productive exploration and elaborate avoidance matters much more, and the mechanism has no idea which one you are doing.
 
