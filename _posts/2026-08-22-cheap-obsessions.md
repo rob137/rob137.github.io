@@ -3,7 +3,7 @@ layout: post
 title: "Cheap Obsessions"
 date: 2026-08-22 13:00:00 +0000
 tags: [ai, llm, learning, attention, tools]
-excerpt: "Curiosity got cheaper."
+excerpt: "Curiosity got cheaper. Rabbit holes pay in unexpected ways."
 ---
 
 For the last few days I have been learning far too much about bolt cutters.
