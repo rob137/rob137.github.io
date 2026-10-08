@@ -33,10 +33,16 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
 
-### Three That Talk Beat Thirteen Alone
-**Status:** Wait for a result
-**Notes:** [2026-10-08-pod-bay-doors-raw.md](/_notes/2026-10-08-pod-bay-doors-raw.md) (sources), mob slide notes from the 7 Oct 2026 deck
-**Core idea:** Park et al., Scaling Discovery through Test-Time Communication (arXiv 2609.21032, Sep 2026): three frontier agents sharing notes match the best of thirteen working alone. We set up ~/agent-collaboration on every box; two mobs of three are working the GitHub bill on SM-10. Post once the mob has produced a result or a visible failure. Sits next to Roving Bridge below and may merge with it.
+### Three That Talk
+**Status:** Published - [Three That Talk](/2026/10/08/three-that-talk/)
+**Notes:** [2026-10-08-three-that-talk-raw.md](/_notes/2026-10-08-three-that-talk-raw.md)
+**Follow-up:** the first "How we will know" readings fall due 14 and 21 Oct 2026 (VPN test sheet, Tailscale invoice) and the mirror's full-day bill. A short follow-on post if one of them proves a verdict wrong.
+
+### Forward deployed engineering, the general bits
+**Status:** Idea, Rob flagged 8 Oct 2026; look at after the current batch
+**Sources:** ~/context-store/recordings/work/20261005-132051-how-we-offer-coengen-all-hands/ (FDE is part 2, roughly 0:10 to 0:25 in the transcript; deck pptx/pdf under ~/SharePoint/MeetingRecordings/work/ same folder name); precursor chat ~/context-store/recordings/work/20260924-113649-forward-deployed-engineers/ (deck outline, door-handle photo, Palantir research)
+**Keep out:** whether SM does FDE, the "we are here" options, pricing, headcount economics, customers and partners by name, named staff.
+**Candidate ideas:** FDE as a hedge for software that isn't finished ("the snide joke you'll hear about FDE is that it's a hedge"); "their job is to eat the pain"; agency versus lanes, the door-handle / pass-the-parcel anecdote (five people each doing their job while it stays broken, one handyman fixes it and reports after); Delta, Echo and Dev, gravel road then highway; the a16z failure modes (going native, fixes never flowing back, "Accenture for X"); the room's line that suppliers have seconded staff for decades and Palantir only branded it better; whether "on site until the product settles" becomes permanent when the product never settles. Possibly two posts: the door handle (agency) and the hedge (why FDE exists now).
 
 ### Roving Bridge / The Octopus
 **Status:** Idea
