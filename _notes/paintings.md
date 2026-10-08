@@ -4,7 +4,7 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 
 | Post | Artist | Title (year) | Commons file |
 |---|---|---|---|
-| 2026-10-08-open-the-pod-bay-doors | John William Waterhouse | The Magic Circle (1886) | File:John William Waterhouse - Magic Circle.JPG |
+| 2026-10-08-open-the-pod-bay-doors | Carlos Pacheco, retouched by Pittigrilli | HAL 9000 faceplate and lens, Kubrick exhibition, Toronto (photo, CC BY 2.0); Rob asked for HAL | File:HAL 9000 Original requisite from 2001 A Space Odyssey - retouche.jpg |
 | 2026-10-08-look-left | Evelyn De Morgan | The Love Potion (1903) | File:Evelyn De Morgan - The Love Potion (1903) - Google Cultural Institute.jpg |
 | 2026-10-08-three-that-talk | John William Waterhouse | Hylas and the Nymphs (1896) | File:Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15.jpg |
 | 2026-01-02-books-as-compressed-prompts | Scribes of the Book of Kells | Chi Rho page (c. 800) | File:Meister des Book of Kells 001.jpg |
