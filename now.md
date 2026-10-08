@@ -21,6 +21,10 @@ Piano is in a holding pattern while the kids keep me busy. Gradually learning Ko
 
 Selling off a lot of books. I read snippets of the outgoing ones when I can, and accept that many won't get read.
 
+## Podcast
+
+[Liminal Time](https://liminaltimepodcast.com) is in a slight lull. I keep an eye out for new guests, though family and work make it easy to stay within my own network. I intend to burn some energy on that soon. If you'd be interested in coming on, do get in touch.
+
 ## BJJ
 
 Finally starting to learn leg locks. Mainly the basic principles rather than lots of fancy attacks. All roads still lead to ankle locks.
