@@ -23,7 +23,7 @@ Selling off a lot of books. I read snippets of the outgoing ones when I can, but
 
 ## Podcast
 
-[Liminal Time](https://liminaltimepodcast.com) is in a slight lull. I keep an eye out for new guests, though family and work make it easy to stay within my own network. I intend to burn some energy on that soon. If you'd be interested in coming on, do get in touch.
+[Liminal Time](https://liminaltimepodcast.com) is in a slight lull, about an episode a month. I keep an eye out for new guests, though family and work make it easy to stay within my own network. I intend to burn some energy on that soon. If you'd be interested in coming on, do get in touch.
 
 ## BJJ
 
