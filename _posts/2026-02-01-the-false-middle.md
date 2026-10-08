@@ -9,7 +9,7 @@ Spreadsheet people are the adults in the room. But it becomes a cargo cult if yo
 
 Enthusiasts are possibly Toad of Toad Hall. But every so often they're right, and ignoring them gets you killed.
 
-Clay Christensen made a career documenting the corpses. Industry-leading companies that did what seemed sensible when a disruptive technology arrived. R&D budgets. Measured response. Reasonable people making reasonable decisions. All dead now.
+Clay Christensen made a career out of the post-mortems. Industry-leading companies that did what seemed sensible when a disruptive technology arrived. R&D budgets. Measured response. Reasonable people making reasonable decisions. Mostly gone now.
 
 The thing is: what if they're both right? What if they're both wrong? You're operating under uncertainty either way.
 
