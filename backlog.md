@@ -14,7 +14,7 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 ---
 
 ### Intelligence Inside Existing Tools / Super Apps
-**Status:** Ready to draft - anecdote found (7 Oct 2026 all-hands, "where my day lives now" slide)
+**Status:** Published - [Look Left](/2026/10/08/look-left/), notes in [2026-10-08-look-left-raw.md](/_notes/2026-10-08-look-left-raw.md)
 **Notes:** [intelligence-inside-apps.md](/_notes/intelligence-inside-apps.md), [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md); all-hands transcript 7 Oct in context-store recordings (10:00 to 15:00)
 **Anchor (Oct 2026):** Weeks without opening Emacs or a terminal, then fumbling a basic shortcut when showing someone. Claude Desktop as the single front end: watchers on email, Slack, Teams and SharePoint wake a chat when something happens, so checking mail is a glance left instead of a window switch. Company brain reads the context-store before buying the office hot chocolate. "Careering towards one interface for the whole operating system." Fold the super-apps idea into this.
 **Core idea:** 3+ years past ChatGPT and most software is still the same. The arrow is inverted: intelligence goes into Excel, not Excel into the LLM. Super apps (Anthropic Dispatch, OpenAI desktop superapp, OpenClaw's 250k stars in 4 months) are the desire line. Emacs analogy: OS in search of a text editor, but now it's a frontier model with a thin harness wired to your computer. Rob's 5-year-old intuitively gets it.
