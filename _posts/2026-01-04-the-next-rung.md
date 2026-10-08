@@ -5,8 +5,8 @@ date: 2026-01-04 09:00:00 +0000
 excerpt: "The most eager people I knew were using Aider this time last year. Now everyone's on Claude Code. The pattern repeats."
 ---
 
-![Young women in silver-grey robes carrying instruments descend a curving golden stair](/assets/images/2026-01-04-the-next-rung-painting.webp){: width="1287" height="858"}
-*Edward Burne-Jones, The Golden Stairs (1880), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edward_Burne-Jones_The_Golden_Stairs.jpg)*
+![A row of women in long robes kneel and lean over a still pool, their reflections below them, bare hills behind](/assets/images/2026-01-04-the-next-rung-painting.webp){: width="1600" height="971"}
+*Edward Burne-Jones, The Mirror of Venus (1875). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Burne-Jones,_Edward_-_The_Mirror_of_Venus_-_1875_-_hi_res.jpg)*
 
 The most eager people I knew were leaning into [Aider](https://github.com/Aider-AI/aider) this time last year. It felt premature to me - jagged, tricky to use, more friction than flow.
 

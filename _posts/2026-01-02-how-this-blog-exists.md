@@ -5,8 +5,8 @@ date: 2026-01-02 08:30:00 +0000
 excerpt: "I described wanting a blog from my kitchen. The blog appeared."
 ---
 
-![A maid in a yellow bodice and blue apron pours milk into a bowl by a window, bread on the table](/assets/images/2026-01-02-how-this-blog-exists-painting.webp){: width="1600" height="1067"}
-*Johannes Vermeer, The Milkmaid (c. 1660), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg)*
+![A maid in a yellow bodice and blue apron pours milk into a bowl by a window, bread on the table](/assets/images/2026-01-02-how-this-blog-exists-painting.webp){: width="1427" height="1600"}
+*Johannes Vermeer, The Milkmaid (c. 1660). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg)*
 
 I'm standing in my kitchen. The laptop is in another room. I haven't touched it all morning.
 

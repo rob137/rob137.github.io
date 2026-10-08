@@ -5,8 +5,8 @@ date: 2026-01-04 08:00:00 +0000
 excerpt: "Most of what we know, we take on trust. AI is asking us to extend that trust in ways we haven't figured out yet."
 ---
 
-![A young woman in a blue dress and lilac shawl stands in an ivy-covered arbour, looking down](/assets/images/2026-01-04-you-just-get-used-to-it-painting.webp){: width="1600" height="1067"}
-*Arthur Hughes, April Love (1856), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arthur_Hughes_-_April_Love_-_Google_Art_Project.jpg)*
+![A full moon over the Thames at night, gas lamps along the embankment and Westminster's towers in the haze, a woman and her dog on the pavement](/assets/images/2026-01-04-you-just-get-used-to-it-painting.webp){: width="1600" height="950"}
+*John Atkinson Grimshaw, Reflections on the Thames, Westminster (1880). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reflections_on_the_Thames,_Westminster_-_Grimshaw,_John_Atkinson.jpg)*
 
 > "Young man, in mathematics you don't understand things. You just get used to them."
 >

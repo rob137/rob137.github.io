@@ -5,8 +5,8 @@ date: 2026-08-22 13:00:00 +0000
 excerpt: "Curiosity got cheaper, rabbit holes pay in unexpected ways, and our norms around distraction may be out of date."
 ---
 
-![A young hare crouches, every hair of its coat drawn in fine detail](/assets/images/2026-08-22-cheap-obsessions-painting.webp){: width="1600" height="1067"}
-*Albrecht Dürer, Young Hare (1502), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg)*
+![A young hare crouches, every hair of its coat drawn in fine detail](/assets/images/2026-08-22-cheap-obsessions-painting.webp){: width="1448" height="1600"}
+*Albrecht Dürer, Young Hare (1502). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg)*
 
 For the last few days I have been learning far too much about bolt cutters.
 

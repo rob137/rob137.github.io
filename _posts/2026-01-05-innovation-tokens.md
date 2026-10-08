@@ -5,8 +5,8 @@ date: 2026-01-05 13:30:00 +0000
 excerpt: "Addy Osmani's advice about boring technology choices applies doubly when you're working with AI agents."
 ---
 
-![A woman and a small girl in a brick courtyard, another woman glimpsed through a passage beyond](/assets/images/2026-01-05-innovation-tokens-painting.webp){: width="1600" height="1067"}
-*Pieter de Hooch, The Courtyard of a House in Delft (1658), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_de_Hooch_-_The_Courtyard_of_a_House_in_Delft.jpg)*
+![Two women stack folded linen into a tall cupboard while a girl plays by an open door onto the canal](/assets/images/2026-01-05-innovation-tokens-painting.webp){: width="1600" height="1463"}
+*Pieter de Hooch, Interior with Women beside a Linen Chest (1663). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Binnenhuis_met_vrouwen_bij_een_linnenkast,_SK-C-1191.jpg)*
 
 [Addy Osmani](https://addyosmani.com/blog/21-lessons/) just published a post collecting 21 lessons from his career. The whole thing is worth reading, but this part jumped out:
 

@@ -5,8 +5,8 @@ date: 2026-07-12 07:00:00 +0000
 excerpt: "The singularity may arrive as a succession of useful suggestions."
 ---
 
-![The Earth rises half lit above the grey horizon of the Moon](/assets/images/2026-07-12-missing-the-singularity-painting.webp){: width="1600" height="1067"}
-*William Anders, NASA, Earthrise (1968), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg)*
+![The Earth rises half lit above the grey horizon of the Moon](/assets/images/2026-07-12-missing-the-singularity-painting.webp){: width="1600" height="1600"}
+*William Anders, NASA, Earthrise (1968). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg)*
 
 On Friday I had to nip into town and do a run of mildly annoying admin. I gave GPT-5.6 a three-minute voice prompt as I walked, explaining the whys and wherefores. It saved me about forty-five minutes. A procedure at the bank had changed, which I would otherwise have discovered by joining the wrong queue and failing.
 

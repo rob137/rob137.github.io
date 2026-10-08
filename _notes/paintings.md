@@ -9,8 +9,8 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-10-08-three-that-talk | John William Waterhouse | Hylas and the Nymphs (1896) | File:Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15.jpg |
 | 2026-01-02-books-as-compressed-prompts | Scribes of the Book of Kells | Chi Rho page (c. 800) | File:Meister des Book of Kells 001.jpg |
 | 2026-01-02-crossing-the-horizon | Peder Balke | The North Cape by Moonlight (1848) | File:Peder Balke - The North Cape by Moonlight - 2019.167.4 - Metropolitan Museum of Art.jpg |
-| 2026-01-02-golden-retriever-problem | John James Audubon | Snowy Owl, from The Birds of America (c. 1829) | File:121 Snowy Owl.jpg |
-| 2026-01-02-how-i-keep-up | Utagawa Hiroshige | Sudden Shower over Shin-Ōhashi Bridge and Atake (1857) | File:Ōhashi Atake no yūdachi-名所江戸百景 大はしあたけの夕立-Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei) MET DP123602.jpg |
+| 2026-01-02-golden-retriever-problem | John James Audubon | Common American Swan, from The Birds of America (1838) | File:411 Common American Swan.jpg |
+| 2026-01-02-how-i-keep-up | Utagawa Hiroshige | Driving Rain at Shōno, from The Fifty-three Stations of the Tōkaidō (c. 1833) | File:Shōno Hakuu-東海道五十三次之内 庄野 白雨-White Rain at Shōno MET DP123230.jpg |
 | 2026-01-02-how-this-blog-exists | Johannes Vermeer | The Milkmaid (c. 1660) | File:Johannes Vermeer - Het melkmeisje - Google Art Project.jpg |
 | 2026-01-02-intermediary-times | Philip James de Loutherbourg | Coalbrookdale by Night (1801) | File:Philipp Jakob Loutherbourg d. J. 002.jpg |
 | 2026-01-02-last-bastion | Edvard Munch | Starry Night (1893) | File:'Starry Night' by Edvard Munch, 1893, Getty Center.JPG |
@@ -25,21 +25,21 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-03-first-contact | J. M. W. Turner | Snow Storm: Steam-Boat off a Harbour's Mouth (1842) | File:J.M.W. Turner – Snow Storm - Steam-Boat off a Harbour's Mouth.jpg |
 | 2026-01-03-interview-question | Hans Holbein the Younger | The Ambassadors (1533) | File:Hans Holbein the Younger - The Ambassadors - Google Art Project.jpg |
 | 2026-01-03-is-it-cheating | Caravaggio | The Cardsharps (c. 1595) | File:Caravaggio (Michelangelo Merisi) - The Cardsharps - Google Art Project.jpg |
-| 2026-01-03-position-before-submission | Eugène Delacroix | Jacob Wrestling with the Angel (1861) | File:Eugène Delacroix — Jacob Wrestling with the Angel.jpg |
+| 2026-01-03-position-before-submission | Eugène Delacroix | Christ on the Sea of Galilee (1854) | File:Eugène Delacroix - Christ on the Sea of Galilee - Google Art Project (27796212).jpg |
 | 2026-01-03-too-comfortable | Soga Shōhaku | Dragon and Clouds (1763) | File:Dragon and Clouds by Soga Shohaku, 1763, set of eight panels, ink on paper DSC02757.JPG |
 | 2026-01-03-witnesses | Joseph Wright of Derby | An Experiment on a Bird in the Air Pump (1768) | File:An Experiment on a Bird in an Air Pump by Joseph Wright of Derby, 1768.jpg |
 | 2026-01-04-blank-page | Francisco Goya | The Sleep of Reason Produces Monsters, from Los Caprichos (1799) | File:Francisco José de Goya y Lucientes - The sleep of reason produces monsters (No. 43), from Los Caprichos - Google Art Project.jpg |
 | 2026-01-04-expanding-universe | NASA, ESA, G. Illingworth, D. Magee and the XDF team | Hubble eXtreme Deep Field (2012) | File:Hubble Extreme Deep Field (full resolution).png |
 | 2026-01-04-fresh-and-stale | William Morris | Strawberry Thief, printed textile (designed 1883) | File:Textile, Strawberry Thief, designed 1883, printed ca. 1934 (CH 18340065).jpg |
 | 2026-01-04-invisible-capability-line | James McNeill Whistler | Nocturne: Blue and Silver, Chelsea (1871) | File:James Abbott McNeill Whistler - Nocturne- Blue and Silver - Chelsea - Google Art Project.jpg |
-| 2026-01-04-the-next-rung | Edward Burne-Jones | The Golden Stairs (1880) | File:Edward Burne-Jones The Golden Stairs.jpg |
+| 2026-01-04-the-next-rung | Edward Burne-Jones | The Mirror of Venus (1875) | File:Burne-Jones, Edward - The Mirror of Venus - 1875 - hi res.jpg |
 | 2026-01-04-the-raft-and-the-ladder | William Blake | Jacob's Dream (c. 1805) | File:Blake jacobsladder.jpg |
-| 2026-01-04-you-just-get-used-to-it | Arthur Hughes | April Love (1856) | File:Arthur Hughes - April Love - Google Art Project.jpg |
-| 2026-01-05-aiming-off | Caspar David Friedrich | Wanderer above the Sea of Fog (c. 1818) | File:Caspar David Friedrich - Wanderer above the Sea of Fog.jpeg |
+| 2026-01-04-you-just-get-used-to-it | John Atkinson Grimshaw | Reflections on the Thames, Westminster (1880) | File:Reflections on the Thames, Westminster - Grimshaw, John Atkinson.jpg |
+| 2026-01-05-aiming-off | Caspar David Friedrich | The Monk by the Sea (1810) | File:Friedrich, Caspar David - Mönch am Meer - Alte Nationalgalerie in Berlin.jpg |
 | 2026-01-05-artifice | Étienne-Jules Marey | Pelicans in flight, chronophotograph (c. 1882) | File:Marey - birds.jpg |
 | 2026-01-05-field-recording | Ohara Koson | Egrets in the Snow (c. 1930) | File:Zilverreigers in de sneeuw, RP-P-1999-550.jpg |
 | 2026-01-05-gateway-drug | Rzhevsky Stanislav | Paracetamol crystals in polarised light (2018) | File:Paracetamol crystals in polarized ligh.jpg (CC BY 4.0) |
-| 2026-01-05-innovation-tokens | Pieter de Hooch | The Courtyard of a House in Delft (1658) | File:Pieter de Hooch - The Courtyard of a House in Delft.jpg |
+| 2026-01-05-innovation-tokens | Pieter de Hooch | Interior with Women beside a Linen Chest (1663) | File:Binnenhuis met vrouwen bij een linnenkast, SK-C-1191.jpg |
 | 2026-01-05-parachute | After Pieter Bruegel the Elder | Landscape with the Fall of Icarus (c. 1560) | File:Pieter Bruegel the Elder - Landscape with the Fall of Icarus - Brussels, Royal Museums of Fine Arts of Belgium - Google Arts & Culture.jpg |
 | 2026-01-05-the-great-attractor | Arkhip Kuindzhi | Moonlit Night on the Dnieper (1880) | File:Kuindzhi Moonlit night on the Dnieper 1880 grm x2.jpg |
 | 2026-01-05-tunnel-vision | Félix Vallotton | The Ball (1899) | File:Félix Vallotton - The Ball - Google Art Project.jpg |

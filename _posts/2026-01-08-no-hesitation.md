@@ -5,8 +5,8 @@ date: 2026-01-08 09:00:00 +0000
 excerpt: "I volunteer with the Samaritans. When I needed to talk, I didn't pick up the phone."
 ---
 
-![The lights of a city reflected in a deep blue bay at night, the shoreline curving below](/assets/images/2026-01-08-no-hesitation-painting.webp){: width="1600" height="1067"}
-*Eugène Jansson, Riddarfjärden, Stockholm (1898), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Jansson_-_Riddarfj%C3%A4rden,_Stockholm_-_Google_Art_Project.jpg)*
+![The lights of a city reflected in a deep blue bay at night, the shoreline curving below](/assets/images/2026-01-08-no-hesitation-painting.webp){: width="1451" height="1600"}
+*Eugène Jansson, Riddarfjärden, Stockholm (1898). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Jansson_-_Riddarfj%C3%A4rden,_Stockholm_-_Google_Art_Project.jpg)*
 
 I woke up from a deeply disturbing dream. Once-in-a-decade intensity. The kind that leaves you rattled for hours.
 

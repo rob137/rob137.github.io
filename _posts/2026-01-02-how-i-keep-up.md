@@ -5,8 +5,8 @@ date: 2026-01-02 14:30:00 +0000
 excerpt: "X.com is unreasonably good - if you follow the right people and resist the dopaminergic pull."
 ---
 
-![Figures hurry across a wooden bridge in a sudden downpour, a raft drifting on the river below](/assets/images/2026-01-02-how-i-keep-up-painting.webp){: width="1600" height="1067"}
-*Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake (1857), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C5%8Chashi_Atake_no_y%C5%ABdachi-%E5%90%8D%E6%89%80%E6%B1%9F%E6%88%B8%E7%99%BE%E6%99%AF_%E5%A4%A7%E3%81%AF%E3%81%97%E3%81%82%E3%81%9F%E3%81%91%E3%81%AE%E5%A4%95%E7%AB%8B-Sudden_Shower_over_Shin-%C5%8Chashi_Bridge_and_Atake_%28%C5%8Chashi_Atake_no_y%C5%ABdachi%29,_from_the_series_One_Hundred_Famous_Views_of_Edo_%28Meisho_Edo_hyakkei%29_MET_DP123602.jpg)*
+![Travellers and palanquin bearers hurry up a slope as slanting grey rain bends the bamboo behind them](/assets/images/2026-01-02-how-i-keep-up-painting.webp){: width="1600" height="1056"}
+*Utagawa Hiroshige, Driving Rain at Shōno, from The Fifty-three Stations of the Tōkaidō (c. 1833). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sh%C5%8Dno_Hakuu-%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1%E4%B9%8B%E5%86%85_%E5%BA%84%E9%87%8E_%E7%99%BD%E9%9B%A8-White_Rain_at_Sh%C5%8Dno_MET_DP123230.jpg)*
 
 A caveat: my days are spent experimenting with this stuff professionally, and my spare time is spent musing, experimenting more, and following the kinds of people listed below. Your mileage may vary.
 
