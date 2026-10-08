@@ -13,7 +13,7 @@ permalink: /now/
 
 Finding interesting children's fiction for the girls. The latest discovery is the [Frog and Toad](https://en.wikipedia.org/wiki/Frog_and_Toad) books.
 
-Lots of spare-time experiments with ChatGPT Pro, letting it run large parts of the boring bit of family life. Going well so far.
+Lots of spare-time experiments on a ChatGPT Pro subscription, a mixture of 6.1 Pro for the thinking and Work for the automations, letting it run large parts of the boring bit of family life. Going well so far.
 
 ## Books and Music
 
