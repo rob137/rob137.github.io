@@ -1,6 +1,6 @@
-# Paintings used as post openers
+# Works used as post openers
 
-One per post, never reused. Public domain, from Wikimedia Commons. This list defines the taste for new picks.
+One per post, never reused. Paintings, prints, photographs, anything with a usable licence (public domain, CC0, CC BY, CC BY-SA). This list defines the taste for new picks.
 
 | Post | Artist | Title (year) | Commons file |
 |---|---|---|---|
