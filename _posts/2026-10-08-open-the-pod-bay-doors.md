@@ -5,7 +5,7 @@ date: 2026-10-08 08:00:00 +0000
 excerpt: "An agent's refusal tells you who signs off. It tells you very little about what can be done."
 ---
 
-![A spacecraft airlock door slightly ajar, and a hand hovering over a single lit button](/assets/images/2026-10-08-pod-bay-doors.webp)
+![Woodblock print: a figure in a straw rain cape stands in the rain before a sealed iron airlock door, a lantern glowing beside it](/assets/images/2026-10-08-pod-bay-doors.webp)
 
 On Monday afternoon I was setting up a small automation at work. Early each Monday an agent looks at the week's commits, opens a changelog pull request and posts a summary to Slack. I didn't want to wait until Monday to find out whether the summary was any good, so I had it do dry runs into a real Slack thread, because that is where I would be reading it anyway. Ask for a change, it posts, I read it, ask again. By the time I was happy the thread had thirteen test posts in it.
 
