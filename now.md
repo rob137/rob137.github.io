@@ -11,7 +11,7 @@ permalink: /now/
 
 ## Family
 
-Finding interesting children's fiction for the girls. The latest discovery is the Frog and Toad books.
+Finding interesting children's fiction for the girls. The latest discovery is the [Frog and Toad](https://en.wikipedia.org/wiki/Frog_and_Toad) books.
 
 Lots of spare-time experiments with ChatGPT Pro, letting it run large parts of the boring bit of family life. Going well so far.
 
