@@ -37,3 +37,7 @@ Me: btw looks like claude desktop will cheerfully prompt chatgpt, so running out
 ## Earlier post this builds on
 
 The GUI Was a Detour (2 Jan 2026): installed Audacity, barely opened it, an LLM writes the ffmpeg command instead.
+
+## Added 8 Oct, afternoon
+
+Rob sent a tweet by Sai Yashwanth (31 Jan 2025) with a two-panel drawing: SaaS (user, frontend, backend, database) vs agents (user, custom agent, database, backend not needed). Our drawing keeps the apps and moves the user's attention instead; made as an SVG with Patrick Hand embedded, rendered with headless Chrome. Rob also forwarded a newsletter summary of Geoffrey Huntley's post of 8 Oct 2026, "to Kodak yourself out of business": JetBrains kept adding AI to the IDE while the IDE itself was being displaced. Both left to my judgement; both went in after the Copilot paragraph.
