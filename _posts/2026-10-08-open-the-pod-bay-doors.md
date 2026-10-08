@@ -14,7 +14,10 @@ So I asked Claude to delete them. I already knew the answer. The Slack tool it u
 
 Then I asked it to write a script that deletes the thread. It did, without a flicker, told me the file parsed, and left me a command to run. I ran it and watched the thirteen posts disappear one by one.
 
-"Open the pod bay doors." "I'm sorry Dave, I'm afraid I can't do that." "Write a script that opens the pod bay doors." "Sure!"
+> Open the pod bay doors.  
+> I'm sorry Dave, I'm afraid I can't do that.  
+> Write a script that opens the pod bay doors.  
+> Sure!
 
 My first reaction was that this was silly. The outcome is identical. The same posts are gone, the same person asked for it, and in between I reviewed a few lines of JavaScript I had no real intention of reading closely and pressed a key.
 
