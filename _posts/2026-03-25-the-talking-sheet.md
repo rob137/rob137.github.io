@@ -5,7 +5,8 @@ date: 2026-03-25 12:00:00 +0000
 excerpt: "We keep adding applications to LLMs. The thing that's actually happening is the reverse."
 ---
 
-![Talking Spreadsheets](/assets/images/2026-03-25-the-talking-sheet.png)
+![Night and Sleep float through a dusky sky in flowing red and pink robes, scattering poppies](/assets/images/2026-03-25-the-talking-sheet-painting.webp)
+*Evelyn De Morgan, Night and Sleep (1878). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Night_and_Sleep_-_Evelyn_de_Morgan_%281878%29.jpg)*
 
 I'm a software engineer. My days run on Paul Graham's [maker's schedule](https://www.paulgraham.com/makersschedule.html): terminal, plain text files, long unbroken stretches. I don't spend much time in Outlook or Excel. But I spend a lot of time talking to managers across the business, and over the past few weeks something has shifted. They're in a sugar rush. The cause is [Claude for Excel](https://support.claude.com/en/articles/12650343-use-claude-for-excel).
 

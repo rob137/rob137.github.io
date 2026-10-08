@@ -5,6 +5,9 @@ date: 2026-06-25 09:00:00 +0000
 excerpt: "What happens when you spend most of your day talking to Claude?"
 ---
 
+![A gigantic speckled whale breaks the waves while a tiny swordsman stands on its back](/assets/images/2026-06-25-worth-surfacing-painting.webp)
+*Utagawa Kuniyoshi, Miyamoto Musashi and the Giant Whale (c. 1847), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Miyamoto-Musashi-Attacking-Giant-Whale-Utagawa-Kuniyoshi.png)*
+
 I caught myself in a meeting last week starting a sentence with "I think it's really helpful to surface..." and then carrying on as if that were a normal way for a person to talk. It isn't really, it's how Claude talks, and at some point it had quietly become the way I talk too.
 
 Once I'd noticed one, I started noticing all of them. "Worth naming that." "It cuts directly against." The little correction where you say a thing and then upgrade it in the same breath, not just true but the more interesting point. I'd become fluent in a dialect I never set out to learn.

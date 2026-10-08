@@ -5,7 +5,8 @@ date: 2026-03-11 10:00:00 +0000
 excerpt: "Terminals have two of them."
 ---
 
-![Image Problem](/assets/images/2026-03-11-image-problem.png)
+![Glowing clouds of pink and blue gas and dark dust lanes in the Carina Nebula, dense with stars](/assets/images/2026-03-11-image-problem-painting.webp)
+*ESO, The Carina Nebula, imaged by the VLT Survey Telescope (2012), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_spectacular_star-forming_Carina_Nebula_imaged_by_the_VLT_Survey_Telescope.jpg), CC BY 4.0*
 
 Terminals have two image problems.
 

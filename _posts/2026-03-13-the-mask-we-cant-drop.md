@@ -5,6 +5,9 @@ date: 2026-03-13 09:00:00 +0000
 excerpt: "Agentic systems are getting complicated. Two forces might reverse that. Unless context windows are a hard constraint."
 ---
 
+![Salome in a gown of peacock eyes faces a young man in a pale robe, in black ink on white](/assets/images/2026-03-13-the-mask-we-cant-drop-painting.webp)
+*Aubrey Beardsley, The Peacock Skirt, from Salome (1894), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aubrey_Beardsley's_Illustrations_to_Salome_by_Oscar_Wilde_MET_DP863675.jpg)*
+
 I saw a fantastic talk last night at an AI meetup at Jesus College Oxford by Josh Lawman, who runs [Adder](https://www.adder.dev/). One of those that's enjoyable in the moment and then keeps unfolding in your head afterwards. He was comparing how agentic architectures have evolved over the past couple of years.
 
 He pulled up Anthropic's "Building Effective Agents" diagrams from late 2024:

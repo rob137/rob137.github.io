@@ -82,3 +82,14 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-02-17-strudel | William Morris | Wandle, printed textile (1884) | File:Wandle V&A T.45-1912.jpg |
 | 2026-02-18-is-ought | Hendrick Avercamp | A Scene on the Ice near a Town (c. 1615) | File:Hendrick Avercamp - A Scene on the Ice near a Town - WGA1075.jpg |
 | 2026-02-20-the-pause-tax | Akseli Gallen-Kallela | Lake Keitele (1905) | File:Akseli Gallen-Kallela - Lake Keitele, 1905.JPG |
+| 2026-03-11-image-problem | ESO | The Carina Nebula, imaged by the VLT Survey Telescope (2012) | File:The spectacular star-forming Carina Nebula imaged by the VLT Survey Telescope.jpg (CC BY 4.0) |
+| 2026-03-13-the-mask-we-cant-drop | Aubrey Beardsley | The Peacock Skirt, from Salome (1894) | File:Aubrey Beardsley's Illustrations to Salome by Oscar Wilde MET DP863675.jpg |
+| 2026-03-25-bdd-with-the-excuses-removed | Giovanni Domenico Tiepolo | The Procession of the Trojan Horse into Troy (c. 1760) | File:Giovanni Domenico Tiepolo - The Procession of the Trojan Horse in Troy - WGA22382.jpg |
+| 2026-03-25-the-talking-sheet | Evelyn De Morgan | Night and Sleep (1878) | File:Night and Sleep - Evelyn de Morgan (1878).jpg |
+| 2026-04-01-fun-toys | Unknown South Netherlandish weavers | The Unicorn in Captivity, from the Unicorn Tapestries (c. 1500) | File:The Unicorn in Captivity (from the Unicorn Tapestries) MET DP118991.jpg |
+| 2026-05-29-token-communism | Hasegawa Tōhaku | Pine Trees, right-hand screen (late 16th century) | File:Hasegawa Tohaku - Pine Trees (Shōrin-zu byōbu) - right hand screen.jpg |
+| 2026-06-01-kinda-sorta-claw | Henri Rousseau | Surprised! (1891) | File:Henri Rousseau - Surprise!.jpg |
+| 2026-06-25-worth-surfacing | Utagawa Kuniyoshi | Miyamoto Musashi and the Giant Whale (c. 1847) | File:Miyamoto-Musashi-Attacking-Giant-Whale-Utagawa-Kuniyoshi.png |
+| 2026-07-12-missing-the-singularity | William Anders, NASA | Earthrise (1968) | File:NASA-Apollo8-Dec24-Earthrise.jpg |
+| 2026-08-21-knees-out | John Singer Sargent | Carnation, Lily, Lily, Rose (c. 1886) | File:John Singer Sargent - Carnation, Lily, Lily, Rose - Google Art Project.jpg |
+| 2026-08-22-cheap-obsessions | Albrecht Dürer | Young Hare (1502) | File:Albrecht Dürer - Hare, 1502 - Google Art Project.jpg |

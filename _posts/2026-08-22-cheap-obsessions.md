@@ -5,6 +5,9 @@ date: 2026-08-22 13:00:00 +0000
 excerpt: "Curiosity got cheaper, rabbit holes pay in unexpected ways, and our norms around distraction may be out of date."
 ---
 
+![A young hare crouches, every hair of its coat drawn in fine detail](/assets/images/2026-08-22-cheap-obsessions-painting.webp)
+*Albrecht Dürer, Young Hare (1502), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg)*
+
 For the last few days I have been learning far too much about bolt cutters.
 
 I started with a fairly ordinary purchasing question. Knipex make several versions of their CoBolt cutters. There is a 200mm version, a 250mm version, angled jaws, straight jaws, recessed cutting edges, different handles. I wanted to know whether one was simply better, or whether the differences were real.

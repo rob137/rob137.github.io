@@ -5,6 +5,9 @@ date: 2026-07-12 07:00:00 +0000
 excerpt: "The singularity may arrive as a succession of useful suggestions."
 ---
 
+![The Earth rises half lit above the grey horizon of the Moon](/assets/images/2026-07-12-missing-the-singularity-painting.webp)
+*William Anders, NASA, Earthrise (1968), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg)*
+
 On Friday I had to nip into town and do a run of mildly annoying admin. I gave GPT-5.6 a three-minute voice prompt as I walked, explaining the whys and wherefores. It saved me about forty-five minutes. A procedure at the bank had changed, which I would otherwise have discovered by joining the wrong queue and failing.
 
 A little later I walked out of Boots with a pharmacy product a model had suggested asking the pharmacist about. None of this felt especially futuristic. I was still the one walking around, speaking to people, showing ID and carrying the bag home. We are obviously still in the useful tools stage, although I'm becoming less sure what that phrase excludes.

@@ -5,6 +5,9 @@ date: 2026-06-01 09:00:00 +0000
 excerpt: "The ChatGPT app quietly became a claw. It's on a different billing rail."
 ---
 
+![A tiger crouches in a jungle bent by wind and rain, lightning in the sky](/assets/images/2026-06-01-kinda-sorta-claw-painting.webp)
+*Henri Rousseau, Surprised! (1891). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Surprise!.jpg)*
+
 ChatGPT asked me this week if I wanted it to create a GitHub issue, open a PR, push a commit, comment on a review. The chat app, sitting in its own cloud-based sandbox, taking real actions on my repositories rather than just reading them. It's a coding agent, just not labelled as one, and even that label is too narrow for what it's becoming: a general-purpose computer use agent that happens to have developer tools wired in first.
 
 OpenAI [hired Peter Steinberger](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/) in February, the creator of [OpenClaw](https://github.com/openclaw/openclaw), to lead their next-generation personal AI agents. Whether the ChatGPT GitHub integration is a downstream consequence of that hire or just product teams independently converging on the same idea, I don't know. The result is the same.
