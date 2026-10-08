@@ -5,8 +5,8 @@ date: 2026-01-02 16:00:00 +0000
 excerpt: "If you were looking for work that's fundamentally about human connection, the Samaritans would be it. Surely AI has to flow around this, not through it. And yet."
 ---
 
-![A blue night shore with a dark hill and a pale fence line, faint stars in the sky above](/assets/images/2026-01-02-last-bastion-painting.webp){: width="1600" height="1067"}
-*Edvard Munch, Starry Night (1893), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:'Starry_Night'_by_Edvard_Munch,_1893,_Getty_Center.JPG)*
+![A blue night shore with a dark hill and a pale fence line, faint stars in the sky above](/assets/images/2026-01-02-last-bastion-painting.webp){: width="1600" height="1539"}
+*Edvard Munch, Starry Night (1893). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:'Starry_Night'_by_Edvard_Munch,_1893,_Getty_Center.JPG)*
 
 I've volunteered with the [Samaritans](https://www.samaritans.org/) since 2019.
 

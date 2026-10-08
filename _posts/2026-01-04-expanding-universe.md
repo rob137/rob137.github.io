@@ -5,8 +5,8 @@ date: 2026-01-04 14:00:00 +0000
 excerpt: "The spectrum of viable workflows is widening. Some domains will be fully automated. Others might never accommodate AI at all."
 ---
 
-![Thousands of distant galaxies, some spirals and some faint red specks, scattered across black space](/assets/images/2026-01-04-expanding-universe-painting.webp){: width="1600" height="1067"}
-*NASA, ESA, G. Illingworth, D. Magee and the XDF team, Hubble eXtreme Deep Field (2012), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hubble_Extreme_Deep_Field_%28full_resolution%29.png)*
+![Thousands of distant galaxies, some spirals and some faint red specks, scattered across black space](/assets/images/2026-01-04-expanding-universe-painting.webp){: width="1600" height="1396"}
+*NASA, ESA, G. Illingworth, D. Magee and the XDF team, Hubble eXtreme Deep Field (2012). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hubble_Extreme_Deep_Field_%28full_resolution%29.png)*
 
 Five years ago, AI wasn't part of how anyone wrote software. The tools varied, the languages varied, but you wrote the code yourself.
 

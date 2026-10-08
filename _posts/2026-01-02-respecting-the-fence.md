@@ -5,8 +5,8 @@ date: 2026-01-02 11:00:00 +0000
 excerpt: "LLMs don't have to tear down bureaucracy. They can make it easier to walk through."
 ---
 
-![Pairs of white doors stand open through a row of empty rooms with bare wooden floors](/assets/images/2026-01-02-respecting-the-fence-painting.webp){: width="1600" height="1067"}
-*Vilhelm Hammershøi, White Doors (1905), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vilhelm_Hammersh%C3%B8i-_Wei%C3%9Fe_T%C3%BCren,_offene_T%C3%BCren,_1905.jpg)*
+![Pairs of white doors stand open through a row of empty rooms with bare wooden floors](/assets/images/2026-01-02-respecting-the-fence-painting.webp){: width="1600" height="1355"}
+*Vilhelm Hammershøi, White Doors (1905). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vilhelm_Hammersh%C3%B8i-_Wei%C3%9Fe_T%C3%BCren,_offene_T%C3%BCren,_1905.jpg)*
 
 A retired vicar asked me for help with some paperwork. What happened next made me rethink my entire relationship with bureaucracy.
 
