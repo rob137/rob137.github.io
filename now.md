@@ -17,7 +17,7 @@ Lots of spare-time experiments on a ChatGPT Pro subscription, a mixture of 6.1 P
 
 ## Books and Music
 
-Piano is in a holding pattern while the kids keep me busy. Gradually learning Koji Kondo pieces.
+Piano is in a holding pattern while the kids keep me busy. Gradually learning Koji Kondo pieces: the Kokiri Forest theme and "Inside a House" from Ocarina of Time, and Clock Town Day 1 from Majora's Mask.
 
 Selling off a lot of books. I read snippets of the outgoing ones when I can, and accept that many won't get read.
 
