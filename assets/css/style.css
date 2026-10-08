@@ -384,6 +384,25 @@ img {
 }
 
 /* Hand-drawn diagrams: one render per theme */
+/* Image credit: the italic line directly under an opener image, same paragraph */
+.post-content p:has(> img:first-child) > em {
+  display: block;
+  margin-top: -1.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  font-style: normal;
+  color: var(--color-text-secondary);
+  text-align: right;
+}
+.post-content p:has(> img:first-child) > em a {
+  color: inherit;
+  text-decoration: none;
+}
+.post-content p:has(> img:first-child) > em a:hover {
+  text-decoration: underline;
+}
+
 .post-content img.drawing-dark { display: none; }
 html.dark-mode .post-content img.drawing-light { display: none; }
 html.dark-mode .post-content img.drawing-dark { display: block; }
