@@ -28,3 +28,5 @@ Selling off a lot of books. I read snippets of the outgoing ones when I can, and
 ## BJJ
 
 Finally starting to learn leg locks. Mainly the basic principles rather than lots of fancy attacks. All roads still lead to ankle locks.
+
+I may also be working on a rashguard project. More on that soon.
