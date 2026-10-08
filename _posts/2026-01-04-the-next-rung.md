@@ -5,6 +5,9 @@ date: 2026-01-04 09:00:00 +0000
 excerpt: "The most eager people I knew were using Aider this time last year. Now everyone's on Claude Code. The pattern repeats."
 ---
 
+![Young women in silver-grey robes carrying instruments descend a curving golden stair](/assets/images/2026-01-04-the-next-rung-painting.webp)
+*Edward Burne-Jones, The Golden Stairs (1880), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edward_Burne-Jones_The_Golden_Stairs.jpg)*
+
 The most eager people I knew were leaning into [Aider](https://github.com/Aider-AI/aider) this time last year. It felt premature to me - jagged, tricky to use, more friction than flow.
 
 Now everyone's on Claude Code.

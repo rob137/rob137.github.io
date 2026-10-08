@@ -5,6 +5,9 @@ date: 2026-01-03 07:00:00 +0000
 excerpt: "Terminal agents have been the stable pattern for a year now. If scaling laws hold, that stability should feel suspicious."
 ---
 
+![An ink dragon with huge round eyes glares out from swirling clouds across folding panels](/assets/images/2026-01-03-too-comfortable-painting.webp)
+*Soga Shōhaku, Dragon and Clouds (1763). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dragon_and_Clouds_by_Soga_Shohaku,_1763,_set_of_eight_panels,_ink_on_paper_DSC02757.JPG)*
+
 [Jeff Tang](https://x.com/jefftangx/status/2007230663553151281) captured something real under the satire:
 
 > "oh you're still on Claude Code? we're orchestrating agents with Beads now. wait, Steve Yegge just shipped Gas Town, it's like Kubernetes for Coding Agents. just kidding, we put Ralph Wiggums in a for loop. we gave him a phone number and bank account and asked him to autonomously make a million dollars, so he setup a daycare center in Minneapolis

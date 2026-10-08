@@ -5,8 +5,8 @@ date: 2026-01-02 16:00:00 +0000
 excerpt: "If you were looking for work that's fundamentally about human connection, the Samaritans would be it. Surely AI has to flow around this, not through it. And yet."
 ---
 
-![A wet moonlit street along a quay, shopfronts glowing and ships' masts rising behind](/assets/images/2026-01-02-last-bastion-painting.webp)
-*John Atkinson Grimshaw, Liverpool Quay by Moonlight (1887). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Atkinson_Grimshaw_%281836-1893%29_-_Liverpool_Quay_by_Moonlight_-_T00902_-_Tate.jpg)*
+![A blue night shore with a dark hill and a pale fence line, faint stars in the sky above](/assets/images/2026-01-02-last-bastion-painting.webp)
+*Edvard Munch, Starry Night (1893), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:'Starry_Night'_by_Edvard_Munch,_1893,_Getty_Center.JPG)*
 
 I've volunteered with the [Samaritans](https://www.samaritans.org/) since 2019.
 

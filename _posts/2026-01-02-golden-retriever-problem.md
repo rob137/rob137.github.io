@@ -5,8 +5,8 @@ date: 2026-01-02 15:00:00 +0000
 excerpt: "The helpful assistant persona is a transitional form. The useful models will push back."
 ---
 
-![A dog's head peers over a dark slope into a vast empty ochre space](/assets/images/2026-01-02-golden-retriever-problem-painting.webp)
-*Francisco Goya, The Dog (c. 1820), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Goya_Dog.jpg)*
+![Two snowy owls perch on a dead branch against a dark night sky](/assets/images/2026-01-02-golden-retriever-problem-painting.webp)
+*John James Audubon, Snowy Owl, from The Birds of America (c. 1829), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:121_Snowy_Owl.jpg)*
 
 The helpful assistant persona is a transitional form.
 

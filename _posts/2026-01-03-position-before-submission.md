@@ -5,6 +5,9 @@ date: 2026-01-03 14:30:00 +0000
 excerpt: "What ten years of Brazilian Jiu-Jitsu taught me about working with AI agents. It's all about where you expect things to be."
 ---
 
+![Jacob grapples with the angel beneath towering trees, a group of travellers passing in the background](/assets/images/2026-01-03-position-before-submission-painting.webp)
+*Eugène Delacroix, Jacob Wrestling with the Angel (1861), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_%E2%80%94_Jacob_Wrestling_with_the_Angel.jpg)*
+
 A good proportion of people starting BJJ will overexert in ways that aren't obvious to them at the time. I was absolutely one of these.
 
 I remember when I first started training, I would often come away with my hands shaking from over-gripping. It doesn't really matter what your athletic background is - the nature of the sport defeats whatever fitness you bring. I'd done a bunch of triathlons, P Company, an Ironman, about ten marathons. I was still totally exhausted, again and again, for the first few weeks. It stays hard for the first few years.

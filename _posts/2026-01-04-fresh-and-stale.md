@@ -5,6 +5,9 @@ date: 2026-01-04 20:30:00 +0000
 excerpt: "Ideas captured immediately feel effortless. Ideas saved for later feel like work. The difference is infrastructure."
 ---
 
+![Thrushes among strawberries, tulips and leaves in a dense indigo pattern](/assets/images/2026-01-04-fresh-and-stale-painting.webp)
+*William Morris, Strawberry Thief, printed textile (designed 1883), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Textile,_Strawberry_Thief,_designed_1883,_printed_ca._1934_%28CH_18340065%29.jpg)*
+
 A friend, [James Welland](https://jameswelland.co.uk/), asked where he'd find time to do what I'm doing with this blog. His idea: describe your daily routine to an LLM and ask it to find cracks.
 
 Another way of looking at it: the cracks were always there. The change is that I don't write anything. I have a copywriter on my phone.

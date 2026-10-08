@@ -5,8 +5,8 @@ date: 2026-01-02 16:30:00 +0000
 excerpt: "LLMs can infer your decision style from examples you never explain."
 ---
 
-![A celestial chart of the northern sky, its constellations drawn as animals and mythical figures](/assets/images/2026-01-02-show-dont-tell-painting.webp)
-*Andreas Cellarius, Haemisphaerium Stellatum Boreale Antiquum, from Harmonia Macrocosmica (1660), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Celestial_chart_by_Andreas_Cellarius_-_Haemisphaerium_Stellatum_Boreale_Antiquum.jpg)*
+![A traveller kneels at the edge of the world and pushes his head through the starry sky to see the machinery beyond](/assets/images/2026-01-02-show-dont-tell-painting.webp)
+*Anonymous, The Flammarion engraving (1888), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FlammarionWoodcut.jpg)*
 
 LLMs are unreasonably good at associative thinking. Almost nobody is talking about it.
 

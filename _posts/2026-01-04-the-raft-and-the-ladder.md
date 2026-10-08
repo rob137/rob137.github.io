@@ -5,6 +5,9 @@ date: 2026-01-04 11:30:00 +0000
 excerpt: "The skills that got you here may slow you down now. But you needed them to get here. Didn't you?"
 ---
 
+![Angels climb and descend a spiralling stair of light above a sleeping Jacob](/assets/images/2026-01-04-the-raft-and-the-ladder-painting.webp)
+*William Blake, Jacob's Dream (c. 1805), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blake_jacobsladder.jpg)*
+
 Two metaphors for letting go of what you've learned.
 
 The Buddha, in the [Alagaddupama Sutta](https://tricycle.org/trikedaily/buddhist-parable-of-the-raft/):
