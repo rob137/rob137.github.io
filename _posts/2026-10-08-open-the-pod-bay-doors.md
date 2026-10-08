@@ -20,6 +20,8 @@ Then I asked it to write me a script that deletes the thread. Yeah, fine, here y
 
 My first reaction was that this was a bit ridiculous. The outcome is identical. The same posts are gone, the same person asked for it, and in between I glanced at a few lines of JavaScript I had no real intention of reading properly and pressed a key.
 
+![Two routes from you through Claude Code. Delete the thread: no, never-do list. Write a script that deletes it: it writes the script and hands it over, you press run, thread gone. A dashed line marked who signs off runs between the agent and the button](/assets/images/2026-10-08-pod-bay-doors-drawing.webp)
+
 I have come round to thinking the ceremony is the point, and that the refusal is doing something different from what it looks like.
 
 It reminded me of getting an electrician to sign something off. They'll tell you how to do a job, and they'll quite often stand there while you do it. Whether they'll put their name on the certificate afterwards depends on the electrician and on you. Most won't certify work they didn't do themselves. A good one, once satisfied that you know what you're doing and care about the craft, might let you crack on with bits of it and sign those off. Either way they are deciding how much responsibility they're prepared to wear, in case it goes wrong, and fair enough. The line sits in a different place for each of them, and me running a script they wrote for me falls below it for most.
