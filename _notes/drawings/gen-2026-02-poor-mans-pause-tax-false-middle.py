@@ -38,8 +38,7 @@ def poor_mans(d):
     d.box(440,370,170,140,['model'],0.5,30)
     d.path('M425 362 L425 530',I,3)
     d.txt(425,352,'✗',30,d.red)
-    d.txt(390,640,'the model can\'t see the workflow it\'s in,',26)
-    d.txt(390,674,'so you keep explaining its own environment to it',26)
+    d.txt(390,650,'the model can\'t see it',28)
     # right panel
     d.box(780,110,660,620,[],-0.2)
     d.txt(1110,160,'in a prompt',32,I)
@@ -47,9 +46,7 @@ def poor_mans(d):
     d.arrow('M1154 375 L1218 375')
     d.txt(1186,355,'reads',22)
     d.box(1222,305,170,140,['model'],-0.5,30)
-    d.txt(1110,640,'the workflow is visible to the thing doing the work,',26)
-    d.txt(1110,674,'so it can reason about it and notice when it doesn\'t fit',26)
-    d.txt(750,785,'Same workflow. One copy is intelligence in code the model can\'t see.',28,I)
+    d.txt(1110,650,'the model can read it',28)
 
 def pause_tax(d):
     I,G=d.ink,d.grey
@@ -68,7 +65,6 @@ def pause_tax(d):
             d.txt(x+w/2,y+112,'"quickly"',22); d.txt(x+w/2,y+140,'checking Teams',22)
         x+=w
     d.txt(1430,y+50,'time',24,anchor='start')
-    d.txt(750,400,'each pause felt momentary. the train stopped every time.',26)
     # now
     d.txt(90,440,'now',32,I,anchor='start')
     y2=600
@@ -85,7 +81,6 @@ def pause_tax(d):
     # me watching above feeding
     d.box(190,440,250,70,[('me, watching',I,24)],-0.5,24)
     d.arrow('M442 475 L466 492')
-    d.txt(750,775,'The system doesn\'t block on me between tasks. I steer; it keeps moving.',28,I)
 
 def false_middle(d):
     I,G=d.ink,d.grey
@@ -108,9 +103,8 @@ def false_middle(d):
     d.txt(750,406,'too distracted to avoid the traps',26)
     d.txt(280,290,'might be right',24)
     d.txt(1220,290,'might be right',24)
-    d.txt(750,720,'The middle feels safe. It might just be the downsides of both.',28,I)
 
-jobs=[('2026-02-05-poor-mans-prompt',poor_mans,1500,820),('2026-02-20-the-pause-tax',pause_tax,1500,820),('2026-02-01-the-false-middle',false_middle,1500,760)]
+jobs=[('2026-02-05-poor-mans-prompt',poor_mans,1500,760),('2026-02-20-the-pause-tax',pause_tax,1500,750),('2026-02-01-the-false-middle',false_middle,1500,680)]
 for name,fn,W,H in jobs:
     for suffix,cols in [('',('#f0eee6','#1f1f1f','#7a7a7a')),('-dark',('#1f1e1d','#e8e6e1','#a9a7a2'))]:
         d=D(W,H,*cols); fn(d)
