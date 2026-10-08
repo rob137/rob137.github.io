@@ -23,6 +23,9 @@ It's like an experiment I do with my phone sometimes. On weekends I switch it fu
 
 Same thing here. In ordinary use the train stops entirely while I'm engaged elsewhere, and it doesn't feel like lost time because I'm busy. But the throughput cost is real.
 
+<img class="drawing-light" src="/assets/images/2026-02-20-the-pause-tax-drawing.webp" alt="Two timelines. Before: blocks of model works separated by gaps marked quickly checking Teams. Now: me watching and adding to an org file, the model pulling the next item, and the blocks run back to back">
+<img class="drawing-dark" src="/assets/images/2026-02-20-the-pause-tax-drawing-dark.webp" alt="Two timelines. Before: blocks of model works separated by gaps marked quickly checking Teams. Now: me watching and adding to an org file, the model pulling the next item, and the blocks run back to back">
+
 The new workflow doesn't pause. I'm still watching everything, still reading output, still judging whether it's missing something. But the system doesn't block on my input between tasks. The model pulls the next item and keeps moving. My attention can drift to the broader picture - what we're trying to do, what trade-offs we haven't considered, what's coming next - while work continues underneath.
 
 This only works because the models are good enough now. A year ago you needed tight coupling - sign off on nearly every function, because drift happened fast if you looked away. The sensible ratio was something like one approval per commit. Now I can batch. The models at this generation feel less like toddlers needing guardrails and more like high-agency juniors who are rough around the edges but keen to get things done. You want to give them context about why, not just what - because that feeds into their decisions.

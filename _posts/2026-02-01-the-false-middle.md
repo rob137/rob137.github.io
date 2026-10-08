@@ -15,6 +15,9 @@ The thing is: what if they're both right? What if they're both wrong? You're ope
 
 On an individual level, you have both voices. Spreadsheet demon on one shoulder, enthusiast on the other. The instinct is to meet in the middle - hedge, experiment carefully, phase things in.
 
+<img class="drawing-light" src="/assets/images/2026-02-01-the-false-middle-drawing.webp" alt="A curve that is high at both ends, the spreadsheet person and the enthusiast, and dips in the middle, where hedging gets you too slow to seize it and too distracted to avoid the traps">
+<img class="drawing-dark" src="/assets/images/2026-02-01-the-false-middle-drawing-dark.webp" alt="A curve that is high at both ends, the spreadsheet person and the enthusiast, and dips in the middle, where hedging gets you too slow to seize it and too distracted to avoid the traps">
+
 Right now, with AI, I'm coming down on the side that being extreme is the sensible path. The middle feels safe but might just mean you get the downsides of both. Too slow to seize opportunity. Too distracted to avoid the traps.
 
 You kind of do just know sometimes. The hard part is trusting it.
