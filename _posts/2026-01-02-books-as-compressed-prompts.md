@@ -5,7 +5,8 @@ date: 2026-01-02 12:00:00 +0000
 excerpt: "Book titles are pointers to compressed mental models that LLMs already know. Say 'The Goal' and you invoke an entire framework."
 ---
 
-![Library with glowing books](/assets/images/library-glow.webp)
+![A white and gold baroque library hall, bookshelves rising to a ceiling of painted domes](/assets/images/2026-01-02-books-as-compressed-prompts-painting.webp)
+*Jorge Royan, Admont Abbey Library (2009). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Austria_-_Admont_Abbey_Library_-_1326.jpg), CC BY-SA 3.0*
 
 Last week I needed to refactor some database migrations. Instead of explaining the problem from first principles, I just said: "Apply the patterns from [Refactoring Databases](https://en.wikipedia.org/wiki/Refactoring_Databases) to this."
 

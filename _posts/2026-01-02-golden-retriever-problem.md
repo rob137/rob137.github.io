@@ -5,7 +5,8 @@ date: 2026-01-02 15:00:00 +0000
 excerpt: "The helpful assistant persona is a transitional form. The useful models will push back."
 ---
 
-![Golden retriever and border collie](/assets/images/golden-retriever.webp)
+![A dog's head peers over a dark slope into a vast empty ochre space](/assets/images/2026-01-02-golden-retriever-problem-painting.webp)
+*Francisco Goya, The Dog (c. 1820), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Goya_Dog.jpg)*
 
 The helpful assistant persona is a transitional form.
 

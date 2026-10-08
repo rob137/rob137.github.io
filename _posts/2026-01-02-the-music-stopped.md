@@ -4,6 +4,9 @@ title: "The Music Stopped"
 date: 2026-01-02 13:30:00 +0000
 ---
 
+![A woman at a harpsichord, a man with a lute and a standing singer in a room hung with paintings](/assets/images/2026-01-02-the-music-stopped-painting.webp)
+*Johannes Vermeer, The Concert (c. 1664), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vermeer_The_Concert.jpg)*
+
 There's a debate that flares up periodically: terminal versus IDE. Vim versus VS Code. Text-based interfaces versus graphical ones.
 
 I've collected opinions on this from software engineers for years. People feel strongly about their tools, and I think that's legitimate - the environment you work in shapes how you think, and the investment in mastering a tool is real. These aren't trivial preferences.

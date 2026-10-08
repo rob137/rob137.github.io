@@ -5,7 +5,8 @@ date: 2026-01-02 14:00:00 +0000
 excerpt: "The Industrial Revolution was net positive. It was also expensive in the intermediary times. We might be there again."
 ---
 
-![Transition between eras](/assets/images/transition-period.webp)
+![Flames and smoke from an ironworks light up the night sky over a hillside village](/assets/images/2026-01-02-intermediary-times-painting.webp)
+*Philip James de Loutherbourg, Coalbrookdale by Night (1801). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Philipp_Jakob_Loutherbourg_d._J._002.jpg)*
 
 I've never really worried about my job.
 

@@ -4,6 +4,9 @@ title: "Voice First"
 date: 2026-01-02 08:00:00 +0000
 ---
 
+![Narcissus lies at the edge of a pool gazing at his reflection while Echo watches from beside a tree](/assets/images/2026-01-02-voice-first-painting.webp)
+*John William Waterhouse, Echo and Narcissus (1903). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg)*
+
 Last night I became an audio engineer.
 
 I don't have any training in audio engineering. I've never taken a course, read a book, or spent time learning the fundamentals. And yet by the end of the evening I was discussing preamps, gain staging, and noise floors. More importantly, I was *doing* something about them.

@@ -5,7 +5,8 @@ date: 2026-01-02 16:00:00 +0000
 excerpt: "If you were looking for work that's fundamentally about human connection, the Samaritans would be it. Surely AI has to flow around this, not through it. And yet."
 ---
 
-![Telephone in the dark](/assets/images/telephone-glow.webp)
+![A wet moonlit street along a quay, shopfronts glowing and ships' masts rising behind](/assets/images/2026-01-02-last-bastion-painting.webp)
+*John Atkinson Grimshaw, Liverpool Quay by Moonlight (1887). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Atkinson_Grimshaw_%281836-1893%29_-_Liverpool_Quay_by_Moonlight_-_T00902_-_Tate.jpg)*
 
 I've volunteered with the [Samaritans](https://www.samaritans.org/) since 2019.
 

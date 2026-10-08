@@ -5,6 +5,9 @@ date: 2026-01-02 15:30:00 +0000
 excerpt: "I keep writing to-do items that are actually prompts. Detailed enough that I could hand them to an agent and walk away."
 ---
 
+![An orange sun rises over a blue-grey harbour, a small boat dark against the water](/assets/images/2026-01-02-todo-lists-as-prompts-painting.webp)
+*Claude Monet, Impression, Sunrise (1872). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg)*
+
 I keep finding to-do items in my notes that look like this:
 
 > **Mission:** build the local PoC for the legal-doc-task-engine-prototype.

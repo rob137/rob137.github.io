@@ -5,7 +5,8 @@ date: 2026-01-02 13:00:00 +0000
 excerpt: "Something happened in the last few weeks. A step change that went unrecognised for a while. I think we've crossed a threshold."
 ---
 
-![Event horizon](/assets/images/event-horizon.webp)
+![Two figures in a boat on a dark sea under a moonlit sky, the flat cliff of the North Cape on the horizon](/assets/images/2026-01-02-crossing-the-horizon-painting.webp)
+*Peder Balke, The North Cape by Moonlight (1848). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peder_Balke_-_The_North_Cape_by_Moonlight_-_2019.167.4_-_Metropolitan_Museum_of_Art.jpg)*
 
 > "There is nothing special physically at the horizon. Locally there is nothing special - an observer would not feel some special force, everything is fine for her. However, there is something special: crossing the horizon means that there is no way to return. But this is not visible locally, only globally."
 >
