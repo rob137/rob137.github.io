@@ -27,8 +27,6 @@ Selling off a lot of books. I read snippets of the outgoing ones when I can, but
 
 ## BJJ
 
-Still basically a two-stripe white belt. This is the year.
-
-Finally starting to learn leg locks. Mainly the basic principles rather than lots of fancy attacks. All roads still lead to ankle locks.
+Brown belt, but for leg locks I'm still basically a two-stripe white belt. This is the year. Finally learning them properly, mainly the basic principles rather than lots of fancy attacks. All roads still lead to ankle locks.
 
 I may also be working on a rashguard project. More on that soon.
