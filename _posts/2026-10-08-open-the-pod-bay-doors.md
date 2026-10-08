@@ -5,7 +5,8 @@ date: 2026-10-08 08:00:00 +0000
 excerpt: "An agent's refusal tells you who signs off. It tells you very little about what can be done."
 ---
 
-![Woodblock print: a figure in a straw rain cape stands in the rain before a sealed iron airlock door, a lantern glowing beside it](/assets/images/2026-10-08-pod-bay-doors.webp)
+![A woman in a grey robe draws a circle on the ground with a wand, smoke rising from a cauldron beside her](/assets/images/2026-10-08-pod-bay-doors.webp)
+*John William Waterhouse, The Magic Circle (1886), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Magic_Circle.JPG)*
 
 On Monday afternoon I was setting up a small automation at work. Early each Monday an agent looks at the week's commits, opens a changelog pull request and posts a summary to Slack. I didn't want to wait until Monday to find out whether the summary was any good, so I had it do dry runs into a real Slack thread, because that is where I would be reading it anyway. Ask for a change, it posts, I read it, ask again. By the time I was happy the thread had thirteen test posts in it.
 
