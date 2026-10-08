@@ -2,7 +2,6 @@
 layout: post
 title: "Gateway Drug"
 date: 2026-01-05 15:00:00 +0000
-tags: [ai, neuroscience, philosophy, agi]
 excerpt: "Copilot led to scaling laws led to Dwarkesh led to the hippocampus. AI is a gateway drug to questions about the brain."
 ---
 

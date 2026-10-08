@@ -2,7 +2,6 @@
 layout: post
 title: "Voice First"
 date: 2026-01-02 08:00:00 +0000
-tags: [ai, voice, llm, productivity, sdlc]
 ---
 
 Last night I became an audio engineer.

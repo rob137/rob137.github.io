@@ -2,7 +2,6 @@
 layout: post
 title: "You Just Get Used to It"
 date: 2026-01-04 08:00:00 +0000
-tags: [ai, trust, testimony, dogs]
 excerpt: "Most of what we know, we take on trust. AI is asking us to extend that trust in ways we haven't figured out yet."
 ---
 

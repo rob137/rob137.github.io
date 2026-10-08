@@ -2,7 +2,6 @@
 layout: post
 title: "Parachute"
 date: 2026-01-05 12:30:00 +0000
-tags: [ai, teams, experience, brooks-law]
 excerpt: "Junior developers are moving ridiculously fast. The real variable might not be experience."
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Competency Gap"
 date: 2026-01-07 06:30:00 +0000
-tags: [ai, expertise, skills, work]
 excerpt: "The difference between doing the work and showing up to the right meetings. AI will widen it."
 ---
 

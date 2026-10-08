@@ -2,7 +2,6 @@
 layout: post
 title: "Workflows Without Names"
 date: 2026-01-27 14:30:00 +0000
-tags: [ai, workflows, llm]
 excerpt: "The bottleneck used to be execution. Now it's knowing what's worth building."
 ---
 

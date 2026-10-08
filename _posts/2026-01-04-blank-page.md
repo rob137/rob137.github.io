@@ -2,7 +2,6 @@
 layout: post
 title: "Blank Page"
 date: 2026-01-04 20:00:00 +0000
-tags: [ai, adhd, work, personality, dopamine]
 excerpt: "The 2am essay paralysis. The physical excruciation of getting started. For certain personality types, LLMs have made it disappear."
 ---
 

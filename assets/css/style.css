@@ -11,7 +11,6 @@
   --color-code-block-text: #abb2bf;
   --color-blockquote-bg: #e8e6dc;
   --color-blockquote-border: #5e5d59;
-  --color-tag-bg: #e8e6dc;
 }
 
 /* Dark Mode */
@@ -27,7 +26,6 @@ html.dark-mode {
   --color-code-block-text: #abb2bf;
   --color-blockquote-bg: #2d2c2b;
   --color-blockquote-border: #b0aea5;
-  --color-tag-bg: #3d3d3a;
 }
 
 /* Reset and base styles */
@@ -313,27 +311,6 @@ img {
   padding: 0;
   color: inherit;
   font-size: inherit;
-}
-
-.post-footer {
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--color-border);
-  font-size: 0.9rem;
-  color: var(--color-text-secondary);
-}
-
-.tag {
-  background: var(--color-tag-bg);
-  padding: 0.2rem 0.6rem;
-  border-radius: 3px;
-  font-size: 0.85rem;
-  text-decoration: none;
-  color: var(--color-text-secondary);
-  transition: background-color 0.2s ease;
-}
-
-.tag:hover {
-  background: var(--color-border);
 }
 
 /* Post navigation */

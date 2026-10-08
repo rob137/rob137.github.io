@@ -2,7 +2,6 @@
 layout: post
 title: "First Contact"
 date: 2026-01-03 08:30:00 +0000
-tags: [ai, llm, military, management, agency]
 excerpt: "Three ideas from military doctrine that apply surprisingly well to working with AI agents: mission command, the orders process, and inkblot strategy."
 ---
 

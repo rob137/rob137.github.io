@@ -2,7 +2,6 @@
 layout: post
 title: "Clock Town"
 date: 2026-01-19 13:00:00 +0000
-tags: [ai, culture, psychology, predictions]
 excerpt: "Everyone can see the moon coming. Almost nobody changes their plans."
 ---
 

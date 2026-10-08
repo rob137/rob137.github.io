@@ -2,7 +2,6 @@
 layout: post
 title: "Today's Bite Point"
 date: 2026-01-06 16:00:00 +0000
-tags: [ai, agents, product, strategy]
 excerpt: "Chase whatever feels like YOLO right now. That's probably where to build."
 ---
 

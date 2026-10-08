@@ -2,7 +2,6 @@
 layout: post
 title: "Useful, Not True"
 date: 2026-01-24 11:00:00 +0000
-tags: [ai, cognition]
 excerpt: "We need metaphors to understand LLMs. But if something is categorically new, all metaphors will fail somewhere."
 ---
 

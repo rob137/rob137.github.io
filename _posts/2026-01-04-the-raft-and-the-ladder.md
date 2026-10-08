@@ -2,7 +2,6 @@
 layout: post
 title: "The Raft and the Ladder"
 date: 2026-01-04 11:30:00 +0000
-tags: [ai, expertise, skills, philosophy, history]
 excerpt: "The skills that got you here may slow you down now. But you needed them to get here. Didn't you?"
 ---
 

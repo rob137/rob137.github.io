@@ -2,7 +2,6 @@
 layout: post
 title: "Open the Pod Bay Doors"
 date: 2026-10-08 08:00:00 +0000
-tags: [ai, llm, agents, safety, tools]
 excerpt: "An agent's refusal tells you who signs off. It tells you very little about what can be done."
 ---
 

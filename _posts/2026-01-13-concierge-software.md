@@ -2,7 +2,6 @@
 layout: post
 title: "Concierge Software"
 date: 2026-01-13 09:30:00 +0000
-tags: [ai, llm, vibe-coding]
 excerpt: "It was easier to conjure bespoke software than to find something that fit."
 ---
 

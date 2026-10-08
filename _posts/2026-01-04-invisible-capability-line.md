@@ -2,7 +2,6 @@
 layout: post
 title: "Invisible Capability Line"
 date: 2026-01-04 21:30:00 +0000
-tags: [ai, llm, inflection]
 excerpt: "Simon Willison on the November step change."
 ---
 

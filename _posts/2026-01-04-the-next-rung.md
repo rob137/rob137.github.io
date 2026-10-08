@@ -2,7 +2,6 @@
 layout: post
 title: "The Next Rung"
 date: 2026-01-04 09:00:00 +0000
-tags: [ai, agents, abstraction, tools]
 excerpt: "The most eager people I knew were using Aider this time last year. Now everyone's on Claude Code. The pattern repeats."
 ---
 

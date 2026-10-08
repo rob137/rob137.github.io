@@ -2,7 +2,6 @@
 layout: post
 title: "The Great Attractor"
 date: 2026-01-05 14:00:00 +0000
-tags: [ai, tools, convergence]
 excerpt: "Certain general-purpose devices attract all functionality. The phone ate my flashlight. Now the terminal is eating everything else."
 ---
 

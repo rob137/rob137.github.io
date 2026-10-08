@@ -2,7 +2,6 @@
 layout: post
 title: "Respecting the Fence"
 date: 2026-01-02 11:00:00 +0000
-tags: [ai, bureaucracy, llm, government, productivity]
 excerpt: "LLMs don't have to tear down bureaucracy. They can make it easier to walk through."
 ---
 

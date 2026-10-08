@@ -2,7 +2,6 @@
 layout: post
 title: "Out of Distribution"
 date: 2026-01-29 14:00:00 +0000
-tags: [ai, work, skills]
 excerpt: "In infinitely dimensional space, everything is close. All roads lead here."
 ---
 

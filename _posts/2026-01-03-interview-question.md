@@ -2,7 +2,6 @@
 layout: post
 title: "Interview Question"
 date: 2026-01-03 15:00:00 +0000
-tags: [ai, hiring, interviews, product]
 excerpt: "An interview question that felt revolutionary a year ago and is now fully redundant. What it taught us about what we're actually looking for."
 ---
 

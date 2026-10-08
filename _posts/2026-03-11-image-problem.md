@@ -2,7 +2,6 @@
 layout: post
 title: "Image Problem"
 date: 2026-03-11 10:00:00 +0000
-tags: [tools, ai, workflow]
 excerpt: "Terminals have two of them."
 ---
 

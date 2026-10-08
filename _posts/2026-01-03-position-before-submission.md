@@ -2,7 +2,6 @@
 layout: post
 title: "Position Before Submission"
 date: 2026-01-03 14:30:00 +0000
-tags: [ai, bjj, expertise, workflow]
 excerpt: "What ten years of Brazilian Jiu-Jitsu taught me about working with AI agents. It's all about where you expect things to be."
 ---
 

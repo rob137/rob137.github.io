@@ -2,7 +2,6 @@
 layout: post
 title: "Who You Call"
 date: 2026-01-07 16:00:00 +0000
-tags: [ai, expertise, advice, work]
 excerpt: "Code is a special case. These are general-purpose models."
 ---
 

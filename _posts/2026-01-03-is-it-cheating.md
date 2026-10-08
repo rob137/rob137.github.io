@@ -2,7 +2,6 @@
 layout: post
 title: "Is It Cheating?"
 date: 2026-01-03 13:30:00 +0000
-tags: [ai, writing, workflow, chivalry]
 excerpt: "Technology arrives and changes the game. There's usually a period where the new approach is considered dishonorable. Then the rules shift."
 ---
 

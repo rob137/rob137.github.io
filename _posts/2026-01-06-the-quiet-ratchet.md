@@ -2,7 +2,6 @@
 layout: post
 title: "The Quiet Ratchet"
 date: 2026-01-06 12:00:00 +0000
-tags: [ai, standards, quality, psychology]
 excerpt: "Standards aren't things you consciously form. They're things that happen to you."
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Expanding Universe"
 date: 2026-01-04 14:00:00 +0000
-tags: [ai, coding, domains, spectrum]
 excerpt: "The spectrum of viable workflows is widening. Some domains will be fully automated. Others might never accommodate AI at all."
 ---
 

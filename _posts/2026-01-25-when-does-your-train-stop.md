@@ -2,7 +2,6 @@
 layout: post
 title: "Along for the Ride"
 date: 2026-01-25 12:00:00 +0000
-tags: [ai, career, engineering]
 excerpt: "LLMs let engineers climb the abstraction stack. But who's actually doing the climbing?"
 ---
 

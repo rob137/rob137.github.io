@@ -2,7 +2,6 @@
 layout: post
 title: "Missing the Singularity"
 date: 2026-07-12 07:00:00 +0000
-tags: [ai, llm, economics, philosophy, predictions]
 excerpt: "The singularity may arrive as a succession of useful suggestions."
 ---
 

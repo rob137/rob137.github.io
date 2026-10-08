@@ -2,7 +2,6 @@
 layout: post
 title: "Ad Machinum"
 date: 2026-01-07 07:30:00 +0000
-tags: [ai, epistemology, trust, philosophy]
 excerpt: "Rejecting an argument because of who made it is supposedly a fallacy. What about rejecting it because of what made it?"
 ---
 

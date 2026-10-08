@@ -2,7 +2,6 @@
 layout: post
 title: "Writing Style"
 date: 2026-01-14 10:00:00 +0000
-tags: [ai, llm, culture, language]
 excerpt: "We imitate our interlocutors unconsciously. LLMs are now interlocutors."
 ---
 

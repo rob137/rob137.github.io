@@ -2,7 +2,6 @@
 layout: post
 title: "Local Maximum"
 date: 2026-01-06 08:00:00 +0000
-tags: [ai, scaling, predictions, uncertainty]
 excerpt: "The AI industry is split between 'foom' and 'it's so over'. Both camps have serious people in them."
 ---
 

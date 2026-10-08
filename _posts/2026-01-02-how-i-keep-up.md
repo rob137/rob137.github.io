@@ -2,7 +2,6 @@
 layout: post
 title: "How I Keep Up"
 date: 2026-01-02 14:30:00 +0000
-tags: [ai, llm, resources, x, twitter]
 excerpt: "X.com is unreasonably good - if you follow the right people and resist the dopaminergic pull."
 ---
 

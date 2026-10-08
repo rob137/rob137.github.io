@@ -2,7 +2,6 @@
 layout: post
 title: "Pause Tax"
 date: 2026-02-20 12:00:00 +0000
-tags: [ai, software, workflow]
 excerpt: "You are the bottleneck now."
 ---
 

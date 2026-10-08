@@ -2,7 +2,6 @@
 layout: post
 title: "Kinda-Sorta Claw"
 date: 2026-06-01 09:00:00 +0000
-tags: [ai, agents, github]
 excerpt: "The ChatGPT app quietly became a claw. It's on a different billing rail."
 ---
 

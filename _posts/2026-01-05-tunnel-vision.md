@@ -2,7 +2,6 @@
 layout: post
 title: "Tunnel Vision"
 date: 2026-01-05 14:50:00 +0000
-tags: [ai, ergonomics, attention, alan-kay]
 excerpt: "A cardioid microphone keeps you ten centimetres from the same spot. You stop noticing the room around you."
 ---
 

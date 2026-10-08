@@ -2,7 +2,6 @@
 layout: post
 title: "Vibe Orchestration"
 date: 2026-01-06 14:00:00 +0000
-tags: [ai, metaphors, workflow, agents]
 excerpt: "Justin Bieber conducting an orchestra by humming. That might be closer to where we're heading."
 ---
 

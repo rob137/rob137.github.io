@@ -2,7 +2,6 @@
 layout: post
 title: "Three Fingers"
 date: 2026-01-28 15:00:00 +0000
-tags: [ai, management, workflows, exponential]
 excerpt: "There's a gap growing between what an hour of work should produce and what managers expect."
 ---
 

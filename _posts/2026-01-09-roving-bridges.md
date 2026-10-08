@@ -2,7 +2,6 @@
 layout: post
 title: "Roving Bridges"
 date: 2026-01-09 10:00:00 +0000
-tags: [ai, llm, workflow, testing, agents]
 excerpt: "We built bridges for tethered horses. What if they could hop across?"
 ---
 

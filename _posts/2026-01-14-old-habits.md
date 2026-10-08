@@ -2,7 +2,6 @@
 layout: post
 title: "Old Habits"
 date: 2026-01-14 11:00:00 +0000
-tags: [ai, llm, productivity, voice]
 excerpt: "Comfortable and laziest aren't the same thing."
 ---
 

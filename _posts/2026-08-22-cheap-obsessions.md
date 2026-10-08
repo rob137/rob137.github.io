@@ -2,7 +2,6 @@
 layout: post
 title: "Cheap Obsessions"
 date: 2026-08-22 13:00:00 +0000
-tags: [ai, llm, learning, attention, tools]
 excerpt: "Curiosity got cheaper, rabbit holes pay in unexpected ways, and our norms around distraction may be out of date."
 ---
 

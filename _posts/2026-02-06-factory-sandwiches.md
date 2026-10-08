@@ -2,7 +2,6 @@
 layout: post
 title: "Factory Sandwiches"
 date: 2026-02-06 09:00:00 +0000
-tags: [ai, economics, work]
 excerpt: "The economy isn't designed around humans. We contort to fit it."
 image: /assets/images/factory-sandwiches.webp
 ---

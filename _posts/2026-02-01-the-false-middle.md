@@ -2,7 +2,6 @@
 layout: post
 title: "The False Middle"
 date: 2026-02-01 15:00:00 +0000
-tags: [decision-making, risk]
 excerpt: "Meeting in the middle might be the risky choice."
 ---
 

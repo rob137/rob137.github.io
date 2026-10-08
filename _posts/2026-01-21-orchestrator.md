@@ -2,7 +2,6 @@
 layout: post
 title: "Orchestrator"
 date: 2026-01-21 17:00:00 +0000
-tags: [ai, workflow, automation]
 excerpt: "A friend asked how I work with agents. I procrastinated for days, then automated the explanation."
 ---
 

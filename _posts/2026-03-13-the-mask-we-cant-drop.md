@@ -2,7 +2,6 @@
 layout: post
 title: "The Mask We Can't Drop"
 date: 2026-03-13 09:00:00 +0000
-tags: [ai, agentic, architecture, context-windows, bitter-lesson]
 excerpt: "Agentic systems are getting complicated. Two forces might reverse that. Unless context windows are a hard constraint."
 ---
 

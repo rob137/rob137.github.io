@@ -2,7 +2,6 @@
 layout: post
 title: "Token Communism"
 date: 2026-05-29 10:00:00 +0000
-tags: [ai, teams, management]
 excerpt: "An AI usage leaderboard is Goodhart's Law waiting to happen."
 ---
 

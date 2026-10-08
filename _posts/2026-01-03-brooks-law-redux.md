@@ -2,7 +2,6 @@
 layout: post
 title: "Brooks' Law Redux"
 date: 2026-01-03 18:00:00 +0000
-tags: [ai, software, teams, bottlenecks]
 excerpt: "The optimal number of engineers on a project is falling fast. It might be approaching zero."
 ---
 

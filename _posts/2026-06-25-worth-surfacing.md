@@ -2,7 +2,6 @@
 layout: post
 title: "Worth Surfacing"
 date: 2026-06-25 09:00:00 +0000
-tags: [ai, llm, language, thinking]
 excerpt: "What happens when you spend most of your day talking to Claude?"
 ---
 

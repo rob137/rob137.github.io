@@ -2,7 +2,6 @@
 layout: post
 title: "Trial by Foom"
 date: 2026-01-06 10:00:00 +0000
-tags: [ai, practices, engineering, testing]
 excerpt: "Slow feedback loops kept the debates alive, but that's changing."
 ---
 

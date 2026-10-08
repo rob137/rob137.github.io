@@ -2,7 +2,6 @@
 layout: post
 title: "The Lollipop"
 date: 2026-01-15 09:00:00 +0000
-tags: [philosophy, academia, career]
 excerpt: "A system whose primary function is to sustain itself."
 ---
 

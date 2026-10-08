@@ -2,7 +2,6 @@
 layout: post
 title: "Aiming Off"
 date: 2026-01-05 12:45:00 +0000
-tags: [ai, strategy, uncertainty, history]
 excerpt: "When everything's moving, you have to aim where the target will be. The early hackers knew this."
 ---
 

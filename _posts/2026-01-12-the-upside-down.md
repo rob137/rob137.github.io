@@ -2,7 +2,6 @@
 layout: post
 title: "The Upside Down"
 date: 2026-01-12 12:00:00 +0000
-tags: [ai, llm, coding, culture, economics]
 excerpt: "Scale to 50 agents and the new best practices look sacrilegious."
 ---
 

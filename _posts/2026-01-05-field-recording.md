@@ -2,7 +2,6 @@
 layout: post
 title: "Field Recording"
 date: 2026-01-05 07:00:00 +0000
-tags: [meditation, attention, nature, ai]
 excerpt: "Left hemisphere bait, right hemisphere activity. A pattern that keeps appearing."
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "The Music Stopped"
 date: 2026-01-02 13:30:00 +0000
-tags: [ai, llm, coding, tools, ide, terminal]
 ---
 
 There's a debate that flares up periodically: terminal versus IDE. Vim versus VS Code. Text-based interfaces versus graphical ones.

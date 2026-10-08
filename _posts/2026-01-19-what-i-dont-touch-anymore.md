@@ -2,7 +2,6 @@
 layout: post
 title: "What I Don't Touch Anymore"
 date: 2026-01-19 16:00:00 +0000
-tags: [ai, workflow, automation]
 excerpt: "The list of things I've stopped doing is more interesting than the tools I'm using."
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Talking Spreadsheets"
 date: 2026-03-25 12:00:00 +0000
-tags: [ai, software, tools, interfaces]
 excerpt: "We keep adding applications to LLMs. The thing that's actually happening is the reverse."
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Innovation Tokens"
 date: 2026-01-05 13:30:00 +0000
-tags: [ai, software-engineering, architecture]
 excerpt: "Addy Osmani's advice about boring technology choices applies doubly when you're working with AI agents."
 ---
 

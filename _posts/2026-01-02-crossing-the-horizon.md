@@ -2,7 +2,6 @@
 layout: post
 title: "Crossing the Horizon"
 date: 2026-01-02 13:00:00 +0000
-tags: [ai, llm, observations, inflection]
 excerpt: "Something happened in the last few weeks. A step change that went unrecognised for a while. I think we've crossed a threshold."
 ---
 

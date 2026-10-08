@@ -2,7 +2,6 @@
 layout: post
 title: "The Huddle"
 date: 2026-01-06 16:30:00 +0000
-tags: [ai, agents, trust, workflow]
 excerpt: "You go to correct the model. Then you check. They were right."
 ---
 

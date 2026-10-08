@@ -2,7 +2,6 @@
 layout: post
 title: "BDD With the Excuses Removed"
 date: 2026-03-25 09:00:00 +0000
-tags: [ai, software, bdd, specifications, sdlc]
 excerpt: "The people pushing spec-driven development know it's not new. That might be the point."
 ---
 

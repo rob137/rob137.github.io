@@ -2,7 +2,6 @@
 layout: post
 title: "Intermediary Times"
 date: 2026-01-02 14:00:00 +0000
-tags: [ai, society, disruption, observations]
 excerpt: "The Industrial Revolution was net positive. It was also expensive in the intermediary times. We might be there again."
 ---
 
