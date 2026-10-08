@@ -384,6 +384,6 @@ img {
 }
 
 /* Hand-drawn diagrams: one render per theme */
-.drawing-dark { display: none; }
-html.dark-mode .drawing-light { display: none; }
-html.dark-mode .drawing-dark { display: block; }
+.post-content img.drawing-dark { display: none; }
+html.dark-mode .post-content img.drawing-light { display: none; }
+html.dark-mode .post-content img.drawing-dark { display: block; }
