@@ -14,8 +14,9 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 ---
 
 ### Intelligence Inside Existing Tools / Super Apps
-**Status:** Idea - needs personal anecdote to anchor it
-**Notes:** [intelligence-inside-apps.md](/_notes/intelligence-inside-apps.md), [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md)
+**Status:** Ready to draft - anecdote found (7 Oct 2026 all-hands, "where my day lives now" slide)
+**Notes:** [intelligence-inside-apps.md](/_notes/intelligence-inside-apps.md), [2026-02-18-dogwalk-transcript-synthesis.md](/_notes/2026-02-18-dogwalk-transcript-synthesis.md); all-hands transcript 7 Oct in context-store recordings (10:00 to 15:00)
+**Anchor (Oct 2026):** Weeks without opening Emacs or a terminal, then fumbling a basic shortcut when showing someone. Claude Desktop as the single front end: watchers on email, Slack, Teams and SharePoint wake a chat when something happens, so checking mail is a glance left instead of a window switch. Company brain reads the context-store before buying the office hot chocolate. "Careering towards one interface for the whole operating system." Fold the super-apps idea into this.
 **Core idea:** 3+ years past ChatGPT and most software is still the same. The arrow is inverted: intelligence goes into Excel, not Excel into the LLM. Super apps (Anthropic Dispatch, OpenAI desktop superapp, OpenClaw's 250k stars in 4 months) are the desire line. Emacs analogy: OS in search of a text editor, but now it's a frontier model with a thin harness wired to your computer. Rob's 5-year-old intuitively gets it.
 
 ### Is/Ought Drift in AI Work
@@ -31,6 +32,11 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 ### The Intermediary Times (Part Two)
 **Status:** Idea - needs research
 **Core idea:** Individual accounts of how people handled the Industrial Revolution. Automation of their roles, personal experiences of the transition. Follow-up to the original Intermediary Times post. Requires digging into books or historical sources for first-person accounts.
+
+### Three That Talk Beat Thirteen Alone
+**Status:** Wait for a result
+**Notes:** [2026-10-08-pod-bay-doors-raw.md](/_notes/2026-10-08-pod-bay-doors-raw.md) (sources), mob slide notes from the 7 Oct 2026 deck
+**Core idea:** Park et al., Scaling Discovery through Test-Time Communication (arXiv 2609.21032, Sep 2026): three frontier agents sharing notes match the best of thirteen working alone. We set up ~/agent-collaboration on every box; two mobs of three are working the GitHub bill on SM-10. Post once the mob has produced a result or a visible failure. Sits next to Roving Bridge below and may merge with it.
 
 ### Roving Bridge / The Octopus
 **Status:** Idea
@@ -56,6 +62,10 @@ Article ideas and future post topics. Raw material (quotes, transcripts, dictati
 **Status:** Raw transcript
 **Notes:** [human-in-the-loop-bottleneck.md](/_notes/human-in-the-loop-bottleneck.md)
 **Core idea:** Human-in-the-loop becoming bottleneck. "Exiting hyperspace every time I need to communicate." Economy isn't designed around humans - we contort to fit it. 80% at 1000x efficiency makes the 20% irrelevant. Hand woven baskets, horse riding as recreation. Bangladesh suits. Quality dips then blasts past artisan levels. Artisanal concerns come from artisans who might get sidelined. Have used this analogy at work including on internal corporate podcast.
+
+### Open the Pod Bay Doors
+**Status:** Published - [Open the Pod Bay Doors](/2026/10/08/open-the-pod-bay-doors/)
+**Notes:** [2026-10-08-pod-bay-doors-raw.md](/_notes/2026-10-08-pod-bay-doors-raw.md)
 
 ### Spec-Driven Development Is Just BDD With Agents
 **Status:** Published — [BDD With the Excuses Removed](/2026/03/25/bdd-with-the-excuses-removed/)
