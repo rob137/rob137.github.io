@@ -5,6 +5,9 @@ date: 2026-01-07 07:30:00 +0000
 excerpt: "Rejecting an argument because of who made it is supposedly a fallacy. What about rejecting it because of what made it?"
 ---
 
+![A woman with long red hair and a green robe holds a pomegranate, ivy on the wall behind her](/assets/images/2026-01-07-ad-machinum-painting.webp)
+*Dante Gabriel Rossetti, Proserpine (1882), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:8th_Rossetti_Proserpine_cropped.jpeg)*
+
 > **Argumentum ad hominem**: attacking the person making an argument rather than the substance of the argument itself.
 
 Someone submits some work. You find out they completed it using AI. How does that affect their credit for the work? Their culpability if it turns out not to be up to scratch?

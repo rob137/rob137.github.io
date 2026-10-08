@@ -5,6 +5,9 @@ date: 2026-01-05 14:50:00 +0000
 excerpt: "A cardioid microphone keeps you ten centimetres from the same spot. You stop noticing the room around you."
 ---
 
+![A small child in a straw hat runs after a red ball across a park seen from above, shade pooling under the trees](/assets/images/2026-01-05-tunnel-vision-painting.webp)
+*Félix Vallotton, The Ball (1899). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Vallotton_-_The_Ball_-_Google_Art_Project.jpg)*
+
 I dictate most of my work now. It's faster than typing, and it feeds directly into the tools I use. But there's a catch.
 
 A cardioid microphone has a pickup pattern. You want to stay ten to twenty centimetres away, facing it. The mic is on a boom arm. The boom arm is attached to the desk. Your chair doesn't rotate around the mic - it faces the screen. So your head doesn't really move. The direction you're looking doesn't change.

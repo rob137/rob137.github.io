@@ -5,6 +5,9 @@ date: 2026-01-06 16:00:00 +0000
 excerpt: "Chase whatever feels like YOLO right now. That's probably where to build."
 ---
 
+![Pilgrims gaze up at a waterfall that splits into long fingers of white and blue over the rocks](/assets/images/2026-01-06-todays-bite-point-painting.webp)
+*Katsushika Hokusai, Kirifuri Waterfall at Kurokami Mountain (c. 1832), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kirifuri_Waterfall_at_Kurokami_Mountain_in_Shimotsuke_MET_DP141256.jpg)*
+
 Last spring, running a terminal coding agent without stopping to check every tool call and code change was considered slightly heretical. The capability was hidden behind flags like `--dangerously-skip-permissions` and `--yolo` that weren't always documented, or were added reluctantly when users kept asking for them.
 
 Now it's becoming standard. The bite point moved.

@@ -5,6 +5,9 @@ date: 2026-01-05 07:00:00 +0000
 excerpt: "Left hemisphere bait, right hemisphere activity. A pattern that keeps appearing."
 ---
 
+![A cluster of white egrets huddles together as snow falls against a grey sky](/assets/images/2026-01-05-field-recording-painting.webp)
+*Ohara Koson, Egrets in the Snow (c. 1930), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zilverreigers_in_de_sneeuw,_RP-P-1999-550.jpg)*
+
 I was [researching field recorders](/2026/01/02/voice-first/#the-setup) as dictation devices when I stumbled into the [field recording](https://en.wikipedia.org/wiki/Field_recording) subculture. I haven't actually done any field recording myself. But I watched some introductory videos - the enthusiasm was infectious - and I noticed something.
 
 Every video has a detour about three quarters of the way in. The presenter compares the practice to meditation. Standing still. Listening. Always presented as personal discovery rather than received wisdom.

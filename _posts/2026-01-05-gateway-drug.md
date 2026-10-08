@@ -5,6 +5,9 @@ date: 2026-01-05 15:00:00 +0000
 excerpt: "Copilot led to scaling laws led to Dwarkesh led to the hippocampus. AI is a gateway drug to questions about the brain."
 ---
 
+![Feathery blue and gold crystal growths under polarised light](/assets/images/2026-01-05-gateway-drug-painting.webp)
+*Rzhevsky Stanislav, Paracetamol crystals in polarised light (2018), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paracetamol_crystals_in_polarized_ligh.jpg), CC BY 4.0*
+
 A caveat before we start: the same word can be a pointer to completely different concepts. "AGI" is a particularly overloaded term - it points to many things depending on who's using it. What follows is one thread through that space.
 
 ---

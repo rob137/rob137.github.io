@@ -5,6 +5,9 @@ date: 2026-01-05 13:30:00 +0000
 excerpt: "Addy Osmani's advice about boring technology choices applies doubly when you're working with AI agents."
 ---
 
+![A woman and a small girl in a brick courtyard, another woman glimpsed through a passage beyond](/assets/images/2026-01-05-innovation-tokens-painting.webp)
+*Pieter de Hooch, The Courtyard of a House in Delft (1658), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_de_Hooch_-_The_Courtyard_of_a_House_in_Delft.jpg)*
+
 [Addy Osmani](https://addyosmani.com/blog/21-lessons/) just published a post collecting 21 lessons from his career. The whole thing is worth reading, but this part jumped out:
 
 > Novelty is a loan you repay in outages, hiring, and cognitive overhead.

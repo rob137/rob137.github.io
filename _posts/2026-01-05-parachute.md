@@ -5,6 +5,9 @@ date: 2026-01-05 12:30:00 +0000
 excerpt: "Junior developers are moving ridiculously fast. The real variable might not be experience."
 ---
 
+![A ploughman works a hillside above a bay full of ships, while Icarus's legs splash into the sea](/assets/images/2026-01-05-parachute-painting.webp)
+*After Pieter Bruegel the Elder, Landscape with the Fall of Icarus (c. 1560). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Landscape_with_the_Fall_of_Icarus_-_Brussels,_Royal_Museums_of_Fine_Arts_of_Belgium_-_Google_Arts_%26_Culture.jpg)*
+
 I know of teams who have taken on developers and given them starter projects. The kind of thing you might ask an intern to do - build a small utility for internal use, create a standalone tool for a specific workflow, automate a reporting process. Reasonable latitude, clear spec, then let them get on with it.
 
 These developers are moving ridiculously fast.

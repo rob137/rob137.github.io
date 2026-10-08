@@ -5,6 +5,9 @@ date: 2026-01-06 12:00:00 +0000
 excerpt: "Standards aren't things you consciously form. They're things that happen to you."
 ---
 
+![A woman sits at a table by a tall window in a pale grey room, sunlight falling across the floor](/assets/images/2026-01-06-the-quiet-ratchet-painting.webp)
+*Vilhelm Hammershøi, A Room in the Artist's Home in Strandgade, Copenhagen (1901), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vilhelm_Hammersh%C3%B8i_-_A_Room_in_the_Artist's_Home_in_Strandgade,_Copenhagen,_with_the_Artist's_Wife_-_Google_Art_Project.jpg)*
+
 A colleague mentioned they'd been surprised by their own code from a few months ago. It wasn't to the standard they'd come to expect. The strange part: nothing about their explicit beliefs had changed. They hadn't read a book or adopted a new methodology. The code just looked worse than it used to.
 
 This is how standards work. They're not things you consciously form. They're things that happen to you.

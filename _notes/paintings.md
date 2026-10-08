@@ -37,3 +37,18 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-04-you-just-get-used-to-it | Arthur Hughes | April Love (1856) | File:Arthur Hughes - April Love - Google Art Project.jpg |
 | 2026-01-05-aiming-off | Caspar David Friedrich | Wanderer above the Sea of Fog (c. 1818) | File:Caspar David Friedrich - Wanderer above the Sea of Fog.jpeg |
 | 2026-01-05-artifice | Étienne-Jules Marey | Pelicans in flight, chronophotograph (c. 1882) | File:Marey - birds.jpg |
+| 2026-01-05-field-recording | Ohara Koson | Egrets in the Snow (c. 1930) | File:Zilverreigers in de sneeuw, RP-P-1999-550.jpg |
+| 2026-01-05-gateway-drug | Rzhevsky Stanislav | Paracetamol crystals in polarised light (2018) | File:Paracetamol crystals in polarized ligh.jpg (CC BY 4.0) |
+| 2026-01-05-innovation-tokens | Pieter de Hooch | The Courtyard of a House in Delft (1658) | File:Pieter de Hooch - The Courtyard of a House in Delft.jpg |
+| 2026-01-05-parachute | After Pieter Bruegel the Elder | Landscape with the Fall of Icarus (c. 1560) | File:Pieter Bruegel the Elder - Landscape with the Fall of Icarus - Brussels, Royal Museums of Fine Arts of Belgium - Google Arts & Culture.jpg |
+| 2026-01-05-the-great-attractor | Arkhip Kuindzhi | Moonlit Night on the Dnieper (1880) | File:Kuindzhi Moonlit night on the Dnieper 1880 grm x2.jpg |
+| 2026-01-05-tunnel-vision | Félix Vallotton | The Ball (1899) | File:Félix Vallotton - The Ball - Google Art Project.jpg |
+| 2026-01-06-local-maximum | Ansel Adams | The Tetons and the Snake River (1942) | File:Adams The Tetons and the Snake River.jpg |
+| 2026-01-06-the-huddle | P. S. Krøyer | Summer Evening on Skagen's Southern Beach (1893) | File:Kroyer summerevening southern beach.jpg |
+| 2026-01-06-the-quiet-ratchet | Vilhelm Hammershøi | A Room in the Artist's Home in Strandgade, Copenhagen (1901) | File:Vilhelm Hammershøi - A Room in the Artist's Home in Strandgade, Copenhagen, with the Artist's Wife - Google Art Project.jpg |
+| 2026-01-06-todays-bite-point | Katsushika Hokusai | Kirifuri Waterfall at Kurokami Mountain (c. 1832) | File:Kirifuri Waterfall at Kurokami Mountain in Shimotsuke MET DP141256.jpg |
+| 2026-01-06-trial-by-foom | J. M. W. Turner | Staffa, Fingal's Cave (1832) | File:Joseph Mallord William Turner - Staffa, Fingal's Cave - Google Art Project.jpg |
+| 2026-01-06-vibe-orchestration | Edgar Degas | The Orchestra at the Opera (c. 1870) | File:Edgar Degas - The Orchestra at the Opera - Google Art Project.jpg |
+| 2026-01-07-ad-machinum | Dante Gabriel Rossetti | Proserpine (1882) | File:8th Rossetti Proserpine cropped.jpeg |
+| 2026-01-07-competency-gap | Rembrandt | The Syndics of the Drapers' Guild (1662) | File:Rembrandt - De Staalmeesters- het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde - Google Art Project.jpg |
+| 2026-01-07-stuck | Frank Hurley | The Endurance at night, Weddell Sea (1915) | File:Endurance night 1915 SLNSW.jpg |
