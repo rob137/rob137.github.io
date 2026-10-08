@@ -6,8 +6,8 @@ excerpt: "Orchestrator apps hide context from the thing doing the work."
 image: /assets/images/2026-02-05-poor-mans-prompt-painting.webp
 ---
 
-![A woman in a black dress stands with her back to us in a grey room, a white porcelain bowl beside her](/assets/images/2026-02-05-poor-mans-prompt-painting.webp){: width="1600" height="1067"}
-*Vilhelm Hammershøi, Interior with Young Woman Seen from the Back (1904), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vilhelm_Hammershoi_-_Interieur_mit_Rueckenansicht_einer_Frau_-_1903-1904_-_Randers_Kunstmuseum.jpg)*
+![A woman in a grey dress sits on a chair with her back to us, her neck bowed, in a pale grey room](/assets/images/2026-02-05-poor-mans-prompt-painting.webp){: width="1446" height="1600"}
+*Vilhelm Hammershøi, Rest (1905). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wilhelm_Hammersh%C3%B8i_-_Rest_-_Google_Art_Project.jpg)*
 
 Good week for OpenAI. GPT 5.2 Codex is 40% faster than last week. They're offering 2x rate limits if you use the macOS desktop app. I gave it three days, basically full time.
 

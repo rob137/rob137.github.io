@@ -37,7 +37,7 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-04-you-just-get-used-to-it | John Atkinson Grimshaw | Reflections on the Thames, Westminster (1880) | File:Reflections on the Thames, Westminster - Grimshaw, John Atkinson.jpg |
 | 2026-01-05-aiming-off | Caspar David Friedrich | The Monk by the Sea (1810) | File:Friedrich, Caspar David - Mönch am Meer - Alte Nationalgalerie in Berlin.jpg |
 | 2026-01-05-artifice | Étienne-Jules Marey | Pelicans in flight, chronophotograph (c. 1882) | File:Marey - birds.jpg |
-| 2026-01-05-field-recording | Ohara Koson | Egrets in the Snow (c. 1930) | File:Zilverreigers in de sneeuw, RP-P-1999-550.jpg |
+| 2026-01-05-field-recording | Ohara Koson | Egret in Shallow Water (c. 1900–30) | File:Zilverreiger, RP-P-1999-372.jpg |
 | 2026-01-05-gateway-drug | Rzhevsky Stanislav | Paracetamol crystals in polarised light (2018) | File:Paracetamol crystals in polarized ligh.jpg (CC BY 4.0) |
 | 2026-01-05-innovation-tokens | Pieter de Hooch | Interior with Women beside a Linen Chest (1663) | File:Binnenhuis met vrouwen bij een linnenkast, SK-C-1191.jpg |
 | 2026-01-05-parachute | After Pieter Bruegel the Elder | Landscape with the Fall of Icarus (c. 1560) | File:Pieter Bruegel the Elder - Landscape with the Fall of Icarus - Brussels, Royal Museums of Fine Arts of Belgium - Google Arts & Culture.jpg |
@@ -46,36 +46,36 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-06-local-maximum | Ansel Adams | The Tetons and the Snake River (1942) | File:Adams The Tetons and the Snake River.jpg |
 | 2026-01-06-the-huddle | P. S. Krøyer | Summer Evening on Skagen's Southern Beach (1893) | File:Kroyer summerevening southern beach.jpg |
 | 2026-01-06-the-quiet-ratchet | Vilhelm Hammershøi | A Room in the Artist's Home in Strandgade, Copenhagen (1901) | File:Vilhelm Hammershøi - A Room in the Artist's Home in Strandgade, Copenhagen, with the Artist's Wife - Google Art Project.jpg |
-| 2026-01-06-todays-bite-point | Katsushika Hokusai | Kirifuri Waterfall at Kurokami Mountain (c. 1832) | File:Kirifuri Waterfall at Kurokami Mountain in Shimotsuke MET DP141256.jpg |
+| 2026-01-06-todays-bite-point | Katsushika Hokusai | Ejiri in Suruga Province, from Thirty-six Views of Mount Fuji (c. 1832) | File:冨嶽三十六景 駿州江尻-Ejiri in Suruga Province (Sunshū Ejiri), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140977.jpg |
 | 2026-01-06-trial-by-foom | J. M. W. Turner | Staffa, Fingal's Cave (1832) | File:Joseph Mallord William Turner - Staffa, Fingal's Cave - Google Art Project.jpg |
-| 2026-01-06-vibe-orchestration | Edgar Degas | The Orchestra at the Opera (c. 1870) | File:Edgar Degas - The Orchestra at the Opera - Google Art Project.jpg |
+| 2026-01-06-vibe-orchestration | Edgar Degas | The Rehearsal Onstage (c. 1874) | File:The Rehearsal Onstage MET DT1006.jpg |
 | 2026-01-07-ad-machinum | Dante Gabriel Rossetti | Proserpine (1882) | File:8th Rossetti Proserpine cropped.jpeg |
 | 2026-01-07-competency-gap | Rembrandt | The Syndics of the Drapers' Guild (1662) | File:Rembrandt - De Staalmeesters- het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde - Google Art Project.jpg |
-| 2026-01-07-stuck | Frank Hurley | The Endurance at night, Weddell Sea (1915) | File:Endurance night 1915 SLNSW.jpg |
-| 2026-01-07-who-you-call | Johannes Vermeer | Woman in Blue Reading a Letter (c. 1663) | File:Vermeer, Johannes - Woman reading a letter - ca. 1662-1663.jpg |
+| 2026-01-07-stuck | Frank Hurley | The Endurance trapped in pack ice, Weddell Sea (1915) | File:Endurance trapped in pack ice.jpg |
+| 2026-01-07-who-you-call | Johannes Vermeer | View of Delft (c. 1661) | File:Johannes Vermeer - View of Delft - 92 - Mauritshuis.jpg |
 | 2026-01-08-corsair | Utagawa Hiroshige | The Whirlpools of Awa (1857) | File:Awa no Naruto-雪月花 阿波鳴門之風景-The Whirlpools of Awa MET DP146864.jpg |
 | 2026-01-08-no-hesitation | Eugène Jansson | Riddarfjärden, Stockholm (1898) | File:Eugène Jansson - Riddarfjärden, Stockholm - Google Art Project.jpg |
 | 2026-01-08-pop | James McNeill Whistler | Nocturne in Black and Gold: The Falling Rocket (1875) | File:Whistler-Nocturne in black and gold.jpg |
 | 2026-01-08-zugzwang | Sofonisba Anguissola | The Chess Game (1555) | File:The Chess Game (Sofonisba Anguissola) 1555 (4096x3236px).jpg |
-| 2026-01-09-rule-of-72 | Karl Blossfeldt | Plant study, from Urformen der Kunst (1928) | File:Plantstudie Urformen der Kunst (serietitel), RP-F-2008-51-2170-22.jpg |
-| 2026-01-12-the-upside-down | Giovanni Battista Piranesi | The Drawbridge, from Carceri d'invenzione (c. 1750) | File:Giovanni Battista Piranesi - Carceri. Folder 7 - Google Art Project.jpg |
+| 2026-01-09-rule-of-72 | Karl Blossfeldt | Plant study, from Urformen der Kunst (1928) | File:Plantstudie Urformen der Kunst (serietitel), RP-F-2008-51-2170-17.jpg |
+| 2026-01-12-the-upside-down | Giovanni Battista Piranesi | The Pier with Chains, from Carceri d'invenzione (c. 1750) | File:The Pier with Chains, from Carceri d'invenzione (Imaginary Prisons) MET DP828197.jpg |
 | 2026-01-13-concierge-software | Utagawa Hiroshige | Evening Snow at Kambara (c. 1833) | File:Evening Snow at Kambara LACMA M.49.5.1.jpg |
 | 2026-01-13-too-early | Harald Sohlberg | Winter Night in the Mountains (1914) | File:Harald Sohlberg - Winter Night in the Mountains - Google Art Project.jpg |
 | 2026-01-14-old-habits | Anna Atkins | Dictyota dichotoma, cyanotype (c. 1853) | File:Met DP-17302-021.jpg |
-| 2026-01-14-writing-style | Pierre-Joseph Redouté | Rosa cinnamomea, from Les Roses (1817) | File:Henry Joseph Redouté - Les Roses- Rosa cinnamomea - 1955.472 - Cleveland Museum of Art.jpg |
-| 2026-01-15-the-lollipop | Albrecht Dürer | Melencolia I (1514) | File:Albrecht Dürer - Melencolia I - Google Art Project (427760).jpg |
+| 2026-01-14-writing-style | Martin Johnson Heade | Giant Magnolias on a Blue Velvet Cloth (c. 1890) | File:Martin Johnson Heade, Giant Magnolias on a Blue Velvet Cloth, c. 1890, NGA 93464.jpg |
+| 2026-01-15-the-lollipop | Albrecht Dürer | Pond in the Woods (c. 1496) | File:Albrecht Dürer - Der Weiher im Walde (ca. 1497).jpg |
 | 2026-01-19-clock-town | Gregory H. Revera | Full Moon (2010) | File:FullMoon2010.jpg (CC BY-SA 3.0) |
 | 2026-01-19-what-i-dont-touch-anymore | Katsushika Hokusai | Kajikazawa in Kai Province (c. 1830) | File:冨嶽三十六景 甲州石班沢-Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140973.jpg |
-| 2026-01-21-orchestrator | Ernst Haeckel | Acanthometra, from Kunstformen der Natur (1904) | File:Haeckel Acanthometra.jpg |
+| 2026-01-21-orchestrator | ESO | The globular cluster Omega Centauri (2008) | File:The globular cluster Omega Centauri* (eso0844a).tiff (CC BY 4.0) |
 | 2026-01-24-thinking-out-loud | Tsukioka Yoshitoshi | The Moon on Musashi Plain (1892) | File:Tsukioka Yoshitoshi - The moon on Musashi Plain (Musashino no tsuki) - from the series 'One hundred aspects of the moon (T... - Google Art Project.jpg |
 | 2026-01-25-when-does-your-train-stop | Alfred Stieglitz | The Hand of Man (1902) | File:Alfred Stieglitz - The Hand of Man - Google Art Project (color corrected).jpg |
 | 2026-01-27-workflows-without-names | Johan Christian Dahl | View of Dresden by Moonlight (1839) | File:Johan Christian Dahl - View of Dresden by Moonlight - Google Art Project.jpg |
-| 2026-01-28-three-fingers | Dante Gabriel Rossetti | The Day Dream (1880) | File:Dante Gabriel Rossetti - The Day Dream - Google Art Project.jpg |
+| 2026-01-28-three-fingers | Frederic Leighton | Winding the Skein (1878) | File:Lord Frederic Leighton - Winding the skein - Google Art Project.jpg |
 | 2026-01-29-no-recipe | Arnold Böcklin | Isle of the Dead (1883) | File:Arnold Böcklin - Die Toteninsel III (Alte Nationalgalerie, Berlin).jpg |
 | 2026-01-29-out-of-distribution | Étienne Léopold Trouvelot | Aurora Borealis (1872) | File:Trouvelot - Aurora Borealis - 1872.jpg |
 | 2026-02-01-the-false-middle | Evelyn De Morgan | The Sea Maidens (1886) | File:Evelyn de Morgan - The Sea Maidens, 1885-1886.jpg |
-| 2026-02-05-poor-mans-prompt | Vilhelm Hammershøi | Interior with Young Woman Seen from the Back (1904) | File:Vilhelm Hammershoi - Interieur mit Rueckenansicht einer Frau - 1903-1904 - Randers Kunstmuseum.jpg |
-| 2026-02-06-factory-sandwiches | Lewis Hine | Power House Mechanic Working on Steam Pump (1920) | File:Lewis Hine Power house mechanic working on steam pump.jpg |
+| 2026-02-05-poor-mans-prompt | Vilhelm Hammershøi | Rest (1905) | File:Wilhelm Hammershøi - Rest - Google Art Project.jpg |
+| 2026-02-06-factory-sandwiches | Lewis Hine | Empire State Building (1930–31) | File:Empire State Building MET DP106404.jpg |
 | 2026-02-06-within-reach | Joseph Wright of Derby | A Philosopher Lecturing on the Orrery (c. 1766) | File:Joseph Wright of Derby - Philosopher giving a lecture on the orrery - Google Art Project.jpg |
 | 2026-02-09-funhouse-mirror | John William Waterhouse | The Lady of Shalott (1888) | File:John William Waterhouse - The Lady of Shalott - Google Art Project.jpg |
 | 2026-02-13-liminal-time | Peder Balke | Stetind in Fog (1864) | File:Peder Balke - Stetind in Fog - Google Art Project.jpg |
@@ -83,10 +83,10 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-02-18-is-ought | Hendrick Avercamp | A Scene on the Ice near a Town (c. 1615) | File:Hendrick Avercamp - A Scene on the Ice near a Town - WGA1075.jpg |
 | 2026-02-20-the-pause-tax | Akseli Gallen-Kallela | Lake Keitele (1905) | File:Akseli Gallen-Kallela - Lake Keitele, 1905.JPG |
 | 2026-03-11-image-problem | ESO | The Carina Nebula, imaged by the VLT Survey Telescope (2012) | File:The spectacular star-forming Carina Nebula imaged by the VLT Survey Telescope.jpg (CC BY 4.0) |
-| 2026-03-13-the-mask-we-cant-drop | Aubrey Beardsley | The Peacock Skirt, from Salome (1894) | File:Aubrey Beardsley's Illustrations to Salome by Oscar Wilde MET DP863675.jpg |
+| 2026-03-13-the-mask-we-cant-drop | Félix Vallotton | The Lie, from Intimités (1897) | File:Vallotton - Les intimités, planche 1 Le Mensonge, E 79-0531.jpg |
 | 2026-03-25-bdd-with-the-excuses-removed | Giovanni Domenico Tiepolo | The Procession of the Trojan Horse into Troy (c. 1760) | File:Giovanni Domenico Tiepolo - The Procession of the Trojan Horse in Troy - WGA22382.jpg |
 | 2026-03-25-the-talking-sheet | Evelyn De Morgan | Night and Sleep (1878) | File:Night and Sleep - Evelyn de Morgan (1878).jpg |
-| 2026-04-01-fun-toys | Unknown South Netherlandish weavers | The Unicorn in Captivity, from the Unicorn Tapestries (c. 1500) | File:The Unicorn in Captivity (from the Unicorn Tapestries) MET DP118991.jpg |
+| 2026-04-01-fun-toys | Unknown South Netherlandish weavers | The Unicorn is Found, from the Unicorn Tapestries (c. 1500) | File:The Unicorn is Found (from the Unicorn Tapestries) MET DP118983.jpg |
 | 2026-05-29-token-communism | Hasegawa Tōhaku | Pine Trees, right-hand screen (late 16th century) | File:Hasegawa Tohaku - Pine Trees (Shōrin-zu byōbu) - right hand screen.jpg |
 | 2026-06-01-kinda-sorta-claw | Henri Rousseau | Surprised! (1891) | File:Henri Rousseau - Surprise!.jpg |
 | 2026-06-25-worth-surfacing | Utagawa Kuniyoshi | Miyamoto Musashi and the Giant Whale (c. 1847) | File:Miyamoto-Musashi-Attacking-Giant-Whale-Utagawa-Kuniyoshi.png |

@@ -5,8 +5,8 @@ date: 2026-01-14 10:00:00 +0000
 excerpt: "We imitate our interlocutors unconsciously. LLMs are now interlocutors."
 ---
 
-![A wild rose stem with pink blooms, buds and serrated green leaves](/assets/images/2026-01-14-writing-style-painting.webp){: width="1600" height="1067"}
-*Pierre-Joseph Redouté, Rosa cinnamomea, from Les Roses (1817), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Joseph_Redout%C3%A9_-_Les_Roses-_Rosa_cinnamomea_-_1955.472_-_Cleveland_Museum_of_Art.jpg)*
+![Two creamy white magnolia blooms and glossy green leaves lie on a deep blue velvet cloth](/assets/images/2026-01-14-writing-style-painting.webp){: width="1600" height="994"}
+*Martin Johnson Heade, Giant Magnolias on a Blue Velvet Cloth (c. 1890). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Martin_Johnson_Heade,_Giant_Magnolias_on_a_Blue_Velvet_Cloth,_c._1890,_NGA_93464.jpg)*
 
 Just as there are ways of speaking - accents, expressions, local idioms - there are ways of writing. We're wired by evolution to imitate. Body language mirrors. Speech patterns converge. Most of it happens below conscious awareness.
 

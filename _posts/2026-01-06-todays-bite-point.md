@@ -5,8 +5,8 @@ date: 2026-01-06 16:00:00 +0000
 excerpt: "Chase whatever feels like YOLO right now. That's probably where to build."
 ---
 
-![Pilgrims gaze up at a waterfall that splits into long fingers of white and blue over the rocks](/assets/images/2026-01-06-todays-bite-point-painting.webp){: width="1600" height="1067"}
-*Katsushika Hokusai, Kirifuri Waterfall at Kurokami Mountain (c. 1832), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kirifuri_Waterfall_at_Kurokami_Mountain_in_Shimotsuke_MET_DP141256.jpg)*
+![A gust of wind bends the trees and scatters papers and a hat from travellers on a marsh road, Fuji drawn as a single line behind](/assets/images/2026-01-06-todays-bite-point-painting.webp){: width="1600" height="1117"}
+*Katsushika Hokusai, Ejiri in Suruga Province, from Thirty-six Views of Mount Fuji (c. 1832). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%86%A8%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E9%A7%BF%E5%B7%9E%E6%B1%9F%E5%B0%BB-Ejiri_in_Suruga_Province_%28Sunsh%C5%AB_Ejiri%29,_from_the_series_Thirty-six_Views_of_Mount_Fuji_%28Fugaku_sanj%C5%ABrokkei%29_MET_DP140977.jpg)*
 
 Last spring, running a terminal coding agent without stopping to check every tool call and code change was considered slightly heretical. The capability was hidden behind flags like `--dangerously-skip-permissions` and `--yolo` that weren't always documented, or were added reluctantly when users kept asking for them.
 
