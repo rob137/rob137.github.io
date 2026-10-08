@@ -5,7 +5,7 @@ date: 2026-01-29 14:00:00 +0000
 excerpt: "In infinitely dimensional space, everything is close. All roads lead here."
 ---
 
-![Rays of the aurora borealis fan up from a dark horizon into a starry sky](/assets/images/2026-01-29-out-of-distribution-painting.webp)
+![Rays of the aurora borealis fan up from a dark horizon into a starry sky](/assets/images/2026-01-29-out-of-distribution-painting.webp){: width="1600" height="1066"}
 *Étienne Léopold Trouvelot, Aurora Borealis (1872), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trouvelot_-_Aurora_Borealis_-_1872.jpg)*
 
 Joe Weisenthal is a journalist. Co-host of Bloomberg's [Odd Lots](https://www.bloomberg.com/oddlots-podcast) podcast. I found him through Nassim Taleb. I've been following Taleb for fifteen years - read his books during a quiet period of a military deployment. He's usually scathing about journalists but warm towards the Odd Lots hosts. That's how I started listening. They have this scholarly glint without being stuffy.
@@ -18,7 +18,7 @@ This shouldn't surprise me. But it did.
 
 ## Infinitely dimensional
 
-![Embedding space visualisation](/assets/images/bert-embeddings-visualisation.webp)
+![Embedding space visualisation](/assets/images/bert-embeddings-visualisation.webp){: width="770" height="500"}
 
 There's a concept from machine learning: in high-dimensional embedding space, everything is close together. Points that seem far apart in our intuition turn out to be neighbours when you have enough dimensions to measure.
 

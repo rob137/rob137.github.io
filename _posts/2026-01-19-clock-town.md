@@ -5,7 +5,7 @@ date: 2026-01-19 13:00:00 +0000
 excerpt: "Everyone can see the moon coming. Almost nobody changes their plans."
 ---
 
-![The full moon, its craters and grey seas sharp against a black sky](/assets/images/2026-01-19-clock-town-painting.webp)
+![The full moon, its craters and grey seas sharp against a black sky](/assets/images/2026-01-19-clock-town-painting.webp){: width="1600" height="1067"}
 *Gregory H. Revera, Full Moon (2010). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg), CC BY-SA 3.0*
 
 I've had a lot of conversations about AI over the past few years. HR, journalism, project management, design, QA, copywriting. Friends outside work too: musicians, school teachers, military officers, marketers. My dad, a retired software developer.
@@ -18,7 +18,7 @@ And then the conversation ends, and they go back to normal. Maybe 1-2% actually 
 
 ## Majora's Mask
 
-![Clock Town from Majora's Mask](/assets/images/clock-town.webp)
+![Clock Town from Majora's Mask](/assets/images/clock-town.webp){: width="1080" height="1080"}
 
 In *Majora's Mask*, the moon is falling. You have three days. The game is structured around this countdown. Events happen at specific times, you can rewind and replay, the whole thing has an uncanny wind-up-toy quality.
 

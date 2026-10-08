@@ -5,7 +5,7 @@ date: 2026-01-04 21:30:00 +0000
 excerpt: "Simon Willison on the November step change."
 ---
 
-![A still blue river at dusk, a few lights along the far bank and a lone figure on the shore](/assets/images/2026-01-04-invisible-capability-line-painting.webp)
+![A still blue river at dusk, a few lights along the far bank and a lone figure on the shore](/assets/images/2026-01-04-invisible-capability-line-painting.webp){: width="1600" height="1312"}
 *James McNeill Whistler, Nocturne: Blue and Silver, Chelsea (1871). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:James_Abbott_McNeill_Whistler_-_Nocturne-_Blue_and_Silver_-_Chelsea_-_Google_Art_Project.jpg)*
 
 [Simon Willison](https://x.com/simonw/status/2007904766756880848), today:

@@ -5,7 +5,7 @@ date: 2026-01-24 11:00:00 +0000
 excerpt: "We need metaphors to understand LLMs. But if something is categorically new, all metaphors will fail somewhere."
 ---
 
-![A wolf sniffs at a corpse hidden in the long grass under a full moon](/assets/images/2026-01-24-thinking-out-loud-painting.webp)
+![A wolf sniffs at a corpse hidden in the long grass under a full moon](/assets/images/2026-01-24-thinking-out-loud-painting.webp){: width="1600" height="1067"}
 *Tsukioka Yoshitoshi, The Moon on Musashi Plain (1892), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsukioka_Yoshitoshi_-_The_moon_on_Musashi_Plain_%28Musashino_no_tsuki%29_-_from_the_series_'One_hundred_aspects_of_the_moon_%28T..._-_Google_Art_Project.jpg)*
 
 > "All understanding whatsoever is, at bottom, metaphorical."

@@ -5,12 +5,12 @@ date: 2026-01-28 15:00:00 +0000
 excerpt: "There's a gap growing between what an hour of work should produce and what managers expect."
 ---
 
-![A woman in a green dress sits in the branches of a sycamore, a book and a flower in her lap](/assets/images/2026-01-28-three-fingers-painting.webp)
+![A woman in a green dress sits in the branches of a sycamore, a book and a flower in her lap](/assets/images/2026-01-28-three-fingers-painting.webp){: width="1600" height="1067"}
 *Dante Gabriel Rossetti, The Day Dream (1880), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg)*
 
 There's a scene in *Inglourious Basterds* where a British spy orders drinks by holding up three fingers—index, middle, ring. A German officer clocks it instantly. Germans count from the thumb. The spy has revealed himself with a gesture so small he didn't know he was making it.
 
-![Three fingers](/assets/images/three-fingers.webp)
+![Three fingers](/assets/images/three-fingers.webp){: width="480" height="328"}
 
 I think something similar is happening with managers and team leads right now. Not espionage, but a tell. When a manager sets a two-day deadline for something that now takes two hours, there's a moment. They might say "take your time" or pad the estimate "just in case." But something registers.
 
@@ -22,7 +22,7 @@ You've probably heard the [wheat and chessboard story](https://en.wikipedia.org/
 
 The king agrees, thinking it's a humble request. By the 64th square, the total is 18 quintillion grains—more than the world's annual wheat production, multiplied by 1,600. ([Compounding does horrifying things](/2026/01/09/rule-of-72/).)
 
-![Wheat on chessboard](/assets/images/chessboard.webp)
+![Wheat on chessboard](/assets/images/chessboard.webp){: width="809" height="550"}
 
 Ray Kurzweil coined the phrase "second half of the chessboard" for the moment when exponential growth stops being interesting and starts being disorienting. The first half is manageable. Spoonfuls of rice, then bowls, then barrels. By the end of the first 32 squares, you've got about four billion grains—roughly one large field. But the second half contains 4 billion times more than the first half. The same doubling that was a curiosity becomes overwhelming.
 

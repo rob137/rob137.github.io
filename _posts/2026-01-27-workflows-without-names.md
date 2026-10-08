@@ -5,7 +5,7 @@ date: 2026-01-27 14:30:00 +0000
 excerpt: "The bottleneck used to be execution. Now it's knowing what's worth building."
 ---
 
-![The domes and spires of Dresden in silhouette beneath a clouded moon, the river shining below](/assets/images/2026-01-27-workflows-without-names-painting.webp)
+![The domes and spires of Dresden in silhouette beneath a clouded moon, the river shining below](/assets/images/2026-01-27-workflows-without-names-painting.webp){: width="1600" height="949"}
 *Johan Christian Dahl, View of Dresden by Moonlight (1839). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight_-_Google_Art_Project.jpg)*
 
 The coding workflow is familiar enough: I task Claude Code with moderately complicated work in a codebase—coding, iterating on tests, doing things with the build—then disappear overnight. It works. Not perfectly, but well enough that the failure modes are predictable and nudgeable. I check in, course-correct, leave again. This maps to something recognisable: tech lead with a remote team.

@@ -5,7 +5,7 @@ date: 2026-05-29 10:00:00 +0000
 excerpt: "An AI usage leaderboard is Goodhart's Law waiting to happen."
 ---
 
-![Pine trees in ink emerge and fade into mist across a pale paper screen](/assets/images/2026-05-29-token-communism-painting.webp)
+![Pine trees in ink emerge and fade into mist across a pale paper screen](/assets/images/2026-05-29-token-communism-painting.webp){: width="1600" height="1067"}
 *Hasegawa Tōhaku, Pine Trees, right-hand screen (late 16th century), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hasegawa_Tohaku_-_Pine_Trees_%28Sh%C5%8Drin-zu_by%C5%8Dbu%29_-_right_hand_screen.jpg)*
 
 [Amazon built an internal leaderboard](https://x.com/GergelyOrosz/status/2060276380638576750) tracking employees' AI tool usage. Workers started gaming it immediately, running pointless tasks, padding their scores. The company shut it down this week. Anthropic apparently considered something similar two months ago, debated it internally, and killed the idea before it shipped. One company thought ahead, the other ran the experiment and learned the hard way.

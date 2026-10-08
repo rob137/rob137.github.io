@@ -14,3 +14,5 @@ Match `--window-size` to the SVG's width and height. Captions below about 28px c
 Dark variants: the embedded `<style>` sets `text{fill:#1f1f1f}`, and CSS beats the `fill` attribute, so a dark file must replace `#1f1f1f` everywhere (defs included), not just on the shapes. The `gen-*.py` scripts here build both themes from one layout; run them from any directory, they write the SVGs next to themselves. Posts carry two `<img>` tags, `drawing-light` and `drawing-dark`, and `style.css` swaps them on `html.dark-mode`.
 
 Captions are labels, not slogans. Name the parts and the arrows; leave the argument to the post. Rob, 8 Oct 2026: "less is so often more".
+
+Every `<img>` carries `width` and `height` in real pixels of the webp so the page does not shift when it loads; CSS keeps `height: auto`.

@@ -5,7 +5,7 @@ date: 2026-01-03 13:30:00 +0000
 excerpt: "Technology arrives and changes the game. There's usually a period where the new approach is considered dishonorable. Then the rules shift."
 ---
 
-![A young man studies his cards while an older accomplice reads them over his shoulder and signals to a second player, who hides a card behind his back](/assets/images/2026-01-03-is-it-cheating-painting.webp)
+![A young man studies his cards while an older accomplice reads them over his shoulder and signals to a second player, who hides a card behind his back](/assets/images/2026-01-03-is-it-cheating-painting.webp){: width="1600" height="1152"}
 *Caravaggio, The Cardsharps (c. 1595). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caravaggio_%28Michelangelo_Merisi%29_-_The_Cardsharps_-_Google_Art_Project.jpg)*
 
 A recurring pattern in the history of warfare: technology arrives and changes the game. The crossbow. Plate armour. The musket. Each time, there's a period where the new approach is considered dishonorable - a violation of chivalric code, an affront to martial culture.

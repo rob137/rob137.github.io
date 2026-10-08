@@ -5,7 +5,7 @@ date: 2026-01-05 12:45:00 +0000
 excerpt: "When everything's moving, you have to aim where the target will be. The early hackers knew this."
 ---
 
-![A man in a dark coat stands on a rocky outcrop with his back to us, looking over a sea of fog and distant peaks](/assets/images/2026-01-05-aiming-off-painting.webp)
+![A man in a dark coat stands on a rocky outcrop with his back to us, looking over a sea of fog and distant peaks](/assets/images/2026-01-05-aiming-off-painting.webp){: width="1600" height="1067"}
 *Caspar David Friedrich, Wanderer above the Sea of Fog (c. 1818), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg)*
 
 > "It's tough to make predictions, especially about the future."

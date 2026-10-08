@@ -5,7 +5,7 @@ date: 2026-01-05 14:00:00 +0000
 excerpt: "Certain general-purpose devices attract all functionality. The phone ate my flashlight. Now the terminal is eating everything else."
 ---
 
-![A green moonlit river winds through a dark plain under a clouded night sky](/assets/images/2026-01-05-the-great-attractor-painting.webp)
+![A green moonlit river winds through a dark plain under a clouded night sky](/assets/images/2026-01-05-the-great-attractor-painting.webp){: width="1600" height="1162"}
 *Arkhip Kuindzhi, Moonlit Night on the Dnieper (1880). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kuindzhi_Moonlit_night_on_the_Dnieper_1880_grm_x2.jpg)*
 
 A friend put me onto flashlight enthusiasts. There's a [whole subreddit](https://www.reddit.com/r/flashlight/) of people slightly obsessed with finding the right torch - and it turns out the fringes of this hobby contain some beautifully designed products.

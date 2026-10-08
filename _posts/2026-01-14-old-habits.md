@@ -5,7 +5,7 @@ date: 2026-01-14 11:00:00 +0000
 excerpt: "Comfortable and laziest aren't the same thing."
 ---
 
-![A pale feathery seaweed printed in white on a deep blue ground](/assets/images/2026-01-14-old-habits-painting.webp)
+![A pale feathery seaweed printed in white on a deep blue ground](/assets/images/2026-01-14-old-habits-painting.webp){: width="1600" height="1067"}
 *Anna Atkins, Dictyota dichotoma, cyanotype (c. 1853), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Met_DP-17302-021.jpg)*
 
 When I learned Vim, the tool was fast but my brain was slow. Seconds of latency while I spun around trying to remember key bindings. Mentally taxing, even though the operations themselves were instant.

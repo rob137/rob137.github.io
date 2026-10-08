@@ -5,7 +5,7 @@ date: 2026-01-06 08:00:00 +0000
 excerpt: "The AI industry is split between 'foom' and 'it's so over'. Both camps have serious people in them."
 ---
 
-![A river curves through dark forest beneath jagged snow-covered mountains and storm clouds](/assets/images/2026-01-06-local-maximum-painting.webp)
+![A river curves through dark forest beneath jagged snow-covered mountains and storm clouds](/assets/images/2026-01-06-local-maximum-painting.webp){: width="1600" height="1281"}
 *Ansel Adams, The Tetons and the Snake River (1942). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adams_The_Tetons_and_the_Snake_River.jpg)*
 
 My wife worked on MRI machines for her PhD. One thing that surprised me in learning about medical research is how brutal it is. Moving things along involves an awful lot of hard work - really brutal hard work.
@@ -40,7 +40,7 @@ But then a petrol station emerges out of the mist. And before you know it, thing
 
 You can't plan for the petrol stations. But they've been emerging at a consistent enough rate to keep things moving. Historically, overlapping sigmoids have formed something that looks like an exponential. Individual paradigms plateau, but progress continues.
 
-![Overlapping sigmoids forming an exponential](/assets/images/sigmoids.webp)
+![Overlapping sigmoids forming an exponential](/assets/images/sigmoids.webp){: width="512" height="313"}
 
 <center><small>Image from <a href="https://www.lesswrong.com/posts/Q9ewXs8pQSAX5vL7H/ai-in-2025-gestalt">AI in 2025: Gestalt</a></small></center>
 

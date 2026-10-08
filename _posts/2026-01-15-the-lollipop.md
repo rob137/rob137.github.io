@@ -5,7 +5,7 @@ date: 2026-01-15 09:00:00 +0000
 excerpt: "A system whose primary function is to sustain itself."
 ---
 
-![A brooding winged figure sits among tools, a polyhedron, a ladder and a sleeping dog](/assets/images/2026-01-15-the-lollipop-painting.webp)
+![A brooding winged figure sits among tools, a polyhedron, a ladder and a sleeping dog](/assets/images/2026-01-15-the-lollipop-painting.webp){: width="1600" height="1067"}
 *Albrecht Dürer, Melencolia I (1514), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28427760%29.jpg)*
 
 Some of the most formidable people I've ever met studied philosophy. Not formidable in the way tech people use the word. Formidable in the way that impressed me most as an undergraduate. They could follow an argument through seven layers of abstraction without losing the thread, spot a hidden premise from across the room, and take your position apart so cleanly you'd thank them for it.

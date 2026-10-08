@@ -5,12 +5,12 @@ date: 2026-03-25 09:00:00 +0000
 excerpt: "The people pushing spec-driven development know it's not new. That might be the point."
 ---
 
-![Crowds haul the wooden horse through the streets of Troy as celebrants dance around it](/assets/images/2026-03-25-bdd-with-the-excuses-removed-painting.webp)
+![Crowds haul the wooden horse through the streets of Troy as celebrants dance around it](/assets/images/2026-03-25-bdd-with-the-excuses-removed-painting.webp){: width="1600" height="933"}
 *Giovanni Domenico Tiepolo, The Procession of the Trojan Horse into Troy (c. 1760). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giovanni_Domenico_Tiepolo_-_The_Procession_of_the_Trojan_Horse_in_Troy_-_WGA22382.jpg)*
 
 In January 2023, Andrej Karpathy posted what became one of the most-shared tweets in tech:
 
-![Karpathy tweet: The hottest new programming language is English](/assets/images/karpathy-english-tweet.png)
+![Karpathy tweet: The hottest new programming language is English](/assets/images/karpathy-english-tweet.png){: width="1192" height="423"}
 
 It got 10.8 million views, and he followed up with a [thread](https://x.com/karpathy/status/1617979122625712128) cataloguing what he meant: voice assistants programmed in English, LLMs as backends taking state as JSON and modifying it based on natural language, system prompts constructing entire identities. His summary: "GPT is a general-purpose computer, reconfigurable at run-time to run natural language programs." And this new way of programming had the potential to expand the number of programmers to 1.5 billion people.
 

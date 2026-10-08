@@ -5,7 +5,7 @@ date: 2026-01-04 20:00:00 +0000
 excerpt: "The 2am essay paralysis. The physical excruciation of getting started. For certain personality types, LLMs have made it disappear."
 ---
 
-![A man slumps asleep over his desk while owls and bats crowd the dark air behind him](/assets/images/2026-01-04-blank-page-painting.webp)
+![A man slumps asleep over his desk while owls and bats crowd the dark air behind him](/assets/images/2026-01-04-blank-page-painting.webp){: width="1600" height="1067"}
 *Francisco Goya, The Sleep of Reason Produces Monsters, from Los Caprichos (1799), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francisco_Jos%C3%A9_de_Goya_y_Lucientes_-_The_sleep_of_reason_produces_monsters_%28No._43%29,_from_Los_Caprichos_-_Google_Art_Project.jpg)*
 
 University halls, 2am. You've been there since 10. The essay is due at 9am. You keep telling yourself the next 15 minutes will be when you finally start.

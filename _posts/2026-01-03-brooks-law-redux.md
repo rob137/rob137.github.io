@@ -5,7 +5,7 @@ date: 2026-01-03 18:00:00 +0000
 excerpt: "The optimal number of engineers on a project is falling fast. It might be approaching zero."
 ---
 
-![A vast spiralling tower under construction rises above a city and harbour](/assets/images/2026-01-03-brooks-law-redux-painting.webp)
+![A vast spiralling tower under construction rises above a city and harbour](/assets/images/2026-01-03-brooks-law-redux-painting.webp){: width="1600" height="1171"}
 *Pieter Bruegel the Elder, The Tower of Babel (1563). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg)*
 
 [Dan B on X](https://x.com/irl_danB/status/2007168224400683038), playing with Steve Yegge's new agent orchestrator [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04):

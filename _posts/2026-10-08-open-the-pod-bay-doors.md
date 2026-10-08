@@ -5,7 +5,7 @@ date: 2026-10-08 08:00:00 +0000
 excerpt: "An agent's refusal tells you who signs off. It tells you very little about what can be done."
 ---
 
-![A woman in a grey robe draws a circle on the ground with a wand, smoke rising from a cauldron beside her](/assets/images/2026-10-08-pod-bay-doors.webp)
+![A woman in a grey robe draws a circle on the ground with a wand, smoke rising from a cauldron beside her](/assets/images/2026-10-08-pod-bay-doors.webp){: width="1255" height="836"}
 *John William Waterhouse, The Magic Circle (1886), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Magic_Circle.JPG)*
 
 On Monday afternoon I was setting up a small automation at work. Early each Monday an agent looks at the week's commits, opens a changelog pull request and posts a summary to Slack. I didn't want to wait until Monday to find out whether the summary was any good, so I had it do dry runs into a real Slack thread, because that is where I would be reading it anyway. Ask for a change, it posts, I read it, ask again. By the time I was happy the thread had thirteen test posts in it.
@@ -21,8 +21,8 @@ Then I asked it to write me a script that deletes the thread. Yeah, fine, here y
 
 My first reaction was that this was a bit ridiculous. The outcome is identical. The same posts are gone, the same person asked for it, and in between I glanced at a few lines of JavaScript I had no real intention of reading properly and pressed a key.
 
-<img class="drawing-light" src="/assets/images/2026-10-08-pod-bay-doors-drawing.webp" alt="Two routes from you through Claude Code. Delete the thread: no, never-do list. Write a script that deletes it: it writes the script and hands it over, you press run, thread gone. A dashed line marked who signs off runs between the agent and the button">
-<img class="drawing-dark" src="/assets/images/2026-10-08-pod-bay-doors-drawing-dark.webp" alt="Two routes from you through Claude Code. Delete the thread: no, never-do list. Write a script that deletes it: it writes the script and hands it over, you press run, thread gone. A dashed line marked who signs off runs between the agent and the button">
+<img class="drawing-light" src="/assets/images/2026-10-08-pod-bay-doors-drawing.webp" alt="Two routes from you through Claude Code. Delete the thread: no, never-do list. Write a script that deletes it: it writes the script and hands it over, you press run, thread gone. A dashed line marked who signs off runs between the agent and the button" width="1500" height="840">
+<img class="drawing-dark" src="/assets/images/2026-10-08-pod-bay-doors-drawing-dark.webp" alt="Two routes from you through Claude Code. Delete the thread: no, never-do list. Write a script that deletes it: it writes the script and hands it over, you press run, thread gone. A dashed line marked who signs off runs between the agent and the button" width="1500" height="840">
 
 I have come round to thinking the ceremony is the point, and that the refusal is doing something different from what it looks like.
 

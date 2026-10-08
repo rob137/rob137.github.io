@@ -5,7 +5,7 @@ date: 2026-01-06 10:00:00 +0000
 excerpt: "Slow feedback loops kept the debates alive, but that's changing."
 ---
 
-![A steamboat with a trail of smoke battles a stormy sea beneath a cliff, the low sun hidden in cloud](/assets/images/2026-01-06-trial-by-foom-painting.webp)
+![A steamboat with a trail of smoke battles a stormy sea beneath a cliff, the low sun hidden in cloud](/assets/images/2026-01-06-trial-by-foom-painting.webp){: width="1600" height="1183"}
 *J. M. W. Turner, Staffa, Fingal's Cave (1832). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Staffa,_Fingal's_Cave_-_Google_Art_Project.jpg)*
 
 Software engineering has its religious wars. Inlining versus decomposition. [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) as one tome, [Carmack's email on inlining](http://number-none.com/blow/john_carmack_on_inlined_code.html) as scripture for another. [Continuous delivery](https://www.davefarley.net/). [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development). Pair programming in the [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck), pure Agile sense.

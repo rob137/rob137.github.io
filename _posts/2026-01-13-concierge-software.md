@@ -5,7 +5,7 @@ date: 2026-01-13 09:30:00 +0000
 excerpt: "It was easier to conjure bespoke software than to find something that fit."
 ---
 
-![Travellers trudge through deep snow past sleeping houses in a mountain village at night](/assets/images/2026-01-13-concierge-software-painting.webp)
+![Travellers trudge through deep snow past sleeping houses in a mountain village at night](/assets/images/2026-01-13-concierge-software-painting.webp){: width="1600" height="1044"}
 *Utagawa Hiroshige, Evening Snow at Kambara (c. 1833). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Evening_Snow_at_Kambara_LACMA_M.49.5.1.jpg)*
 
 I'm dictating this into a microphone. Speech to text. That's how I'm writing the article.
@@ -20,7 +20,7 @@ Linus Torvalds has been [experimenting with vibe coding](https://github.com/torv
 
 I vibe coded a dashboard. Device detection, import, transcription, playback, metadata. The features I actually wanted.
 
-![H2 Dashboard](/assets/images/h2-dashboard.png)
+![H2 Dashboard](/assets/images/h2-dashboard.png){: width="2314" height="1460"}
 
 It took less than five minutes of effort. Not elapsed time - I'd check in while doing other things, try the UI, tell it what I wanted different, and go back to what I was doing. Concierge software. Background task.
 

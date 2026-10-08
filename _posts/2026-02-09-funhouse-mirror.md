@@ -6,7 +6,7 @@ excerpt: "AI coding expertise is fragile. Late arrivals might have less to learn
 image: /assets/images/2026-02-09-funhouse-mirror-painting.webp
 ---
 
-![The Lady of Shalott sits in a boat draped with tapestry, three candles beside her, the river among reeds](/assets/images/2026-02-09-funhouse-mirror-painting.webp)
+![The Lady of Shalott sits in a boat draped with tapestry, three candles beside her, the river among reeds](/assets/images/2026-02-09-funhouse-mirror-painting.webp){: width="1600" height="1228"}
 *John William Waterhouse, The Lady of Shalott (1888). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project.jpg)*
 
 I use AI agents for coding all day. And it occurred to me that the expertise I've built is pretty fragile because of the [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect). Anything that hasn't been around very long probably won't be around much longer. Case in point: my AI workflows keep getting replaced. The tricks I learned six months ago are often obsolete now.

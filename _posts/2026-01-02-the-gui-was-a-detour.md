@@ -5,7 +5,7 @@ date: 2026-01-02 09:00:00 +0000
 excerpt: "I installed Audacity yesterday. I've barely opened it. Not because I lost interest, but because LLMs write ffmpeg commands for me instead."
 ---
 
-![Crowds skate and play on a frozen river beside a village under a pale winter sky](/assets/images/2026-01-02-the-gui-was-a-detour-painting.webp)
+![Crowds skate and play on a frozen river beside a village under a pale winter sky](/assets/images/2026-01-02-the-gui-was-a-detour-painting.webp){: width="1600" height="924"}
 *Hendrick Avercamp, Winter Landscape with Ice Skaters (c. 1608). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hendrick_Avercamp_-_Winterlandschap_met_ijsvermaak.jpg)*
 
 I installed [Audacity](https://www.audacityteam.org/) yesterday. An LLM suggested it might give me better recording quality than QuickTime.

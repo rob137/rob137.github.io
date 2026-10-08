@@ -6,7 +6,7 @@ excerpt: "The economy isn't designed around humans. We contort to fit it."
 image: /assets/images/2026-02-06-factory-sandwiches-painting.webp
 ---
 
-![A mechanic leans into his wrench against a huge steam pump, its bolts and dials around him](/assets/images/2026-02-06-factory-sandwiches-painting.webp)
+![A mechanic leans into his wrench against a huge steam pump, its bolts and dials around him](/assets/images/2026-02-06-factory-sandwiches-painting.webp){: width="1600" height="1067"}
 *Lewis Hine, Power House Mechanic Working on Steam Pump (1920), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg)*
 
 I feel like I'm exiting hyperspace every time I need to communicate with a client or wait on a stakeholder to state the next requirement. It feels totally natural to say this is just the cost of doing business. Humans and human taste are what counts.

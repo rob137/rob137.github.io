@@ -5,7 +5,7 @@ date: 2026-01-09 10:00:00 +0000
 excerpt: "We built bridges for tethered horses. What if they could hop across?"
 ---
 
-![Bridge 77, Macclesfield Canal](/assets/images/roving-bridge.jpg)
+![Bridge 77, Macclesfield Canal](/assets/images/roving-bridge.jpg){: width="640" height="480"}
 *Bridge 77 on the Macclesfield Canal*
 
 On the Macclesfield Canal, there's a type of structure called a roving bridge. When the towpath changes sides, the bridge lets the horse cross without being untethered from the barge. The horse doesn't need to understand the bridge's design. It just follows the path.

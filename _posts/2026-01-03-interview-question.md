@@ -5,7 +5,7 @@ date: 2026-01-03 15:00:00 +0000
 excerpt: "An interview question that felt revolutionary a year ago and is now fully redundant. What it taught us about what we're actually looking for."
 ---
 
-![Two richly dressed men stand either side of a shelf of globes, instruments and a lute](/assets/images/2026-01-03-interview-question-painting.webp)
+![Two richly dressed men stand either side of a shelf of globes, instruments and a lute](/assets/images/2026-01-03-interview-question-painting.webp){: width="1600" height="1067"}
 *Hans Holbein the Younger, The Ambassadors (1533), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg)*
 
 Here's an interview task I came up with about a year ago:

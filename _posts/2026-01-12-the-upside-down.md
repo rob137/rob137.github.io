@@ -5,7 +5,7 @@ date: 2026-01-12 12:00:00 +0000
 excerpt: "Scale to 50 agents and the new best practices look sacrilegious."
 ---
 
-![Vast stone arches, stairways and a drawbridge recede into the gloom of an imaginary prison](/assets/images/2026-01-12-the-upside-down-painting.webp)
+![Vast stone arches, stairways and a drawbridge recede into the gloom of an imaginary prison](/assets/images/2026-01-12-the-upside-down-painting.webp){: width="1600" height="1067"}
 *Giovanni Battista Piranesi, The Drawbridge, from Carceri d'invenzione (c. 1750), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Carceri._Folder_7_-_Google_Art_Project.jpg)*
 
 I find best practices fascinating as cultural artefacts. I've collected the usual books - Gang of Four, Bob Martin, Joel Spolsky, Continuous Delivery, TDD - and toyed with most of the paradigms. Same with religion, honestly. I can listen to any of it anthropologically without getting bound up in doctrine.

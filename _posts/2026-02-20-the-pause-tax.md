@@ -5,7 +5,7 @@ date: 2026-02-20 12:00:00 +0000
 excerpt: "You are the bottleneck now."
 ---
 
-![A still lake reflects a wooded island and blue hills, zigzag ripples of wind across the water](/assets/images/2026-02-20-the-pause-tax-painting.webp)
+![A still lake reflects a wooded island and blue hills, zigzag ripples of wind across the water](/assets/images/2026-02-20-the-pause-tax-painting.webp){: width="1600" height="1247"}
 *Akseli Gallen-Kallela, Lake Keitele (1905). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akseli_Gallen-Kallela_-_Lake_Keitele,_1905.JPG)*
 
 I've used [org-mode](https://orgmode.org/) in Emacs for years. One file, living in my home directory - the first thing I set up when I get a new work laptop. A keybind opens it from anywhere; it's the touchbase for everything. Plain text, tree structure, simple checkboxes. Unreasonably effective.
@@ -24,8 +24,8 @@ It's like an experiment I do with my phone sometimes. On weekends I switch it fu
 
 Same thing here. In ordinary use the train stops entirely while I'm engaged elsewhere, and it doesn't feel like lost time because I'm busy. But the throughput cost is real.
 
-<img class="drawing-light" src="/assets/images/2026-02-20-the-pause-tax-drawing.webp" alt="Two timelines. Before: blocks of model works separated by gaps marked quickly checking Teams. Now: me watching and adding to an org file, the model pulling the next item, and the blocks run back to back">
-<img class="drawing-dark" src="/assets/images/2026-02-20-the-pause-tax-drawing-dark.webp" alt="Two timelines. Before: blocks of model works separated by gaps marked quickly checking Teams. Now: me watching and adding to an org file, the model pulling the next item, and the blocks run back to back">
+<img class="drawing-light" src="/assets/images/2026-02-20-the-pause-tax-drawing.webp" alt="Two timelines. Before: blocks of model works separated by gaps marked quickly checking Teams. Now: me watching and adding to an org file, the model pulling the next item, and the blocks run back to back" width="1500" height="750">
+<img class="drawing-dark" src="/assets/images/2026-02-20-the-pause-tax-drawing-dark.webp" alt="Two timelines. Before: blocks of model works separated by gaps marked quickly checking Teams. Now: me watching and adding to an org file, the model pulling the next item, and the blocks run back to back" width="1500" height="750">
 
 The new workflow doesn't pause. I'm still watching everything, still reading output, still judging whether it's missing something. But the system doesn't block on my input between tasks. The model pulls the next item and keeps moving. My attention can drift to the broader picture - what we're trying to do, what trade-offs we haven't considered, what's coming next - while work continues underneath.
 

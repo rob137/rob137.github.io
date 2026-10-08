@@ -5,7 +5,7 @@ date: 2026-01-02 12:00:00 +0000
 excerpt: "Book titles are pointers to compressed mental models that LLMs already know. Say 'The Goal' and you invoke an entire framework."
 ---
 
-![Interlaced spirals, knots and tiny figures fill the great Chi Rho monogram on a vellum page](/assets/images/2026-01-02-books-as-compressed-prompts-painting.webp)
+![Interlaced spirals, knots and tiny figures fill the great Chi Rho monogram on a vellum page](/assets/images/2026-01-02-books-as-compressed-prompts-painting.webp){: width="1576" height="1050"}
 *Scribes of the Book of Kells, Chi Rho page (c. 800), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Meister_des_Book_of_Kells_001.jpg)*
 
 Last week I needed to refactor some database migrations. Instead of explaining the problem from first principles, I just said: "Apply the patterns from [Refactoring Databases](https://en.wikipedia.org/wiki/Refactoring_Databases) to this."

@@ -5,7 +5,7 @@ date: 2026-01-21 17:00:00 +0000
 excerpt: "A friend asked how I work with agents. I procrastinated for days, then automated the explanation."
 ---
 
-![Radiolarians drawn as intricate golden stars and spiked crystalline forms](/assets/images/2026-01-21-orchestrator-painting.webp)
+![Radiolarians drawn as intricate golden stars and spiked crystalline forms](/assets/images/2026-01-21-orchestrator-painting.webp){: width="1600" height="1067"}
 *Ernst Haeckel, Acanthometra, from Kunstformen der Natur (1904), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Haeckel_Acanthometra.jpg)*
 
 A friend asked me to summarize how I'm currently working with coding agents. I put it off for a few days.

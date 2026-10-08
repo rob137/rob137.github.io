@@ -5,7 +5,7 @@ date: 2026-01-02 16:30:00 +0000
 excerpt: "LLMs can infer your decision style from examples you never explain."
 ---
 
-![A traveller kneels at the edge of the world and pushes his head through the starry sky to see the machinery beyond](/assets/images/2026-01-02-show-dont-tell-painting.webp)
+![A traveller kneels at the edge of the world and pushes his head through the starry sky to see the machinery beyond](/assets/images/2026-01-02-show-dont-tell-painting.webp){: width="1600" height="1067"}
 *Anonymous, The Flammarion engraving (1888), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FlammarionWoodcut.jpg)*
 
 LLMs are unreasonably good at associative thinking. Almost nobody is talking about it.

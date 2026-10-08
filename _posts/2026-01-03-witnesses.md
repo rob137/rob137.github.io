@@ -5,7 +5,7 @@ date: 2026-01-03 08:00:00 +0000
 excerpt: "A running list of respected programmers - people with Wikipedia pages for actually building things - expressing genuine surprise at AI coding tools."
 ---
 
-![A family gathers round a candlelit table as a lecturer demonstrates a bird in a glass vacuum pump](/assets/images/2026-01-03-witnesses-painting.webp)
+![A family gathers round a candlelit table as a lecturer demonstrates a bird in a glass vacuum pump](/assets/images/2026-01-03-witnesses-painting.webp){: width="1600" height="1199"}
 *Joseph Wright of Derby, An Experiment on a Bird in the Air Pump (1768). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby,_1768.jpg)*
 
 [John Blow](https://en.wikipedia.org/wiki/Jonathan_Blow) - creator of *Braid* and *The Witness* - [recently](https://x.com/Jonathan_Blow/status/2006479911750611333):

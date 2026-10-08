@@ -5,7 +5,7 @@ date: 2026-01-05 14:50:00 +0000
 excerpt: "A cardioid microphone keeps you ten centimetres from the same spot. You stop noticing the room around you."
 ---
 
-![A small child in a straw hat runs after a red ball across a park seen from above, shade pooling under the trees](/assets/images/2026-01-05-tunnel-vision-painting.webp)
+![A small child in a straw hat runs after a red ball across a park seen from above, shade pooling under the trees](/assets/images/2026-01-05-tunnel-vision-painting.webp){: width="1600" height="1253"}
 *Félix Vallotton, The Ball (1899). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Vallotton_-_The_Ball_-_Google_Art_Project.jpg)*
 
 I dictate most of my work now. It's faster than typing, and it feeds directly into the tools I use. But there's a catch.

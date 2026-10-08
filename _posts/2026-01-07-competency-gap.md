@@ -5,7 +5,7 @@ date: 2026-01-07 06:30:00 +0000
 excerpt: "The difference between doing the work and showing up to the right meetings. AI will widen it."
 ---
 
-![Five men in black hats and white collars sit around a table with an open book, a servant behind them](/assets/images/2026-01-07-competency-gap-painting.webp)
+![Five men in black hats and white collars sit around a table with an open book, a servant behind them](/assets/images/2026-01-07-competency-gap-painting.webp){: width="1600" height="1082"}
 *Rembrandt, The Syndics of the Drapers' Guild (1662). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg)*
 
 [Daniel Lemire](https://x.com/lemire/status/2008549280408105352):

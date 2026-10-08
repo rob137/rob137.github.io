@@ -6,7 +6,7 @@ excerpt: "I started a podcast."
 image: /assets/images/2026-02-13-liminal-time-painting.webp
 ---
 
-![A sheer mountain peak rises out of grey fog above a pale sea](/assets/images/2026-02-13-liminal-time-painting.webp)
+![A sheer mountain peak rises out of grey fog above a pale sea](/assets/images/2026-02-13-liminal-time-painting.webp){: width="1600" height="1067"}
 *Peder Balke, Stetind in Fog (1864), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peder_Balke_-_Stetind_in_Fog_-_Google_Art_Project.jpg)*
 
 I started a podcast. It's called [Liminal Time](https://liminaltimepodcast.com). Social field recordings. Conversations with people I find interesting.

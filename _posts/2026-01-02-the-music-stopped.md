@@ -4,7 +4,7 @@ title: "The Music Stopped"
 date: 2026-01-02 13:30:00 +0000
 ---
 
-![A woman at a harpsichord, a man with a lute and a standing singer in a room hung with paintings](/assets/images/2026-01-02-the-music-stopped-painting.webp)
+![A woman at a harpsichord, a man with a lute and a standing singer in a room hung with paintings](/assets/images/2026-01-02-the-music-stopped-painting.webp){: width="1600" height="1067"}
 *Johannes Vermeer, The Concert (c. 1664), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vermeer_The_Concert.jpg)*
 
 There's a debate that flares up periodically: terminal versus IDE. Vim versus VS Code. Text-based interfaces versus graphical ones.

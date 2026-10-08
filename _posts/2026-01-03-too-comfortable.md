@@ -5,7 +5,7 @@ date: 2026-01-03 07:00:00 +0000
 excerpt: "Terminal agents have been the stable pattern for a year now. If scaling laws hold, that stability should feel suspicious."
 ---
 
-![An ink dragon with huge round eyes glares out from swirling clouds across folding panels](/assets/images/2026-01-03-too-comfortable-painting.webp)
+![An ink dragon with huge round eyes glares out from swirling clouds across folding panels](/assets/images/2026-01-03-too-comfortable-painting.webp){: width="1600" height="1067"}
 *Soga Shōhaku, Dragon and Clouds (1763). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dragon_and_Clouds_by_Soga_Shohaku,_1763,_set_of_eight_panels,_ink_on_paper_DSC02757.JPG)*
 
 [Jeff Tang](https://x.com/jefftangx/status/2007230663553151281) captured something real under the satire:

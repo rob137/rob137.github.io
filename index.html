@@ -6,7 +6,8 @@ title: Home
   {% for post in site.posts %}
   <li class="post-list-item">
     <h2 class="post-list-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% assign parts = post.content | split: 'src="/assets/images/' %}{% if parts.size > 1 %}{% assign opener = parts[1] | split: '"' | first %}{% endif %}
+      <a href="{{ post.url | relative_url }}"{% if opener %} data-img="{{ '/assets/images/' | append: opener | relative_url }}"{% endif %}>{{ post.title }}</a>
     </h2>
     <p class="post-list-meta">
       <time datetime="{{ post.date | date_to_xmlschema }}">
@@ -23,3 +24,19 @@ title: Home
 {% if site.posts.size == 0 %}
 <p>No posts yet. Check back soon!</p>
 {% endif %}
+
+<script>
+  // Fetch a post's opening image when its title is hovered, so it is cached before the click
+  const warmed = new Set();
+  const warm = a => {
+    const src = a.dataset.img;
+    if (!src || warmed.has(src)) return;
+    warmed.add(src);
+    new Image().src = src;
+  };
+  document.querySelectorAll('a[data-img]').forEach(a => {
+    a.addEventListener('pointerenter', () => warm(a));
+    a.addEventListener('focus', () => warm(a));
+    a.addEventListener('touchstart', () => warm(a), { passive: true });
+  });
+</script>

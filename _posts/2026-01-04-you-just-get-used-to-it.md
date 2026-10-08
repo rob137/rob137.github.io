@@ -5,7 +5,7 @@ date: 2026-01-04 08:00:00 +0000
 excerpt: "Most of what we know, we take on trust. AI is asking us to extend that trust in ways we haven't figured out yet."
 ---
 
-![A young woman in a blue dress and lilac shawl stands in an ivy-covered arbour, looking down](/assets/images/2026-01-04-you-just-get-used-to-it-painting.webp)
+![A young woman in a blue dress and lilac shawl stands in an ivy-covered arbour, looking down](/assets/images/2026-01-04-you-just-get-used-to-it-painting.webp){: width="1600" height="1067"}
 *Arthur Hughes, April Love (1856), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arthur_Hughes_-_April_Love_-_Google_Art_Project.jpg)*
 
 > "Young man, in mathematics you don't understand things. You just get used to them."
@@ -68,4 +68,4 @@ Dogs earned their place through millennia of co-evolution. The models are doing 
 
 The question is whether we'll update our heuristics in time, or keep applying mammalian instincts to something that isn't a mammal.
 
-![Frieda](/assets/images/frieda.jpg)
+![Frieda](/assets/images/frieda.jpg){: width="3072" height="3548"}

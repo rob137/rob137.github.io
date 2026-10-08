@@ -5,10 +5,10 @@ date: 2026-01-06 16:30:00 +0000
 excerpt: "You go to correct the model. Then you check. They were right."
 ---
 
-![Two women in white dresses walk arm in arm along a pale beach in the blue evening light](/assets/images/2026-01-06-the-huddle-painting.webp)
+![Two women in white dresses walk arm in arm along a pale beach in the blue evening light](/assets/images/2026-01-06-the-huddle-painting.webp){: width="1600" height="1072"}
 *P. S. Krøyer, Summer Evening on Skagen's Southern Beach (1893). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kroyer_summerevening_southern_beach.jpg)*
 
-![The huddle meme](/assets/images/huddle.webp)
+![The huddle meme](/assets/images/huddle.webp){: width="757" height="1000"}
 
 I've been using agents all day on a relatively complex project. I give the model a task, follow it closely, and spot what looks like an oversight. After months of catching subtle errors - hallucinated imports, slightly wrong method signatures, off-by-one mistakes - there's a muscle memory. Here we go again.
 

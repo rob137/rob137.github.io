@@ -5,7 +5,7 @@ date: 2026-03-25 12:00:00 +0000
 excerpt: "We keep adding applications to LLMs. The thing that's actually happening is the reverse."
 ---
 
-![Night and Sleep float through a dusky sky in flowing red and pink robes, scattering poppies](/assets/images/2026-03-25-the-talking-sheet-painting.webp)
+![Night and Sleep float through a dusky sky in flowing red and pink robes, scattering poppies](/assets/images/2026-03-25-the-talking-sheet-painting.webp){: width="1600" height="1103"}
 *Evelyn De Morgan, Night and Sleep (1878). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Night_and_Sleep_-_Evelyn_de_Morgan_%281878%29.jpg)*
 
 I'm a software engineer. My days run on Paul Graham's [maker's schedule](https://www.paulgraham.com/makersschedule.html): terminal, plain text files, long unbroken stretches. I don't spend much time in Outlook or Excel. But I spend a lot of time talking to managers across the business, and over the past few weeks something has shifted. They're in a sugar rush. The cause is [Claude for Excel](https://support.claude.com/en/articles/12650343-use-claude-for-excel).
@@ -18,7 +18,7 @@ Intelligence is moving into the apps people already use, and that matters more t
 
 [OpenClaw](https://github.com/openclaw/openclaw), an open-source personal AI agent you run on your own devices, went from zero to 250,000 GitHub stars in under four months, surpassing React, which took a decade to get there.
 
-![OpenClaw star history vs React and Linux](/assets/images/openclaw-stars.png)
+![OpenClaw star history vs React and Linux](/assets/images/openclaw-stars.png){: width="1442" height="968"}
 
 OpenAI [hired the author](https://en.wikipedia.org/wiki/OpenClaw) and is now [merging ChatGPT, Codex, and their Atlas browser into a single desktop application](https://creati.ai/ai-news/2026-03-20/openai-desktop-superapp-chatgpt-codex-atlas-browser-merge/). Anthropic released [Dispatch](https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html), a continuous conversation that runs across your phone and your Mac, with Claude able to open apps, navigate browsers, and complete workflows on your computer while you're away from it. Both companies are converging on the same idea: one application as your point of contact for everything you'd use a computer for.
 

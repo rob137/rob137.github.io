@@ -5,7 +5,7 @@ date: 2026-01-25 12:00:00 +0000
 excerpt: "LLMs let engineers climb the abstraction stack. But who's actually doing the climbing?"
 ---
 
-![A steam locomotive pours black smoke as it pulls through a misty rail yard](/assets/images/2026-01-25-when-does-your-train-stop-painting.webp)
+![A steam locomotive pours black smoke as it pulls through a misty rail yard](/assets/images/2026-01-25-when-does-your-train-stop-painting.webp){: width="1600" height="1188"}
 *Alfred Stieglitz, The Hand of Man (1902). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alfred_Stieglitz_-_The_Hand_of_Man_-_Google_Art_Project_%28color_corrected%29.jpg)*
 
 Will Larson's [*Staff Engineer*](https://staffeng.com/book) book lays out four archetypes for senior technical roles—patterns within the staff track itself:

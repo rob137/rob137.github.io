@@ -5,7 +5,7 @@ date: 2026-01-03 08:30:00 +0000
 excerpt: "Three ideas from military doctrine that apply surprisingly well to working with AI agents: mission command, the orders process, and inkblot strategy."
 ---
 
-![A steamboat is lost in a vortex of snow, spray and dark sea](/assets/images/2026-01-03-first-contact-painting.webp)
+![A steamboat is lost in a vortex of snow, spray and dark sea](/assets/images/2026-01-03-first-contact-painting.webp){: width="1600" height="1203"}
 *J. M. W. Turner, Snow Storm: Steam-Boat off a Harbour's Mouth (1842). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour's_Mouth.jpg)*
 
 We're making first contact with a different kind of intelligence - one that bears some resemblance to things we know, but is alien enough that our existing playbooks don't quite fit.

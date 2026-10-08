@@ -5,18 +5,18 @@ date: 2026-03-13 09:00:00 +0000
 excerpt: "Agentic systems are getting complicated. Two forces might reverse that. Unless context windows are a hard constraint."
 ---
 
-![Salome in a gown of peacock eyes faces a young man in a pale robe, in black ink on white](/assets/images/2026-03-13-the-mask-we-cant-drop-painting.webp)
+![Salome in a gown of peacock eyes faces a young man in a pale robe, in black ink on white](/assets/images/2026-03-13-the-mask-we-cant-drop-painting.webp){: width="1600" height="1066"}
 *Aubrey Beardsley, The Peacock Skirt, from Salome (1894), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aubrey_Beardsley's_Illustrations_to_Salome_by_Oscar_Wilde_MET_DP863675.jpg)*
 
 I saw a fantastic talk last night at an AI meetup at Jesus College Oxford by Josh Lawman, who runs [Adder](https://www.adder.dev/). One of those that's enjoyable in the moment and then keeps unfolding in your head afterwards. He was comparing how agentic architectures have evolved over the past couple of years.
 
 He pulled up Anthropic's "Building Effective Agents" diagrams from late 2024:
 
-![2024 Anthropic agentic diagram - simple evaluator-optimizer loop](/assets/images/2024-anthropic-agentic-diagram.webp)
+![2024 Anthropic agentic diagram - simple evaluator-optimizer loop](/assets/images/2024-anthropic-agentic-diagram.webp){: width="2401" height="1000"}
 
 Then he showed what Anthropic's multi-agent architecture looks like in 2026:
 
-![2026 Claude Code multi-agent architecture](/assets/images/claude-code-multi-agent-diagrams-2026.avif)
+![2026 Claude Code multi-agent architecture](/assets/images/claude-code-multi-agent-diagrams-2026.avif){: width="2500" height="951"}
 
 The jump is hard to miss. What was a tidy feedback loop has become an orchestration layer managing parallel workers, state machines, and specialised sub-agents. And that's just one vendor's reference architecture. Steve Yegge's [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) has mayors, polecats, witnesses, and refineries. It's a lot.
 
@@ -28,7 +28,7 @@ Josh wasn't making predictions about whether this complexity keeps blooming or s
 
 But walking home, I kept thinking about the shoggoth meme.
 
-![The shoggoth meme](/assets/images/shoggoth-meme.jpeg)
+![The shoggoth meme](/assets/images/shoggoth-meme.jpeg){: width="249" height="203"}
 
 The Lovecraftian horror holding a thin smiley-face mask. Unfathomable alien machinery behind a friendly UI that hides the existential risk.
 

@@ -5,7 +5,7 @@ date: 2026-01-02 14:30:00 +0000
 excerpt: "X.com is unreasonably good - if you follow the right people and resist the dopaminergic pull."
 ---
 
-![Figures hurry across a wooden bridge in a sudden downpour, a raft drifting on the river below](/assets/images/2026-01-02-how-i-keep-up-painting.webp)
+![Figures hurry across a wooden bridge in a sudden downpour, a raft drifting on the river below](/assets/images/2026-01-02-how-i-keep-up-painting.webp){: width="1600" height="1067"}
 *Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake (1857), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C5%8Chashi_Atake_no_y%C5%ABdachi-%E5%90%8D%E6%89%80%E6%B1%9F%E6%88%B8%E7%99%BE%E6%99%AF_%E5%A4%A7%E3%81%AF%E3%81%97%E3%81%82%E3%81%9F%E3%81%91%E3%81%AE%E5%A4%95%E7%AB%8B-Sudden_Shower_over_Shin-%C5%8Chashi_Bridge_and_Atake_%28%C5%8Chashi_Atake_no_y%C5%ABdachi%29,_from_the_series_One_Hundred_Famous_Views_of_Edo_%28Meisho_Edo_hyakkei%29_MET_DP123602.jpg)*
 
 A caveat: my days are spent experimenting with this stuff professionally, and my spare time is spent musing, experimenting more, and following the kinds of people listed below. Your mileage may vary.

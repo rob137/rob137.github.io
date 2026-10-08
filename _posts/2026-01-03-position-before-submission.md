@@ -5,7 +5,7 @@ date: 2026-01-03 14:30:00 +0000
 excerpt: "What ten years of Brazilian Jiu-Jitsu taught me about working with AI agents. It's all about where you expect things to be."
 ---
 
-![Jacob grapples with the angel beneath towering trees, a group of travellers passing in the background](/assets/images/2026-01-03-position-before-submission-painting.webp)
+![Jacob grapples with the angel beneath towering trees, a group of travellers passing in the background](/assets/images/2026-01-03-position-before-submission-painting.webp){: width="1600" height="1067"}
 *Eugène Delacroix, Jacob Wrestling with the Angel (1861), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_%E2%80%94_Jacob_Wrestling_with_the_Angel.jpg)*
 
 A good proportion of people starting BJJ will overexert in ways that aren't obvious to them at the time. I was absolutely one of these.

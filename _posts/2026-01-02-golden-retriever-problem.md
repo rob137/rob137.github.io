@@ -5,7 +5,7 @@ date: 2026-01-02 15:00:00 +0000
 excerpt: "The helpful assistant persona is a transitional form. The useful models will push back."
 ---
 
-![Two snowy owls perch on a dead branch against a dark night sky](/assets/images/2026-01-02-golden-retriever-problem-painting.webp)
+![Two snowy owls perch on a dead branch against a dark night sky](/assets/images/2026-01-02-golden-retriever-problem-painting.webp){: width="1600" height="1067"}
 *John James Audubon, Snowy Owl, from The Birds of America (c. 1829), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:121_Snowy_Owl.jpg)*
 
 The helpful assistant persona is a transitional form.
