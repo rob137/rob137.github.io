@@ -13,7 +13,7 @@ permalink: /now/
 
 Finding interesting children's fiction for the girls. The latest discovery is the [Frog and Toad](https://en.wikipedia.org/wiki/Frog_and_Toad) books. The [Moomin](https://en.wikipedia.org/wiki/Moomins) books and the [90s TV series](https://en.wikipedia.org/wiki/Moomin_(1990_TV_series)) are having a moment too.
 
-Lots of spare-time experiments on a ChatGPT Pro subscription, a mixture of 6.1 Pro for the thinking and Work for the automations, letting it take on a lot of the boring supporting tasks around family life. Going well so far.
+Lots of spare-time experiments on a ChatGPT Pro subscription, a mixture of 6.1 Pro for the thinking and Work for the automations, letting it take on a lot of the boring supporting tasks around family life. It has turned picking them off into something of a game. Going well so far.
 
 ## Books and Music
 
