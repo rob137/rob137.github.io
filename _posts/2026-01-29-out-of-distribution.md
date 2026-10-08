@@ -5,6 +5,9 @@ date: 2026-01-29 14:00:00 +0000
 excerpt: "In infinitely dimensional space, everything is close. All roads lead here."
 ---
 
+![Rays of the aurora borealis fan up from a dark horizon into a starry sky](/assets/images/2026-01-29-out-of-distribution-painting.webp)
+*Étienne Léopold Trouvelot, Aurora Borealis (1872), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trouvelot_-_Aurora_Borealis_-_1872.jpg)*
+
 Joe Weisenthal is a journalist. Co-host of Bloomberg's [Odd Lots](https://www.bloomberg.com/oddlots-podcast) podcast. I found him through Nassim Taleb. I've been following Taleb for fifteen years - read his books during a quiet period of a military deployment. He's usually scathing about journalists but warm towards the Odd Lots hosts. That's how I started listening. They have this scholarly glint without being stuffy.
 
 Joe's now coding with Claude Code.

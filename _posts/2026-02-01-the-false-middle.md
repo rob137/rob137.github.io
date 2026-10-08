@@ -5,6 +5,9 @@ date: 2026-02-01 15:00:00 +0000
 excerpt: "Meeting in the middle might be the risky choice."
 ---
 
+![Sea maidens with linked hands rise from green waves under a pale sky](/assets/images/2026-02-01-the-false-middle-painting.webp)
+*Evelyn De Morgan, The Sea Maidens (1886), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Evelyn_de_Morgan_-_The_Sea_Maidens,_1885-1886.jpg)*
+
 Spreadsheet people are the adults in the room. But it becomes a cargo cult if you're missing opportunity because of it.
 
 Enthusiasts are possibly Toad of Toad Hall. But every so often they're right, and ignoring them gets you killed.

@@ -67,3 +67,18 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-19-clock-town | Gregory H. Revera | Full Moon (2010) | File:FullMoon2010.jpg (CC BY-SA 3.0) |
 | 2026-01-19-what-i-dont-touch-anymore | Katsushika Hokusai | Kajikazawa in Kai Province (c. 1830) | File:冨嶽三十六景 甲州石班沢-Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140973.jpg |
 | 2026-01-21-orchestrator | Ernst Haeckel | Acanthometra, from Kunstformen der Natur (1904) | File:Haeckel Acanthometra.jpg |
+| 2026-01-24-thinking-out-loud | Tsukioka Yoshitoshi | The Moon on Musashi Plain (1892) | File:Tsukioka Yoshitoshi - The moon on Musashi Plain (Musashino no tsuki) - from the series 'One hundred aspects of the moon (T... - Google Art Project.jpg |
+| 2026-01-25-when-does-your-train-stop | Alfred Stieglitz | The Hand of Man (1902) | File:Alfred Stieglitz - The Hand of Man - Google Art Project (color corrected).jpg |
+| 2026-01-27-workflows-without-names | Johan Christian Dahl | View of Dresden by Moonlight (1839) | File:Johan Christian Dahl - View of Dresden by Moonlight - Google Art Project.jpg |
+| 2026-01-28-three-fingers | Dante Gabriel Rossetti | The Day Dream (1880) | File:Dante Gabriel Rossetti - The Day Dream - Google Art Project.jpg |
+| 2026-01-29-no-recipe | Arnold Böcklin | Isle of the Dead (1883) | File:Arnold Böcklin - Die Toteninsel III (Alte Nationalgalerie, Berlin).jpg |
+| 2026-01-29-out-of-distribution | Étienne Léopold Trouvelot | Aurora Borealis (1872) | File:Trouvelot - Aurora Borealis - 1872.jpg |
+| 2026-02-01-the-false-middle | Evelyn De Morgan | The Sea Maidens (1886) | File:Evelyn de Morgan - The Sea Maidens, 1885-1886.jpg |
+| 2026-02-05-poor-mans-prompt | Vilhelm Hammershøi | Interior with Young Woman Seen from the Back (1904) | File:Vilhelm Hammershoi - Interieur mit Rueckenansicht einer Frau - 1903-1904 - Randers Kunstmuseum.jpg |
+| 2026-02-06-factory-sandwiches | Lewis Hine | Power House Mechanic Working on Steam Pump (1920) | File:Lewis Hine Power house mechanic working on steam pump.jpg |
+| 2026-02-06-within-reach | Joseph Wright of Derby | A Philosopher Lecturing on the Orrery (c. 1766) | File:Joseph Wright of Derby - Philosopher giving a lecture on the orrery - Google Art Project.jpg |
+| 2026-02-09-funhouse-mirror | John William Waterhouse | The Lady of Shalott (1888) | File:John William Waterhouse - The Lady of Shalott - Google Art Project.jpg |
+| 2026-02-13-liminal-time | Peder Balke | Stetind in Fog (1864) | File:Peder Balke - Stetind in Fog - Google Art Project.jpg |
+| 2026-02-17-strudel | William Morris | Wandle, printed textile (1884) | File:Wandle V&A T.45-1912.jpg |
+| 2026-02-18-is-ought | Hendrick Avercamp | A Scene on the Ice near a Town (c. 1615) | File:Hendrick Avercamp - A Scene on the Ice near a Town - WGA1075.jpg |
+| 2026-02-20-the-pause-tax | Akseli Gallen-Kallela | Lake Keitele (1905) | File:Akseli Gallen-Kallela - Lake Keitele, 1905.JPG |

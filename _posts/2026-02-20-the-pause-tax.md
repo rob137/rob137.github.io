@@ -5,7 +5,8 @@ date: 2026-02-20 12:00:00 +0000
 excerpt: "You are the bottleneck now."
 ---
 
-![Pause Tax](/assets/images/2026-02-20-the-pause-tax.png)
+![A still lake reflects a wooded island and blue hills, zigzag ripples of wind across the water](/assets/images/2026-02-20-the-pause-tax-painting.webp)
+*Akseli Gallen-Kallela, Lake Keitele (1905). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akseli_Gallen-Kallela_-_Lake_Keitele,_1905.JPG)*
 
 I've used [org-mode](https://orgmode.org/) in Emacs for years. One file, living in my home directory - the first thing I set up when I get a new work laptop. A keybind opens it from anywhere; it's the touchbase for everything. Plain text, tree structure, simple checkboxes. Unreasonably effective.
 

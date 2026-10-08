@@ -5,6 +5,9 @@ date: 2026-01-25 12:00:00 +0000
 excerpt: "LLMs let engineers climb the abstraction stack. But who's actually doing the climbing?"
 ---
 
+![A steam locomotive pours black smoke as it pulls through a misty rail yard](/assets/images/2026-01-25-when-does-your-train-stop-painting.webp)
+*Alfred Stieglitz, The Hand of Man (1902). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alfred_Stieglitz_-_The_Hand_of_Man_-_Google_Art_Project_%28color_corrected%29.jpg)*
+
 Will Larson's [*Staff Engineer*](https://staffeng.com/book) book lays out four archetypes for senior technical rolesâ€”patterns within the staff track itself:
 
 - The **Tech Lead** guides a single team's approach and execution.
@@ -17,8 +20,6 @@ It's a useful model for thinking about the fork in the road at senior engineerâ€
 The archetypes assume a stable game. You pick your lane, cultivate the relevant skills, and compound over decades. Mai-Lan Tomsen Bukovec at AWS did exactly this. Twenty years of going deep, still energized by the technical details, coordinating enormous human and technical capital while staying hands-on. The existence of that path is reassuring.
 
 But the game might not be stable anymore.
-
-![Escalator](/assets/images/escalator.webp)
 
 ---
 

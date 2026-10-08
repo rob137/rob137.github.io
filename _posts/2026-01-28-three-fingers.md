@@ -5,6 +5,9 @@ date: 2026-01-28 15:00:00 +0000
 excerpt: "There's a gap growing between what an hour of work should produce and what managers expect."
 ---
 
+![A woman in a green dress sits in the branches of a sycamore, a book and a flower in her lap](/assets/images/2026-01-28-three-fingers-painting.webp)
+*Dante Gabriel Rossetti, The Day Dream (1880), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg)*
+
 There's a scene in *Inglourious Basterds* where a British spy orders drinks by holding up three fingers—index, middle, ring. A German officer clocks it instantly. Germans count from the thumb. The spy has revealed himself with a gesture so small he didn't know he was making it.
 
 ![Three fingers](/assets/images/three-fingers.webp)

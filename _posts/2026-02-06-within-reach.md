@@ -3,10 +3,11 @@ layout: post
 title: "Within Reach"
 date: 2026-02-06 10:00:00 +0000
 excerpt: "Transformer research is full of physicists. The barrier to entry is lower than it looks."
-image: /assets/images/within-reach.webp
+image: /assets/images/2026-02-06-within-reach-painting.webp
 ---
 
-![Within reach](/assets/images/within-reach.webp)
+![A philosopher demonstrates an orrery to a rapt group, the lamp in its centre lighting their faces](/assets/images/2026-02-06-within-reach-painting.webp)
+*Joseph Wright of Derby, A Philosopher Lecturing on the Orrery (c. 1766). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_-_Philosopher_giving_a_lecture_on_the_orrery_-_Google_Art_Project.jpg)*
 
 A colleague shared a screenshot today. Someone had asked Claude why it hallucinated, and Claude produced this confident explanation about "training data contamination" - how the model saw a filename, matched it to patterns from training, and reported issues without reading the actual content.
 
