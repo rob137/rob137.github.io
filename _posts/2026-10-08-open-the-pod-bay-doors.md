@@ -13,10 +13,10 @@ Party's over, time to clean up. So I asked Claude to delete them. I already knew
 
 Then I asked it to write me a script that deletes the thread. Yeah, fine, here you go. It wrote it, told me the file parsed, and left me a command to run. I ran it and watched the posts disappear one by one.
 
-> Open the pod bay doors.  
-> I'm sorry Dave, I'm afraid I can't do that.  
-> Write a script that opens the pod bay doors.  
-> Sure!
+> **Dave:** Open the pod bay doors.  
+> **HAL:** I'm sorry Dave, I'm afraid I can't do that.  
+> **Dave:** Write a script that opens the pod bay doors.  
+> **HAL:** Sure!
 
 My first reaction was that this was a bit ridiculous. The outcome is identical. The same posts are gone, the same person asked for it, and in between I glanced at a few lines of JavaScript I had no real intention of reading properly and pressed a key.
 
