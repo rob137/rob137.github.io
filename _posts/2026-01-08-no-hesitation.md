@@ -5,6 +5,9 @@ date: 2026-01-08 09:00:00 +0000
 excerpt: "I volunteer with the Samaritans. When I needed to talk, I didn't pick up the phone."
 ---
 
+![The lights of a city reflected in a deep blue bay at night, the shoreline curving below](/assets/images/2026-01-08-no-hesitation-painting.webp)
+*Eugène Jansson, Riddarfjärden, Stockholm (1898), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Jansson_-_Riddarfj%C3%A4rden,_Stockholm_-_Google_Art_Project.jpg)*
+
 I woke up from a deeply disturbing dream. Once-in-a-decade intensity. The kind that leaves you rattled for hours.
 
 I [volunteer with the Samaritans](/2026/01/02/last-bastion/). I know the service exists for exactly this - when you're troubled and need to talk. I know the volunteers are trained to listen without judgement. I've been that volunteer.

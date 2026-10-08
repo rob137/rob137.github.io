@@ -52,3 +52,18 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-07-ad-machinum | Dante Gabriel Rossetti | Proserpine (1882) | File:8th Rossetti Proserpine cropped.jpeg |
 | 2026-01-07-competency-gap | Rembrandt | The Syndics of the Drapers' Guild (1662) | File:Rembrandt - De Staalmeesters- het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde - Google Art Project.jpg |
 | 2026-01-07-stuck | Frank Hurley | The Endurance at night, Weddell Sea (1915) | File:Endurance night 1915 SLNSW.jpg |
+| 2026-01-07-who-you-call | Johannes Vermeer | Woman in Blue Reading a Letter (c. 1663) | File:Vermeer, Johannes - Woman reading a letter - ca. 1662-1663.jpg |
+| 2026-01-08-corsair | Utagawa Hiroshige | The Whirlpools of Awa (1857) | File:Awa no Naruto-雪月花 阿波鳴門之風景-The Whirlpools of Awa MET DP146864.jpg |
+| 2026-01-08-no-hesitation | Eugène Jansson | Riddarfjärden, Stockholm (1898) | File:Eugène Jansson - Riddarfjärden, Stockholm - Google Art Project.jpg |
+| 2026-01-08-pop | James McNeill Whistler | Nocturne in Black and Gold: The Falling Rocket (1875) | File:Whistler-Nocturne in black and gold.jpg |
+| 2026-01-08-zugzwang | Sofonisba Anguissola | The Chess Game (1555) | File:The Chess Game (Sofonisba Anguissola) 1555 (4096x3236px).jpg |
+| 2026-01-09-rule-of-72 | Karl Blossfeldt | Plant study, from Urformen der Kunst (1928) | File:Plantstudie Urformen der Kunst (serietitel), RP-F-2008-51-2170-22.jpg |
+| 2026-01-12-the-upside-down | Giovanni Battista Piranesi | The Drawbridge, from Carceri d'invenzione (c. 1750) | File:Giovanni Battista Piranesi - Carceri. Folder 7 - Google Art Project.jpg |
+| 2026-01-13-concierge-software | Utagawa Hiroshige | Evening Snow at Kambara (c. 1833) | File:Evening Snow at Kambara LACMA M.49.5.1.jpg |
+| 2026-01-13-too-early | Harald Sohlberg | Winter Night in the Mountains (1914) | File:Harald Sohlberg - Winter Night in the Mountains - Google Art Project.jpg |
+| 2026-01-14-old-habits | Anna Atkins | Dictyota dichotoma, cyanotype (c. 1853) | File:Met DP-17302-021.jpg |
+| 2026-01-14-writing-style | Pierre-Joseph Redouté | Rosa cinnamomea, from Les Roses (1817) | File:Henry Joseph Redouté - Les Roses- Rosa cinnamomea - 1955.472 - Cleveland Museum of Art.jpg |
+| 2026-01-15-the-lollipop | Albrecht Dürer | Melencolia I (1514) | File:Albrecht Dürer - Melencolia I - Google Art Project (427760).jpg |
+| 2026-01-19-clock-town | Gregory H. Revera | Full Moon (2010) | File:FullMoon2010.jpg (CC BY-SA 3.0) |
+| 2026-01-19-what-i-dont-touch-anymore | Katsushika Hokusai | Kajikazawa in Kai Province (c. 1830) | File:冨嶽三十六景 甲州石班沢-Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140973.jpg |
+| 2026-01-21-orchestrator | Ernst Haeckel | Acanthometra, from Kunstformen der Natur (1904) | File:Haeckel Acanthometra.jpg |

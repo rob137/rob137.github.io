@@ -5,9 +5,10 @@ date: 2026-01-14 11:00:00 +0000
 excerpt: "Comfortable and laziest aren't the same thing."
 ---
 
-When I learned Vim, the tool was fast but my brain was slow. Seconds of latency while I spun around trying to remember key bindings. Mentally taxing, even though the operations themselves were instant.
+![A pale feathery seaweed printed in white on a deep blue ground](/assets/images/2026-01-14-old-habits-painting.webp)
+*Anna Atkins, Dictyota dichotoma, cyanotype (c. 1853), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Met_DP-17302-021.jpg)*
 
-![Keyboard and microphone](/assets/images/keyboard-mic.webp)
+When I learned Vim, the tool was fast but my brain was slow. Seconds of latency while I spun around trying to remember key bindings. Mentally taxing, even though the operations themselves were instant.
 
 I developed a habit, common in guides for this: when I caught myself doing something that worked but wasn't ideal - hitting the arrow key five times instead of pressing `e` for end of word - I'd go back and do it the lazy way. Sometimes three times, to hammer it in. Before long, that general sense of fluency made learning the stragglers easy. It became addictive, actually. The speed of navigating a codebase reflects your comfort with the tool, and there's something satisfying about that. Like mastery in a video game.
 

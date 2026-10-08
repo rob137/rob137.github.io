@@ -5,6 +5,9 @@ date: 2026-01-19 13:00:00 +0000
 excerpt: "Everyone can see the moon coming. Almost nobody changes their plans."
 ---
 
+![The full moon, its craters and grey seas sharp against a black sky](/assets/images/2026-01-19-clock-town-painting.webp)
+*Gregory H. Revera, Full Moon (2010). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg), CC BY-SA 3.0*
+
 I've had a lot of conversations about AI over the past few years. HR, journalism, project management, design, QA, copywriting. Friends outside work too: musicians, school teachers, military officers, marketers. My dad, a retired software developer.
 
 Show someone what the tools can do. Walk through where they were two years ago, where they are now, the rate of investment, the prisoner's dilemma between labs and between superpowers. Within five minutes, most people are nodding. Often they start making connections themselves, observations that tell you they're genuinely engaged, not just being polite. They can see their job is a bundle of tasks, they can see the trendline only goes up, they can see the error bars on expert AGI predictions are [5-15 years, not 50](/2026/01/06/local-maximum/).

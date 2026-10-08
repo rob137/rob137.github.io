@@ -5,6 +5,9 @@ date: 2026-01-21 17:00:00 +0000
 excerpt: "A friend asked how I work with agents. I procrastinated for days, then automated the explanation."
 ---
 
+![Radiolarians drawn as intricate golden stars and spiked crystalline forms](/assets/images/2026-01-21-orchestrator-painting.webp)
+*Ernst Haeckel, Acanthometra, from Kunstformen der Natur (1904), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Haeckel_Acanthometra.jpg)*
+
 A friend asked me to summarize how I'm currently working with coding agents. I put it off for a few days.
 
 Then I realized two things. First: the explanation itself can be automated. I could use the distillation to climb the abstraction ladder once more. Second: I was only procrastinating because I'd assumed I'd have to write it myself. Remove that assumption and there's nothing to put off.
@@ -16,8 +19,6 @@ The result is two markdown files. One for the orchestrator (the Claude instance 
 The specific instructions will be stale by next month. The [bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) is coming for this workflow soon—explicit orchestration like this will probably get absorbed into the models themselves. This is just a snapshot of where day-to-day practice has gotten to.
 
 But the meta-point stands: the thing I was avoiding became the thing that levels me up again. The distillation can now onboard new models. The explanation *is* the automation.
-
-![Orchestrator](/assets/images/orchestrator.webp)
 
 ---
 

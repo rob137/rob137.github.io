@@ -5,6 +5,9 @@ date: 2026-01-19 16:00:00 +0000
 excerpt: "The list of things I've stopped doing is more interesting than the tools I'm using."
 ---
 
+![A fisherman on a rock casts his lines into churning waves, Mount Fuji pale in the distance](/assets/images/2026-01-19-what-i-dont-touch-anymore-painting.webp)
+*Katsushika Hokusai, Kajikazawa in Kai Province (c. 1830). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%86%A8%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E7%94%B2%E5%B7%9E%E7%9F%B3%E7%8F%AD%E6%B2%A2-Kajikazawa_in_Kai_Province_%28K%C5%8Dsh%C5%AB_Kajikazawa%29,_from_the_series_Thirty-six_Views_of_Mount_Fuji_%28Fugaku_sanj%C5%ABrokkei%29_MET_DP140973.jpg)*
+
 > "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
 >
 > — Robert Heinlein, [*Time Enough for Love*](https://en.wikipedia.org/wiki/Time_Enough_for_Love)
@@ -14,8 +17,6 @@ excerpt: "The list of things I've stopped doing is more interesting than the too
 > — Kevin Kelly, [*North Star Podcast*](https://perell.com/podcast/kevin-kelly-seeing-the-future/)
 
 ---
-
-![Dusty tools](/assets/images/dusty-tools.webp)
 
 I still have a normal job with a normal manager who assigns me tickets. But my workflow has become science fiction.
 

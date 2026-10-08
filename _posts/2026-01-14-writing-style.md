@@ -5,6 +5,9 @@ date: 2026-01-14 10:00:00 +0000
 excerpt: "We imitate our interlocutors unconsciously. LLMs are now interlocutors."
 ---
 
+![A wild rose stem with pink blooms, buds and serrated green leaves](/assets/images/2026-01-14-writing-style-painting.webp)
+*Pierre-Joseph Redouté, Rosa cinnamomea, from Les Roses (1817), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Joseph_Redout%C3%A9_-_Les_Roses-_Rosa_cinnamomea_-_1955.472_-_Cleveland_Museum_of_Art.jpg)*
+
 Just as there are ways of speaking - accents, expressions, local idioms - there are ways of writing. We're wired by evolution to imitate. Body language mirrors. Speech patterns converge. Most of it happens below conscious awareness.
 
 In the military, an adjutant is the assistant to a colonel. They produce documents in a very specific form of business English - its own conventions, euphemisms, grammar. Adjutants aren't linguists. They follow the conventions without realising, indoctrinated by years of exposure to military documents.

@@ -5,9 +5,10 @@ date: 2026-01-15 09:00:00 +0000
 excerpt: "A system whose primary function is to sustain itself."
 ---
 
-Some of the most formidable people I've ever met studied philosophy. Not formidable in the way tech people use the word. Formidable in the way that impressed me most as an undergraduate. They could follow an argument through seven layers of abstraction without losing the thread, spot a hidden premise from across the room, and take your position apart so cleanly you'd thank them for it.
+![A brooding winged figure sits among tools, a polyhedron, a ladder and a sleeping dog](/assets/images/2026-01-15-the-lollipop-painting.webp)
+*Albrecht Dürer, Melencolia I (1514), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28427760%29.jpg)*
 
-![Lollipop](/assets/images/lollipop.webp)
+Some of the most formidable people I've ever met studied philosophy. Not formidable in the way tech people use the word. Formidable in the way that impressed me most as an undergraduate. They could follow an argument through seven layers of abstraction without losing the thread, spot a hidden premise from across the room, and take your position apart so cleanly you'd thank them for it.
 
 I did a philosophy BA. Went in because of Ayer and Russell and Wittgenstein. The people who looked at what language was actually doing and noticed it wasn't what everyone assumed. I loved it. The weekly essay cycle at KCL was the hardest and most alive I've ever felt intellectually. And somewhere along the way I noticed that the most brilliant people in the building were broke, anxious about the job market, and producing work that maybe twelve people would ever read.
 

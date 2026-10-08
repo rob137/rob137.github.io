@@ -5,6 +5,9 @@ date: 2026-01-13 09:30:00 +0000
 excerpt: "It was easier to conjure bespoke software than to find something that fit."
 ---
 
+![Travellers trudge through deep snow past sleeping houses in a mountain village at night](/assets/images/2026-01-13-concierge-software-painting.webp)
+*Utagawa Hiroshige, Evening Snow at Kambara (c. 1833). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Evening_Snow_at_Kambara_LACMA_M.49.5.1.jpg)*
+
 I'm dictating this into a microphone. Speech to text. That's how I'm writing the article.
 
 I've been recording things using a Zoom H2 Essential - a field recorder that makes it easy to get good audio quality for dictation. It lets me detether from my laptop when thinking - moving around is often conducive to getting good thoughts out. Good for group settings too, when recording multiple people. My default workflow has been: plug it into my laptop, fire up a coding harness, tell it the device is attached and I want the files moved and transcribed. It pulls up whisper-cpp or whatever. I get the text. Done.

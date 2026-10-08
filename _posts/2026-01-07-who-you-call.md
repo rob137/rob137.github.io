@@ -5,6 +5,9 @@ date: 2026-01-07 16:00:00 +0000
 excerpt: "Code is a special case. These are general-purpose models."
 ---
 
+![A woman in a blue jacket stands by a window reading a letter, a map on the wall behind her](/assets/images/2026-01-07-who-you-call-painting.webp)
+*Johannes Vermeer, Woman in Blue Reading a Letter (c. 1663), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg)*
+
 I wrote about [the quiet ratchet](/2026/01/06/the-quiet-ratchet/) recently - watching AI code well is recalibrating our standards. But code is just a special case. These are general-purpose models, scoring higher on evals across unrelated domains with every release. It would be strange if our standards only shifted inside code editors.
 
 I'm starting to see it happen elsewhere.
