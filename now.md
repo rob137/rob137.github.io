@@ -7,18 +7,20 @@ permalink: /now/
 
 *This is a [now page](https://nownownow.com/about). It's what I'd tell a friend I hadn't seen in a year.*
 
-**Last updated:** March 2026
+**Last updated:** October 2026
 
 ## Family
 
-Making field recordings with my eldest daughter for her Yoto. She chooses which sounds to combine to build scenes. Sleep sounds from ordinary walks, but she's composing them.
+Finding interesting children's fiction for the girls. The latest discovery is the Frog and Toad books.
+
+Lots of spare-time experiments with ChatGPT Pro, letting it run large parts of the boring bit of family life. Going well so far.
 
 ## Books and Music
 
-Piano lessons again. No exams, just drills and chord inversions. Learning Zelda pieces for the kids helps.
+Piano is in a holding pattern while the kids keep me busy. Gradually learning Koji Kondo pieces.
 
-Reading multiple translations of *The Idiot* and *Tehanu* from Earthsea. Going slowly on purpose.
+Selling off a lot of books. I read snippets of the outgoing ones when I can, and accept that many won't get read.
 
 ## BJJ
 
-Getting back into it after a layoff. Always surprises me how quickly it comes back after the first couple of rolls. Not competing, just trying to go regularly.
+Finally starting to learn leg locks. Mainly the basic principles rather than lots of fancy attacks. All roads still lead to ankle locks.

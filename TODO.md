@@ -22,6 +22,6 @@ Findings from a holistic pass. Discuss before executing.
 
 ## Content flags (Rob's call, not mine)
 
-- [ ] `now.md` says "Last updated: March 2026" — four months stale for a now page. **Plan: Claude grills Rob (~8 questions, one at a time) then updates. Deferred to after compact.**
+- [x] `now.md` refreshed October 2026 from Rob's own notes (leg locks, Frog and Toad, ChatGPT Pro, Koji Kondo, selling books).
 - [x] **Check the Mac for the 7 missing `_notes/` files** — resolved without recovery (Rob: nothing precious there). The pattern handles it instead: `_notes/` is tracked, so the Mac conforms on next pull and any stray notes surface as untracked.
 - [x] `_scripts/generate_images.py` hardcodes the January batch of post prompts; it reads as a one-shot fossil, but CLAUDE.md still points at the gpt-image workflow. Fold anything worth keeping into a small reusable script or note it as historical.
