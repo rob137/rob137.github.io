@@ -19,7 +19,7 @@ Lots of spare-time experiments on a ChatGPT Pro subscription, a mixture of 6.1 P
 
 Piano is in a holding pattern while the kids keep me busy. Gradually learning Koji Kondo pieces: the Kokiri Forest theme and "Inside a House" from Ocarina of Time, and Clock Town Day 1 from Majora's Mask.
 
-Selling off a lot of books. I read snippets of the outgoing ones when I can, and accept that many won't get read.
+Selling off a lot of books. I read snippets of the outgoing ones when I can, but most of them haven't been opened in several years and were ornaments really, so let's get real. If I miss one I can buy it back, and that turns out to be a decent filter.
 
 ## Podcast
 
