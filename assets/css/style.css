@@ -382,3 +382,8 @@ img {
     font-size: 1.35rem;
   }
 }
+
+/* Hand-drawn diagrams: one render per theme */
+.drawing-dark { display: none; }
+html.dark-mode .drawing-light { display: none; }
+html.dark-mode .drawing-dark { display: block; }

@@ -20,7 +20,8 @@ Then I asked it to write me a script that deletes the thread. Yeah, fine, here y
 
 My first reaction was that this was a bit ridiculous. The outcome is identical. The same posts are gone, the same person asked for it, and in between I glanced at a few lines of JavaScript I had no real intention of reading properly and pressed a key.
 
-![Two routes from you through Claude Code. Delete the thread: no, never-do list. Write a script that deletes it: it writes the script and hands it over, you press run, thread gone. A dashed line marked who signs off runs between the agent and the button](/assets/images/2026-10-08-pod-bay-doors-drawing.webp)
+<img class="drawing-light" src="/assets/images/2026-10-08-pod-bay-doors-drawing.webp" alt="Two routes from you through Claude Code. Delete the thread: no, never-do list. Write a script that deletes it: it writes the script and hands it over, you press run, thread gone. A dashed line marked who signs off runs between the agent and the button">
+<img class="drawing-dark" src="/assets/images/2026-10-08-pod-bay-doors-drawing-dark.webp" alt="Two routes from you through Claude Code. Delete the thread: no, never-do list. Write a script that deletes it: it writes the script and hands it over, you press run, thread gone. A dashed line marked who signs off runs between the agent and the button">
 
 I have come round to thinking the ceremony is the point, and that the refusal is doing something different from what it looks like.
 
