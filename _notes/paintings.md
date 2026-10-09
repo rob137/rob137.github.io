@@ -6,7 +6,7 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 |---|---|---|---|
 | 2026-10-08-open-the-pod-bay-doors | Carlos Pacheco, retouched by Pittigrilli | HAL 9000 faceplate and lens, Kubrick exhibition, Toronto (photo, CC BY 2.0); Rob asked for HAL | File:HAL 9000 Original requisite from 2001 A Space Odyssey - retouche.jpg |
 | 2026-10-08-look-left | Evelyn De Morgan | The Love Potion (1903) | File:Evelyn De Morgan - The Love Potion (1903) - Google Cultural Institute.jpg |
-| 2026-10-08-three-that-talk | John William Waterhouse | Hylas and the Nymphs (1896) | File:Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15.jpg |
+| 2026-10-08-three-that-talk | Claude Monet | Water Lilies (1919) | File:Water Lilies MET DP-1208-001.jpg |
 | 2026-01-02-books-as-compressed-prompts | Scribes of the Book of Kells | Chi Rho page (c. 800) | File:Meister des Book of Kells 001.jpg |
 | 2026-01-02-crossing-the-horizon | Peder Balke | The North Cape by Moonlight (1848) | File:Peder Balke - The North Cape by Moonlight - 2019.167.4 - Metropolitan Museum of Art.jpg |
 | 2026-01-02-golden-retriever-problem | John James Audubon | Common American Swan, from The Birds of America (1838) | File:411 Common American Swan.jpg |
@@ -19,7 +19,7 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-02-the-gui-was-a-detour | Hendrick Avercamp | Winter Landscape with Ice Skaters (c. 1608) | File:Hendrick Avercamp - Winterlandschap met ijsvermaak.jpg |
 | 2026-01-02-the-music-stopped | Johannes Vermeer | The Concert (c. 1664) | File:Vermeer The Concert.jpg |
 | 2026-01-02-todo-lists-as-prompts | Claude Monet | Impression, Sunrise (1872) | File:Monet - Impression, Sunrise.jpg |
-| 2026-01-02-voice-first | John William Waterhouse | Echo and Narcissus (1903) | File:John William Waterhouse - Echo and Narcissus - Google Art Project.jpg |
+| 2026-01-02-voice-first | John William Waterhouse | Ulysses and the Sirens (1891) | File:John William Waterhouse - Ulysses and the Sirens - Google Art Project.jpg |
 | 2026-01-02-yolo-mode | Katsushika Hokusai | The Great Wave off Kanagawa (c. 1831) | File:Tsunami by hokusai 19th century.jpg |
 | 2026-01-03-brooks-law-redux | Pieter Bruegel the Elder | The Tower of Babel (1563) | File:Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg |
 | 2026-01-03-first-contact | J. M. W. Turner | Snow Storm: Steam-Boat off a Harbour's Mouth (1842) | File:J.M.W. Turner – Snow Storm - Steam-Boat off a Harbour's Mouth.jpg |
@@ -48,7 +48,7 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-06-the-quiet-ratchet | Vilhelm Hammershøi | A Room in the Artist's Home in Strandgade, Copenhagen (1901) | File:Vilhelm Hammershøi - A Room in the Artist's Home in Strandgade, Copenhagen, with the Artist's Wife - Google Art Project.jpg |
 | 2026-01-06-todays-bite-point | Katsushika Hokusai | Ejiri in Suruga Province, from Thirty-six Views of Mount Fuji (c. 1832) | File:冨嶽三十六景 駿州江尻-Ejiri in Suruga Province (Sunshū Ejiri), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140977.jpg |
 | 2026-01-06-trial-by-foom | J. M. W. Turner | Staffa, Fingal's Cave (1832) | File:Joseph Mallord William Turner - Staffa, Fingal's Cave - Google Art Project.jpg |
-| 2026-01-06-vibe-orchestration | Edgar Degas | The Rehearsal Onstage (c. 1874) | File:The Rehearsal Onstage MET DT1006.jpg |
+| 2026-01-06-vibe-orchestration | Edgar Degas | The Orchestra at the Opera (c. 1870) | File:Edgar Degas - The Orchestra at the Opera - Google Art Project.jpg |
 | 2026-01-07-ad-machinum | Dante Gabriel Rossetti | Proserpine (1882) | File:8th Rossetti Proserpine cropped.jpeg |
 | 2026-01-07-competency-gap | Rembrandt | The Syndics of the Drapers' Guild (1662) | File:Rembrandt - De Staalmeesters- het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde - Google Art Project.jpg |
 | 2026-01-07-stuck | Frank Hurley | The Endurance trapped in pack ice, Weddell Sea (1915) | File:Endurance trapped in pack ice.jpg |
@@ -73,7 +73,7 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-01-28-three-fingers | Frederic Leighton | Winding the Skein (1878) | File:Lord Frederic Leighton - Winding the skein - Google Art Project.jpg |
 | 2026-01-29-no-recipe | Arnold Böcklin | Isle of the Dead (1883) | File:Arnold Böcklin - Die Toteninsel III (Alte Nationalgalerie, Berlin).jpg |
 | 2026-01-29-out-of-distribution | Étienne Léopold Trouvelot | Aurora Borealis (1872) | File:Trouvelot - Aurora Borealis - 1872.jpg |
-| 2026-02-01-the-false-middle | Evelyn De Morgan | The Sea Maidens (1886) | File:Evelyn de Morgan - The Sea Maidens, 1885-1886.jpg |
+| 2026-02-01-the-false-middle | J. M. W. Turner | Rain, Steam and Speed: The Great Western Railway (1844) | File:J. M. W. Turner - Rain, Steam and Speed – The Great Western Railway.jpg |
 | 2026-02-05-poor-mans-prompt | Vilhelm Hammershøi | Rest (1905) | File:Wilhelm Hammershøi - Rest - Google Art Project.jpg |
 | 2026-02-06-factory-sandwiches | Lewis Hine | Empire State Building (1930–31) | File:Empire State Building MET DP106404.jpg |
 | 2026-02-06-within-reach | Joseph Wright of Derby | A Philosopher Lecturing on the Orrery (c. 1766) | File:Joseph Wright of Derby - Philosopher giving a lecture on the orrery - Google Art Project.jpg |
@@ -91,5 +91,5 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-06-01-kinda-sorta-claw | Henri Rousseau | Surprised! (1891) | File:Henri Rousseau - Surprise!.jpg |
 | 2026-06-25-worth-surfacing | Utagawa Kuniyoshi | Miyamoto Musashi and the Giant Whale (c. 1847) | File:Miyamoto-Musashi-Attacking-Giant-Whale-Utagawa-Kuniyoshi.png |
 | 2026-07-12-missing-the-singularity | William Anders, NASA | Earthrise (1968) | File:NASA-Apollo8-Dec24-Earthrise.jpg |
-| 2026-08-21-knees-out | John Singer Sargent | Carnation, Lily, Lily, Rose (c. 1886) | File:John Singer Sargent - Carnation, Lily, Lily, Rose - Google Art Project.jpg |
+| 2026-08-21-knees-out | Katsushika Hokusai | Fine Wind, Clear Morning, from Thirty-six Views of Mount Fuji (c. 1831) | File:Katsushika Hokusai - Fine Wind, Clear Morning (Gaifū kaisei) - Google Art Project.jpg |
 | 2026-08-22-cheap-obsessions | Albrecht Dürer | Young Hare (1502) | File:Albrecht Dürer - Hare, 1502 - Google Art Project.jpg |

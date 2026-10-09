@@ -5,8 +5,8 @@ date: 2026-02-01 15:00:00 +0000
 excerpt: "Meeting in the middle might be the risky choice."
 ---
 
-![Sea maidens with linked hands rise from green waves under a pale sky](/assets/images/2026-02-01-the-false-middle-painting.webp){: width="1600" height="822"}
-*Evelyn De Morgan, The Sea Maidens (1886). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Evelyn_de_Morgan_-_The_Sea_Maidens,_1885-1886.jpg)*
+![A steam locomotive crosses a bridge towards us through rain and golden haze, the river far below](/assets/images/2026-02-01-the-false-middle-painting.webp){: width="1600" height="1201"}
+*J. M. W. Turner, Rain, Steam and Speed: The Great Western Railway (1844). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:J._M._W._Turner_-_Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway.jpg)*
 
 Spreadsheet people are the adults in the room. But it becomes a cargo cult if you're missing opportunity because of it.
 

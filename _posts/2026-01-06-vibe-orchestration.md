@@ -5,8 +5,8 @@ date: 2026-01-06 14:00:00 +0000
 excerpt: "Justin Bieber conducting an orchestra by humming. That might be closer to where we're heading."
 ---
 
-![Ballet dancers in pale tutus rehearse on a dim stage while a man in black directs and others watch from the wings](/assets/images/2026-01-06-vibe-orchestration-painting.webp){: width="1520" height="1124"}
-*Edgar Degas, The Rehearsal Onstage (c. 1874). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Rehearsal_Onstage_MET_DT1006.jpg)*
+![Musicians crowded in the orchestra pit, a bassoonist at the centre and double basses rising behind him](/assets/images/2026-01-06-vibe-orchestration-painting.webp){: width="1600" height="1368"}
+*Edgar Degas, The Orchestra at the Opera (c. 1870), detail. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_The_Orchestra_at_the_Opera_-_Google_Art_Project.jpg)*
 
 There's a [video of Justin Bieber](https://x.com/reidhoffman/status/1873756306013901051) conducting an orchestra by humming fragments of tunes and explaining how he wants them combined. No sheet music. No formal notation. Just vibes, translated into something precise by people who know how.
 

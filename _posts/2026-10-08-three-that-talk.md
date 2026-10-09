@@ -5,8 +5,8 @@ date: 2026-10-08 11:30:00 +0000
 excerpt: "Three agents in one folder, and a line at the end of every verdict saying how we'd know it was wrong."
 ---
 
-![Hylas kneels at a pool as a group of nymphs among the lilies draw him in](/assets/images/2026-10-08-three-that-talk.webp){: width="1600" height="992"}
-*John William Waterhouse, Hylas and the Nymphs (1896). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)*
+![Lily pads and pink blooms on a pond, sky and willows reflected in violet and green between them](/assets/images/2026-10-08-three-that-talk.webp){: width="1600" height="817"}
+*Claude Monet, Water Lilies (1919). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Water_Lilies_MET_DP-1208-001.jpg), CC0*
 
 Last week an agent told me why our GitHub bill had gone up. Old launchers on people's laptops were re-downloading packages. It had a report with numbers in it and we acted on it, nudging everyone to update. On Monday morning the same agent came back and said that was wrong. The real cause was a mirror I'd built, which runs hourly on one of our boxes and was fetching about two gigabytes of packages it already had, every pass. Twenty-odd dollars a day.
 

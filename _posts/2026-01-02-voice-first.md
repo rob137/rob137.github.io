@@ -4,8 +4,8 @@ title: "Voice First"
 date: 2026-01-02 08:00:00 +0000
 ---
 
-![Narcissus lies at the edge of a pool gazing at his reflection while Echo watches from beside a tree](/assets/images/2026-01-02-voice-first-painting.webp){: width="1600" height="913"}
-*John William Waterhouse, Echo and Narcissus (1903). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg)*
+![Ulysses bound to the mast of his ship while bird-bodied sirens swoop over the rowers in a narrow strait](/assets/images/2026-01-02-voice-first-painting.webp){: width="1600" height="785"}
+*John William Waterhouse, Ulysses and the Sirens (1891). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Ulysses_and_the_Sirens_-_Google_Art_Project.jpg)*
 
 Last night I became an audio engineer.
 
