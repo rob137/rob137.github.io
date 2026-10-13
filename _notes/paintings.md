@@ -93,3 +93,4 @@ One per post, never reused. Paintings, prints, photographs, anything with a usab
 | 2026-07-12-missing-the-singularity | William Anders, NASA | Earthrise (1968) | File:NASA-Apollo8-Dec24-Earthrise.jpg |
 | 2026-08-21-knees-out | Katsushika Hokusai | Fine Wind, Clear Morning, from Thirty-six Views of Mount Fuji (c. 1831) | File:Katsushika Hokusai - Fine Wind, Clear Morning (Gaifū kaisei) - Google Art Project.jpg |
 | 2026-08-22-cheap-obsessions | Albrecht Dürer | Young Hare (1502) | File:Albrecht Dürer - Hare, 1502 - Google Art Project.jpg |
+| 2026-10-13-the-hedge | William Morris | Trellis, wallpaper (designed 1862) | File:Trellis MET DP306738.jpg (CC0) |
