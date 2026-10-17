@@ -23,7 +23,7 @@ Selling off a lot of books. I read snippets of the outgoing ones when I can, but
 
 ## Podcast
 
-[Liminal Time](https://liminaltimepodcast.com) is having a second wind after a busy summer. Alongside it I'm starting a video project with [James Thompson](https://x.com/jamesjamtho). I keep an eye out for new guests, though family and work make it easy to stay within my own network. If you'd be interested in coming on, do get in touch.
+[Liminal Time](https://liminaltimepodcast.com) is having a second wind after a busy summer. Alongside it I'm starting a [video project](https://www.youtube.com/watch?v=-X8UKvIGkec) with [James Thompson](https://x.com/jamesjamtho). I keep an eye out for new guests, though family and work make it easy to stay within my own network. If you'd be interested in coming on, do get in touch.
 
 ## BJJ
 
