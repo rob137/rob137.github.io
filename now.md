@@ -29,4 +29,4 @@ Selling off a lot of books. I read snippets of the outgoing ones when I can, but
 
 Brown belt, but for leg locks I'm still basically a two-stripe white belt. This is the year. Finally learning them to a basic level, mainly the principles rather than lots of fancy attacks. All roads still lead to ankle locks.
 
-I may also be working on a rashguard project. More on that soon.
+I may also be working on a [rashguard project](https://liminalfightwear.com). More on that soon.
