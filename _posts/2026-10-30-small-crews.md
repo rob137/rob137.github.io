@@ -2,13 +2,13 @@
 layout: post
 title: "Small Crews"
 date: 2026-10-30 12:00:00 +0000
-excerpt: "The last post ended on Dennis Nedry. The answer to Nedry is smaller teams, and founders who notice what makes each person tick."
+excerpt: "Dennis Nedry stands for a general problem. Small crews, and founders who notice what makes each person tick, are a good answer to it."
 ---
 
 ![An old warship, pale and ghostly, towed up a river by a small black steam tug under a blazing orange sunset, with a thin moon rising on the left](/assets/images/2026-10-30-small-crews.webp){: width="1600" height="1188"}
 *J. M. W. Turner, The Fighting Temeraire (1839). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg)*
 
-[The last post](/2026/10/13/the-hedge/) ended on Dennis Nedry, the programmer in Jurassic Park who feels underused and underpaid and sells embryos out the back door. Rereading it, I can see how someone at my own company might take that as a thinly veiled threat, which is the opposite of what I meant. I love the place, and part of the reason is that the founders take an unusually active interest in what each person is after: their motivations, their goals, what makes them tick. What I was gesturing at is a general problem, and I think small companies now have an unusually good answer to it.
+[The last post](/2026/10/13/the-hedge/) ended on Dennis Nedry, the programmer in Jurassic Park who feels underused and underpaid and sells embryos out the back door. He deserves a little more time, because the problem he stands for is a general one, and I think small companies now have an unusually good answer to it. I've been lucky enough lately to see that answer from the inside, working somewhere the founders take a real interest in what each person is after: their motivations, their goals, what makes them tick.
 
 Nedry is a cartoon, but he works as a character because you can feel his motivations even if you can't imagine selling DNA to a rival. Alienation from your work and a sense of being undervalued lead most people somewhere much duller than corporate espionage. They start fishing for a new job, and trade up against their best alternative offer, which is the job they already have.
 
@@ -24,4 +24,4 @@ The second point upends something I used to take for granted. Kent Beck describe
 
 The third reason is the human one, and I'll try not to make it sickening. The human side of running a company was always there, and it shows up more clearly now that so much else is being worn away. If founders care about their craft and their field, take care over making the business work, and also pay close attention to the personalities, interests, needs and foibles of each person working with them, then plans that are deliberately ambiguous over six to twelve months become perfectly tolerable, and the horses stay calm. If the team is sufficiently AI-pilled, that ambiguity may even work as a filter, since anyone too confident about how the world will look over those timeframes is probably no longer a good hire.
 
-So the Nedry passage was about the hedge rather than about me. A company that keeps its options open has to keep its people close too, and a small crew whose founders know each person well is about the best arrangement I've seen for doing both.
+A company that keeps its options open has to keep its people close too, and a small crew whose founders know each person well is about the best arrangement I've seen for doing both.
